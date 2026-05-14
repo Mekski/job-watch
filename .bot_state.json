@@ -240,7 +240,7 @@
       "term": "Fall 2026",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=7905463&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 46,
+      "message_id": 60,
       "chat_id": 8743352944
     },
     "0d4b5961003c": {
@@ -250,7 +250,7 @@
       "term": "Fall 2026",
       "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 36,
+      "message_id": 62,
       "chat_id": 8743352944
     },
     "da69917e3dab": {
@@ -421,6 +421,16 @@
       "apply_url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 58,
+      "chat_id": 8743352944
+    },
+    "97d298170c07": {
+      "company": "Kinaxis",
+      "role": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
+      "location": "Ottawa, ON, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 61,
       "chat_id": 8743352944
     }
   },

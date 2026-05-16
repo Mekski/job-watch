@@ -190,7 +190,7 @@
       "term": "Fall 2026, Winter 2026, Spring 2027",
       "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-Op_R-28476?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 29,
+      "message_id": 100,
       "chat_id": 8743352944
     },
     "8db1bb52d803": {
@@ -240,7 +240,7 @@
       "term": "Fall 2026",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=7905463&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 60,
+      "message_id": 99,
       "chat_id": 8743352944
     },
     "0d4b5961003c": {
@@ -630,7 +630,7 @@
       "term": "Fall 2026, Winter 2027",
       "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 85,
+      "message_id": 98,
       "chat_id": 8743352944
     },
     "b3724fd1a9e3": {
@@ -691,6 +691,26 @@
       "apply_url": "https://jobs.bmwgroup.com/job/Spartanburg-Quality-Systems-Apex-Co-Op-(Fall-2026)-Sout/1381872233/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 97,
+      "chat_id": 8743352944
+    },
+    "04a577c4f28f": {
+      "company": "Intact",
+      "role": "AI Developer 1 Intern/Co-op - Intern/Co-op",
+      "location": "Montreal, QC, Canada Toronto, ON, Canada Vancouver, BC, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer-I---4-months-Internship-Coop--Fall-2026-_R153333?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 101,
+      "chat_id": 8743352944
+    },
+    "5bd7d42d9a80": {
+      "company": "TD Bank",
+      "role": "Software Engineer Intern/Co-op",
+      "location": "Toronto, ON, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 102,
       "chat_id": 8743352944
     }
   },

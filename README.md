@@ -168,7 +168,10 @@ Tell them to clone this repo, follow the Setup section (all 6 steps including th
 
 ## Optional: local dashboard
 
-A read-only Flask dashboard lives in [`web/`](web/) and shows the bot's connection status (Telegram, Sheets, GitHub Actions, cron-job.org, watched repos, state files) in one page. Useful for verifying setup and ongoing health without clicking through five services.
+A read-only Flask app lives in [`web/`](web/) with two pages:
+
+- **`/`** — connection-status dashboard as a tile grid (Telegram, Sheets, GCP, GitHub Actions, cron-job.org, watched repos, bot state). Useful for verifying setup and ongoing health without clicking through five services.
+- **`/tutorials`** — long-scroll reference of step-by-step how-tos grouped by integration (add a new repo to watch, renew the PAT, share the sheet with the SA, etc.). Same content as setup-time documentation but always available at `localhost:5001/tutorials`.
 
 Setup:
 ```sh

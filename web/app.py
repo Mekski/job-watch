@@ -476,25 +476,78 @@ def check_bot_state():
 app = Flask(__name__)
 
 
+# Lucide icons (MIT-licensed line icons) — inlined as SVG strings.
+ICONS = {
+    "telegram":       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>',
+    "sheets":         '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/></svg>',
+    "gcp":            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>',
+    "github_actions": '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>',
+    "cron":           '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>',
+    "watched_repos":  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>',
+    "bot_state":      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></svg>',
+}
+
+# Display labels for tiles (shorter than the original card names).
+TILE_NAMES = {
+    "telegram":       "Telegram",
+    "sheets":         "Sheets",
+    "gcp":            "Service account",
+    "github_actions": "GitHub Actions",
+    "cron":           "Trigger cadence",
+    "watched_repos":  "Watched sources",
+    "bot_state":      "Bot state",
+}
+
+
+def collect_cards():
+    """Run all status checks and return the canonical card list."""
+    return [
+        ("telegram",       check_telegram()),
+        ("sheets",         check_sheets()),
+        ("gcp",            check_gcp_service_account()),
+        ("github_actions", check_github_actions()),
+        ("cron",           check_cron_inference()),
+        ("watched_repos",  check_watched_repos()),
+        ("bot_state",      check_bot_state()),
+    ]
+
+
 @app.route("/")
 def index():
-    cards_list = [
-        ("telegram", "Telegram bot", check_telegram()),
-        ("sheets", "Google Sheets", check_sheets()),
-        ("gcp", "GCP service account", check_gcp_service_account()),
-        ("github_actions", "GitHub Actions", check_github_actions()),
-        ("cron", "cron-job.org cadence", check_cron_inference()),
-        ("watched_repos", "Watched job repos", check_watched_repos()),
-        ("bot_state", "Bot state", check_bot_state()),
-    ]
-    overall_ok = all(c[2]["status"] == "ok" for c in cards_list)
-    overall_has_fail = any(c[2]["status"] == "fail" for c in cards_list)
+    cards = collect_cards()
+    overall_ok = all(c[1]["status"] == "ok" for c in cards)
+    overall_has_fail = any(c[1]["status"] == "fail" for c in cards)
+    ok_count = sum(1 for c in cards if c[1]["status"] == "ok")
     return render_template(
         "index.html",
-        cards=cards_list,
+        cards=cards,
+        icons=ICONS,
+        tile_names=TILE_NAMES,
         overall_ok=overall_ok,
         overall_has_fail=overall_has_fail,
+        ok_count=ok_count,
+        total_count=len(cards),
         now=datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
+    )
+
+
+@app.route("/tutorials")
+def tutorials():
+    """Long-scroll page with all how-tos grouped by integration."""
+    # Section ordering matches the dashboard tile order.
+    sections = [
+        ("telegram",       "Telegram bot"),
+        ("sheets",         "Google Sheets"),
+        ("gcp",            "GCP service account"),
+        ("github_actions", "GitHub Actions"),
+        ("cron",           "cron-job.org cadence"),
+        ("watched_repos",  "Watched job repos"),
+        ("bot_state",      "Bot state"),
+    ]
+    return render_template(
+        "tutorials.html",
+        sections=sections,
+        icons=ICONS,
     )
 
 

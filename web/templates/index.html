@@ -1,108 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>job-watch dashboard</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head>
-<body>
-  <header class="page-header">
-    <div>
-      <h1>job-watch <span class="muted">/ dashboard</span></h1>
-      <div class="meta">checked at {{ now }}</div>
-    </div>
-    <div class="overall-wrap">
+{% extends "base.html" %}
+{% block title %}job-watch / dashboard{% endblock %}
+
+{% block main %}
+<main class="dashboard">
+
+  <section class="overview">
+    <div class="overview-status">
       {% if overall_ok %}
-        <span class="overall ok">● all systems go</span>
+        <span class="overall ok">● all systems operational</span>
       {% elif overall_has_fail %}
         <span class="overall fail">● needs attention</span>
       {% else %}
         <span class="overall warn">● some warnings</span>
       {% endif %}
+      <span class="overview-count muted">{{ ok_count }} / {{ total_count }} healthy</span>
+    </div>
+    <div class="overview-meta muted">
+      <span>checked {{ now }}</span>
       <a href="" class="refresh">↻ refresh</a>
     </div>
-  </header>
+  </section>
 
-  <main>
-    {% for slug, name, c in cards %}
-    <section class="card status-{{ c.status }}">
-      <div class="card-head">
-        <span class="dot"></span>
-        <h2>{{ name }}</h2>
-        <span class="summary">{{ c.summary }}</span>
+  <section class="tile-grid">
+    {% for slug, c in cards %}
+    <div class="tile status-{{ c.status }}">
+      <div class="tile-head">
+        <span class="tile-icon">{{ icons[slug] | safe }}</span>
+        <span class="dot" aria-label="{{ c.status }}"></span>
       </div>
+      <div class="tile-label">{{ tile_names[slug] }}</div>
+      <div class="tile-summary">{{ c.summary }}</div>
 
-      <div class="card-sections">
-
-        {# Current state details #}
-        {% if c.details %}
-        <details>
-          <summary>current state</summary>
-          <div class="card-body">
-
-            {% if c.details.sources is defined %}
-              <ul class="sources">
-                {% for src in c.details.sources %}
-                <li class="source status-{{ src.status }}">
-                  <div class="src-head">
-                    <span class="dot"></span>
-                    <strong>{{ src.label }}</strong>
-                    <span class="muted">{{ src.repo }} / {{ src.branch }} / {{ src.file }}</span>
-                  </div>
-                  <div class="src-body">
-                    <div><span class="k">last_sha</span><code>{{ src.last_sha }}</code></div>
-                    <div><span class="k">rows</span>{{ src.row_count }}</div>
-                    <div><span class="k">state</span>{{ src.state }}</div>
-                    {% if src.upstream_pushed_at %}
-                    <div><span class="k">upstream pushed</span>{{ src.upstream_pushed_at }}</div>
+      {# Optional inline expandable detail. Doesn't shift other tiles
+         because the grid uses align-items: start. #}
+      {% if c.details %}
+      <details class="tile-details">
+        <summary>details</summary>
+        <div class="tile-details-body">
+          {% if c.details.sources is defined %}
+            <ul class="sources">
+              {% for src in c.details.sources %}
+              <li class="source status-{{ src.status }}">
+                <div class="src-head">
+                  <span class="dot"></span>
+                  <strong>{{ src.label }}</strong>
+                </div>
+                <div class="src-body">
+                  <div><span class="k">repo</span><code>{{ src.repo }}</code></div>
+                  <div><span class="k">last_sha</span><code>{{ src.last_sha }}</code></div>
+                  <div><span class="k">rows</span>{{ src.row_count }}</div>
+                  <div><span class="k">state</span>{{ src.state }}</div>
+                  <div><a href="{{ src.upstream_url }}" target="_blank">upstream →</a></div>
+                </div>
+              </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <table class="kv">
+              {% for k, v in c.details.items() %}
+                {% if v is not none and v != "" and v != [] %}
+                <tr>
+                  <th>{{ k }}</th>
+                  <td>
+                    {% if v is string and (v.startswith('http://') or v.startswith('https://')) %}
+                      <a href="{{ v }}" target="_blank">{{ v }}</a>
+                    {% elif v is iterable and v is not string and v is not mapping %}
+                      <ul class="inline">
+                        {% for item in v %}<li>{{ item }}</li>{% endfor %}
+                      </ul>
+                    {% else %}
+                      {{ v }}
                     {% endif %}
-                    <div><a href="{{ src.upstream_url }}" target="_blank">open upstream README →</a></div>
-                  </div>
-                </li>
-                {% endfor %}
-              </ul>
-            {% else %}
-              <table class="kv">
-                {% for k, v in c.details.items() %}
-                  {% if v is not none and v != "" and v != [] %}
-                  <tr>
-                    <th>{{ k }}</th>
-                    <td>
-                      {% if v is string and (v.startswith('http://') or v.startswith('https://')) %}
-                        <a href="{{ v }}" target="_blank">{{ v }}</a>
-                      {% elif v is iterable and v is not string and v is not mapping %}
-                        <ul class="inline">
-                          {% for item in v %}<li>{{ item }}</li>{% endfor %}
-                        </ul>
-                      {% else %}
-                        {{ v }}
-                      {% endif %}
-                    </td>
-                  </tr>
-                  {% endif %}
-                {% endfor %}
-              </table>
-            {% endif %}
-
-          </div>
-        </details>
-        {% endif %}
-
-        {# How-to tutorials #}
-        <details>
-          <summary>how to…</summary>
-          <div class="tutorials">
-            {% include "tutorials/" + slug + ".html" ignore missing %}
-          </div>
-        </details>
-
-      </div>
-    </section>
+                  </td>
+                </tr>
+                {% endif %}
+              {% endfor %}
+            </table>
+          {% endif %}
+        </div>
+      </details>
+      {% endif %}
+    </div>
     {% endfor %}
-  </main>
+  </section>
 
-  <footer>
-    read-only · localhost only · <a href="https://github.com/Mekski/job-watch" target="_blank">source</a>
-  </footer>
-</body>
-</html>
+</main>
+{% endblock %}

@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "f0532b1b8af877c914ce79897d763f6ac9c4c7ff",
+    "last_sha": "9aac580de6fd30ec0fe6c4e1c6868b9e91d2a203",
     "rows": [
       [
         "Al Warren Oil Company",
@@ -43,6 +43,13 @@
         "Wichita County, TX",
         "Winter 2026, Winter 2027, Spring 2028",
         "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116745?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Kinaxis",
+        "Software Development Co-op/Intern - C++",
+        "Ottawa, ON, Canada",
+        "Fall 2026",
+        "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Hitachi",

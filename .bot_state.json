@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853595
+    "last_update_id": 575853598
   },
   "pending": {
     "0476af88408a": {
@@ -1403,36 +1403,6 @@
       "message_id": 225,
       "chat_id": 8743352944
     },
-    "539446b46d3e": {
-      "company": "\ud83d\udd25 Tesla",
-      "role": "Software Engineer Intern - Software Engineer - Information Security",
-      "location": "Bellevue, WA",
-      "term": "Fall 2026",
-      "apply_url": "https://www.tesla.com/careers/search/job/270497?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 226,
-      "chat_id": 8743352944
-    },
-    "1c890d2cdb88": {
-      "company": "\ud83d\udd25 Tesla",
-      "role": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-      "location": "Palo Alto, CA",
-      "term": "Fall 2026",
-      "apply_url": "https://www.tesla.com/careers/search/job/272937?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 227,
-      "chat_id": 8743352944
-    },
-    "8c1e2b2e0e2a": {
-      "company": "\ud83d\udd25 Tesla",
-      "role": "Software Engineer Intern - Software Engineer - IT Apps",
-      "location": "Fremont, CA",
-      "term": "Fall 2026",
-      "apply_url": "https://www.tesla.com/careers/search/job/271209?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 228,
-      "chat_id": 8743352944
-    },
     "99a3be2c4d48": {
       "company": "\ud83d\udd25 Tesla",
       "role": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
@@ -1632,6 +1602,39 @@
       "message_id": 202,
       "chat_id": 8743352944,
       "applied_at": "2026-06-02T23:19:20Z"
+    },
+    "8c1e2b2e0e2a": {
+      "company": "\ud83d\udd25 Tesla",
+      "role": "Software Engineer Intern - Software Engineer - IT Apps",
+      "location": "Fremont, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://www.tesla.com/careers/search/job/271209?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 228,
+      "chat_id": 8743352944,
+      "applied_at": "2026-06-07T01:43:24Z"
+    },
+    "1c890d2cdb88": {
+      "company": "\ud83d\udd25 Tesla",
+      "role": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
+      "location": "Palo Alto, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://www.tesla.com/careers/search/job/272937?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 227,
+      "chat_id": 8743352944,
+      "applied_at": "2026-06-07T01:43:26Z"
+    },
+    "539446b46d3e": {
+      "company": "\ud83d\udd25 Tesla",
+      "role": "Software Engineer Intern - Software Engineer - Information Security",
+      "location": "Bellevue, WA",
+      "term": "Fall 2026",
+      "apply_url": "https://www.tesla.com/careers/search/job/270497?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 226,
+      "chat_id": 8743352944,
+      "applied_at": "2026-06-07T01:43:27Z"
     }
   }
 }

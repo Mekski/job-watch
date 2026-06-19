@@ -1350,7 +1350,7 @@
       "term": "Winter 2027",
       "apply_url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 289,
+      "message_id": 312,
       "chat_id": 8743352944
     },
     "951c84f65bc7": {
@@ -2011,6 +2011,16 @@
       "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 310,
+      "chat_id": 8743352944
+    },
+    "58b103dbd694": {
+      "company": "Baker Hughes",
+      "role": "Software Engineer Apprentice",
+      "location": "Bristol, UK",
+      "term": "Fall 2026",
+      "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 311,
       "chat_id": 8743352944
     }
   },

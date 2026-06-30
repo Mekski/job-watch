@@ -1,7 +1,14 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "c7515c67fb78d10ae0f4aed0ddb3bbbaaf3d2f94",
+    "last_sha": "67200ce61e08efe74865a7664b5b1b410c700917",
     "rows": [
+      [
+        "KRAFTON",
+        "Programming Intern",
+        "Montreal, QC, Canada",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tesla",
         "Product Management Intern - Product Engineer - Applications Engineering",
@@ -561,13 +568,6 @@
         "Toronto, ON, Canada SF NYC",
         "Fall 2026, Winter 2026",
         "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Atomic Semi",
-        "Infrastructure Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA Austin, TX",
-        "Fall 2026",
-        "https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e?utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

@@ -800,7 +800,7 @@
       "term": "Fall 2026",
       "apply_url": "https://careers.medpace.com/jobs/12766?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 130,
+      "message_id": 340,
       "chat_id": 8743352944
     },
     "4c50adc38217": {
@@ -850,7 +850,7 @@
       "term": "Fall 2026",
       "apply_url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 137,
+      "message_id": 338,
       "chat_id": 8743352944
     },
     "3d5c56f39dfa": {
@@ -890,7 +890,7 @@
       "term": "Fall 2026",
       "apply_url": "https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 141,
+      "message_id": 339,
       "chat_id": 8743352944
     },
     "105f6573e408": {
@@ -2231,6 +2231,26 @@
       "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 335,
+      "chat_id": 8743352944
+    },
+    "0372a650cf96": {
+      "company": "Saronic",
+      "role": "Software Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 336,
+      "chat_id": 8743352944
+    },
+    "3021c65de8ed": {
+      "company": "Kabam",
+      "role": "Software Engineer Co-op - Gameplay",
+      "location": "Vancouver, BC, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 337,
       "chat_id": 8743352944
     }
   },

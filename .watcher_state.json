@@ -1,13 +1,69 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "21bd7dce0b9a966af21e929c734d009db35cfba3",
+    "last_sha": "d1c9d335b2c088a56972dd2aa1f627703786e0e0",
     "rows": [
+      [
+        "Gumloop",
+        "Design Engineer Intern",
+        "SF",
+        "Fall 2026",
+        "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Home Depot",
+        "Full Stack Software Developer Intern",
+        "Toronto, ON, Canada",
+        "Fall 2027",
+        "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req185610?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "KRAFTON",
         "Programming Intern",
         "Montreal, QC, Canada",
         "Fall 2026",
         "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Rise8",
+        "Software Engineer Intern - Software Engineer",
+        "Remote in USA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/rise8/jobs/4359623007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Sun Life",
+        "Student \u2013 B2B Analyst Intern",
+        "North York, ON, Canada",
+        "Fall 2026",
+        "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--B2B-Analyst--Fall-2026-_JR00123285?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "ACLU Kentucky",
+        "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
+        "NYC",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/acluinternships/jobs/8612266002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cadence Design Systems",
+        "Product Engineering Intern - Simulation and Verification \ud83c\udf93",
+        "Burlington, MA",
+        "Fall 2026",
+        "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cadence Design Systems",
+        "Product Engineering Intern - Simulation and Verification \ud83c\udf93",
+        "Burlington, MA",
+        "Fall 2026",
+        "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Maple Leaf Sports & Entertainment Partnership (MLSE)",
+        "Software Engineer Intern",
+        "Toronto, ON, Canada",
+        "Fall 2026",
+        "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Software-Engineer-Intern_JR0000554-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -29,6 +85,20 @@
         "Irvine, CA Palo Alto, CA",
         "Fall 2026",
         "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Formlabs",
+        "Manufacturing Test Software Intern",
+        "Cambridge, MA",
+        "Fall 2026",
+        "https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ciena",
+        "Software Engineering Co-op - 8 Months",
+        "Ottawa, ON, Canada",
+        "Fall 2026",
+        "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Muru",
@@ -312,13 +382,6 @@
       ],
       [
         "\ud83d\udd25 Tesla",
-        "Software Engineer Intern - Software Engineer - Update Systems",
-        "Palo Alto, CA",
-        "Fall 2026",
-        "https://www.tesla.com/careers/search/job/267002?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Tesla",
         "Software Engineer Intern - Linux Update Systems",
         "Palo Alto, CA",
         "Fall 2026",
@@ -374,13 +437,6 @@
         "https://www.tesla.com/careers/search/job/271630?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "SOTI",
-        "Web Producer Intern",
-        "Mississauga, ON, Canada",
-        "Fall 2026",
-        "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 NVIDIA",
         "Software Engineer Intern - Mapping Autonomous Vehicles",
         "Santa Clara, CA",
@@ -431,24 +487,10 @@
       ],
       [
         "Nokia",
-        "Nokia Defense Software Co-op",
-        "Naperville, IL",
-        "Fall 2026, Winter 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36638?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
         "Software Engineering Co-op - Information and Communication Technology",
         "Vancouver, BC, Canada",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "GE Appliances",
-        "Software Engineering Co-op",
-        "Louisville, KY",
-        "Fall 2026",
-        "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Kinaxis",
@@ -463,13 +505,6 @@
         "Albuquerque, NM",
         "Fall 2026",
         "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "Software Engineering Co-op",
-        "Sunnyvale, CA",
-        "Fall 2026, Winter 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36277?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Melotech",

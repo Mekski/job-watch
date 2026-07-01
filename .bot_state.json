@@ -2272,6 +2272,36 @@
       "source": "Simplify Repo",
       "message_id": 342,
       "chat_id": 8743352944
+    },
+    "2e48d08162b6": {
+      "company": "\ud83d\udd25 Tesla",
+      "role": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
+      "location": "Palo Alto, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://www.tesla.com/careers/search/job/275558?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 348,
+      "chat_id": 8743352944
+    },
+    "8af2baa6abdb": {
+      "company": "GE Appliances",
+      "role": "Software Engineering Co-op",
+      "location": "Louisville, KY",
+      "term": "Spring 2027",
+      "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 349,
+      "chat_id": 8743352944
+    },
+    "7c7329331b9e": {
+      "company": "Susquehanna International Group (SIG)",
+      "role": "Technology Co-op",
+      "location": "Ardmore, PA",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-sig.icims.com/jobs/11159/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 350,
+      "chat_id": 8743352944
     }
   },
   "applied": {

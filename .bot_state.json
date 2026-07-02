@@ -2180,7 +2180,7 @@
       "term": "Fall 2026",
       "apply_url": "https://job-boards.greenhouse.io/acluinternships/jobs/8612266002?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 344,
+      "message_id": 357,
       "chat_id": 8743352944
     },
     "68b8dcf248b4": {
@@ -2331,6 +2331,26 @@
       "apply_url": "https://lifeattiktok.com/search/7654431844394322229?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 354,
+      "chat_id": 8743352944
+    },
+    "32438e2ab97e": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "PhD Research Intern - System Software and I/O Architecture \ud83c\udf93",
+      "location": "Urbana, IL Remote in USA Santa Clara, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 355,
+      "chat_id": 8743352944
+    },
+    "af6e187c49e4": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "Java Engineer Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 356,
       "chat_id": 8743352944
     }
   },

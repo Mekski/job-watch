@@ -1290,7 +1290,7 @@
       "term": "Fall 2026",
       "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 207,
+      "message_id": 353,
       "chat_id": 8743352944
     },
     "675af282ba00": {
@@ -2311,6 +2311,16 @@
       "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8015230?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 351,
+      "chat_id": 8743352944
+    },
+    "b8defc51bb01": {
+      "company": "Rochester Regional Health",
+      "role": "Web Applications Co-op",
+      "location": "Rochester, NY",
+      "term": "Fall 2026",
+      "apply_url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op_REQ_233331?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 352,
       "chat_id": 8743352944
     }
   },

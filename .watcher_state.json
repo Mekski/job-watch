@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "54000db172ad5acf0ef182f60c7fa9cfe83e1799",
+    "last_sha": "2e71ce50827b483be82e9bc045ed03176e2d8592",
     "rows": [
       [
         "Amentum",
@@ -59,13 +59,6 @@
         "https://boards.greenhouse.io/cloudflare/jobs/8015230?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "GE Appliances",
-        "Software Engineering Co-op",
-        "Louisville, KY",
-        "Spring 2027",
-        "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Susquehanna International Group (SIG)",
         "Technology Co-op",
         "Ardmore, PA",
@@ -113,13 +106,6 @@
         "North York, ON, Canada",
         "Fall 2026",
         "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--B2B-Analyst--Fall-2026-_JR00123285?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Intuit",
-        "Software Developer Co-op",
-        "Toronto, ON, Canada",
-        "Fall 2026",
-        "https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ACLU Kentucky",
@@ -540,6 +526,13 @@
         "Vancouver, BC, Canada",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Kinaxis",
+        "Software Development Co-op/Intern - C++",
+        "Ottawa, ON, Canada",
+        "Fall 2026",
+        "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rocket Lab USA",

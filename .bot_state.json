@@ -2160,7 +2160,7 @@
       "term": "Fall 2026",
       "apply_url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 379,
+      "message_id": 388,
       "chat_id": 8743352944
     },
     "8d77f7496e5d": {
@@ -2441,6 +2441,16 @@
       "apply_url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 385,
+      "chat_id": 8743352944
+    },
+    "2a6f5fff0f80": {
+      "company": "\ud83d\udd25 Cloudflare",
+      "role": "AI Builder Intern - Global Customer Engineering - Service Sales",
+      "location": "London, UK",
+      "term": "Fall 2026",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 387,
       "chat_id": 8743352944
     }
   },

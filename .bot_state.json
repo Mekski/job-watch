@@ -2120,7 +2120,7 @@
       "term": "Fall 2026, Winter 2026, Spring 2027",
       "apply_url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 421,
+      "message_id": 452,
       "chat_id": 8743352944
     },
     "70828197a2b1": {
@@ -2550,7 +2550,7 @@
       "term": "Fall 2026",
       "apply_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 430,
+      "message_id": 451,
       "chat_id": 8743352944
     },
     "5792d1541b45": {
@@ -2851,6 +2851,16 @@
       "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 448,
+      "chat_id": 8743352944
+    },
+    "e4fbcee23627": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Software Development Engineer Apprentice - Military Veterans",
+      "location": "4 locationsArlington, VA Bellevue, WA Cupertino, CA Denver, CO",
+      "term": "Fall 2026",
+      "apply_url": "https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 450,
       "chat_id": 8743352944
     }
   },

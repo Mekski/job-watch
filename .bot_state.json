@@ -3000,7 +3000,7 @@
       "term": "Fall 2026",
       "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 479,
+      "message_id": 518,
       "chat_id": 8743352944
     },
     "11ba70cf73ea": {
@@ -3010,7 +3010,7 @@
       "term": "Fall 2026",
       "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 480,
+      "message_id": 519,
       "chat_id": 8743352944
     },
     "c17c5c0dd614": {
@@ -3191,6 +3191,16 @@
       "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 506,
+      "chat_id": 8743352944
+    },
+    "02e88beee1aa": {
+      "company": "Copart",
+      "role": "Software Engineer Intern \ud83c\udf93",
+      "location": "Dallas, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 517,
       "chat_id": 8743352944
     }
   },

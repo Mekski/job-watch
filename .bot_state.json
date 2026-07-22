@@ -2590,7 +2590,7 @@
       "term": "Fall 2026",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8003019&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 404,
+      "message_id": 609,
       "chat_id": 8743352944
     },
     "d9573a7b06cb": {
@@ -2770,7 +2770,7 @@
       "term": "Fall 2026",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=7974943&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 440,
+      "message_id": 608,
       "chat_id": 8743352944
     },
     "639ad21c22ff": {
@@ -3571,6 +3571,16 @@
       "apply_url": "https://job-boards.greenhouse.io/later/jobs/8643138002?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 606,
+      "chat_id": 8743352944
+    },
+    "a3c7f6d04a7c": {
+      "company": "Varian",
+      "role": "Product Engineering Assistant Co-op",
+      "location": "Ottawa, ON, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 607,
       "chat_id": 8743352944
     }
   },

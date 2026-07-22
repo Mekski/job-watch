@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "2b16e3a072256fc5b5b78c60e219f42d7bc71fef",
+    "last_sha": "dc55949897dbacd842ab7b150a67c1978c1785b8",
     "rows": [
       [
         "ShyftLabs",
@@ -29,13 +29,6 @@
         "Glendale, CA",
         "Fall 2026",
         "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "North Cloud",
-        "AI Automation Intern",
-        "Brooklyn, NY",
-        "Fall 2026",
-        "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4?utm_source=Simplify&ref=Simplify"
       ],
       [
         "NeoSigma",
@@ -199,18 +192,18 @@
         "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Copart",
+        "Software Engineer Intern",
+        "Dallas, TX",
+        "Fall 2026",
+        "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "AVEVA",
         "Software Developer Intern Co-op",
         "Philadelphia, PA",
         "Fall 2026",
         "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Deepgram",
-        "Software Engineer Intern",
-        "Remote in USA",
-        "Fall 2026",
-        "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Formlabs",
@@ -232,13 +225,6 @@
         "Cambridge, MA",
         "Fall 2026",
         "https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Formlabs",
-        "AI Software Intern",
-        "Cambridge, MA",
-        "Fall 2026",
-        "https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Western Digital",
@@ -414,13 +400,6 @@
         "Raleigh, NC",
         "Fall 2026",
         "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Xsolla",
-        "AI-First Engineer Intern",
-        "LA",
-        "Fall 2026",
-        "https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Xsolla",
@@ -969,6 +948,13 @@
         "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "\ud83d\udd25 Rippling",
+        "Software Engineer Intern - Backend Focused",
+        "Seattle, WA SF NYC",
+        "Winter 2027",
+        "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Altom Transport",
         "Software Development Intern",
         "Markham, IL",
@@ -988,13 +974,6 @@
         "Markham, IL",
         "Fall 2026",
         "https://apply.workable.com/altom-transport/j/1E3C4A9408/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Kinaxis",
-        "Software Development Co-op/Intern - C++",
-        "Ottawa, ON, Canada",
-        "Fall 2026",
-        "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "94817a415a4a3d30fbd06d02ca12449ed829a255",
+    "last_sha": "d4954582f80bf4736ff3ad866249876a614c0458",
     "rows": [
       [
         "ShyftLabs",
@@ -22,20 +22,6 @@
         "SF",
         "Fall 2026",
         "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Moon",
-        "Software Engineer Intern - Backend & API",
-        "Glendale, CA",
-        "Fall 2026",
-        "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "NeoSigma",
-        "Member of Technical Staff Intern",
-        "SF",
-        "Fall 2026",
-        "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Phonely",
@@ -106,13 +92,6 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Dexmate",
-        "Frontend Engineer Intern",
-        "Fremont, CA",
-        "Fall 2026",
-        "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Junior AI",
@@ -291,24 +270,10 @@
       ],
       [
         "Copart",
-        "Software Engineer Intern \ud83c\udf93",
-        "Dallas, TX",
-        "Fall 2026",
-        "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Copart",
         "Software Engineer Intern",
         "Dallas, TX",
         "Fall 2026",
         "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Copart",
-        "Software Engineer Intern",
-        "Dallas, TX",
-        "Fall 2026",
-        "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ignite Digital Services",
@@ -393,13 +358,6 @@
         "Austin, TX",
         "Fall 2026",
         "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Xsolla",
-        "AI-First Engineer Intern",
-        "Raleigh, NC",
-        "Fall 2026",
-        "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Xsolla",
@@ -624,13 +582,6 @@
         "San Bruno, CA",
         "Fall 2026",
         "https://www.zipline.com/open-roles?gh_jid=7787509003&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Kabam",
-        "Software Engineer Co-op - Gameplay",
-        "Vancouver, BC, Canada",
-        "Fall 2026",
-        "https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Cadence Design Systems",
@@ -974,6 +925,13 @@
         "Markham, IL",
         "Fall 2026",
         "https://apply.workable.com/altom-transport/j/1E3C4A9408/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Kinaxis",
+        "Software Development Co-op/Intern - C++",
+        "Ottawa, ON, Canada",
+        "Fall 2026",
+        "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

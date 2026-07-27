@@ -1,7 +1,14 @@
 {
   "SimplifyJobs/Summer2026-Internships": {
-    "last_sha": "ed05119fc134af5a7a19933dcdff72a709a26c8e",
+    "last_sha": "d10845543723c0613be06e62beab6f4aa6147448",
     "rows": [
+      [
+        "Apptronik",
+        "Software Engineer Intern - ML Systems",
+        "Austin, TX",
+        "Fall 2026",
+        "https://boards.greenhouse.io/apptronik/jobs/6128057004?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Nokia",
         "Architecture AI Co-op",
@@ -15,6 +22,13 @@
         "Durham, NC",
         "Fall 2026",
         "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ciena",
+        "Software Engineer Intern",
+        "Ottawa, ON, Canada",
+        "Fall 2026",
+        "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nextiva",
@@ -785,13 +799,6 @@
         "Vancouver, BC, Canada",
         "Fall 2026",
         "https://job-boards.greenhouse.io/aperaaiinc/jobs/5151788007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Altom Transport",
-        "Software Development Intern",
-        "Markham, IL",
-        "Fall 2026",
-        "https://apply.workable.com/altom-transport/j/1E3C4A9408/apply?utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

@@ -3950,7 +3950,7 @@
       "term": "Fall 2026",
       "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 679,
+      "message_id": 699,
       "chat_id": 8743352944
     },
     "6ef21444682a": {
@@ -4091,6 +4091,16 @@
       "apply_url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true&utm_source=github-vansh-ouckah",
       "source": "Vansh Repo",
       "message_id": 697,
+      "chat_id": 8743352944
+    },
+    "0332c2aaf6e9": {
+      "company": "Nokia",
+      "role": "Architecture AI Co-op",
+      "location": "Naperville, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 698,
       "chat_id": 8743352944
     }
   },

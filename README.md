@@ -12,10 +12,10 @@ Based on [kiankian/repo-watcher](https://github.com/kiankian/repo-watcher), used
 
 | Source | File | Branch |
 |---|---|---|
-| `SimplifyJobs/Summer2026-Internships` | `README-Off-Season.md` (active SWE table only) | `dev` |
-| `vanshb03/Summer2027-Internships` | `OFFSEASON_README.md` | `dev` |
+| `SimplifyJobs/Summer2027-Internships` | `README.md` (SWE section only) | `dev` |
+| `vanshb03/Summer2027-Internships` | `README.md` | `dev` |
 
-Only **new** rows trigger alerts. Closures, re-orderings, and emoji-marker flips are silently ignored. When the Summer 2027 Simplify repo drops, add another entry to the `WATCHERS` list in [`watch-files.yml`](.github/workflows/watch-files.yml).
+Only **new** rows trigger alerts. Closures, re-orderings, and emoji-marker flips are silently ignored. To watch more sources (or bring back the off-season lists), add entries to the `WATCHERS` list in [`watch-files.yml`](.github/workflows/watch-files.yml).
 
 ## How polling works
 
@@ -155,7 +155,7 @@ Avoid `git push --force` — it overwrites the runner's state commits and the ne
 
 ## How identity / dedup works
 
-Each row is keyed by `(company, role, location, term)`, with Unicode emoji-category characters stripped from the key fields. So:
+Each row is keyed by `(company, role, location, term)`, with Unicode emoji-category characters stripped from the key fields. For the Simplify source, `term` is the fixed label `Summer 2027` (its table has no Terms column, and the Age column is deliberately excluded — it changes daily). For the Vansh source, `term` is the Date Posted column. So:
 - `"🔥 NVIDIA"` and `"NVIDIA"` are treated as the same company.
 - `"Software Engineering Intern 🎓"` and `"Software Engineering Intern"` are treated as the same role.
 - Apply URL changes don't trigger re-alerts (URL is not part of the key).

@@ -1,4 +1,6 @@
 flask==3.0.0
 google-auth==2.35.0
 python-dotenv==1.0.1
+# requests is not imported directly, but google.auth.transport.requests needs it.
 requests==2.32.3
+certifi==2024.8.30

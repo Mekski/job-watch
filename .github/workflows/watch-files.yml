@@ -45,21 +45,25 @@ jobs:
 
           WATCHERS = [
               {
+                  # Summer 2027 main list. Columns: Company|Role|Location|Application|Age.
+                  # No Terms column, so "term" supplies a fixed label; the Age cell is
+                  # ignored entirely — it changes daily and would poison dedup keys.
                   "label": "Simplify Repo",
                   "owner": "SimplifyJobs",
-                  "repo": "Summer2026-Internships",
+                  "repo": "Summer2027-Internships",
                   "branch": "dev",
-                  "file": "README-Off-Season.md",
+                  "file": "README.md",
                   "parser": "html",
+                  "term": "Summer 2027",
                   "section_start": "## 💻 Software Engineering Internship Roles",
-                  "section_end": "<summary>🗃️ Inactive roles",
+                  "section_end": "## 📱 Product Management",
               },
               {
                   "label": "Vansh Repo",
                   "owner": "vanshb03",
                   "repo": "Summer2027-Internships",
                   "branch": "dev",
-                  "file": "OFFSEASON_README.md",
+                  "file": "README.md",
                   "parser": "markdown",
                   "section_start": "## The List",
                   "section_end": "## We love our contributors",
@@ -152,7 +156,7 @@ jobs:
                   end_idx = len(text)
               return text[start_idx:end_idx]
 
-          def parse_html_rows(section_text):
+          def parse_html_rows(section_text, term):
               rows = []
               last_company = None
               for tr_match in re.finditer(r'<tr>\s*(.*?)\s*</tr>', section_text, re.DOTALL):
@@ -168,8 +172,8 @@ jobs:
                       company,
                       strip_html(cells[1]),
                       strip_html(cells[2]),
-                      strip_html(cells[3]),
-                      extract_apply_url(cells[4]),
+                      term,
+                      extract_apply_url(cells[3]),
                   ])
               return rows
 
@@ -223,15 +227,15 @@ jobs:
                   normalize_for_key(r[3]),
               )
 
-          # --- Load and migrate state ---
+          # --- Load state ---
+          # Keyed by "owner/repo:file" so pointing a watcher at a different file
+          # in the same repo bootstraps fresh instead of diffing against the old
+          # file's snapshot (which would flood alerts). Entries for sources no
+          # longer in WATCHERS are pruned before saving.
           if STATE_FILE.exists():
               state = json.loads(STATE_FILE.read_text())
           else:
               state = {}
-
-          # Migrate old {"last_sha": ...} shape to keyed-by-repo shape.
-          if "last_sha" in state and isinstance(state.get("last_sha"), str):
-              state = {"SimplifyJobs/Summer2026-Internships": {"last_sha": state["last_sha"]}}
 
           if BOT_STATE_FILE.exists():
               bot_state = json.loads(BOT_STATE_FILE.read_text())
@@ -243,8 +247,8 @@ jobs:
           # --- Process each watcher ---
           total_alerted = 0
           for w in WATCHERS:
-              repo_key = f"{w['owner']}/{w['repo']}"
-              latest = get_json(f"https://api.github.com/repos/{repo_key}/commits/{w['branch']}")
+              repo_key = f"{w['owner']}/{w['repo']}:{w['file']}"
+              latest = get_json(f"https://api.github.com/repos/{w['owner']}/{w['repo']}/commits/{w['branch']}")
               latest_sha = latest["sha"]
               saved = state.get(repo_key) or {}
               last_sha = saved.get("last_sha")
@@ -261,8 +265,10 @@ jobs:
                   continue
 
               section_text = extract_section(file_text, w["section_start"], w["section_end"])
-              parser = parse_html_rows if w["parser"] == "html" else parse_markdown_rows
-              curr_rows = parser(section_text)
+              if w["parser"] == "html":
+                  curr_rows = parse_html_rows(section_text, w["term"])
+              else:
+                  curr_rows = parse_markdown_rows(section_text)
 
               if prev_rows and not curr_rows:
                   print(f"WARNING: extracted 0 rows from {repo_key} but had {len(prev_rows)} previously; skipping state update.")
@@ -278,6 +284,7 @@ jobs:
               prev_keys = {row_key(r) for r in prev_rows}
               new_listings = [r for r in curr_rows if row_key(r) not in prev_keys]
 
+              failed_keys = set()
               for entry in new_listings:
                   h = job_hash(entry, w["label"])
                   text = f"{w['label']}\n+ {fmt(entry)}"
@@ -285,6 +292,7 @@ jobs:
                       message_id, chat_id = telegram_send_job(text, f"apply:{h}")
                   except Exception as exc:
                       print(f"Failed to send job alert ({h}): {exc}")
+                      failed_keys.add(row_key(entry))
                       continue
                   bot_state["pending"][h] = {
                       "company": entry[0],
@@ -298,6 +306,10 @@ jobs:
                   }
                   total_alerted += 1
 
+              # Rows whose alert failed to send are excluded from the snapshot,
+              # so the next run sees them as new and retries the alert.
+              if failed_keys:
+                  new_state["rows"] = [r for r in curr_rows if row_key(r) not in failed_keys]
               state[repo_key] = new_state
 
           if total_alerted:
@@ -305,6 +317,8 @@ jobs:
           else:
               print("No new listings.")
 
+          active_keys = {f"{w['owner']}/{w['repo']}:{w['file']}" for w in WATCHERS}
+          state = {k: v for k, v in state.items() if k in active_keys}
           STATE_FILE.write_text(json.dumps(state, indent=2) + "\n")
           BOT_STATE_FILE.write_text(json.dumps(bot_state, indent=2) + "\n")
           PY
@@ -351,7 +365,9 @@ jobs:
           exit 1
 
       - name: Install Google auth deps
-        run: pip install --quiet google-auth==2.35.0
+        # requests: needed by google.auth.transport.requests — don't rely on the
+        # runner image having it preinstalled.
+        run: pip install --quiet google-auth==2.35.0 requests==2.32.3
 
       - name: Process callbacks
         env:
@@ -540,11 +556,17 @@ jobs:
                       break
 
               local_now = datetime.datetime.now(zoneinfo.ZoneInfo("America/Los_Angeles"))
-              applied_at = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+              applied_at = datetime.datetime.now(datetime.timezone.utc).replace(
+                  microsecond=0, tzinfo=None).isoformat() + "Z"
               applied_date = f"{local_now.month}/{local_now.day}/{local_now.year}"
+              # Company/role come from public PR-driven repos; the append uses
+              # USER_ENTERED (so the date parses), which would also evaluate a
+              # cell starting with = + - @ as a formula. Force those to text.
+              def sheet_text(v):
+                  return "'" + v if v[:1] in ("=", "+", "-", "@") else v
               row = [
-                  job["company"],
-                  job["role"],
+                  sheet_text(job["company"]),
+                  sheet_text(job["role"]),
                   applied_date,
                   APPLIED_EMAIL,
                   "Telegram Bot",

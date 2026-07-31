@@ -33,16 +33,16 @@ WATCHERS = [
     {
         "label": "Simplify Repo",
         "owner": "SimplifyJobs",
-        "repo": "Summer2026-Internships",
+        "repo": "Summer2027-Internships",
         "branch": "dev",
-        "file": "README-Off-Season.md",
+        "file": "README.md",
     },
     {
         "label": "Vansh Repo",
         "owner": "vanshb03",
         "repo": "Summer2027-Internships",
         "branch": "dev",
-        "file": "OFFSEASON_README.md",
+        "file": "README.md",
     },
 ]
 
@@ -378,16 +378,18 @@ def check_watched_repos():
     sources = []
     overall = "ok"
     for w in WATCHERS:
-        repo_key = f"{w['owner']}/{w['repo']}"
+        repo_slug = f"{w['owner']}/{w['repo']}"
+        # State entries are keyed by "owner/repo:file" (matches watch-files.yml).
+        state_key = f"{repo_slug}:{w['file']}"
         item = {
             "label": w["label"],
-            "repo": repo_key,
+            "repo": repo_slug,
             "branch": w["branch"],
             "file": w["file"],
-            "upstream_url": f"https://github.com/{repo_key}/blob/{w['branch']}/{w['file']}",
+            "upstream_url": f"https://github.com/{repo_slug}/blob/{w['branch']}/{w['file']}",
         }
 
-        saved = (state or {}).get(repo_key)
+        saved = (state or {}).get(state_key)
         if not saved:
             item["status"] = "fail"
             item["state"] = "not bootstrapped — bot has never seen this source"
@@ -403,7 +405,7 @@ def check_watched_repos():
 
         try:
             commit = gh_get_json(
-                f"https://api.github.com/repos/{repo_key}/commits/{w['branch']}"
+                f"https://api.github.com/repos/{repo_slug}/commits/{w['branch']}"
             )
             upstream_sha = commit["sha"]
             if last_sha == upstream_sha:

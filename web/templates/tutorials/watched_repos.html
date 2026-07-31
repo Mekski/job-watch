@@ -1,7 +1,7 @@
 <details>
   <summary>Add a new repo to watch</summary>
   <div class="tutorial-body">
-    <p>To watch a new job-aggregator repo (e.g. when the Summer 2027 Simplify repo drops, or you want to add <code>speedyapply/2026-SWE-College-Jobs</code>):</p>
+    <p>To watch a new job-aggregator repo (e.g. re-adding an off-season list, or <code>speedyapply/2027-SWE-College-Jobs</code>):</p>
     <ol>
       <li>Open <a href="https://github.com/Mekski/job-watch/blob/main/.github/workflows/watch-files.yml" target="_blank"><code>.github/workflows/watch-files.yml</code></a> in your editor.</li>
       <li>Find the <code>WATCHERS</code> list near the top of the Python heredoc (around line 35).</li>
@@ -9,15 +9,16 @@
         <pre><code>{
     "label": "Speedy Apply",
     "owner": "speedyapply",
-    "repo": "2026-SWE-College-Jobs",
+    "repo": "2027-SWE-College-Jobs",
     "branch": "main",
     "file": "README.md",
     "parser": "html",
+    "term": "Summer 2027",
     "section_start": "## 💻 Software Engineering Roles",
     "section_end": "## Other Roles",
 },</code></pre>
       </li>
-      <li>For a markdown pipe-table repo (like vansh's), use <code>"parser": "markdown"</code> instead.</li>
+      <li>The <code>html</code> parser expects columns <code>Company | Role | Location | Application | …</code> and uses <code>"term"</code> as a fixed label (extra columns like Age are ignored). For a markdown pipe-table repo (like vansh's, <code>Company | Role | Location | Link | Date</code>), use <code>"parser": "markdown"</code> instead — no <code>"term"</code> needed.</li>
       <li>The hard part is finding correct <code>section_start</code> and <code>section_end</code> markers (see "Find section markers" tutorial below).</li>
       <li>Commit and push the workflow change.</li>
       <li>Trigger a workflow run manually (Actions tab → Watch files → Run workflow). The first run will <strong>bootstrap</strong> the new source silently — no alerts for existing rows.</li>
@@ -49,7 +50,7 @@
     <ol>
       <li>Clone or pull the latest <code>job-watch</code> repo locally.</li>
       <li>Open <code>.watcher_state.json</code> in a text editor.</li>
-      <li>Find the entry for the source you want to reset, e.g. <code>"SimplifyJobs/Summer2026-Internships": { "last_sha": "...", "rows": [...] }</code>.</li>
+      <li>Find the entry for the source you want to reset — entries are keyed by <code>owner/repo:file</code>, e.g. <code>"SimplifyJobs/Summer2027-Internships:README.md": { "last_sha": "...", "rows": [...] }</code>.</li>
       <li>Delete that entire entry (including the surrounding commas as needed to keep JSON valid).</li>
       <li>Commit and push.</li>
       <li>The next workflow run will see the source as missing in state and re-bootstrap silently (logs <code>Bootstrapped REPO at SHA with N rows.</code>). No spurious alerts.</li>

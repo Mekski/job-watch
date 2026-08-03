@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853598
+    "last_update_id": 575853602
   },
   "pending": {
     "0476af88408a": {
@@ -5203,16 +5203,6 @@
       "message_id": 844,
       "chat_id": 8743352944
     },
-    "69ad134cf7cc": {
-      "company": "\ud83d\udd25 TikTok",
-      "role": "Backend Software Engineer Intern",
-      "location": "San Jose, CA",
-      "term": "Summer 2027",
-      "apply_url": "https://lifeattiktok.com/search/7667935739300317493?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 845,
-      "chat_id": 8743352944
-    },
     "75c4e650b588": {
       "company": "\ud83d\udd25 TikTok",
       "role": "Software Engineer Intern",
@@ -5231,16 +5221,6 @@
       "apply_url": "https://lifeattiktok.com/search/7668582146236631349?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 847,
-      "chat_id": 8743352944
-    },
-    "e40cb1710631": {
-      "company": "\ud83d\udd25 TikTok",
-      "role": "Software Engineer Intern - Agentic Creation-Effect Platform",
-      "location": "San Jose, CA",
-      "term": "Summer 2027",
-      "apply_url": "https://lifeattiktok.com/search/7668445566565321013?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 848,
       "chat_id": 8743352944
     },
     "acea242417f3": {
@@ -5343,16 +5323,6 @@
       "message_id": 858,
       "chat_id": 8743352944
     },
-    "b9dc61c1ec4e": {
-      "company": "JP Morgan Chase",
-      "role": "Software Engineer Intern - Software Engineer Program",
-      "location": "9 locationsPalo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
-      "term": "Summer 2027",
-      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 859,
-      "chat_id": 8743352944
-    },
     "39bccde91659": {
       "company": "\ud83d\udd25 ByteDance",
       "role": "Software Engineer Intern - AI Infra Compute \ud83c\udf93",
@@ -5391,16 +5361,6 @@
       "apply_url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 863,
-      "chat_id": 8743352944
-    },
-    "a4f379adff0c": {
-      "company": "\ud83d\udd25 Microsoft",
-      "role": "Software Engineer Intern - CoreAI",
-      "location": "Redmond, WA",
-      "term": "Summer 2027",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 864,
       "chat_id": 8743352944
     }
   },
@@ -5525,6 +5485,50 @@
       "message_id": 226,
       "chat_id": 8743352944,
       "applied_at": "2026-06-07T01:43:27Z"
+    },
+    "a4f379adff0c": {
+      "company": "\ud83d\udd25 Microsoft",
+      "role": "Software Engineer Intern - CoreAI",
+      "location": "Redmond, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 864,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-03T10:05:23Z"
+    },
+    "b9dc61c1ec4e": {
+      "company": "JP Morgan Chase",
+      "role": "Software Engineer Intern - Software Engineer Program",
+      "location": "9 locationsPalo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+      "term": "Summer 2027",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 859,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-03T10:05:24Z"
+    },
+    "e40cb1710631": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Software Engineer Intern - Agentic Creation-Effect Platform",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://lifeattiktok.com/search/7668445566565321013?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 848,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-03T10:05:25Z"
+    },
+    "69ad134cf7cc": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://lifeattiktok.com/search/7667935739300317493?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 845,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-03T10:05:26Z"
     }
   }
 }

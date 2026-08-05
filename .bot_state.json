@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853604
+    "last_update_id": 575853606
   },
   "pending": {
     "0476af88408a": {
@@ -6113,16 +6113,6 @@
       "message_id": 949,
       "chat_id": 8743352944
     },
-    "3c93d18d7d85": {
-      "company": "\ud83d\udd25 Roblox",
-      "role": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "term": "Summer 2027",
-      "apply_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 950,
-      "chat_id": 8743352944
-    },
     "de6d1fa6bc90": {
       "company": "RTX",
       "role": "Software Engineer Intern",
@@ -6321,6 +6311,17 @@
       "message_id": 948,
       "chat_id": 8743352944,
       "applied_at": "2026-08-05T21:31:27Z"
+    },
+    "3c93d18d7d85": {
+      "company": "\ud83d\udd25 Roblox",
+      "role": "Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 950,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-05T23:02:28Z"
     }
   }
 }

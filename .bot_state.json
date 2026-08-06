@@ -6160,7 +6160,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 955,
+      "message_id": 966,
       "chat_id": 8743352944
     },
     "af75594dd84b": {
@@ -6241,6 +6241,26 @@
       "apply_url": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4&utm_source=github-vansh-ouckah",
       "source": "Vansh Repo",
       "message_id": 963,
+      "chat_id": 8743352944
+    },
+    "0f95a6ef3e2c": {
+      "company": "Sargent & Lundy",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 964,
+      "chat_id": 8743352944
+    },
+    "ae30865f9f93": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern - Aeronautics Systems",
+      "location": "Melbourne, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 965,
       "chat_id": 8743352944
     }
   },

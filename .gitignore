@@ -1,4 +1,6 @@
-# Local dashboard config — never commit secrets
+# The web/ dashboard was removed, but its local files may still be on disk and
+# web/.sa.json is a live service-account key. This repo is public — keep these
+# ignored so a `git add -A` can never commit them.
 web/.env
 web/.sa*.json
 web/.venv/

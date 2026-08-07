@@ -166,25 +166,6 @@ The displayed alert text keeps emojis intact — only the identity tuple is norm
 
 Tell them to clone this repo, follow the Setup section (all 6 steps including their own cron-job.org account) with **their own** Telegram bot, sheet, secrets, and PAT, and push to **their** fork. Each person's runs are independent — their state lives in their fork.
 
-## Optional: local dashboard
-
-A read-only Flask app lives in [`web/`](web/) with two pages:
-
-- **`/`** — connection-status dashboard as a tile grid (Telegram, Sheets, GCP, GitHub Actions, cron-job.org, watched repos, bot state). Useful for verifying setup and ongoing health without clicking through five services.
-- **`/tutorials`** — long-scroll reference of step-by-step how-tos grouped by integration (add a new repo to watch, renew the PAT, share the sheet with the SA, etc.). Same content as setup-time documentation but always available at `localhost:5001/tutorials`.
-
-Setup:
-```sh
-cd web
-pip install -r requirements.txt
-cp .env.example .env
-# fill in real values
-python app.py
-# open http://localhost:5001
-```
-
-See [`web/README.md`](web/README.md) for full details.
-
 ## Maintenance
 
 ### PAT renewal (~yearly)

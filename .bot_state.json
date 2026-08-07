@@ -5400,7 +5400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 870,
+      "message_id": 982,
       "chat_id": 8743352944
     },
     "3110c2bdcda2": {
@@ -6341,6 +6341,56 @@
       "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 976,
+      "chat_id": 8743352944
+    },
+    "f2ee6e0666e7": {
+      "company": "Trillium",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 977,
+      "chat_id": 8743352944
+    },
+    "2c85642522d8": {
+      "company": "Axon",
+      "role": "Software Engineer Intern",
+      "location": "Boston, MA Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 978,
+      "chat_id": 8743352944
+    },
+    "6f345a396142": {
+      "company": "The Nuclear Company",
+      "role": "Software Engineering Intern - Product - Platform",
+      "location": "Washington, DC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 979,
+      "chat_id": 8743352944
+    },
+    "a6b7009644d0": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Frontend Engineer Intern - Ads Interface",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 980,
+      "chat_id": 8743352944
+    },
+    "a7c4ea84c8e6": {
+      "company": "Atoms",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "5 locationsSeattle, WA SF LA NYC Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 981,
       "chat_id": 8743352944
     }
   },

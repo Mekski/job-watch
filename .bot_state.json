@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853606
+    "last_update_id": 575853610
   },
   "pending": {
     "0476af88408a": {
@@ -6753,16 +6753,6 @@
       "message_id": 1024,
       "chat_id": 8743352944
     },
-    "feb9e0d38d88": {
-      "company": "\ud83d\udd25 Notion",
-      "role": "Software Engineer Intern - Summer 2027",
-      "location": "SF NYC",
-      "term": "Summer 2027",
-      "apply_url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1025,
-      "chat_id": 8743352944
-    },
     "524e85fc6b17": {
       "company": "\ud83d\udd25 ByteDance",
       "role": "Software Engineer Intern - Global Payment Infra and SRE",
@@ -6831,16 +6821,6 @@
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1032,
-      "chat_id": 8743352944
-    },
-    "02d247ce8653": {
-      "company": "Replit",
-      "role": "Software Engineer Intern - Summer 2027",
-      "location": "Foster City, CA",
-      "term": "Summer 2027",
-      "apply_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1033,
       "chat_id": 8743352944
     },
     "65ae41352dca": {
@@ -7052,6 +7032,28 @@
       "message_id": 950,
       "chat_id": 8743352944,
       "applied_at": "2026-08-05T23:02:28Z"
+    },
+    "02d247ce8653": {
+      "company": "Replit",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Foster City, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1033,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-16T03:22:20Z"
+    },
+    "feb9e0d38d88": {
+      "company": "\ud83d\udd25 Notion",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "SF NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1025,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-16T03:22:22Z"
     }
   }
 }

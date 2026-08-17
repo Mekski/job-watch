@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853611
+    "last_update_id": 575853612
   },
   "pending": {
     "0476af88408a": {
@@ -6853,16 +6853,6 @@
       "message_id": 1037,
       "chat_id": 8743352944
     },
-    "a366a5a0bff4": {
-      "company": "American Express",
-      "role": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93",
-      "location": "Charlotte, NC",
-      "term": "Summer 2027",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1038,
-      "chat_id": 8743352944
-    },
     "e1b33715f80f": {
       "company": "American Express",
       "role": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93",
@@ -7205,6 +7195,17 @@
       "message_id": 1046,
       "chat_id": 8743352944,
       "applied_at": "2026-08-17T22:56:24Z"
+    },
+    "a366a5a0bff4": {
+      "company": "American Express",
+      "role": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1038,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-17T22:57:21Z"
     }
   }
 }

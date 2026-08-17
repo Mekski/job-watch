@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853610
+    "last_update_id": 575853611
   },
   "pending": {
     "0476af88408a": {
@@ -6923,16 +6923,6 @@
       "message_id": 1045,
       "chat_id": 8743352944
     },
-    "ef6fd8c5a0ec": {
-      "company": "American Express",
-      "role": "Software Engineer Intern - Technology",
-      "location": "NYC",
-      "term": "Summer 2027",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1046,
-      "chat_id": 8743352944
-    },
     "6e7b57ef0105": {
       "company": "Hilton Worldwide",
       "role": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
@@ -7204,6 +7194,17 @@
       "message_id": 1025,
       "chat_id": 8743352944,
       "applied_at": "2026-08-16T03:22:22Z"
+    },
+    "ef6fd8c5a0ec": {
+      "company": "American Express",
+      "role": "Software Engineer Intern - Technology",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1046,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-17T22:56:24Z"
     }
   }
 }

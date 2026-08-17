@@ -6090,7 +6090,7 @@
       "term": "Summer 2027",
       "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 972,
+      "message_id": 1040,
       "chat_id": 8743352944
     },
     "10f371b441e8": {
@@ -6841,6 +6841,36 @@
       "apply_url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab?utm_source=github-vansh-ouckah",
       "source": "Vansh Repo",
       "message_id": 1036,
+      "chat_id": 8743352944
+    },
+    "40ab4e73522f": {
+      "company": "W.W. Grainger",
+      "role": "Software Engineer Intern - Grainger Technology Group",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1037,
+      "chat_id": 8743352944
+    },
+    "a366a5a0bff4": {
+      "company": "American Express",
+      "role": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1038,
+      "chat_id": 8743352944
+    },
+    "e1b33715f80f": {
+      "company": "American Express",
+      "role": "Software Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1039,
       "chat_id": 8743352944
     }
   },

@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "2a5c596710008cf1a016627fd25f3710af23abd2",
+    "last_sha": "55a52c10bc6a3f216f11d995f7390f7662665811",
     "rows": [
       [
         "\ud83d\udd25 AMD",
@@ -1167,7 +1167,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9cf25b0b6e5e3b04a1d1b75605c940cc0826d341",
+    "last_sha": "4a2a944087303648128d866579c12db58baa1d59",
     "rows": [
       [
         "Belvedere Trading",
@@ -1182,13 +1182,6 @@
         "Chicago, IL",
         "Aug 06",
         "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "CNO Financial Group",
-        "Cyber Security IT Intern",
-        "Remote Carmel, IN",
-        "Aug 06",
-        "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4&utm_source=github-vansh-ouckah"
       ],
       [
         "Chicago Trading Company",
@@ -1478,20 +1471,6 @@
         "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=github-vansh-ouckah"
       ],
       [
-        "RenderATL",
-        "Software Engineer Intern",
-        "Seattle, WA",
-        "Aug 04",
-        "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Netsmart",
-        "Software Engineer Intern \ud83d\udec2",
-        "Overland Park, KS",
-        "Aug 04",
-        "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=github-vansh-ouckah"
-      ],
-      [
         "Modal",
         "ML Research Intern",
         "New York, NY San Francisco, CA",
@@ -1548,13 +1527,6 @@
         "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280?utm_source=github-vansh-ouckah"
       ],
       [
-        "GoDaddy",
-        "Software Development Engineer Intern \ud83d\udec2",
-        "Tempe, AZ",
-        "Aug 04",
-        "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003?utm_source=github-vansh-ouckah"
-      ],
-      [
         "ByteDance",
         "Software Engineer Intern, Distributed NoSQL Database Systems",
         "San Jose, CA",
@@ -1609,20 +1581,6 @@
         "San Francisco, CA",
         "Aug 03",
         "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Capital One",
-        "Cyber Security Intern \ud83d\udec2",
-        "McLean, VA Plano, TX",
-        "Aug 03",
-        "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Capital One",
-        "Software Engineer Intern \ud83d\udec2",
-        "McLean, VA Plano, TX Richmond, VA",
-        "Aug 03",
-        "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1?utm_source=github-vansh-ouckah"
       ],
       [
         "FTI Consulting",
@@ -1791,13 +1749,6 @@
         "McLean, VA",
         "Jul 26",
         "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Walleye Capital",
-        "Equity Volatility Quant Researcher Intern",
-        "Miami, FL",
-        "Jul 24",
-        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah"
       ],
       [
         "Radix Trading",
@@ -2458,6 +2409,48 @@
         "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah"
       ],
       [
+        "CNO Financial Group",
+        "Cyber Security IT Intern",
+        "Remote Carmel, IN",
+        "Aug 06",
+        ""
+      ],
+      [
+        "RenderATL",
+        "Software Engineer Intern",
+        "Seattle, WA",
+        "Aug 04",
+        ""
+      ],
+      [
+        "Netsmart",
+        "Software Engineer Intern \ud83d\udec2",
+        "Overland Park, KS",
+        "Aug 04",
+        ""
+      ],
+      [
+        "GoDaddy",
+        "Software Development Engineer Intern \ud83d\udec2",
+        "Tempe, AZ",
+        "Aug 04",
+        ""
+      ],
+      [
+        "Capital One",
+        "Software Engineer Intern \ud83d\udec2",
+        "McLean, VA Plano, TX Richmond, VA",
+        "Aug 03",
+        ""
+      ],
+      [
+        "Capital One",
+        "Cyber Security Intern \ud83d\udec2",
+        "McLean, VA Plano, TX",
+        "Aug 03",
+        ""
+      ],
+      [
         "Intel Corporation",
         "AI Software Engineering PhD Intern",
         "Hillsboro, OR",
@@ -2469,6 +2462,13 @@
         "Software Engineer Intern",
         "Melbourne, FL",
         "Jul 25",
+        ""
+      ],
+      [
+        "Walleye Capital",
+        "Equity Volatility Quant Researcher Intern",
+        "Miami, FL",
+        "Jul 24",
         ""
       ],
       [

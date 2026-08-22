@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853612
+    "last_update_id": 575853613
   },
   "pending": {
     "0476af88408a": {
@@ -7752,16 +7752,6 @@
       "source": "Simplify Repo",
       "message_id": 1141,
       "chat_id": 8743352944
-    },
-    "bf21a737be9d": {
-      "company": "Zipline",
-      "role": "Software Engineer Intern - Summer 2027",
-      "location": "South SF",
-      "term": "Summer 2027",
-      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1142,
-      "chat_id": 8743352944
     }
   },
   "applied": {
@@ -8006,6 +7996,17 @@
       "message_id": 1038,
       "chat_id": 8743352944,
       "applied_at": "2026-08-17T22:57:21Z"
+    },
+    "bf21a737be9d": {
+      "company": "Zipline",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "South SF",
+      "term": "Summer 2027",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1142,
+      "chat_id": 8743352944,
+      "applied_at": "2026-08-22T00:54:27Z"
     }
   }
 }

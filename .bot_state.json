@@ -7860,7 +7860,7 @@
       "term": "Summer 2027",
       "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1160,
+      "message_id": 1175,
       "chat_id": 8743352944
     },
     "1f9d72caffb9": {
@@ -7991,6 +7991,16 @@
       "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1174,
+      "chat_id": 8743352944
+    },
+    "f3ee9b8a0dd9": {
+      "company": "The Trade Desk",
+      "role": "Software Engineering Intern",
+      "location": "6 locationsSeattle, WA Irvine, CA NYC Bellevue, WA Denver, CO Boulder, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1176,
       "chat_id": 8743352944
     }
   },

@@ -7120,7 +7120,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1071,
+      "message_id": 1190,
       "chat_id": 8743352944
     },
     "3d80e9d092ae": {
@@ -8011,6 +8011,76 @@
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1182,
+      "chat_id": 8743352944
+    },
+    "8f9768b5c224": {
+      "company": "Verkada",
+      "role": "Mobile Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1183,
+      "chat_id": 8743352944
+    },
+    "88c591a06b93": {
+      "company": "Verkada",
+      "role": "Security Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1184,
+      "chat_id": 8743352944
+    },
+    "48ea9acc58f7": {
+      "company": "Verkada",
+      "role": "Frontend Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1185,
+      "chat_id": 8743352944
+    },
+    "0f7a4847ef8a": {
+      "company": "Verkada",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1186,
+      "chat_id": 8743352944
+    },
+    "007a313dbe05": {
+      "company": "Apex Fintech Solutions",
+      "role": "Technology Fintern - Software Engineering - Product Management",
+      "location": "4 locationsAustin, TX Dallas, TX Chicago, IL NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1187,
+      "chat_id": 8743352944
+    },
+    "9ab507babc69": {
+      "company": "RTX",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Anaheim, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1188,
+      "chat_id": 8743352944
+    },
+    "8f1436c39dfb": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "Jupiter, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1189,
       "chat_id": 8743352944
     }
   },

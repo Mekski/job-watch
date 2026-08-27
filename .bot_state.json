@@ -8080,7 +8080,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1189,
+      "message_id": 1229,
       "chat_id": 8743352944
     },
     "318b472ed655": {
@@ -8390,7 +8390,37 @@
       "term": "Summer 2027",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1224,
+      "message_id": 1227,
+      "chat_id": 8743352944
+    },
+    "7ac664be3be7": {
+      "company": "Medtronic",
+      "role": "Engineering Intern",
+      "location": "20 locationsBoston, MA Santa Ana, CA Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1225,
+      "chat_id": 8743352944
+    },
+    "1bbb585fdc01": {
+      "company": "Manulife Financial",
+      "role": "Software Engineering Intern",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1226,
+      "chat_id": 8743352944
+    },
+    "90ba2078c9d2": {
+      "company": "Air Products",
+      "role": "Information Technology/Digital Technology Intern - Infrastructure Services",
+      "location": "Allentown, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1228,
       "chat_id": 8743352944
     }
   },

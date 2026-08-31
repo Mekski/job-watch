@@ -8470,7 +8470,7 @@
       "term": "Summer 2027",
       "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1234,
+      "message_id": 1284,
       "chat_id": 8743352944
     },
     "dee3d514bd66": {
@@ -8781,6 +8781,76 @@
       "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1276,
+      "chat_id": 8743352944
+    },
+    "79f088d31b23": {
+      "company": "Panasonic Holdings",
+      "role": "Back-End Cloud Developer Intern",
+      "location": "Bridgeton, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.na.panasonic.com/jobs/50754?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1277,
+      "chat_id": 8743352944
+    },
+    "e525b8385373": {
+      "company": "\ud83d\udd25 Google",
+      "role": "Software Engineer Intern - Multiple Teams",
+      "location": "30 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1278,
+      "chat_id": 8743352944
+    },
+    "fbe5b9478cc0": {
+      "company": "\ud83d\udd25 Google",
+      "role": "Software Engineer Intern - Multiple Teams",
+      "location": "31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1279,
+      "chat_id": 8743352944
+    },
+    "34fdc8401502": {
+      "company": "United Parcel Service",
+      "role": "Information Technology Intern - Multiple Teams",
+      "location": "Mahwah, NJ",
+      "term": "Summer 2027",
+      "apply_url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Technology-Group-Summer-2027-Internship---NJ_R26029748?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1280,
+      "chat_id": 8743352944
+    },
+    "6c4eda9ebcb0": {
+      "company": "United Parcel Service",
+      "role": "Information Technology Intern - Multiple Teams",
+      "location": "Timonium, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1281,
+      "chat_id": 8743352944
+    },
+    "d6d6b5d49d9f": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Tax Innovation Delivery Experience Intern - Multiple Teams",
+      "location": "Rosemont, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1282,
+      "chat_id": 8743352944
+    },
+    "002ee309aaa4": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Connected Physical Products Intern - Summer 2027",
+      "location": "14 locationsBoston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1283,
       "chat_id": 8743352944
     }
   },

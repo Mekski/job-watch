@@ -7940,7 +7940,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1168,
+      "message_id": 1273,
       "chat_id": 8743352944
     },
     "62d68fe3ceef": {
@@ -7950,7 +7950,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1169,
+      "message_id": 1274,
       "chat_id": 8743352944
     },
     "38cd0d9fe235": {
@@ -8671,6 +8671,96 @@
       "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1263,
+      "chat_id": 8743352944
+    },
+    "825739794caf": {
+      "company": "C3.ai",
+      "role": "Software Engineer Intern",
+      "location": "Redwood City, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1264,
+      "chat_id": 8743352944
+    },
+    "b6a693c2a545": {
+      "company": "Bosch Home Comfort",
+      "role": "Software Engineer Intern - 8 months/40hrs per week",
+      "location": "Farmington Hills, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524909?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1265,
+      "chat_id": 8743352944
+    },
+    "f28e13c87d52": {
+      "company": "NiSource",
+      "role": "Software Engineer Intern",
+      "location": "Columbus, OH Merrillville, IN",
+      "term": "Summer 2027",
+      "apply_url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1266,
+      "chat_id": 8743352944
+    },
+    "a80217a23788": {
+      "company": "Nike",
+      "role": "Software Engineer Intern",
+      "location": "Beaverton, OR",
+      "term": "Summer 2027",
+      "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1267,
+      "chat_id": 8743352944
+    },
+    "502809288894": {
+      "company": "Manulife Financial",
+      "role": "Software Engineering Intern",
+      "location": "Toronto, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1268,
+      "chat_id": 8743352944
+    },
+    "bdd0fef0adf8": {
+      "company": "DraftKings",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1269,
+      "chat_id": 8743352944
+    },
+    "97c72d133bdc": {
+      "company": "CACI",
+      "role": "Software Engineer Co-op - Summer & Fall 2027",
+      "location": "Danbury, CT",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1270,
+      "chat_id": 8743352944
+    },
+    "b70b05aaa5c7": {
+      "company": "CACI",
+      "role": "Software Engineer Intern",
+      "location": "Sarasota, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1271,
+      "chat_id": 8743352944
+    },
+    "b11b6e1dcdd7": {
+      "company": "CACI",
+      "role": "Software Engineer Co-op - Spring & Summer 2027",
+      "location": "Danbury, CT",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1272,
       "chat_id": 8743352944
     }
   },

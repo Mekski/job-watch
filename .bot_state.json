@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853615
+    "last_update_id": 575853616
   },
   "pending": {
     "0476af88408a": {
@@ -9283,16 +9283,6 @@
       "message_id": 1330,
       "chat_id": 8743352944
     },
-    "a4f379adff0c": {
-      "company": "\ud83d\udd25 Microsoft",
-      "role": "Software Engineer Intern - CoreAI",
-      "location": "Redmond, WA",
-      "term": "Summer 2027",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1331,
-      "chat_id": 8743352944
-    },
     "6ccfd6ea4218": {
       "company": "\ud83d\udd25 AMD",
       "role": "Compiler Engineer Intern/Co-op",
@@ -9533,9 +9523,9 @@
       "term": "Summer 2027",
       "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 864,
+      "message_id": 1331,
       "chat_id": 8743352944,
-      "applied_at": "2026-08-03T10:05:23Z"
+      "applied_at": "2026-09-01T18:33:25Z"
     },
     "b9dc61c1ec4e": {
       "company": "JP Morgan Chase",

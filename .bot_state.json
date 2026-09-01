@@ -4830,7 +4830,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1253,
+      "message_id": 1292,
       "chat_id": 8743352944
     },
     "c9aa6f378236": {
@@ -8891,6 +8891,36 @@
       "apply_url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1288,
+      "chat_id": 8743352944
+    },
+    "740493bc4dec": {
+      "company": "Aerotech",
+      "role": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
+      "location": "Pittsburgh, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1289,
+      "chat_id": 8743352944
+    },
+    "75e78508c35e": {
+      "company": "Westinghouse Electric Company",
+      "role": "Computer Engineering / Software Engineering Intern",
+      "location": "Rock Hill, SC Columbia, SC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1290,
+      "chat_id": 8743352944
+    },
+    "b4b93aa813b9": {
+      "company": "Cvent",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Tysons, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.cvent.com/jobs/10806?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1291,
       "chat_id": 8743352944
     }
   },

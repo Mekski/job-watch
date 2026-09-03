@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "0351a5ec6bffcc61a21681ff40bef7d771b7c2bc",
+    "last_sha": "198a5ed5e2e12999ad18baaa92b9de3b23ff7599",
     "rows": [
       [
         "Universal Health Services",
@@ -31,13 +31,6 @@
         "https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Johns Hopkins Applied Physics Laboratory",
-        "Mission Systems Engineering Intern",
-        "Laurel, MD",
-        "Summer 2027",
-        "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Tesla",
         "Physics Engine Development Engineer Intern - Optimus",
         "Palo Alto, CA",
@@ -50,6 +43,13 @@
         "Augusta, GA",
         "Summer 2027",
         "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Textron",
+        "IT Programmer Intern",
+        "Augusta, GA",
+        "Summer 2027",
+        "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343204&utm_source=Simplify&ref=Simplify"
       ],
       [
         "John Deere",
@@ -375,10 +375,10 @@
       ],
       [
         "RTX",
-        "Software Engineer Intern",
-        "Melbourne, FL",
+        "Systems Engineering Intern",
+        "Woburn, MA",
         "Summer 2027",
-        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423?utm_source=Simplify&ref=Simplify"
+        "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Summer-2027-_01867106?utm_source=Simplify&ref=Simplify"
       ],
       [
         "RTX",
@@ -449,13 +449,6 @@
         "Cincinnati, OH",
         "Summer 2027",
         "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Electrical & SDV Intern - Global Manufacturing",
-        "Warren, MI",
-        "Summer 2027",
-        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352?utm_source=Simplify&ref=Simplify"
       ],
       [
         "First National Bank",

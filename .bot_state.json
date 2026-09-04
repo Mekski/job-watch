@@ -8390,7 +8390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1227,
+      "message_id": 1543,
       "chat_id": 8743352944
     },
     "7ac664be3be7": {
@@ -8530,7 +8530,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1246,
+      "message_id": 1542,
       "chat_id": 8743352944
     },
     "02c5d7a07412": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1468,
+      "message_id": 1544,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1470,
+      "message_id": 1545,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -10841,6 +10841,186 @@
       "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1523,
+      "chat_id": 8743352944
+    },
+    "94c494213127": {
+      "company": "Keysight Technologies",
+      "role": "Full Stack Intern",
+      "location": "Colorado Springs, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.keysight.com/jobs/54165?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1524,
+      "chat_id": 8743352944
+    },
+    "7d8845db0d60": {
+      "company": "CDM Smith",
+      "role": "Electrical Engineer Intern - Summer 2027",
+      "location": "Latham, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.cdmsmith.com/jobs/4398?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1525,
+      "chat_id": 8743352944
+    },
+    "4722f74521f8": {
+      "company": "General Dynamics UK",
+      "role": "Computer Science and Robotics Co-op - Information Technology",
+      "location": "Sherbrooke, QC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/GDMSI/744000147541849?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1526,
+      "chat_id": 8743352944
+    },
+    "21cd35f62ecd": {
+      "company": "Nokia",
+      "role": "AI Agent Development Co-op \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1527,
+      "chat_id": 8743352944
+    },
+    "3a85f4859d76": {
+      "company": "RoviSys",
+      "role": "Engineering Co-op - Summer 2027",
+      "location": "Houston, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-rovisys.icims.com/jobs/2131/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1528,
+      "chat_id": 8743352944
+    },
+    "d192d1016279": {
+      "company": "RoviSys",
+      "role": "Engineering Co-op - Summer 2027",
+      "location": "Holly Springs, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-rovisys.icims.com/jobs/2128/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1529,
+      "chat_id": 8743352944
+    },
+    "5361cc24a6d5": {
+      "company": "RoviSys",
+      "role": "Engineering Co-op - Summer 2027",
+      "location": "Aurora, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-rovisys.icims.com/jobs/2137/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1530,
+      "chat_id": 8743352944
+    },
+    "e072aef20e0d": {
+      "company": "RoviSys",
+      "role": "Engineering Co-op",
+      "location": "Portage, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-rovisys.icims.com/jobs/2143/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1531,
+      "chat_id": 8743352944
+    },
+    "50eb124d6889": {
+      "company": "RoviSys",
+      "role": "Engineering Co-op",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-rovisys.icims.com/jobs/2144/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1532,
+      "chat_id": 8743352944
+    },
+    "11463435d16c": {
+      "company": "TJX",
+      "role": "IT Engineer Intern",
+      "location": "Marlborough, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1533,
+      "chat_id": 8743352944
+    },
+    "646077a31b63": {
+      "company": "Saab",
+      "role": "Software Engineering Co-op",
+      "location": "East Syracuse, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1534,
+      "chat_id": 8743352944
+    },
+    "06b415125ce5": {
+      "company": "Hy-Vee",
+      "role": "Software Engineer Intern",
+      "location": "West Des Moines, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1535,
+      "chat_id": 8743352944
+    },
+    "6f2db5b31817": {
+      "company": "Cox",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Long Island, New York",
+      "term": "Summer 2027",
+      "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1536,
+      "chat_id": 8743352944
+    },
+    "19292737bc92": {
+      "company": "CIBC",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1537,
+      "chat_id": 8743352944
+    },
+    "364e2490d27e": {
+      "company": "CIBC",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1538,
+      "chat_id": 8743352944
+    },
+    "619d6eb7b833": {
+      "company": "CACI",
+      "role": "Software Engineer Intern",
+      "location": "Ypsilanti, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1539,
+      "chat_id": 8743352944
+    },
+    "72317b752dfe": {
+      "company": "Barclays",
+      "role": "Technology Developer Intern",
+      "location": "Wilmington, DE",
+      "term": "Summer 2027",
+      "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1540,
+      "chat_id": 8743352944
+    },
+    "845e0e7d91dd": {
+      "company": "Barclays",
+      "role": "Technology Developer Intern - Technology",
+      "location": "Hanover, NJ",
+      "term": "Summer 2027",
+      "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1541,
       "chat_id": 8743352944
     }
   },

@@ -4830,7 +4830,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1428,
+      "message_id": 1505,
       "chat_id": 8743352944
     },
     "c9aa6f378236": {
@@ -7750,7 +7750,7 @@
       "term": "Summer 2027",
       "apply_url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1141,
+      "message_id": 1503,
       "chat_id": 8743352944
     },
     "69c8ac297638": {
@@ -10701,6 +10701,26 @@
       "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1500,
+      "chat_id": 8743352944
+    },
+    "4e6a9b9bf64a": {
+      "company": "Procter & Gamble",
+      "role": "IT Engineering Internship - Software, Platform, Network",
+      "location": "Cincinnati, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1502,
+      "chat_id": 8743352944
+    },
+    "ab80e9abc1d2": {
+      "company": "Deloitte",
+      "role": "Data & AI Solutions Engineering Summer Scholar Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1504,
       "chat_id": 8743352944
     }
   },

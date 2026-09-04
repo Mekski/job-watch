@@ -6100,7 +6100,7 @@
       "term": "Summer 2027",
       "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1445,
+      "message_id": 1501,
       "chat_id": 8743352944
     },
     "cb0f5c167d5e": {
@@ -7110,7 +7110,7 @@
       "term": "Summer 2027",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1427,
+      "message_id": 1498,
       "chat_id": 8743352944
     },
     "2edd06171673": {
@@ -10681,6 +10681,26 @@
       "apply_url": "https://corningjobs.corning.com/job/Concord-Digital-&-IT-Intern,-Analyst,-Concord-Manufacturing-Summer-2027-NC-28026/1425549000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1496,
+      "chat_id": 8743352944
+    },
+    "bd5520411ce4": {
+      "company": "Vanguard",
+      "role": "IT Intern - Application Development",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1499,
+      "chat_id": 8743352944
+    },
+    "9930d09802ca": {
+      "company": "Vanguard",
+      "role": "IT Intern - Investment Systems",
+      "location": "Malvern, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1500,
       "chat_id": 8743352944
     }
   },

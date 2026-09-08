@@ -9080,7 +9080,7 @@
       "term": "Summer 2027",
       "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1308,
+      "message_id": 1671,
       "chat_id": 8743352944
     },
     "32421b2d1fd9": {
@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1627,
+      "message_id": 1672,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -11321,6 +11321,286 @@
       "apply_url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1642,
+      "chat_id": 8743352944
+    },
+    "86f889e29226": {
+      "company": "RF-SMART",
+      "role": "Software Support Engineer Intern - Netsuite",
+      "location": "Jacksonville, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1643,
+      "chat_id": 8743352944
+    },
+    "df9d71191ec7": {
+      "company": "Viam",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1644,
+      "chat_id": 8743352944
+    },
+    "33f87054ff07": {
+      "company": "Semgrep",
+      "role": "Software Engineer Intern - Cloud Platform",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1645,
+      "chat_id": 8743352944
+    },
+    "c32fe8855545": {
+      "company": "ONE Finance",
+      "role": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1646,
+      "chat_id": 8743352944
+    },
+    "09350107fd00": {
+      "company": "Two Sigma",
+      "role": "Software Engineering Intern - Summer 2027",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://twosigma.avature.net/careers/JobDetail/14016?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1647,
+      "chat_id": 8743352944
+    },
+    "3b9a344fcf9c": {
+      "company": "Revel",
+      "role": "Full Stack Software Engineer Intern",
+      "location": "SF LA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1648,
+      "chat_id": 8743352944
+    },
+    "31cc5887f42c": {
+      "company": "Revel",
+      "role": "Forward Deployed Engineer Intern - Software",
+      "location": "SF LA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1649,
+      "chat_id": 8743352944
+    },
+    "7ea2691c48a8": {
+      "company": "Talos",
+      "role": "Software Engineer Intern - RFQ",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1650,
+      "chat_id": 8743352944
+    },
+    "859a8ecaaf04": {
+      "company": "Talos",
+      "role": "Software Engineer Intern - Dealer",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1651,
+      "chat_id": 8743352944
+    },
+    "0c1fcc6b430e": {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "role": "Software Engineering Intern - Vehicle Controls",
+      "location": "Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1652,
+      "chat_id": 8743352944
+    },
+    "9435fe1ea00b": {
+      "company": "AnaVation",
+      "role": "Computer Science Intern - Summer Program",
+      "location": "San Antonio, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1653,
+      "chat_id": 8743352944
+    },
+    "66dadfab6678": {
+      "company": "General Dynamics Mission Systems",
+      "role": "Software Engineer Intern",
+      "location": "Pittsfield, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1654,
+      "chat_id": 8743352944
+    },
+    "a64faa31dbe4": {
+      "company": "Steel Dynamics",
+      "role": "Software Development Intern",
+      "location": "Columbus, MS",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-steeldynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1655,
+      "chat_id": 8743352944
+    },
+    "1486e76e365d": {
+      "company": "Steel Dynamics",
+      "role": "Software Development Intern",
+      "location": "Columbus, MS",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1656,
+      "chat_id": 8743352944
+    },
+    "bc415b0c0921": {
+      "company": "Spirit AeroSystems",
+      "role": "Programmer Analyst / Developer Intern - IDT&S",
+      "location": "Wichita, KS",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.spiritaero.com/jobs/17481?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1657,
+      "chat_id": 8743352944
+    },
+    "fa1519cdf166": {
+      "company": "Neighbor",
+      "role": "Software Engineer Intern",
+      "location": "Lehi, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1658,
+      "chat_id": 8743352944
+    },
+    "7e1d80e52724": {
+      "company": "\ud83d\udd25 Datadog",
+      "role": "Software Engineer Intern - Summer",
+      "location": "Boston, MA NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1659,
+      "chat_id": 8743352944
+    },
+    "dadfa7260e45": {
+      "company": "Trimble",
+      "role": "Software Engineer Intern",
+      "location": "8 locationsDayton, OH Knoxville, TN Portsmouth, NH Princeton, NJ Lake Oswego, OR Westminster, CO Sunnyvale, CA Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1660,
+      "chat_id": 8743352944
+    },
+    "ac5b2140f13a": {
+      "company": "RTX",
+      "role": "Platform System Engineering Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1661,
+      "chat_id": 8743352944
+    },
+    "f555bb4a6fcc": {
+      "company": "RTX",
+      "role": "Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1662,
+      "chat_id": 8743352944
+    },
+    "ab0cef55a753": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1663,
+      "chat_id": 8743352944
+    },
+    "e2900f287ef7": {
+      "company": "RTX",
+      "role": "Software Engineer Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1664,
+      "chat_id": 8743352944
+    },
+    "c97be2c66838": {
+      "company": "RTX",
+      "role": "Systems Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1665,
+      "chat_id": 8743352944
+    },
+    "41a9f5b0b4d3": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Roy, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1666,
+      "chat_id": 8743352944
+    },
+    "38dd69e29e7d": {
+      "company": "COUNTRY Financial",
+      "role": "Information Technology Services Intern",
+      "location": "Bloomington, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1667,
+      "chat_id": 8743352944
+    },
+    "f400cb58a194": {
+      "company": "COUNTRY Financial",
+      "role": "Automation Developer Intern",
+      "location": "Bloomington, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1668,
+      "chat_id": 8743352944
+    },
+    "95875da8ef00": {
+      "company": "Boeing",
+      "role": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program \ud83c\udf93",
+      "location": "Tukwila, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1669,
+      "chat_id": 8743352944
+    },
+    "a4e8b6afe881": {
+      "company": "ABB",
+      "role": "Application Engineering Intern - Summer 2027",
+      "location": "Lombard, IL Alpharetta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1670,
       "chat_id": 8743352944
     }
   },

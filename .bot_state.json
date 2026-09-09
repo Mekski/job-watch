@@ -8670,7 +8670,7 @@
       "term": "Summer 2027",
       "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1263,
+      "message_id": 1705,
       "chat_id": 8743352944
     },
     "825739794caf": {
@@ -11671,6 +11671,56 @@
       "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1698,
+      "chat_id": 8743352944
+    },
+    "78e55f84f951": {
+      "company": "Navy Federal",
+      "role": "AI Engineer Intern",
+      "location": "Vienna, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1700,
+      "chat_id": 8743352944
+    },
+    "eee2596fc9fc": {
+      "company": "Leidos",
+      "role": "Software Developer Intern",
+      "location": "Annapolis Junction, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1701,
+      "chat_id": 8743352944
+    },
+    "e492166ca276": {
+      "company": "GE Vernova",
+      "role": "Energy Optimization Software Engineer Intern - Summer 2027 \ud83c\udf93",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1702,
+      "chat_id": 8743352944
+    },
+    "660743843517": {
+      "company": "GE Vernova",
+      "role": "Energy Optimization Software Engineer Intern - Summer 2027 \ud83c\udf93",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1703,
+      "chat_id": 8743352944
+    },
+    "6d007846a08c": {
+      "company": "CACI",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Lisle, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1704,
       "chat_id": 8743352944
     }
   },

@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1688,
+      "message_id": 1699,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -11641,6 +11641,36 @@
       "apply_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1682,
+      "chat_id": 8743352944
+    },
+    "8c07c78fcf12": {
+      "company": "Navy Federal",
+      "role": "Payments AI Engineer Intern \ud83c\udf93",
+      "location": "Pensacola, FL Vienna, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1696,
+      "chat_id": 8743352944
+    },
+    "0a887e125f29": {
+      "company": "Navy Federal",
+      "role": "Security Workflow Engineer Intern",
+      "location": "Vienna, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1697,
+      "chat_id": 8743352944
+    },
+    "5504e7379017": {
+      "company": "Navy Federal",
+      "role": "Mobile Developer Intern - Summer Associate",
+      "location": "4 locationsWinchester, VA Pensacola, FL Vienna, VA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1698,
       "chat_id": 8743352944
     }
   },

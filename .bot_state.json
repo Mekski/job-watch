@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1761,
+      "message_id": 1775,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1764,
+      "message_id": 1776,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1772,
+      "message_id": 1777,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1766,
+      "message_id": 1778,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1767,
+      "message_id": 1779,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -12201,6 +12201,26 @@
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1768,
+      "chat_id": 8743352944
+    },
+    "b729a07d431f": {
+      "company": "CACI",
+      "role": "Software Engineer Intern",
+      "location": "Denver, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1773,
+      "chat_id": 8743352944
+    },
+    "0b1ae799f909": {
+      "company": "CACI",
+      "role": "Configuration Control/Data Management Co-op - Engineering Department",
+      "location": "Danbury, CT",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1774,
       "chat_id": 8743352944
     }
   },

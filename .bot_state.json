@@ -8990,7 +8990,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1299,
+      "message_id": 1867,
       "chat_id": 8743352944
     },
     "c60b0ec8322d": {
@@ -11500,7 +11500,7 @@
       "term": "Summer 2027",
       "apply_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1660,
+      "message_id": 1866,
       "chat_id": 8743352944
     },
     "ac5b2140f13a": {
@@ -12721,6 +12721,16 @@
       "apply_url": "https://jobs.constellationenergy.com/jobs/138708?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1856,
+      "chat_id": 8743352944
+    },
+    "54d72b8be49e": {
+      "company": "Klaviyo",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1865,
       "chat_id": 8743352944
     }
   },

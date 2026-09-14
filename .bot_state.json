@@ -8560,7 +8560,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1249,
+      "message_id": 1953,
       "chat_id": 8743352944
     },
     "498af73c45d0": {
@@ -13211,6 +13211,116 @@
       "apply_url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1940,
+      "chat_id": 8743352944
+    },
+    "c78e5d0c85a2": {
+      "company": "OpenGov",
+      "role": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1942,
+      "chat_id": 8743352944
+    },
+    "9c1719bd7b53": {
+      "company": "OpenGov",
+      "role": "Software Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1943,
+      "chat_id": 8743352944
+    },
+    "e3c929aaff46": {
+      "company": "Pace",
+      "role": "Member of Technical Staff Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1944,
+      "chat_id": 8743352944
+    },
+    "1427d0df0c1c": {
+      "company": "Intuit",
+      "role": "Mobile Software Engineer Intern - iOS",
+      "location": "5 locationsCharlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1945,
+      "chat_id": 8743352944
+    },
+    "e362f224e8c1": {
+      "company": "Intuit",
+      "role": "Mobile Software Engineer Intern - Android",
+      "location": "5 locationsCharlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1946,
+      "chat_id": 8743352944
+    },
+    "9ff96193c816": {
+      "company": "Intuit",
+      "role": "Software Engineer Intern - Cybersecurity",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1947,
+      "chat_id": 8743352944
+    },
+    "778e839c3bdb": {
+      "company": "North Atlantic Industries",
+      "role": "Full Stack Software Engineer Intern - Summer 2027",
+      "location": "Bohemia, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1948,
+      "chat_id": 8743352944
+    },
+    "cc1e73120296": {
+      "company": "Wex",
+      "role": "Software Engineer Intern - AI & Cloud \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1949,
+      "chat_id": 8743352944
+    },
+    "2121f2d52878": {
+      "company": "Wex",
+      "role": "Full-Stack Software Engineer Intern - Undergraduate",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1950,
+      "chat_id": 8743352944
+    },
+    "0d092d010b13": {
+      "company": "Wex",
+      "role": "Backend Software Engineer Intern - Java & AI - Master's \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1951,
+      "chat_id": 8743352944
+    },
+    "7e5b61f270c2": {
+      "company": "Wex",
+      "role": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1952,
       "chat_id": 8743352944
     }
   },

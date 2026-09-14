@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853620
+    "last_update_id": 575853621
   },
   "pending": {
     "0476af88408a": {
@@ -13113,16 +13113,6 @@
       "message_id": 1929,
       "chat_id": 8743352944
     },
-    "4f304985a7b9": {
-      "company": "\ud83d\udd25 Figma",
-      "role": "Software Engineer Intern",
-      "location": "SF NYC",
-      "term": "Summer 2027",
-      "apply_url": "https://boards.greenhouse.io/figma/jobs/6143238004?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1930,
-      "chat_id": 8743352944
-    },
     "218cf5caaf73": {
       "company": "Northrop Grumman",
       "role": "Software Engineer Intern - Aeronautics Systems",
@@ -13452,6 +13442,17 @@
       "message_id": 1922,
       "chat_id": 8743352944,
       "applied_at": "2026-09-14T18:02:35Z"
+    },
+    "4f304985a7b9": {
+      "company": "\ud83d\udd25 Figma",
+      "role": "Software Engineer Intern",
+      "location": "SF NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6143238004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1930,
+      "chat_id": 8743352944,
+      "applied_at": "2026-09-14T20:03:21Z"
     }
   }
 }

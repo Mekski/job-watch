@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853618
+    "last_update_id": 575853620
   },
   "pending": {
     "0476af88408a": {
@@ -13043,16 +13043,6 @@
       "message_id": 1918,
       "chat_id": 8743352944
     },
-    "df20ab17baaa": {
-      "company": "\ud83d\udd25 Waymo",
-      "role": "Software Engineer Intern - BS/MS",
-      "location": "SF",
-      "term": "Summer 2027",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1920,
-      "chat_id": 8743352944
-    },
     "f649aa484682": {
       "company": "FNBO",
       "role": "Technology Intern",
@@ -13061,16 +13051,6 @@
       "apply_url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1921,
-      "chat_id": 8743352944
-    },
-    "b6090fd342e5": {
-      "company": "Wells Fargo",
-      "role": "Software Engineering Intern - Early Careers - Software Engineering",
-      "location": "Concord, CA SF San Leandro, CA",
-      "term": "Summer 2027",
-      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 1922,
       "chat_id": 8743352944
     }
   },
@@ -13360,6 +13340,28 @@
       "message_id": 1549,
       "chat_id": 8743352944,
       "applied_at": "2026-09-04T23:02:21Z"
+    },
+    "df20ab17baaa": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Software Engineer Intern - BS/MS",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1920,
+      "chat_id": 8743352944,
+      "applied_at": "2026-09-14T18:02:33Z"
+    },
+    "b6090fd342e5": {
+      "company": "Wells Fargo",
+      "role": "Software Engineering Intern - Early Careers - Software Engineering",
+      "location": "Concord, CA SF San Leandro, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1922,
+      "chat_id": 8743352944,
+      "applied_at": "2026-09-14T18:02:35Z"
     }
   }
 }

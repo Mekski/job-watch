@@ -8930,7 +8930,7 @@
       "term": "Summer 2027",
       "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1293,
+      "message_id": 1941,
       "chat_id": 8743352944
     },
     "5edb9108012b": {
@@ -13131,6 +13131,86 @@
       "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1932,
+      "chat_id": 8743352944
+    },
+    "a9836779586a": {
+      "company": "\ud83d\udd25 Google",
+      "role": "User Experience Engineer Intern - PhD - Summer 2027 \ud83c\udf93",
+      "location": "25 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA Irvine, CA San Bruno, CA Redmond, WA Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1933,
+      "chat_id": 8743352944
+    },
+    "499a57466608": {
+      "company": "\ud83d\udd25 Google",
+      "role": "User Experience Engineer Intern",
+      "location": "25 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA Irvine, CA San Bruno, CA Redmond, WA Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1934,
+      "chat_id": 8743352944
+    },
+    "5110d0b71b69": {
+      "company": "EquipmentShare",
+      "role": "Software Engineer Intern",
+      "location": "Columbia, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1935,
+      "chat_id": 8743352944
+    },
+    "114515df0d09": {
+      "company": "EquipmentShare",
+      "role": "Software Engineer Intern",
+      "location": "Columbia, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1936,
+      "chat_id": 8743352944
+    },
+    "f88c398868d4": {
+      "company": "EquipmentShare",
+      "role": "Software Engineer Intern",
+      "location": "Columbia, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1937,
+      "chat_id": 8743352944
+    },
+    "97aa9fb1603f": {
+      "company": "Lowe's",
+      "role": "Software Engineer Intern",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1938,
+      "chat_id": 8743352944
+    },
+    "dc85b3d4fcfa": {
+      "company": "Lowe's",
+      "role": "Exploratory Software Engineer Intern",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1939,
+      "chat_id": 8743352944
+    },
+    "724d2447c472": {
+      "company": "Baird",
+      "role": "Software Developer Intern",
+      "location": "Madison, WI Milwaukee, WI",
+      "term": "Summer 2027",
+      "apply_url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1940,
       "chat_id": 8743352944
     }
   },

@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1978,
+      "message_id": 1996,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -10390,7 +10390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1979,
+      "message_id": 1997,
       "chat_id": 8743352944
     },
     "48ef58ff2ce2": {
@@ -13491,6 +13491,36 @@
       "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 1987,
+      "chat_id": 8743352944
+    },
+    "a88ad0a57591": {
+      "company": "Entergy",
+      "role": "AI Agent Development Intern",
+      "location": "New Orleans, LA The Woodlands, TX Hammond, LA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1993,
+      "chat_id": 8743352944
+    },
+    "f8320fd213c1": {
+      "company": "SimVentions",
+      "role": "Software Development Intern",
+      "location": "Fredericksburg, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://simventions.jibeapply.com/jobs/1631?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1994,
+      "chat_id": 8743352944
+    },
+    "10a1d69cd7b0": {
+      "company": "LexisNexis Legal & Professional",
+      "role": "Software Engineer Intern",
+      "location": "Raleigh, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 1995,
       "chat_id": 8743352944
     }
   },

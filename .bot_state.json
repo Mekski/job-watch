@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2017,
+      "message_id": 2049,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2031,
+      "message_id": 2050,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2032,
+      "message_id": 2051,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -13761,6 +13761,56 @@
       "apply_url": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2035,
+      "chat_id": 8743352944
+    },
+    "ff756c6b83a8": {
+      "company": "Enterprise Holdings",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "St. Louis, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2044,
+      "chat_id": 8743352944
+    },
+    "b20d4133f522": {
+      "company": "Bedrock Robotics",
+      "role": "Software Engineer Intern - Fleet Platform",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2045,
+      "chat_id": 8743352944
+    },
+    "9bdbd29f2ef8": {
+      "company": "Gecko Robotics",
+      "role": "Full Stack Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2046,
+      "chat_id": 8743352944
+    },
+    "8a1a0775f4fc": {
+      "company": "Talos",
+      "role": "Software Engineer Intern - Trading",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2047,
+      "chat_id": 8743352944
+    },
+    "7487a0c6c6ec": {
+      "company": "General Dynamics",
+      "role": "Information Technology Intern - Software Engineering - Computer Science",
+      "location": "5 locationsNewport, RI New London, CT North Kingstown, RI North Stonington, CT Groton, CT",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2048,
       "chat_id": 8743352944
     }
   },

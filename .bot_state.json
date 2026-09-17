@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2049,
+      "message_id": 2075,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2050,
+      "message_id": 2076,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2051,
+      "message_id": 2077,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -13971,6 +13971,16 @@
       "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2073,
+      "chat_id": 8743352944
+    },
+    "0fa25d2597b3": {
+      "company": "CoStar Group",
+      "role": "Technology Intern",
+      "location": "Irvine, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2074,
       "chat_id": 8743352944
     }
   },

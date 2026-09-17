@@ -12860,7 +12860,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1892,
+      "message_id": 2130,
       "chat_id": 8743352944
     },
     "f0afca54f84a": {
@@ -13390,7 +13390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1967,
+      "message_id": 2129,
       "chat_id": 8743352944
     },
     "7eabd4f4f85a": {
@@ -13900,7 +13900,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2065,
+      "message_id": 2128,
       "chat_id": 8743352944
     },
     "0ee9352f3a29": {
@@ -14181,6 +14181,156 @@
       "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2112,
+      "chat_id": 8743352944
+    },
+    "18255d1e488c": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Scenes Intern",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2114,
+      "chat_id": 8743352944
+    },
+    "30862d09f02c": {
+      "company": "Tower Research Capital",
+      "role": "Software Developer Intern",
+      "location": "Montreal, QC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8212179&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2115,
+      "chat_id": 8743352944
+    },
+    "af7aee50efb0": {
+      "company": "Geneva Trading",
+      "role": "AI Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2116,
+      "chat_id": 8743352944
+    },
+    "501eb92c52ba": {
+      "company": "Tower Research Capital",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8212158&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2117,
+      "chat_id": 8743352944
+    },
+    "c84a7677a807": {
+      "company": "Lennox International",
+      "role": "IoT Intern \ud83c\udf93",
+      "location": "Richardson, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2118,
+      "chat_id": 8743352944
+    },
+    "9fa13696aa2c": {
+      "company": "Honeywell",
+      "role": "Software Engineer Co-op",
+      "location": "Pittsford, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2119,
+      "chat_id": 8743352944
+    },
+    "21dc80c0354f": {
+      "company": "GM financial",
+      "role": "Software Development Engineer Intern",
+      "location": "Arlington, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2120,
+      "chat_id": 8743352944
+    },
+    "f36aa9e4476a": {
+      "company": "GM financial",
+      "role": "Software Development Engineer Intern",
+      "location": "Arlington, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2121,
+      "chat_id": 8743352944
+    },
+    "5b41d8812293": {
+      "company": "W.R. Berkley",
+      "role": "Software Developer Intern - Java",
+      "location": "Urbandale, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2122,
+      "chat_id": 8743352944
+    },
+    "db824c950a88": {
+      "company": "RTX",
+      "role": "Software Development Intern - Summer 2027",
+      "location": "Tewksbury, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2123,
+      "chat_id": 8743352944
+    },
+    "a24d5ced36ce": {
+      "company": "OCC",
+      "role": "AI Research & Engineering Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2124,
+      "chat_id": 8743352944
+    },
+    "d5641c65e78c": {
+      "company": "OCC",
+      "role": "Software Engineering Intern - UI/UX",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2125,
+      "chat_id": 8743352944
+    },
+    "059326f25785": {
+      "company": "Church & Dwight",
+      "role": "AI Developer Co-op - Graduate Program \ud83c\udf93",
+      "location": "Ewing Township, NJ",
+      "term": "Summer 2027",
+      "apply_url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2126,
+      "chat_id": 8743352944
+    },
+    "d84b7329a49a": {
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "role": "RPA Engineer Intern",
+      "location": "Topeka, KS",
+      "term": "Summer 2027",
+      "apply_url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/RPA-Engineering-Developer-Intern_R2026350?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2127,
+      "chat_id": 8743352944
+    },
+    "f6c8182295e2": {
+      "company": "Appian",
+      "role": "Software Engineer Intern",
+      "location": "McLean, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2131,
       "chat_id": 8743352944
     }
   },

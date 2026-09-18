@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2097,
+      "message_id": 2153,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2098,
+      "message_id": 2154,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -10390,7 +10390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2099,
+      "message_id": 2155,
       "chat_id": 8743352944
     },
     "48ef58ff2ce2": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2100,
+      "message_id": 2156,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2101,
+      "message_id": 2157,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2102,
+      "message_id": 2158,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -14331,6 +14331,36 @@
       "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2131,
+      "chat_id": 8743352944
+    },
+    "eb2570619666": {
+      "company": "TRC Companies",
+      "role": "Software Engineer Intern",
+      "location": "Calgary, AB, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.trccompanies.com/jobs/26840?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2150,
+      "chat_id": 8743352944
+    },
+    "f35d14a84545": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Software Development Engineer Intern - Summer",
+      "location": "Seattle, WA Arlington County, Arlington, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2151,
+      "chat_id": 8743352944
+    },
+    "330d1543d46f": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "Colorado Springs, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2152,
       "chat_id": 8743352944
     }
   },

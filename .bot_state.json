@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2162,
+      "message_id": 2176,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -14391,6 +14391,16 @@
       "apply_url": "https://apply.workable.com/cogna/j/45A6283F88/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2170,
+      "chat_id": 8743352944
+    },
+    "af0599440cd5": {
+      "company": "CoBank",
+      "role": "Software Engineer Intern",
+      "location": "Greenwood Village, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.cobank.com/jobs/7940?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2175,
       "chat_id": 8743352944
     }
   },

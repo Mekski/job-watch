@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2230,
+      "message_id": 2254,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2231,
+      "message_id": 2255,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -10390,7 +10390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2232,
+      "message_id": 2256,
       "chat_id": 8743352944
     },
     "48ef58ff2ce2": {
@@ -10400,7 +10400,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171567?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2240,
+      "message_id": 2257,
       "chat_id": 8743352944
     },
     "2cb5276ebc38": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2241,
+      "message_id": 2258,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -14561,6 +14561,86 @@
       "apply_url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2237,
+      "chat_id": 8743352944
+    },
+    "6190656d56fc": {
+      "company": "Lazard",
+      "role": "AI Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2246,
+      "chat_id": 8743352944
+    },
+    "f9b37b12c34b": {
+      "company": "Upbound Group",
+      "role": "Software Engineer Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2247,
+      "chat_id": 8743352944
+    },
+    "73bdf81c92d6": {
+      "company": "Upbound Group",
+      "role": "Software Engineer Intern",
+      "location": "Draper, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2248,
+      "chat_id": 8743352944
+    },
+    "2fd2804217bf": {
+      "company": "Upbound Group",
+      "role": "Software Engineer Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2249,
+      "chat_id": 8743352944
+    },
+    "7556b9b978fa": {
+      "company": "Upbound Group",
+      "role": "Digital Commerce Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2250,
+      "chat_id": 8743352944
+    },
+    "c8ae1e7a7a67": {
+      "company": "G-Research",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2251,
+      "chat_id": 8743352944
+    },
+    "c8d8fcbeae59": {
+      "company": "Fidelity Investments",
+      "role": "Undergraduate Internship - Software",
+      "location": "Boston, MA Westlake, TX Durham, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2252,
+      "chat_id": 8743352944
+    },
+    "122ee230e47f": {
+      "company": "Acima",
+      "role": "Software Engineer Intern",
+      "location": "Draper, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2253,
       "chat_id": 8743352944
     }
   },

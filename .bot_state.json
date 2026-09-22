@@ -12080,7 +12080,7 @@
       "term": "Summer 2027",
       "apply_url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1749,
+      "message_id": 2300,
       "chat_id": 8743352944
     },
     "2493cffee5f5": {
@@ -13540,7 +13540,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2037,
+      "message_id": 2299,
       "chat_id": 8743352944
     },
     "ba48fd33b2dc": {
@@ -14861,6 +14861,16 @@
       "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2291,
+      "chat_id": 8743352944
+    },
+    "18c0ec87b0e2": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+      "location": "San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2298,
       "chat_id": 8743352944
     }
   },

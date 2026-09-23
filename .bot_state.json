@@ -11510,7 +11510,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1661,
+      "message_id": 2372,
       "chat_id": 8743352944
     },
     "f555bb4a6fcc": {
@@ -14810,7 +14810,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2305,
+      "message_id": 2371,
       "chat_id": 8743352944
     },
     "69da716bee8b": {
@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2350,
+      "message_id": 2370,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -15101,6 +15101,46 @@
       "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2359,
+      "chat_id": 8743352944
+    },
+    "6d4925cc7899": {
+      "company": "RTX",
+      "role": "Factory Enablement Digital Engineer Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2366,
+      "chat_id": 8743352944
+    },
+    "0756ce2f1b72": {
+      "company": "Excellus BCBS",
+      "role": "Software Engineering Intern",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2367,
+      "chat_id": 8743352944
+    },
+    "bb66bbecf970": {
+      "company": "Excellus BCBS",
+      "role": "College Intern - Mobile Software Engineering Team",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2368,
+      "chat_id": 8743352944
+    },
+    "7bd8357ff2c8": {
+      "company": "CACI",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "Sterling, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2369,
       "chat_id": 8743352944
     }
   },

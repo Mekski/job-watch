@@ -6360,7 +6360,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1177,
+      "message_id": 2377,
       "chat_id": 8743352944
     },
     "6f345a396142": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2349,
+      "message_id": 2376,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -13610,7 +13610,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2006,
+      "message_id": 2375,
       "chat_id": 8743352944
     },
     "ba4cbf115ba9": {
@@ -15141,6 +15141,26 @@
       "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2369,
+      "chat_id": 8743352944
+    },
+    "6b0246d04cd6": {
+      "company": "State Farm",
+      "role": "Software Developer Intern - HR&D",
+      "location": "4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.statefarm.com/jobs/45689?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2373,
+      "chat_id": 8743352944
+    },
+    "a5401efcf3fe": {
+      "company": "General Dynamics Information Technology",
+      "role": "Software Development Intern",
+      "location": "Bossier City, LA",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2374,
       "chat_id": 8743352944
     }
   },

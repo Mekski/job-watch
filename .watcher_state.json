@@ -1,7 +1,14 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "383c9b8eb5dce77de5ea3f4e7e064030b58cfde7",
+    "last_sha": "ecce496fc8a4812ecb91c19a54f4f15c37b77960",
     "rows": [
+      [
+        "Ralliant",
+        "Research and Development Co-op",
+        "Fairport, NY",
+        "Summer 2027",
+        "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Astranis",
         "Backend Software Engineer Intern - Summer 2027",
@@ -1093,13 +1100,6 @@
         "Austin, TX",
         "Summer 2027",
         "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Plastipak",
-        "Software Engineer Intern",
-        "Plymouth, MI",
-        "Summer 2027",
-        "https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512?utm_source=Simplify&ref=Simplify"
       ],
       [
         "LexisNexis Legal & Professional",
@@ -2356,13 +2356,6 @@
       ],
       [
         "RTX",
-        "Platform System Engineering Co-op",
-        "Cedar Rapids, IA",
-        "Summer 2027",
-        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "RTX",
         "Software Engineer Intern",
         "Cedar Rapids, IA",
         "Summer 2027",
@@ -2829,6 +2822,13 @@
         "Lake St Louis, MO Mandan, ND Cedar Rapids, IA",
         "Summer 2027",
         "https://job-boards.greenhouse.io/testnisc/jobs/8174088?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Kinder Morgan",
+        "Intern - IT",
+        "Colorado Springs, CO",
+        "Summer 2027",
+        "https://careers.kindermorgan.com/jobs/6171?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Hermeus",
@@ -4422,9 +4422,37 @@
       [
         "Goldman Sachs",
         "Summer Analyst Intern - Engineering",
-        "Seattle, WA",
+        "Dallas, TX",
         "Summer 2027",
-        "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify"
+        "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Americas - Engineering",
+        "Salt Lake City, UT",
+        "Summer 2027",
+        "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Americas - Engineering",
+        "NYC",
+        "Summer 2027",
+        "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Engineering",
+        "Birmingham, UK",
+        "Summer 2027",
+        "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Engineering",
+        "London, UK",
+        "Summer 2027",
+        "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Notion",

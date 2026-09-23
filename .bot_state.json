@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2308,
+      "message_id": 2337,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2309,
+      "message_id": 2338,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -10390,7 +10390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2310,
+      "message_id": 2339,
       "chat_id": 8743352944
     },
     "48ef58ff2ce2": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2311,
+      "message_id": 2340,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2312,
+      "message_id": 2341,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -15051,6 +15051,36 @@
       "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2331,
+      "chat_id": 8743352944
+    },
+    "70572614ed9e": {
+      "company": "Astranis",
+      "role": "Backend Software Engineer Intern - Summer 2027",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2334,
+      "chat_id": 8743352944
+    },
+    "4e0a98be73d8": {
+      "company": "Astranis",
+      "role": "Software Engineer Enterprise Systems Intern - Summer 2027",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2335,
+      "chat_id": 8743352944
+    },
+    "471ddec8ad17": {
+      "company": "The Aerospace Corporation",
+      "role": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
+      "location": "El Segundo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2336,
       "chat_id": 8743352944
     }
   },

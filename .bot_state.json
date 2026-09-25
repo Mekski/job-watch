@@ -10370,7 +10370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2436,
+      "message_id": 2454,
       "chat_id": 8743352944
     },
     "d04d45a838c4": {
@@ -10410,7 +10410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2444,
+      "message_id": 2455,
       "chat_id": 8743352944
     },
     "47502be85f8a": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2441,
+      "message_id": 2456,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -11160,7 +11160,7 @@
       "term": "Summer 2027",
       "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2433,
+      "message_id": 2453,
       "chat_id": 8743352944
     },
     "d35f5f87b6de": {
@@ -15451,6 +15451,46 @@
       "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2434,
+      "chat_id": 8743352944
+    },
+    "7737e881b757": {
+      "company": "Lutron Electronics",
+      "role": "Software Engineering Co-op",
+      "location": "Philadelphia, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.lutron.com/jobs/5616?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2449,
+      "chat_id": 8743352944
+    },
+    "75d3a6cc0bbb": {
+      "company": "First Citizens BancShares",
+      "role": "IT Intern - Software Developer",
+      "location": "Raleigh, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2450,
+      "chat_id": 8743352944
+    },
+    "2a7996c678d6": {
+      "company": "Barrios",
+      "role": "Data and Computer Engineering/Computer Science Intern",
+      "location": "Houston, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2451,
+      "chat_id": 8743352944
+    },
+    "1d0aa820faae": {
+      "company": "Greenheck Group",
+      "role": "Application Developer Co-op",
+      "location": "Schofield, WI",
+      "term": "Summer 2027",
+      "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2452,
       "chat_id": 8743352944
     }
   },

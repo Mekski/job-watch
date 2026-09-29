@@ -1,7 +1,14 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "b446cca95c2f882d8364727efe6948cbd37a4e68",
+    "last_sha": "9fed3c162b6e8c2766735248169dbb7cec9aa3aa",
     "rows": [
+      [
+        "Boston Scientific",
+        "Software Development Engineer Co-op",
+        "Waltham, MA",
+        "Summer 2027",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813674232?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Cloudflare",
         "Software Engineer Intern",
@@ -15,6 +22,13 @@
         "Maple Grove, MN",
         "Summer 2027",
         "https://bostonscientific.eightfold.ai/careers/job/563602813584985?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Thrivent",
+        "Application Engineer Intern - Investments",
+        "Minneapolis, MN",
+        "Summer 2027",
+        "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Aerospace Corporation",
@@ -2607,13 +2621,6 @@
         "https://jobs.smartrecruiters.com/Skyward1/744000147320799?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Hexagon AB",
-        "Positioning Services Intern",
-        "Calgary, AB, Canada",
-        "Summer 2027",
-        "https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Waymo",
         "Software Engineering Intern - Behavior Test - MS \ud83c\udf93",
         "SF",
@@ -4190,10 +4197,10 @@
       ],
       [
         "Goldman Sachs",
-        "Summer Analyst Intern - Americas - Engineering",
-        "Salt Lake City, UT",
+        "Summer Analyst Intern - Engineering",
+        "Seattle, WA",
         "Summer 2027",
-        "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify"
+        "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Notion",
@@ -4733,13 +4740,6 @@
         "NYC",
         "Summer 2027",
         "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Heliux",
-        "Software Engineer Intern",
-        "SF",
-        "Summer 2027",
-        "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

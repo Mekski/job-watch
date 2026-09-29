@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2535,
+      "message_id": 2543,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -15681,6 +15681,16 @@
       "apply_url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2484,
+      "chat_id": 8743352944
+    },
+    "db16add983d6": {
+      "company": "Boston Scientific",
+      "role": "Software Engineer Intern - Interns/Graduates",
+      "location": "Maple Grove, MN",
+      "term": "Summer 2027",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2542,
       "chat_id": 8743352944
     }
   },

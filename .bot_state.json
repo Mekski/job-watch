@@ -8370,7 +8370,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1431,
+      "message_id": 2616,
       "chat_id": 8743352944
     },
     "4d33450c6e79": {
@@ -10060,7 +10060,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1416,
+      "message_id": 2615,
       "chat_id": 8743352944
     },
     "a51f65803317": {
@@ -15811,6 +15811,66 @@
       "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2606,
+      "chat_id": 8743352944
+    },
+    "21ba58f29d9e": {
+      "company": "Enova",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/enova/jobs/8239619?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2609,
+      "chat_id": 8743352944
+    },
+    "7f6bd8345dba": {
+      "company": "Westinghouse Electric Company",
+      "role": "Software Developer Intern - Tools & Apps",
+      "location": "Warrendale, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2610,
+      "chat_id": 8743352944
+    },
+    "49e6286ce7e6": {
+      "company": "Honeywell",
+      "role": "Software Engineering Co-op",
+      "location": "United States",
+      "term": "Summer 2027",
+      "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2611,
+      "chat_id": 8743352944
+    },
+    "4f0fa48aca64": {
+      "company": "Iridium Communications",
+      "role": "Software Engineering Intern",
+      "location": "Tempe, AZ McLean, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2612,
+      "chat_id": 8743352944
+    },
+    "aee77c12fab3": {
+      "company": "Acuity",
+      "role": "Finance AI Engineering Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2613,
+      "chat_id": 8743352944
+    },
+    "afb4ec0030ab": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "Aurora, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2614,
       "chat_id": 8743352944
     }
   },

@@ -13980,7 +13980,7 @@
       "term": "Summer 2027",
       "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2302,
+      "message_id": 2566,
       "chat_id": 8743352944
     },
     "f07d43f85720": {
@@ -15580,7 +15580,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2470,
+      "message_id": 2563,
       "chat_id": 8743352944
     },
     "f0de1807983d": {
@@ -15630,7 +15630,7 @@
       "term": "Summer 2027",
       "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2475,
+      "message_id": 2564,
       "chat_id": 8743352944
     },
     "c9b94ce0674a": {
@@ -15640,7 +15640,7 @@
       "term": "Summer 2027",
       "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2476,
+      "message_id": 2565,
       "chat_id": 8743352944
     },
     "c3363a522405": {
@@ -15680,7 +15680,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2484,
+      "message_id": 2562,
       "chat_id": 8743352944
     },
     "db16add983d6": {
@@ -15721,6 +15721,36 @@
       "apply_url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2546,
+      "chat_id": 8743352944
+    },
+    "36966b7c981c": {
+      "company": "Perchwell",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2559,
+      "chat_id": 8743352944
+    },
+    "dff8bb95e2d8": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "Woburn, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2560,
+      "chat_id": 8743352944
+    },
+    "c27f440bb23c": {
+      "company": "Q2",
+      "role": "Software Engineer Intern",
+      "location": "Cary, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2561,
       "chat_id": 8743352944
     }
   },

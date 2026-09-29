@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2543,
+      "message_id": 2607,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2547,
+      "message_id": 2608,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -15791,6 +15791,26 @@
       "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2570,
+      "chat_id": 8743352944
+    },
+    "550f5ead97f8": {
+      "company": "Marvell",
+      "role": "AI-Native Development Platform Engineer Intern",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2605,
+      "chat_id": 8743352944
+    },
+    "1a870b68700b": {
+      "company": "Marvell",
+      "role": "AI-Native Development Platform Engineer Intern",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2606,
       "chat_id": 8743352944
     }
   },

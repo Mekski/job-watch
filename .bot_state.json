@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2512,
+      "message_id": 2653,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -15951,6 +15951,96 @@
       "apply_url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2642,
+      "chat_id": 8743352944
+    },
+    "c2ac6a1e459d": {
+      "company": "Dandy",
+      "role": "Software Engineering Intern \ud83c\udf93",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2644,
+      "chat_id": 8743352944
+    },
+    "57931c74615f": {
+      "company": "MetLife",
+      "role": "Global Technology Intern",
+      "location": "4 locationsTampa, FL Hanover, NJ Cary, NC NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://metlife.avature.net/en_US/ml/JobDetail/20701?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2645,
+      "chat_id": 8743352944
+    },
+    "1c03247791e3": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Software Engineering Intern - Labeling",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8238525&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2646,
+      "chat_id": 8743352944
+    },
+    "052e09d7fed6": {
+      "company": "Peraton",
+      "role": "Software Engineering Co-op",
+      "location": "San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2647,
+      "chat_id": 8743352944
+    },
+    "493b403055da": {
+      "company": "Electronic Arts",
+      "role": "Software Engineer Intern",
+      "location": "Orlando, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2648,
+      "chat_id": 8743352944
+    },
+    "b7d780d881e4": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "PhD Research Intern - Programming Systems \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2649,
+      "chat_id": 8743352944
+    },
+    "637fffb13398": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Morrisville, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2650,
+      "chat_id": 8743352944
+    },
+    "6875fd2e8857": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Rolling Meadows, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2651,
+      "chat_id": 8743352944
+    },
+    "32835f0c50ad": {
+      "company": "Northrop Grumman",
+      "role": "Cyber Software Engineer Intern",
+      "location": "Tampa, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2652,
       "chat_id": 8743352944
     }
   },

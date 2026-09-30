@@ -9200,7 +9200,7 @@
       "term": "Summer 2027",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1322,
+      "message_id": 2635,
       "chat_id": 8743352944
     },
     "eb787a8a27e1": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2622,
+      "message_id": 2636,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -15470,7 +15470,7 @@
       "term": "Summer 2027",
       "apply_url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2450,
+      "message_id": 2634,
       "chat_id": 8743352944
     },
     "2a7996c678d6": {
@@ -15911,6 +15911,16 @@
       "apply_url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2630,
+      "chat_id": 8743352944
+    },
+    "6a19f3c84ab1": {
+      "company": "Wellmark",
+      "role": "Software Engineer Intern - Metadata Enablement Team",
+      "location": "Des Moines, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2633,
       "chat_id": 8743352944
     }
   },

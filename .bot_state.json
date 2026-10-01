@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2636,
+      "message_id": 2655,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -16041,6 +16041,16 @@
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2652,
+      "chat_id": 8743352944
+    },
+    "1f422cf65540": {
+      "company": "\ud83d\udd25 Stripe",
+      "role": "Software Engineer Intern",
+      "location": "Seattle, WA SF",
+      "term": "Summer 2027",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2654,
       "chat_id": 8743352944
     }
   },

@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853621
+    "last_update_id": 575853623
   },
   "pending": {
     "0476af88408a": {
@@ -16173,16 +16173,6 @@
       "message_id": 2682,
       "chat_id": 8743352944
     },
-    "db360affbf97": {
-      "company": "Riot Games",
-      "role": "Software Engineer Intern",
-      "location": "LA",
-      "term": "Summer 2027",
-      "apply_url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 2683,
-      "chat_id": 8743352944
-    },
     "68d098fe90a0": {
       "company": "Veeam Software",
       "role": "Competitive Intelligence AI Engineer Intern",
@@ -16201,16 +16191,6 @@
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2685,
-      "chat_id": 8743352944
-    },
-    "a3096316dcb8": {
-      "company": "\ud83d\udd25 Pinterest",
-      "role": "Software Engineer Intern",
-      "location": "SF Remote in USA",
-      "term": "Summer 2027",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 2686,
       "chat_id": 8743352944
     },
     "27ab536f4382": {
@@ -16643,6 +16623,28 @@
       "message_id": 1930,
       "chat_id": 8743352944,
       "applied_at": "2026-09-14T20:03:21Z"
+    },
+    "a3096316dcb8": {
+      "company": "\ud83d\udd25 Pinterest",
+      "role": "Software Engineer Intern",
+      "location": "SF Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2686,
+      "chat_id": 8743352944,
+      "applied_at": "2026-10-01T23:02:42Z"
+    },
+    "db360affbf97": {
+      "company": "Riot Games",
+      "role": "Software Engineer Intern",
+      "location": "LA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2683,
+      "chat_id": 8743352944,
+      "applied_at": "2026-10-01T23:02:43Z"
     }
   }
 }

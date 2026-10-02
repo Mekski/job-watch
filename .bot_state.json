@@ -14810,7 +14810,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2699,
+      "message_id": 2737,
       "chat_id": 8743352944
     },
     "69da716bee8b": {
@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2711,
+      "message_id": 2736,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -15290,7 +15290,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2417,
+      "message_id": 2735,
       "chat_id": 8743352944
     },
     "1d0bce1c927b": {
@@ -16340,7 +16340,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2703,
+      "message_id": 2734,
       "chat_id": 8743352944
     },
     "a0969e60b9b9": {
@@ -16411,6 +16411,126 @@
       "apply_url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2719,
+      "chat_id": 8743352944
+    },
+    "63bd03fb885a": {
+      "company": "\ud83d\udd25 Databricks",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8847738002&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2722,
+      "chat_id": 8743352944
+    },
+    "7e5eeb03e5e4": {
+      "company": "Arc",
+      "role": "Software Engineer Intern",
+      "location": "Torrance, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2723,
+      "chat_id": 8743352944
+    },
+    "8e267b941bf6": {
+      "company": "Harvey",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2724,
+      "chat_id": 8743352944
+    },
+    "bef63279592e": {
+      "company": "Harvey",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2725,
+      "chat_id": 8743352944
+    },
+    "67a8ed738076": {
+      "company": "Intuit",
+      "role": "Marketing Intern - AI Tooling for Marketing Efficiency",
+      "location": "SF Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2726,
+      "chat_id": 8743352944
+    },
+    "19b6ae307270": {
+      "company": "Vanguard",
+      "role": "IT Intern Application Development",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2727,
+      "chat_id": 8743352944
+    },
+    "d130a08cc086": {
+      "company": "Vanguard",
+      "role": "College to Corporate Investment Systems Intern",
+      "location": "Malvern, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2728,
+      "chat_id": 8743352944
+    },
+    "34c8422db6ea": {
+      "company": "Nelnet",
+      "role": "IT Software Engineer Intern",
+      "location": "Lincoln, NE",
+      "term": "Summer 2027",
+      "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2729,
+      "chat_id": 8743352944
+    },
+    "1cb8737e4f8c": {
+      "company": "Leidos",
+      "role": "Software Developer Intern",
+      "location": "Annapolis Junction, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2730,
+      "chat_id": 8743352944
+    },
+    "8514115b635e": {
+      "company": "Leidos",
+      "role": "Technical Intern \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2731,
+      "chat_id": 8743352944
+    },
+    "e580a9de481e": {
+      "company": "General Motors",
+      "role": "Software Engineer Intern - AV/AI Platform",
+      "location": "Sunnyvale, CA Warren, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2732,
+      "chat_id": 8743352944
+    },
+    "9649de083fc9": {
+      "company": "CACI",
+      "role": "Software Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2733,
       "chat_id": 8743352944
     }
   },

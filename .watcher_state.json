@@ -1,7 +1,14 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "90e174a5fda87e002ade95f5b06465fad03b1b61",
+    "last_sha": "77769c87ad41326c644377c58c7a486b42640a83",
     "rows": [
+      [
+        "Mindex",
+        "Software Engineer Co-op",
+        "Rochester, NY",
+        "Summer 2027",
+        "https://apply.workable.com/mindex/j/84B10DB922/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Google",
         "Forward Deployed Engineer Intern",
@@ -983,13 +990,6 @@
         "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Acima",
-        "Software Engineer Intern",
-        "Draper, UT",
-        "Summer 2027",
-        "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Epic Games",
         "Tools Programmer Intern",
         "Cary, NC",
@@ -1205,13 +1205,6 @@
         "Victoria, BC, Canada Vancouver, BC, Canada",
         "Summer 2027",
         "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "British Columbia Investment",
-        "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
-        "Victoria, BC, Canada",
-        "Summer 2027",
-        "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Avis Budget Group",
@@ -4036,13 +4029,6 @@
       ],
       [
         "\ud83d\udd25 AMD",
-        "Software Engineer Intern/Co-op - Masters \ud83c\udf93",
-        "San Jose, CA Santa Clara, CA",
-        "Summer 2027",
-        "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 AMD",
         "Software Engineer Intern/Co-op",
         "6 locationsRochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA",
         "Summer 2027",
@@ -4236,6 +4222,13 @@
         "Des Moines, IA",
         "Summer 2027",
         "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Americas - Engineering",
+        "Salt Lake City, UT",
+        "Summer 2027",
+        "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Notion",
@@ -4572,41 +4565,6 @@
         "Chicago, IL",
         "Summer 2027",
         "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Software Engineer Intern - AI Infra Compute \ud83c\udf93",
-        "Seattle, WA",
-        "Summer 2027",
-        "https://jobs.bytedance.com/en/position/7667378931599214853/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Software Engineer Intern - AI Infrastructure Compute \ud83c\udf93",
-        "San Jose, CA",
-        "Summer 2027",
-        "https://jobs.bytedance.com/en/position/7667377525182662965/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Software Engineer Intern - Distributed NoSQL Database Systems",
-        "San Jose, CA",
-        "Summer 2027",
-        "https://jobs.bytedance.com/en/position/7668374190764050741/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Software Engineer Intern",
-        "Seattle, WA",
-        "Summer 2027",
-        "https://jobs.bytedance.com/en/position/7668373268886161669/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Microsoft",
-        "Software Engineer Intern - CoreAI",
-        "Redmond, WA",
-        "Summer 2027",
-        "https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

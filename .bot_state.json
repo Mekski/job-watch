@@ -6100,7 +6100,7 @@
       "term": "Summer 2027",
       "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2043,
+      "message_id": 2721,
       "chat_id": 8743352944
     },
     "cb0f5c167d5e": {
@@ -7970,7 +7970,7 @@
       "term": "Summer 2027",
       "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2413,
+      "message_id": 2720,
       "chat_id": 8743352944
     },
     "b8f37a0a58d1": {
@@ -16361,6 +16361,56 @@
       "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2714,
+      "chat_id": 8743352944
+    },
+    "ff9d793c8b5b": {
+      "company": "Affirm",
+      "role": "Software Engineer Intern - Machine Learning",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2715,
+      "chat_id": 8743352944
+    },
+    "fcd8f1055c96": {
+      "company": "Affirm",
+      "role": "Software Engineer Intern - Summer 2027",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2716,
+      "chat_id": 8743352944
+    },
+    "f3a9a4b7ea06": {
+      "company": "xAI",
+      "role": "Software Engineer Intern/Co-op",
+      "location": "Palo Alto, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255111007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2717,
+      "chat_id": 8743352944
+    },
+    "52f6e3724c41": {
+      "company": "Elevance Health",
+      "role": "Engineering Intern",
+      "location": "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2718,
+      "chat_id": 8743352944
+    },
+    "31f7d63d1b41": {
+      "company": "Elevance Health",
+      "role": "Engineering Graduate Intern \ud83c\udf93",
+      "location": "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2719,
       "chat_id": 8743352944
     }
   },

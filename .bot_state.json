@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2931,
+      "message_id": 2961,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -14810,7 +14810,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2874,
+      "message_id": 2960,
       "chat_id": 8743352944
     },
     "69da716bee8b": {
@@ -16340,7 +16340,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2914,
+      "message_id": 2959,
       "chat_id": 8743352944
     },
     "a0969e60b9b9": {
@@ -16520,7 +16520,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2933,
+      "message_id": 2958,
       "chat_id": 8743352944
     },
     "9649de083fc9": {
@@ -16731,6 +16731,46 @@
       "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2949,
+      "chat_id": 8743352944
+    },
+    "3da2f40cb5e8": {
+      "company": "Khan Academy",
+      "role": "Software Engineer Intern",
+      "location": "Remote in USA Remote in Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2954,
+      "chat_id": 8743352944
+    },
+    "5716cf387e8f": {
+      "company": "IDEMIA",
+      "role": "Software Engineer Intern",
+      "location": "Reston, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2955,
+      "chat_id": 8743352944
+    },
+    "0076171d5b95": {
+      "company": "General Dynamics Mission Systems",
+      "role": "Software Engineer Intern - CWL",
+      "location": "Manassas, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2956,
+      "chat_id": 8743352944
+    },
+    "9412e7c6bf64": {
+      "company": "Leidos",
+      "role": "Software Developer Intern",
+      "location": "Annapolis Junction, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2957,
       "chat_id": 8743352944
     }
   },

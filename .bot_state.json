@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2963,
+      "message_id": 2989,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -16891,6 +16891,46 @@
       "apply_url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2984,
+      "chat_id": 8743352944
+    },
+    "9e4a59fb3572": {
+      "company": "Space Dynamics Laboratory",
+      "role": "Software Engineer Intern - Software, AI, & Machine Learning",
+      "location": "North Logan, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2985,
+      "chat_id": 8743352944
+    },
+    "832cce57d52b": {
+      "company": "Space Dynamics Laboratory",
+      "role": "Software Engineer Intern - AI Enabled Software Development",
+      "location": "North Logan, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2986,
+      "chat_id": 8743352944
+    },
+    "db35c6d45a65": {
+      "company": "Procter & Gamble",
+      "role": "IT Technical Specialist Intern",
+      "location": "Newcastle upon Tyne, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2987,
+      "chat_id": 8743352944
+    },
+    "b0c386a73bd5": {
+      "company": "RTX",
+      "role": "Software Engineering Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2988,
       "chat_id": 8743352944
     }
   },

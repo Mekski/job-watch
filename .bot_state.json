@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2964,
+      "message_id": 3006,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -11380,7 +11380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1648,
+      "message_id": 3004,
       "chat_id": 8743352944
     },
     "31cc5887f42c": {
@@ -11390,7 +11390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1649,
+      "message_id": 3005,
       "chat_id": 8743352944
     },
     "7ea2691c48a8": {
@@ -16340,7 +16340,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2959,
+      "message_id": 3003,
       "chat_id": 8743352944
     },
     "a0969e60b9b9": {
@@ -16951,6 +16951,106 @@
       "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2991,
+      "chat_id": 8743352944
+    },
+    "6c3a99cb3b6e": {
+      "company": "Niantic Spatial",
+      "role": "Software Engineer Intern",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2993,
+      "chat_id": 8743352944
+    },
+    "ff6a87e0ebe6": {
+      "company": "Pure Storage",
+      "role": "Software Engineer Intern",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2994,
+      "chat_id": 8743352944
+    },
+    "4c84abc7817c": {
+      "company": "Royal Bank of Canada",
+      "role": "Capital Markets Intern - Quantitative Technology Services",
+      "location": "Raleigh, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2995,
+      "chat_id": 8743352944
+    },
+    "9fff0a15a361": {
+      "company": "Leidos",
+      "role": "Systems Engineer Intern",
+      "location": "Arlington County, Arlington, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2996,
+      "chat_id": 8743352944
+    },
+    "6714f38dc424": {
+      "company": "Leidos",
+      "role": "Software Engineer Intern",
+      "location": "Arlington County, Arlington, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2997,
+      "chat_id": 8743352944
+    },
+    "a4c17f4e6aaf": {
+      "company": "F5",
+      "role": "Software Development Engineer Intern",
+      "location": "Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2998,
+      "chat_id": 8743352944
+    },
+    "c4cc8f33e066": {
+      "company": "Capital One",
+      "role": "Full Stack Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2999,
+      "chat_id": 8743352944
+    },
+    "30990dce2af7": {
+      "company": "American Family Insurance Group",
+      "role": "Backend Digital Sales Intern",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3000,
+      "chat_id": 8743352944
+    },
+    "3bfcaf127aef": {
+      "company": "ABB",
+      "role": "AI Engineering ERP Intern",
+      "location": "Cary, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3001,
+      "chat_id": 8743352944
+    },
+    "c081b75e0c2a": {
+      "company": "ABB",
+      "role": "AI Engineering Intern - Business Systems",
+      "location": "Cary, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3002,
       "chat_id": 8743352944
     }
   },

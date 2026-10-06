@@ -10380,7 +10380,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2961,
+      "message_id": 2967,
       "chat_id": 8743352944
     },
     "ccea3f9c4db2": {
@@ -16791,6 +16791,16 @@
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2965,
+      "chat_id": 8743352944
+    },
+    "018da9aa8e76": {
+      "company": "Liberty Mutual",
+      "role": "Software Development Co-op",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2966,
       "chat_id": 8743352944
     }
   },

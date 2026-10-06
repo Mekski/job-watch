@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2932,
+      "message_id": 2964,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2943,
+      "message_id": 2963,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -16771,6 +16771,16 @@
       "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 2957,
+      "chat_id": 8743352944
+    },
+    "f53ea3b00f23": {
+      "company": "Arondite",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://apply.workable.com/arondite/j/D3211449EF/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 2962,
       "chat_id": 8743352944
     }
   },

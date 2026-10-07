@@ -13900,7 +13900,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2128,
+      "message_id": 3052,
       "chat_id": 8743352944
     },
     "0ee9352f3a29": {
@@ -14810,7 +14810,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3036,
+      "message_id": 3051,
       "chat_id": 8743352944
     },
     "69da716bee8b": {
@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3018,
+      "message_id": 3050,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -16260,7 +16260,7 @@
       "term": "Summer 2027",
       "apply_url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2693,
+      "message_id": 3048,
       "chat_id": 8743352944
     },
     "8b9aca399b12": {
@@ -16340,7 +16340,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3035,
+      "message_id": 3049,
       "chat_id": 8743352944
     },
     "a0969e60b9b9": {
@@ -17151,6 +17151,56 @@
       "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3040,
+      "chat_id": 8743352944
+    },
+    "1f50864569da": {
+      "company": "Illinois Tool Works",
+      "role": "Software Engineer Intern - Application Software",
+      "location": "Eden Prairie, MN",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.itw.com/global/en/job/JR10491?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3043,
+      "chat_id": 8743352944
+    },
+    "4bb2d69a2130": {
+      "company": "State Affairs",
+      "role": "Software Engineer Intern",
+      "location": "Washington, DC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3044,
+      "chat_id": 8743352944
+    },
+    "5493db70af87": {
+      "company": "Nissan Global",
+      "role": "Systems Engineer Intern - Summer 2027",
+      "location": "Canton, MS",
+      "term": "Summer 2027",
+      "apply_url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3045,
+      "chat_id": 8743352944
+    },
+    "76db82caffe9": {
+      "company": "Leidos",
+      "role": "Technical Intern",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3046,
+      "chat_id": 8743352944
+    },
+    "3f975897ee8c": {
+      "company": "Dow Jones",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3047,
       "chat_id": 8743352944
     }
   },

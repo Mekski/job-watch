@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3014,
+      "message_id": 3041,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3015,
+      "message_id": 3042,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -17131,6 +17131,26 @@
       "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3038,
+      "chat_id": 8743352944
+    },
+    "f6074f60aea7": {
+      "company": "SailPoint",
+      "role": "Software Engineer Intern - Platform Engines",
+      "location": "Remote in UK",
+      "term": "Summer 2027",
+      "apply_url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3039,
+      "chat_id": 8743352944
+    },
+    "d372eb533ae0": {
+      "company": "McKesson",
+      "role": "Software Engineer Intern",
+      "location": "Pittsburgh, PA Columbus, OH Irving, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3040,
       "chat_id": 8743352944
     }
   },

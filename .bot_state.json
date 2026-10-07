@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2989,
+      "message_id": 3011,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -15960,7 +15960,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2644,
+      "message_id": 3010,
       "chat_id": 8743352944
     },
     "57931c74615f": {
@@ -17061,6 +17061,26 @@
       "apply_url": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3007,
+      "chat_id": 8743352944
+    },
+    "86005fe2357d": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Intern - Multiple Teams",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257660&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3008,
+      "chat_id": 8743352944
+    },
+    "05c797c5c86a": {
+      "company": "F5",
+      "role": "Software Developer Intern",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3009,
       "chat_id": 8743352944
     }
   },

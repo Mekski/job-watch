@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3058,
+      "message_id": 3069,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3059,
+      "message_id": 3070,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -17231,6 +17231,26 @@
       "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3062,
+      "chat_id": 8743352944
+    },
+    "1a96b70cf438": {
+      "company": "Robert Bosch Venture Capital",
+      "role": "Business Digitalisation & AI Automation Intern",
+      "location": "Denham, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154478885?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3067,
+      "chat_id": 8743352944
+    },
+    "880896edea9c": {
+      "company": "Moog",
+      "role": "Software Engineer Intern",
+      "location": "Mineral Wells, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3068,
       "chat_id": 8743352944
     }
   },

@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3069,
+      "message_id": 3113,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -17401,6 +17401,56 @@
       "apply_url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3106,
+      "chat_id": 8743352944
+    },
+    "cb979815bfff": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+      "location": "Orlando, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.amd.com/jobs/91341?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3108,
+      "chat_id": 8743352944
+    },
+    "3430158608db": {
+      "company": "\ud83d\udd25 Coinbase",
+      "role": "Forward Deployed Engineer Intern - HR Technology",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8175510&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3109,
+      "chat_id": 8743352944
+    },
+    "c6b8cbf4db70": {
+      "company": "Capstone Investment Advisors",
+      "role": "Tech Execution Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3110,
+      "chat_id": 8743352944
+    },
+    "068aa914cd7d": {
+      "company": "Wawa",
+      "role": "Information Technology Development Intern",
+      "location": "Media, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3111,
+      "chat_id": 8743352944
+    },
+    "63d282c5fe49": {
+      "company": "Elanco",
+      "role": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+      "location": "Indianapolis, IN",
+      "term": "Summer 2027",
+      "apply_url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3112,
       "chat_id": 8743352944
     }
   },

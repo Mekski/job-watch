@@ -1,13 +1,41 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "cfa02c55bca4aa0c16194d8533a06f613573e874",
+    "last_sha": "d4923213e496016163027ac9120d523bc799e22c",
     "rows": [
+      [
+        "\ud83d\udd25 AMD",
+        "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+        "Orlando, FL",
+        "Summer 2027",
+        "https://careers.amd.com/jobs/91341?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Coinbase",
+        "Forward Deployed Engineer Intern - HR Technology",
+        "NYC",
+        "Summer 2027",
+        "https://boards.greenhouse.io/embed/job_app?token=8175510&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Capstone Investment Advisors",
+        "Tech Execution Intern",
+        "NYC",
+        "Summer 2027",
+        "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "WTW",
         "Software Developer Intern",
         "Reigate, UK",
         "Summer 2027",
         "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Wawa",
+        "Information Technology Development Intern",
+        "Media, PA",
+        "Summer 2027",
+        "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Papa John's",
@@ -22,6 +50,13 @@
         "Cambridge, UK",
         "Summer 2027",
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Elanco",
+        "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+        "Indianapolis, IN",
+        "Summer 2027",
+        "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Peraton",
@@ -106,13 +141,6 @@
         "LA",
         "Summer 2027",
         "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Autonomous Driving Software Engineer Intern",
-        "Sunnyvale, CA",
-        "Summer 2027",
-        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064?utm_source=Simplify&ref=Simplify"
       ],
       [
         "7-Eleven",
@@ -1359,13 +1387,6 @@
         "Mequon, WI",
         "Summer 2027",
         "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Tyler Technologies",
-        "Software Development Intern - Summer 2027",
-        "Yarmouth, ME Orono, ME Falmouth, ME",
-        "Summer 2027",
-        "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tyler Technologies",
@@ -4273,6 +4294,13 @@
         "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Goldman Sachs",
+        "Summer Analyst Intern - Engineering",
+        "London, UK",
+        "Summer 2027",
+        "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "\ud83d\udd25 Notion",
         "Software Engineer Intern - Summer 2027",
         "SF NYC",
@@ -4355,20 +4383,6 @@
         "London, UK",
         "Summer 2027",
         "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Altamira Technologies",
-        "Software Development Intern",
-        "Fairborn, OH",
-        "Summer 2027",
-        "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Atoms",
-        "Machine Learning PhD Software Engineer Intern \ud83c\udf93",
-        "4 locationsSeattle, WA LA NYC Mountain View, CA",
-        "Summer 2027",
-        "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

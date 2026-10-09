@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3090,
+      "message_id": 3105,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -17381,6 +17381,16 @@
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3088,
+      "chat_id": 8743352944
+    },
+    "b3797558c007": {
+      "company": "WTW",
+      "role": "Software Developer Intern",
+      "location": "Reigate, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3104,
       "chat_id": 8743352944
     }
   },

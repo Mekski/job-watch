@@ -9050,7 +9050,7 @@
       "term": "Summer 2027",
       "apply_url": "https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1305,
+      "message_id": 3129,
       "chat_id": 8743352944
     },
     "df05b12b524c": {
@@ -17541,6 +17541,16 @@
       "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3124,
+      "chat_id": 8743352944
+    },
+    "cd674e48e747": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "Graphics Software Engineer Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3130,
       "chat_id": 8743352944
     }
   },

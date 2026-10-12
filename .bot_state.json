@@ -8740,7 +8740,7 @@
       "term": "Summer 2027",
       "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1270,
+      "message_id": 3174,
       "chat_id": 8743352944
     },
     "b70b05aaa5c7": {
@@ -16010,7 +16010,7 @@
       "term": "Summer 2027",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2905,
+      "message_id": 3173,
       "chat_id": 8743352944
     },
     "637fffb13398": {
@@ -16660,7 +16660,7 @@
       "term": "Summer 2027",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2930,
+      "message_id": 3172,
       "chat_id": 8743352944
     },
     "92770a95114a": {
@@ -17651,6 +17651,56 @@
       "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3166,
+      "chat_id": 8743352944
+    },
+    "e31806ecbb40": {
+      "company": "\ud83d\udd25 Databricks",
+      "role": "Software Engineer Intern",
+      "location": "4 locationsSF Bellevue, WA Mountain View, CA Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3167,
+      "chat_id": 8743352944
+    },
+    "d894f76df12d": {
+      "company": "General Dynamics Information Technology",
+      "role": "Software Development Intern",
+      "location": "Falls Church, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3168,
+      "chat_id": 8743352944
+    },
+    "eb6c691fcda6": {
+      "company": "General Dynamics Information Technology",
+      "role": "Software Development Intern",
+      "location": "Falls Church, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3169,
+      "chat_id": 8743352944
+    },
+    "bb389b353d8e": {
+      "company": "General Dynamics Information Technology",
+      "role": "Software Development Intern",
+      "location": "Falls Church, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3170,
+      "chat_id": 8743352944
+    },
+    "85bfb2587e77": {
+      "company": "AtkinsR\u00e9alis",
+      "role": "Software Developer Intern",
+      "location": "Denver, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3171,
       "chat_id": 8743352944
     }
   },

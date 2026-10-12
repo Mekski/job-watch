@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3151,
+      "message_id": 3164,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -10430,7 +10430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3146,
+      "message_id": 3165,
       "chat_id": 8743352944
     },
     "8255b1daf0c8": {
@@ -17560,7 +17560,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3139,
+      "message_id": 3163,
       "chat_id": 8743352944
     },
     "a4b0ae428ad4": {
@@ -17591,6 +17591,56 @@
       "apply_url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3150,
+      "chat_id": 8743352944
+    },
+    "264fe07d8f63": {
+      "company": "\ud83d\udd25 Google",
+      "role": "Forward Deployed Engineer Intern",
+      "location": "NYC Sunnyvale, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3158,
+      "chat_id": 8743352944
+    },
+    "8c05ba11d119": {
+      "company": "Capula",
+      "role": "Technology Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3159,
+      "chat_id": 8743352944
+    },
+    "d02e1c13fa16": {
+      "company": "Bosch Home Comfort",
+      "role": "AI Business Solutions Intern",
+      "location": "Coventry, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154992819?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3160,
+      "chat_id": 8743352944
+    },
+    "e34c4ae6a6d7": {
+      "company": "CapTech Consulting",
+      "role": "Consulting Software Engineer Intern",
+      "location": "Richmond, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3161,
+      "chat_id": 8743352944
+    },
+    "fcec63365dc0": {
+      "company": "LSEG",
+      "role": "Engineering Intern",
+      "location": "Nottingham, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3162,
       "chat_id": 8743352944
     }
   },

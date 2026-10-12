@@ -10420,7 +10420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3145,
+      "message_id": 3151,
       "chat_id": 8743352944
     },
     "5589d0c9775c": {
@@ -17561,6 +17561,36 @@
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3139,
+      "chat_id": 8743352944
+    },
+    "a4b0ae428ad4": {
+      "company": "Kainos",
+      "role": "Placement Technologist Intern",
+      "location": "Londonderry, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3148,
+      "chat_id": 8743352944
+    },
+    "d95d2fe55e66": {
+      "company": "Kainos",
+      "role": "Technologist Intern",
+      "location": "Belfast, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3149,
+      "chat_id": 8743352944
+    },
+    "455c7315a0a2": {
+      "company": "Kainos",
+      "role": "Technologist Intern",
+      "location": "Birmingham, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3150,
       "chat_id": 8743352944
     }
   },

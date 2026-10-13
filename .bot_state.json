@@ -12200,7 +12200,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1768,
+      "message_id": 3221,
       "chat_id": 8743352944
     },
     "b729a07d431f": {
@@ -15290,7 +15290,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2735,
+      "message_id": 3220,
       "chat_id": 8743352944
     },
     "1d0bce1c927b": {
@@ -17170,7 +17170,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3044,
+      "message_id": 3218,
       "chat_id": 8743352944
     },
     "5493db70af87": {
@@ -17851,6 +17851,126 @@
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3200,
+      "chat_id": 8743352944
+    },
+    "9690e3cc8c55": {
+      "company": "Boston Consulting Group",
+      "role": "Forward Deployed AI Engineer Intern \ud83c\udf93",
+      "location": "4 locationsBoston, MA LA Chicago, IL NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.bcg.com/global/en/job/59702?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3207,
+      "chat_id": 8743352944
+    },
+    "6f2b43bfb2ce": {
+      "company": "Carbon Robotics",
+      "role": "Engineering Intern - Hardware & Software",
+      "location": "Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3208,
+      "chat_id": 8743352944
+    },
+    "7961aee9a8e9": {
+      "company": "\ud83d\udd25 Figma",
+      "role": "PhD Intern - Software Engineer - Graphics \ud83c\udf93",
+      "location": "SF NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6219995004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3209,
+      "chat_id": 8743352944
+    },
+    "d0fa420afef9": {
+      "company": "Electronic Arts",
+      "role": "Technical Artist Co-op",
+      "location": "Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3210,
+      "chat_id": 8743352944
+    },
+    "f2062ef69e58": {
+      "company": "\ud83d\udd25 Netflix",
+      "role": "Software Engineer Intern",
+      "location": "LA Los Gatos, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://explore.jobs.netflix.net/careers/job/790318904468?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3211,
+      "chat_id": 8743352944
+    },
+    "3f88b632ccc6": {
+      "company": "Medpace",
+      "role": "Python Developer Intern",
+      "location": "Cincinnati, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.medpace.com/jobs/13059?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3212,
+      "chat_id": 8743352944
+    },
+    "47918ea5a8ec": {
+      "company": "Rhombus",
+      "role": "Software Engineer Intern",
+      "location": "Sacramento, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3213,
+      "chat_id": 8743352944
+    },
+    "ea322109f9c0": {
+      "company": "\ud83d\udd25 ServiceNow",
+      "role": "AI Engineering Associate Software Engineer Intern",
+      "location": "4 locationsSanta Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3214,
+      "chat_id": 8743352944
+    },
+    "62c2fa647bcb": {
+      "company": "\ud83d\udd25 ServiceNow",
+      "role": "Software Engineer Intern \ud83c\udf93",
+      "location": "4 locationsSanta Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3215,
+      "chat_id": 8743352944
+    },
+    "63d5723fc7b5": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "Sparse Linear Algebra Libraries Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3216,
+      "chat_id": 8743352944
+    },
+    "4c8e25e4b192": {
+      "company": "CAI",
+      "role": "Programmer Intern",
+      "location": "Allentown, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3217,
+      "chat_id": 8743352944
+    },
+    "6182517733c1": {
+      "company": "H&R Block",
+      "role": "Software Engineer Intern",
+      "location": "Kansas City, MO",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.hrblock.com/jobs/76987?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3219,
       "chat_id": 8743352944
     }
   },

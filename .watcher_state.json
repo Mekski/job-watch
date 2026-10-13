@@ -1,13 +1,90 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "b1db41f75e7c0b0f6cf66f4227c74c129940730c",
+    "last_sha": "07a07b88e95d1caabb910cf95e9311bb66c3e97c",
     "rows": [
+      [
+        "Boston Consulting Group",
+        "Forward Deployed AI Engineer Intern \ud83c\udf93",
+        "4 locationsBoston, MA LA Chicago, IL NYC",
+        "Summer 2027",
+        "https://careers.bcg.com/global/en/job/59702?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Carbon Robotics",
+        "Engineering Intern - Hardware & Software",
+        "Seattle, WA",
+        "Summer 2027",
+        "https://carbonrobotics.com/job-openings?gh_jid=4721558006&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Figma",
+        "PhD Intern - Software Engineer - Graphics \ud83c\udf93",
+        "SF NYC",
+        "Summer 2027",
+        "https://boards.greenhouse.io/figma/jobs/6219995004?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Electronic Arts",
+        "Technical Artist Co-op",
+        "Vancouver, BC, Canada",
+        "Summer 2027",
+        "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Netflix",
+        "Software Engineer Intern",
+        "LA Los Gatos, CA",
+        "Summer 2027",
+        "https://explore.jobs.netflix.net/careers/job/790318904468?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Medpace",
+        "Python Developer Intern",
+        "Cincinnati, OH",
+        "Summer 2027",
+        "https://careers.medpace.com/jobs/13059?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Rhombus",
+        "Software Engineer Intern",
+        "Sacramento, CA",
+        "Summer 2027",
+        "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 ServiceNow",
+        "AI Engineering Associate Software Engineer Intern",
+        "4 locationsSanta Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA",
+        "Summer 2027",
+        "https://jobs.smartrecruiters.com/ServiceNow/744000155345889?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 ServiceNow",
+        "Software Engineer Intern \ud83c\udf93",
+        "4 locationsSanta Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA",
+        "Summer 2027",
+        "https://jobs.smartrecruiters.com/ServiceNow/744000155345689?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "RTX",
         "Software Engineer Intern",
         "Annapolis Junction, MD",
         "Summer 2027",
         "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 NVIDIA",
+        "Sparse Linear Algebra Libraries Intern \ud83c\udf93",
+        "Santa Clara, CA",
+        "Summer 2027",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CAI",
+        "Programmer Intern",
+        "Allentown, PA",
+        "Summer 2027",
+        "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Databricks",
@@ -372,6 +449,13 @@
         "Reston, VA",
         "Summer 2027",
         "https://uscareers-idemia.icims.com/jobs/8657/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "State Affairs",
+        "Software Engineer Intern",
+        "Washington, DC",
+        "Summer 2027",
+        "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Anduril",
@@ -900,13 +984,6 @@
       ],
       [
         "MFS",
-        "Software Data Intern",
-        "Boston, MA",
-        "Summer 2027",
-        "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "MFS",
         "Software Engineer Intern",
         "Boston, MA",
         "Summer 2027",
@@ -1137,6 +1214,13 @@
         "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "H&R Block",
+        "Software Engineer Intern",
+        "Kansas City, MO",
+        "Summer 2027",
+        "https://careers.hrblock.com/jobs/76987?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "The Aerospace Corporation",
         "Software Engineering Intern - Software Tools and Assurance \ud83c\udf93",
         "El Segundo, CA",
@@ -1261,6 +1345,13 @@
         "Kansas City, MO",
         "Summer 2027",
         "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Boston Scientific",
+        "Software Engineer Intern - R&D",
+        "Arden Hills, MN",
+        "Summer 2027",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Lazard",
@@ -1527,13 +1618,6 @@
         "Mequon, WI",
         "Summer 2027",
         "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Tyler Technologies",
-        "Software Development Intern - Summer 2027",
-        "Yarmouth, ME Orono, ME Falmouth, ME",
-        "Summer 2027",
-        "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tyler Technologies",
@@ -2640,6 +2724,13 @@
         "Cambridge, MA NYC",
         "Summer 2027",
         "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern",
+        "Huntsville, AL",
+        "Summer 2027",
+        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Kensho",
@@ -4355,20 +4446,6 @@
         "Des Moines, IA",
         "Summer 2027",
         "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Goldman Sachs",
-        "Summer Analyst Intern - Engineering",
-        "London, UK",
-        "Summer 2027",
-        "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Goldman Sachs",
-        "Summer Analyst Intern - Engineering",
-        "Seattle, WA",
-        "Summer 2027",
-        "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Notion",

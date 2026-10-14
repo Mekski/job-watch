@@ -17710,7 +17710,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3175,
+      "message_id": 3238,
       "chat_id": 8743352944
     },
     "176014c718c9": {
@@ -18001,6 +18001,36 @@
       "apply_url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3232,
+      "chat_id": 8743352944
+    },
+    "bc39e5386e40": {
+      "company": "Point72",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/point72/jobs/8885733002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3236,
+      "chat_id": 8743352944
+    },
+    "e97d27f10683": {
+      "company": "Parsons",
+      "role": "Software Engineer Intern",
+      "location": "Huntsville, AL",
+      "term": "Summer 2027",
+      "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3237,
+      "chat_id": 8743352944
+    },
+    "87e5505dbd42": {
+      "company": "Equifax",
+      "role": "Technology Intern",
+      "location": "Alpharetta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00178955?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3239,
       "chat_id": 8743352944
     }
   },

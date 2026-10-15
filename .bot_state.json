@@ -9160,7 +9160,7 @@
       "term": "Summer 2027",
       "apply_url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1318,
+      "message_id": 3272,
       "chat_id": 8743352944
     },
     "cfaa3769ec10": {
@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3261,
+      "message_id": 3271,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -17440,7 +17440,7 @@
       "term": "Summer 2027",
       "apply_url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3111,
+      "message_id": 3270,
       "chat_id": 8743352944
     },
     "63d282c5fe49": {
@@ -18191,6 +18191,46 @@
       "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3265,
+      "chat_id": 8743352944
+    },
+    "cdf30510134f": {
+      "company": "Muon Space",
+      "role": "Ground Software Engineer Intern",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3266,
+      "chat_id": 8743352944
+    },
+    "bb7a0f15c8ec": {
+      "company": "Sierra Nevada Corporation",
+      "role": "Software Engineer Intern",
+      "location": "Lone Tree, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3267,
+      "chat_id": 8743352944
+    },
+    "47d1a03fef4d": {
+      "company": "CoverMyMeds",
+      "role": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3268,
+      "chat_id": 8743352944
+    },
+    "a4a844546070": {
+      "company": "Centene",
+      "role": "AI Software Developer Intern",
+      "location": "Missouri",
+      "term": "Summer 2027",
+      "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3269,
       "chat_id": 8743352944
     }
   },

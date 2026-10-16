@@ -13980,7 +13980,7 @@
       "term": "Summer 2027",
       "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3144,
+      "message_id": 3299,
       "chat_id": 8743352944
     },
     "f07d43f85720": {
@@ -18331,6 +18331,126 @@
       "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3286,
+      "chat_id": 8743352944
+    },
+    "e8b4cb545dfa": {
+      "company": "Impulse Space",
+      "role": "Enterprise Software Engineer Intern",
+      "location": "Redondo Beach, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3287,
+      "chat_id": 8743352944
+    },
+    "f8c7a58cde97": {
+      "company": "Qualcomm",
+      "role": "Automotive Engineering Intern",
+      "location": "Markham, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721615591?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3288,
+      "chat_id": 8743352944
+    },
+    "1451c17cb4bb": {
+      "company": "Wellmark",
+      "role": "Software Engineer Intern - Technology Health Plan",
+      "location": "Des Moines, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3289,
+      "chat_id": 8743352944
+    },
+    "c34fc49c8ce4": {
+      "company": "Ryan",
+      "role": "Application Development Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3290,
+      "chat_id": 8743352944
+    },
+    "e00a709a9c76": {
+      "company": "Ryan",
+      "role": "Software Development Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3291,
+      "chat_id": 8743352944
+    },
+    "261b4f68cc4d": {
+      "company": "Ryan",
+      "role": "Software Development Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3292,
+      "chat_id": 8743352944
+    },
+    "df8040d85428": {
+      "company": "Ryan",
+      "role": "Application Development Intern",
+      "location": "Plano, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3293,
+      "chat_id": 8743352944
+    },
+    "ad06d15aa76e": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Aurora, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3294,
+      "chat_id": 8743352944
+    },
+    "5dd26a328314": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineering Intern",
+      "location": "Colorado Springs, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3295,
+      "chat_id": 8743352944
+    },
+    "bebaca5dd891": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Colorado Springs, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3296,
+      "chat_id": 8743352944
+    },
+    "aacead4c23b4": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Aurora, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3297,
+      "chat_id": 8743352944
+    },
+    "28ce1c07e141": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Boulder, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3298,
       "chat_id": 8743352944
     }
   },

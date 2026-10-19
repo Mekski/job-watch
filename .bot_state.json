@@ -10060,7 +10060,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2615,
+      "message_id": 3494,
       "chat_id": 8743352944
     },
     "a51f65803317": {
@@ -20101,6 +20101,56 @@
       "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3488,
+      "chat_id": 8743352944
+    },
+    "1907a396da15": {
+      "company": "Patreon",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3489,
+      "chat_id": 8743352944
+    },
+    "ceab70dc82df": {
+      "company": "Patreon",
+      "role": "Software Engineer Intern",
+      "location": "SF NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3490,
+      "chat_id": 8743352944
+    },
+    "d09efa868797": {
+      "company": "Westinghouse Electric Company",
+      "role": "Software Development Intern",
+      "location": "Cranberry Township, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3491,
+      "chat_id": 8743352944
+    },
+    "28c044a58f6d": {
+      "company": "Inversion Space",
+      "role": "AI & Internal Tools Software Engineer Intern",
+      "location": "Playa Vista, LA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3492,
+      "chat_id": 8743352944
+    },
+    "6e5d37dc112e": {
+      "company": "General Dynamics Information Technology",
+      "role": "Software Developer Intern",
+      "location": "Egg Harbor Township, NJ",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3493,
       "chat_id": 8743352944
     }
   },

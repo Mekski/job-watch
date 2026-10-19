@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3447,
+      "message_id": 3487,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -15290,7 +15290,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3220,
+      "message_id": 3486,
       "chat_id": 8743352944
     },
     "1d0bce1c927b": {
@@ -20041,6 +20041,66 @@
       "apply_url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3479,
+      "chat_id": 8743352944
+    },
+    "1900a11749df": {
+      "company": "Tyler Technologies",
+      "role": "Software Developer Intern",
+      "location": "Orono, ME",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3481,
+      "chat_id": 8743352944
+    },
+    "b5e4829c9110": {
+      "company": "Amplify",
+      "role": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3482,
+      "chat_id": 8743352944
+    },
+    "8bdcd8092cab": {
+      "company": "The Toro Company",
+      "role": "Cloud Software Developer Intern",
+      "location": "Frederick, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3483,
+      "chat_id": 8743352944
+    },
+    "8a2746f9bf9c": {
+      "company": "\ud83d\udd25 Salesforce",
+      "role": "Software Engineer Intern",
+      "location": "SF Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3484,
+      "chat_id": 8743352944
+    },
+    "0b1815493dd2": {
+      "company": "Cognex",
+      "role": "Software Engineer Intern",
+      "location": "Wauwatosa, WI",
+      "term": "Summer 2027",
+      "apply_url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3485,
+      "chat_id": 8743352944
+    },
+    "63025fbcdef9": {
+      "company": "GM financial",
+      "role": "Oracle Application Developer Intern",
+      "location": "Irving, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3488,
       "chat_id": 8743352944
     }
   },

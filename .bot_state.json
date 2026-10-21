@@ -14010,7 +14010,7 @@
       "term": "Summer 2027",
       "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2080,
+      "message_id": 3678,
       "chat_id": 8743352944
     },
     "836441f2517c": {
@@ -21761,6 +21761,46 @@
       "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299?utm_source=github-vansh-ouckah",
       "source": "Vansh Repo",
       "message_id": 3673,
+      "chat_id": 8743352944
+    },
+    "a25878495fb3": {
+      "company": "Verisk",
+      "role": "Software Engineer Intern",
+      "location": "Manchester, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3674,
+      "chat_id": 8743352944
+    },
+    "74a36be11636": {
+      "company": "Aon",
+      "role": "IT / AI Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.aon.com/jobs/110099?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3675,
+      "chat_id": 8743352944
+    },
+    "97fc879492e9": {
+      "company": "Anduril",
+      "role": "Business Operations Engineer Intern",
+      "location": "Ashville, OH Costa Mesa, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3676,
+      "chat_id": 8743352944
+    },
+    "316f0eef32f4": {
+      "company": "Newell Brands",
+      "role": "Sales AI & Analytics Developer Intern",
+      "location": "Huntersville, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3677,
       "chat_id": 8743352944
     }
   },

@@ -13550,7 +13550,7 @@
       "term": "Summer 2027",
       "apply_url": "https://lunaroutpost.bamboohr.com/careers/398/?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2000,
+      "message_id": 3683,
       "chat_id": 8743352944
     },
     "87a076dcc4e7": {
@@ -21801,6 +21801,46 @@
       "apply_url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3677,
+      "chat_id": 8743352944
+    },
+    "4ca308048c36": {
+      "company": "Zillow",
+      "role": "Software Development Engineer Intern",
+      "location": "Seattle, WA Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3679,
+      "chat_id": 8743352944
+    },
+    "532bb456d432": {
+      "company": "GlobalFoundries",
+      "role": "Systems/Process Engineering Intern - Tapeout Operations",
+      "location": "Malta, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3680,
+      "chat_id": 8743352944
+    },
+    "b7f239b76a50": {
+      "company": "GlobalFoundries",
+      "role": "Software Engineer Intern - Cloud Platform \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3681,
+      "chat_id": 8743352944
+    },
+    "9af20f649474": {
+      "company": "General Dynamics Information Technology",
+      "role": "AI and Estimation Intern",
+      "location": "Falls Church, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3682,
       "chat_id": 8743352944
     }
   },

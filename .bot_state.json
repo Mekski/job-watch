@@ -15790,7 +15790,7 @@
       "term": "Summer 2027",
       "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2881,
+      "message_id": 3766,
       "chat_id": 8743352944
     },
     "550f5ead97f8": {
@@ -16040,7 +16040,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2652,
+      "message_id": 3767,
       "chat_id": 8743352944
     },
     "1f422cf65540": {
@@ -20240,7 +20240,7 @@
       "term": "Summer 2027",
       "apply_url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3509,
+      "message_id": 3765,
       "chat_id": 8743352944
     },
     "3a6bd58d88a8": {
@@ -22501,6 +22501,56 @@
       "apply_url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960?utm_source=github-vansh-ouckah",
       "source": "Vansh Repo",
       "message_id": 3759,
+      "chat_id": 8743352944
+    },
+    "472f21d3a625": {
+      "company": "Westinghouse Electric Company",
+      "role": "Software Engineering Intern",
+      "location": "Warrendale, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3760,
+      "chat_id": 8743352944
+    },
+    "61f6ce5df7e5": {
+      "company": "Pattern",
+      "role": "AI Infrastructure Engineer Intern",
+      "location": "Lehi, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3761,
+      "chat_id": 8743352944
+    },
+    "8d571cd42a73": {
+      "company": "Skydio",
+      "role": "Frontend Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3762,
+      "chat_id": 8743352944
+    },
+    "c697af1bb4c1": {
+      "company": "Ursa Major",
+      "role": "Software Development Intern",
+      "location": "Berthoud, CO",
+      "term": "Summer 2027",
+      "apply_url": "https://ursamajor.com/careers/?gh_jid=4746827005&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3763,
+      "chat_id": 8743352944
+    },
+    "ff59707eb3f5": {
+      "company": "Northrop Grumman",
+      "role": "Cyber Software Engineer Intern",
+      "location": "San Antonio, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3764,
       "chat_id": 8743352944
     }
   },

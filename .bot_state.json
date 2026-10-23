@@ -11180,7 +11180,7 @@
       "term": "Summer 2027",
       "apply_url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1602,
+      "message_id": 3780,
       "chat_id": 8743352944
     },
     "570d995515ef": {
@@ -16420,7 +16420,7 @@
       "term": "Summer 2027",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8847738002&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2722,
+      "message_id": 3779,
       "chat_id": 8743352944
     },
     "7e5eeb03e5e4": {
@@ -17660,7 +17660,7 @@
       "term": "Summer 2027",
       "apply_url": "https://boards.greenhouse.io/embed/job_app?token=6865687002&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3167,
+      "message_id": 3778,
       "chat_id": 8743352944
     },
     "d894f76df12d": {
@@ -22601,6 +22601,46 @@
       "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 3773,
+      "chat_id": 8743352944
+    },
+    "6ee312b8b582": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Software Engineer Intern - AWS Database",
+      "location": "United States",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3774,
+      "chat_id": 8743352944
+    },
+    "bb56adca23f0": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Software Engineer Intern",
+      "location": "Redmond, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3775,
+      "chat_id": 8743352944
+    },
+    "7da388e5fc42": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Systems Development Engineer Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3776,
+      "chat_id": 8743352944
+    },
+    "d095fae016c9": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Systems Development Engineer Intern",
+      "location": "Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 3777,
       "chat_id": 8743352944
     }
   },

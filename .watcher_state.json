@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "ee568406d2a6bbef4ae810c79f7ded8da29d61a8",
+    "last_sha": "f2118b91688aa0c9d2a074737e0f0c711d300aee",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -927,6 +927,20 @@
         "https://job-boards.greenhouse.io/amca/jobs/4425120009?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Enova",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Summer 2027",
+        "https://job-boards.greenhouse.io/enova/jobs/8239619?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Westinghouse Electric Company",
+        "Software Developer Intern - Tools & Apps",
+        "Warrendale, PA",
+        "Summer 2027",
+        "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Honeywell",
         "Software Engineering Co-op",
         "United States",
@@ -939,6 +953,13 @@
         "Tempe, AZ McLean, VA",
         "Summer 2027",
         "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Acuity",
+        "Finance AI Engineering Intern",
+        "Atlanta, GA",
+        "Summer 2027",
+        "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Cloudflare",
@@ -955,11 +976,60 @@
         "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Q2",
+        "Software Engineer Intern",
+        "Cary, NC",
+        "Summer 2027",
+        "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Marvell",
+        "AI-Native Development Platform Engineer Intern",
+        "Santa Clara, CA",
+        "Summer 2027",
+        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Marvell",
+        "AI-Native Development Platform Engineer Intern",
+        "Santa Clara, CA",
+        "Summer 2027",
+        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CACI",
+        "Software Engineer Intern",
+        "Omaha, NE",
+        "Summer 2027",
+        "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Waymo",
+        "Depot Automation Intern",
+        "SF",
+        "Summer 2027",
+        "https://careers.withwaymo.com/jobs?gh_jid=8234553&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "H&R Block",
+        "Software Engineer Intern",
+        "Kansas City, MO",
+        "Summer 2027",
+        "https://careers.hrblock.com/jobs/76987?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "The Aerospace Corporation",
         "Software Engineering Intern - Software Tools and Assurance \ud83c\udf93",
         "El Segundo, CA",
         "Summer 2027",
         "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Flint",
+        "Engineering Intern - Summer 2027",
+        "SF",
+        "Summer 2027",
+        "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bedrock Robotics",
@@ -974,6 +1044,13 @@
         "Mountain View, CA",
         "Summer 2027",
         "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Waymo",
+        "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics \ud83c\udf93",
+        "Mountain View, CA",
+        "Summer 2027",
+        "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify"
       ],
       [
         "AbbVie",
@@ -1018,11 +1095,95 @@
         "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Motorola",
+        "Software Engineer Intern - Summer 2027",
+        "Elgin, IL",
+        "Summer 2027",
+        "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Software Research Intern - PhD \ud83c\udf93",
+        "Hillsboro, OR",
+        "Summer 2027",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools \ud83c\udf93",
+        "Hillsboro, OR",
+        "Summer 2027",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Greenheck Group",
+        "Application Developer Co-op",
+        "Schofield, WI",
+        "Summer 2027",
+        "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "American Century Investments",
         "Software Developer Intern",
         "Kansas City, MO",
         "Summer 2027",
         "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Lazard",
+        "AI and Data Transformation Intern",
+        "NYC",
+        "Summer 2027",
+        "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Astranis",
+        "Network Software Intern",
+        "SF",
+        "Summer 2027",
+        "https://job-boards.greenhouse.io/astranis/jobs/4705597006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Arconic",
+        "Software Developer Intern",
+        "Davenport, IA",
+        "Summer 2027",
+        "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Synchrony Financial",
+        "Digital Technology Center Intern",
+        "Stamford, CT",
+        "Summer 2027",
+        "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Radiance Technologies",
+        "Modeling Engineer Intern - Analytics and Simulation Sciences",
+        "Beavercreek, OH",
+        "Summer 2027",
+        "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Radiance Technologies",
+        "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
+        "Beavercreek, OH",
+        "Summer 2027",
+        "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Radiance Technologies",
+        "Modeling Engineer Intern - Analytics - Simulation Sciences",
+        "Beavercreek, OH",
+        "Summer 2027",
+        "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Radiance Technologies",
+        "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
+        "Beavercreek, OH",
+        "Summer 2027",
+        "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Radiance Technologies",
@@ -1037,6 +1198,13 @@
         "Plantation, FL",
         "Summer 2027",
         "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Motorola",
+        "Software Engineer Intern - Summer 2027",
+        "Plantation, FL",
+        "Summer 2027",
+        "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Waymo",
@@ -1765,6 +1933,13 @@
         "Omaha, NE",
         "Summer 2027",
         "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CACI",
+        "Software Engineer Intern - Summer 2027",
+        "Remote in USA Sterling, VA Denver, CO",
+        "Summer 2027",
+        "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Baird",
@@ -3452,41 +3627,6 @@
         "Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada",
         "Summer 2027",
         "https://www.google.com/about/careers/applications/jobs/results/112518690523488966?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "BNY",
-        "Software Engineer Intern - Engineering - Developer",
-        "Jersey City, NJ",
-        "Summer 2027",
-        "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "BNY",
-        "Engineering Intern - Engineering - Developer",
-        "Pittsburgh, PA",
-        "Summer 2027",
-        "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "BNY",
-        "Engineering Intern - Developer",
-        "Greater Manchester, UK",
-        "Summer 2027",
-        "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "BNY",
-        "Engineering Developer Intern - Engineering",
-        "Lake Mary, FL",
-        "Summer 2027",
-        "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "BNY",
-        "Software Developer Intern - Engineering",
-        "NYC",
-        "Summer 2027",
-        "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253?utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

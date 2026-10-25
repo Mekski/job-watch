@@ -3862,7 +3862,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "6af3ee5c3a580112f08496e52473c850ac6c6e7c",
+    "last_sha": "6e996b449fc8f85958b0d2b68a8b0cd6cb2a1450",
     "rows": [
       [
         "Skydio",
@@ -4327,13 +4327,6 @@
         "https://boards.greenhouse.io/opensesame/jobs/8313424"
       ],
       [
-        "Northrop Grumman",
-        "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Antonio, TX",
-        "Oct 22",
-        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
-      ],
-      [
         "Nissan",
         "Cyber Security Intern",
         "Smyrna, TN",
@@ -4605,13 +4598,6 @@
         "Sunnyvale, CA",
         "Oct 22",
         "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027"
-      ],
-      [
-        "Amazon",
-        "Software Engineer Intern",
-        "Redmond, WA",
-        "Oct 22",
-        "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
       ],
       [
         "Amazon",
@@ -5853,13 +5839,6 @@
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982"
       ],
       [
-        "MITRE",
-        "AI Engineering Intern",
-        "Bedford, MA",
-        "Oct 18",
-        "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern"
-      ],
-      [
         "Micron Technology",
         "HBM Design Engineer Intern - HBM",
         "Richardson, TX",
@@ -6952,13 +6931,6 @@
         "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
       ],
       [
-        "H&R Block",
-        "Software Engineering Intern, Embark",
-        "Kansas City, MO",
-        "Sep 27",
-        "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job"
-      ],
-      [
         "AVARINT",
         "Software Engineer Intern, DIADS",
         "United States",
@@ -7596,13 +7568,6 @@
         "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423"
       ],
       [
-        "General Dynamics Information Technology",
-        "Systems Engineer Intern",
-        "Albany, NY",
-        "Jul 30",
-        "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity"
-      ],
-      [
         "Chicago Trading Company",
         "Software Engineer Intern",
         "Chicago, IL",
@@ -7751,13 +7716,6 @@
       ],
       [
         "Jane Street",
-        "Network Engineer Intern",
-        "New York, NY",
-        "Jul 24",
-        "https://www.janestreet.com/join-jane-street/position/8620793002/"
-      ],
-      [
-        "Jane Street",
         "Linux Engineer Intern",
         "New York, NY",
         "Jul 24",
@@ -7820,27 +7778,6 @@
         "https://www.janestreet.com/join-jane-street/position/8617344002/"
       ],
       [
-        "IMC",
-        "Hardware Engineer Intern",
-        "Chicago, IL",
-        "Jul 24",
-        "https://www.imc.com/us/careers/jobs/4823945101"
-      ],
-      [
-        "IMC",
-        "Quantitative Research Intern",
-        "Chicago, IL",
-        "Jul 24",
-        "https://www.imc.com/us/careers/jobs/4907399101"
-      ],
-      [
-        "IMC",
-        "Quantitative Research Intern (PHD)",
-        "Chicago",
-        "Jul 24",
-        "https://www.imc.com/us/careers/jobs/4907400101"
-      ],
-      [
         "Hudson River Trading",
         "Intern",
         "New York, NY",
@@ -7853,13 +7790,6 @@
         "Austin, TX Chicago, IL New York, NY",
         "Jul 24",
         "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src="
-      ],
-      [
-        "Google",
-        "Software Engineering Intern",
-        "**30 locations**Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA",
-        "Jul 24",
-        "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027"
       ],
       [
         "Five Rings",
@@ -7919,20 +7849,6 @@
       ],
       [
         "Akuna Capital",
-        "Python Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Chicago, IL",
-        "Jul 24",
-        "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853"
-      ],
-      [
-        "Akuna Capital",
-        "Hardware Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Chicago, IL",
-        "Jul 24",
-        "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880"
-      ],
-      [
-        "Akuna Capital",
         "Platform Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Chicago, IL",
         "Jul 24",
@@ -7988,27 +7904,6 @@
         "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us"
       ],
       [
-        "Optiver",
-        "Software Engineer Intern",
-        "Chicago, IL",
-        "Jul 07",
-        "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"
-      ],
-      [
-        "Optiver",
-        "Software Engineer Intern",
-        "Austin, TX",
-        "Jul 07",
-        "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"
-      ],
-      [
-        "IMC",
-        "Software Engineer Intern",
-        "Chicago, IL",
-        "Jul 07",
-        "https://www.imc.com/us/careers/jobs/4823924101"
-      ],
-      [
         "DE Shaw",
         "Software Developer Intern",
         "New York, NY",
@@ -8023,25 +7918,11 @@
         "https://www.citadel.com/careers/details/software-engineer-intern-us/"
       ],
       [
-        "Capital One",
-        "Data Analyst Intern",
-        "Mclean, VA",
-        "Jul 07",
-        "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472"
-      ],
-      [
         "Anduril",
         "Software Engineer Intern",
         "**6 locations**Atlanta, GA Boston, MA Costa Mesa, CA Irvine, CA Reston, VA Seattle, WA",
         "Jul 07",
         "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
-      ],
-      [
-        "Voloridge Investment Management",
-        "Quantitative Developer Intern",
-        "Jupiter, FL",
-        "May 22",
-        "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803"
       ],
       [
         "Susquehanna",
@@ -8079,20 +7960,6 @@
         "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
       ],
       [
-        "StarSling",
-        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Mateo, CA",
-        "May 19",
-        "https://www.workatastartup.com/jobs/95003"
-      ],
-      [
-        "Nash",
-        "Full Stack Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 19",
-        "https://www.workatastartup.com/jobs/94993"
-      ],
-      [
         "Trata",
         "Research Scientist Intern \ud83c\uddfa\ud83c\uddf8",
         "San Francisco, CA New York, NY",
@@ -8100,60 +7967,11 @@
         "https://www.workatastartup.com/jobs/94620"
       ],
       [
-        "Terranox AI",
-        "Summer Intern - AI/ML Engineering \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 14",
-        "https://www.workatastartup.com/jobs/94631"
-      ],
-      [
-        "Na\u00efve",
-        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA Remote",
-        "May 14",
-        "https://www.workatastartup.com/jobs/94647"
-      ],
-      [
-        "Abundant",
-        "Software Engineering Intern, Research Focused \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 14",
-        "https://www.workatastartup.com/jobs/94634"
-      ],
-      [
-        "Paragon",
-        "Forward Deployed Engineer (FDE) Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 09",
-        "https://www.workatastartup.com/jobs/93642"
-      ],
-      [
-        "General Astronautics",
-        "Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 09",
-        "https://www.workatastartup.com/jobs/94206"
-      ],
-      [
         "DimeHealth AI",
         "Forward Deployed Engineering Intern",
         "New York, NY",
         "May 09",
         "https://www.workatastartup.com/jobs/94211"
-      ],
-      [
-        "Dedalus Labs",
-        "Forward Deployed Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 09",
-        "https://www.workatastartup.com/jobs/94400"
-      ],
-      [
-        "Amazon",
-        "Robotics - Software Development Engineer Intern/Co-op",
-        "**8 locations**Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA",
-        "May 09",
-        "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
       ],
       [
         "H&CO",
@@ -8175,27 +7993,6 @@
         "Irvine, CA",
         "Apr 20",
         "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100"
-      ],
-      [
-        "Intercontinental Exchange, Inc.",
-        "Artificial Intelligence, Data & Machine Learning Intern",
-        "New York, NY",
-        "Apr 20",
-        "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9"
-      ],
-      [
-        "Fiserv",
-        "Application Development Intern \ud83d\udec2",
-        "Alpharetta, GA",
-        "Apr 20",
-        "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6"
-      ],
-      [
-        "Fiserv",
-        "Technology Intern \ud83d\udec2",
-        "Columbus, OH",
-        "Apr 20",
-        "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b"
       ],
       [
         "Point72",
@@ -8261,9 +8058,23 @@
         ""
       ],
       [
+        "Northrop Grumman",
+        "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Antonio, TX",
+        "Oct 22",
+        ""
+      ],
+      [
         "Biogen",
         "Integrated Insights & Analytics Co-op, Nephrology",
         "Cambridge, MA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Amazon",
+        "Software Engineer Intern",
+        "Redmond, WA",
         "Oct 22",
         ""
       ],
@@ -8404,6 +8215,13 @@
         "Northrop Grumman",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Boulder, CO",
+        "Oct 18",
+        ""
+      ],
+      [
+        "MITRE",
+        "AI Engineering Intern",
+        "Bedford, MA",
         "Oct 18",
         ""
       ],
@@ -8604,6 +8422,13 @@
         ""
       ],
       [
+        "H&R Block",
+        "Software Engineering Intern, Embark",
+        "Kansas City, MO",
+        "Sep 27",
+        ""
+      ],
+      [
         "Vertiv",
         "Product Management Intern \ud83d\udec2",
         "Westerville, OH",
@@ -8800,6 +8625,13 @@
         ""
       ],
       [
+        "General Dynamics Information Technology",
+        "Systems Engineer Intern",
+        "Albany, NY",
+        "Jul 30",
+        ""
+      ],
+      [
         "Nightwing",
         "Software / Hardware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Annapolis Junction, MD",
@@ -8863,9 +8695,58 @@
         ""
       ],
       [
+        "Jane Street",
+        "Network Engineer Intern",
+        "New York, NY",
+        "Jul 24",
+        ""
+      ],
+      [
+        "IMC",
+        "Quantitative Research Intern (PHD)",
+        "Chicago",
+        "Jul 24",
+        ""
+      ],
+      [
+        "IMC",
+        "Quantitative Research Intern",
+        "Chicago, IL",
+        "Jul 24",
+        ""
+      ],
+      [
+        "IMC",
+        "Hardware Engineer Intern",
+        "Chicago, IL",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Google",
+        "Software Engineering Intern",
+        "**30 locations**Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA",
+        "Jul 24",
+        ""
+      ],
+      [
         "Copart",
         "Software Engineering Intern",
         "Dallas, TX",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Akuna Capital",
+        "Hardware Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Chicago, IL",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Akuna Capital",
+        "Python Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Chicago, IL",
         "Jul 24",
         ""
       ],
@@ -8874,6 +8755,34 @@
         "Software Engineer Intern",
         "San Mateo, California",
         "Jul 09",
+        ""
+      ],
+      [
+        "Optiver",
+        "Software Engineer Intern",
+        "Austin, TX",
+        "Jul 07",
+        ""
+      ],
+      [
+        "Optiver",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Jul 07",
+        ""
+      ],
+      [
+        "IMC",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Jul 07",
+        ""
+      ],
+      [
+        "Capital One",
+        "Data Analyst Intern",
+        "Mclean, VA",
+        "Jul 07",
         ""
       ],
       [
@@ -8888,6 +8797,13 @@
         "Software Engineer Intern",
         "Chicago, IL",
         "Jul 07",
+        ""
+      ],
+      [
+        "Voloridge Investment Management",
+        "Quantitative Developer Intern",
+        "Jupiter, FL",
+        "May 22",
         ""
       ],
       [
@@ -8954,6 +8870,13 @@
         ""
       ],
       [
+        "StarSling",
+        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Mateo, CA",
+        "May 19",
+        ""
+      ],
+      [
         "Podium",
         "Software Engineering Intern",
         "Lehi, UT",
@@ -8961,9 +8884,37 @@
         ""
       ],
       [
+        "Nash",
+        "Full Stack Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 19",
+        ""
+      ],
+      [
+        "Terranox AI",
+        "Summer Intern - AI/ML Engineering \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 14",
+        ""
+      ],
+      [
+        "Na\u00efve",
+        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA Remote",
+        "May 14",
+        ""
+      ],
+      [
         "Granite Construction",
         "Summer 2026 Engineer Intern",
         "Nampa, ID",
+        "May 14",
+        ""
+      ],
+      [
+        "Abundant",
+        "Software Engineering Intern, Research Focused \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
         "May 14",
         ""
       ],
@@ -9020,6 +8971,34 @@
         "Salesforce",
         "Software Engineer Intern(Futureforce Summer 2027)",
         "**5 locations**San Francisco, CA Palo Alto, CA New York, NY Seattle, WA Burlington, MA",
+        "May 09",
+        ""
+      ],
+      [
+        "Paragon",
+        "Forward Deployed Engineer (FDE) Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 09",
+        ""
+      ],
+      [
+        "General Astronautics",
+        "Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 09",
+        ""
+      ],
+      [
+        "Dedalus Labs",
+        "Forward Deployed Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 09",
+        ""
+      ],
+      [
+        "Amazon",
+        "Robotics - Software Development Engineer Intern/Co-op",
+        "**8 locations**Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA",
         "May 09",
         ""
       ],
@@ -9171,6 +9150,13 @@
         ""
       ],
       [
+        "Intercontinental Exchange, Inc.",
+        "Artificial Intelligence, Data & Machine Learning Intern",
+        "New York, NY",
+        "Apr 20",
+        ""
+      ],
+      [
         "General Dynamics Mission Systems, Inc.",
         "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Pittsburgh, PA",
@@ -9181,6 +9167,20 @@
         "General Dynamics Mission Systems, Inc.",
         "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Pittsburgh, PA",
+        "Apr 20",
+        ""
+      ],
+      [
+        "Fiserv",
+        "Technology Intern \ud83d\udec2",
+        "Columbus, OH",
+        "Apr 20",
+        ""
+      ],
+      [
+        "Fiserv",
+        "Application Development Intern \ud83d\udec2",
+        "Alpharetta, GA",
         "Apr 20",
         ""
       ],

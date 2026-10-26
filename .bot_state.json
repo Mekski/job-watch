@@ -12810,7 +12810,7 @@
       "term": "Summer 2027",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1887,
+      "message_id": 5033,
       "chat_id": 8743352944
     },
     "e6ef1edc3b4b": {
@@ -12820,7 +12820,7 @@
       "term": "Summer 2027",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1888,
+      "message_id": 5034,
       "chat_id": 8743352944
     },
     "5239fb96ac97": {
@@ -12840,7 +12840,7 @@
       "term": "Summer 2027",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1890,
+      "message_id": 5035,
       "chat_id": 8743352944
     },
     "0e5becba5934": {
@@ -20150,7 +20150,7 @@
       "term": "Summer 2027",
       "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3499,
+      "message_id": 5032,
       "chat_id": 8743352944
     },
     "23fd1f21d060": {
@@ -29181,6 +29181,56 @@
       "apply_url": "https://go.vansh.nyc/OK?s=y",
       "source": "Vansh Repo",
       "message_id": 5026,
+      "chat_id": 8743352944
+    },
+    "a8b16de910ee": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5027,
+      "chat_id": 8743352944
+    },
+    "05dc27ab8885": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5028,
+      "chat_id": 8743352944
+    },
+    "f22564491953": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern - RBC Amplify",
+      "location": "Montreal, QC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5029,
+      "chat_id": 8743352944
+    },
+    "bd6d3040fc77": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Calgary, AB, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5030,
+      "chat_id": 8743352944
+    },
+    "7bb4e3e2904b": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Bedford, NS, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5031,
       "chat_id": 8743352944
     }
   },

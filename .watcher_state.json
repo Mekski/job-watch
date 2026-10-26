@@ -3771,7 +3771,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "97a190bfc4e3fe9aee6158121041e02f475f84c5",
+    "last_sha": "38634522a7f14e33990287595a05f7e25de9c762",
     "rows": [
       [
         "RTX",
@@ -5102,13 +5102,6 @@
         "Toronto, ON, Canada",
         "Oct 20",
         "https://go.vansh.nyc/ct?s=y"
-      ],
-      [
-        "Space Dynamics Laboratory",
-        "AI-Enabled Requirements Engineering Intern",
-        "North Logan, UT",
-        "Oct 20",
-        "https://go.vansh.nyc/cu?s=y"
       ],
       [
         "SOTI",
@@ -10966,6 +10959,13 @@
         "Verizon Communications",
         "Call Routing Optimization Engineering Intern, Verizon Consumer Group",
         "Basking Ridge, NJ",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Space Dynamics Laboratory",
+        "AI-Enabled Requirements Engineering Intern",
+        "North Logan, UT",
         "Oct 20",
         ""
       ],

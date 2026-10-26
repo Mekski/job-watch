@@ -3820,7 +3820,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2825a6b2e8dc9fca1ea329f5577088c7c42aec91",
+    "last_sha": "fe4a4856ae6f81a32605fa2ed6c35c136fd17285",
     "rows": [
       [
         "Two Six Technologies",
@@ -3886,6 +3886,13 @@
         "https://go.vansh.nyc/CS?s=y"
       ],
       [
+        "Northrop Grumman",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Beavercreek, OH",
+        "Oct 26",
+        "https://go.vansh.nyc/ST?s=y"
+      ],
+      [
         "Netsmart",
         "Security Analyst Intern",
         "Overland Park, KS",
@@ -3905,6 +3912,20 @@
         "Atlanta, GA",
         "Oct 26",
         "https://go.vansh.nyc/MX?s=y"
+      ],
+      [
+        "Highmark Health",
+        "Software Engineer Intern",
+        "Remote United States",
+        "Oct 26",
+        "https://go.vansh.nyc/SR?s=y"
+      ],
+      [
+        "Highmark Health",
+        "Enterprise Architecture Software Engineer & Architect Intern",
+        "Pittsburgh, PA",
+        "Oct 26",
+        "https://go.vansh.nyc/SS?s=y"
       ],
       [
         "Hewlett Packard (HP)",
@@ -3968,6 +3989,13 @@
         "Lexington, MA",
         "Oct 26",
         "https://go.vansh.nyc/Qs?s=y"
+      ],
+      [
+        "Altera",
+        "Undergrad Technical Intern",
+        "Toronto, Canada",
+        "Oct 26",
+        "https://go.vansh.nyc/SU?s=y"
       ],
       [
         "Skydio",
@@ -5277,13 +5305,6 @@
         "El Segundo, CA",
         "Oct 21",
         "https://go.vansh.nyc/dx?s=y"
-      ],
-      [
-        "ABB",
-        "R&D Software Engineer Intern",
-        "Greenville, SC",
-        "Oct 21",
-        "https://go.vansh.nyc/gz?s=y"
       ],
       [
         "Zillow",
@@ -12009,6 +12030,13 @@
         "Cisco",
         "AI Operations Engineer I Intern",
         "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "ABB",
+        "R&D Software Engineer Intern",
+        "Greenville, SC",
         "Oct 21",
         ""
       ],

@@ -3813,7 +3813,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
+    "last_sha": "36d1551f115ec58ca92396cde2b3b51c872a1005",
     "rows": [
       [
         "Skydio",
@@ -4024,13 +4024,6 @@
         "New York, NY",
         "Oct 23",
         "https://go.vansh.nyc/gu?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Data & AI II Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
-        "Oct 23",
-        "https://go.vansh.nyc/gO?s=y"
       ],
       [
         "Auto-Owners Insurance",
@@ -4922,55 +4915,6 @@
         "https://go.vansh.nyc/fn?s=y"
       ],
       [
-        "Cisco",
-        "Software Engineer Intern, Embedded Systems II",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e2?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Intern, Full Stack / Backend I",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e3?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Intern, Full Stack / Backend II",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e4?s=y"
-      ],
-      [
-        "Cisco",
-        "Machine Learning Engineer I Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e7?s=y"
-      ],
-      [
-        "Cisco",
-        "Machine Learning Engineer II Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e8?s=y"
-      ],
-      [
-        "Cisco",
-        "Engineering Product Management Specialist I Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/eb?s=y"
-      ],
-      [
-        "Cisco",
-        "AI Operations Engineer I Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/ec?s=y"
-      ],
-      [
         "Brookhaven Lab",
         "Data Engineering Student Assistant Intern",
         "Upton, NY",
@@ -5347,13 +5291,6 @@
         "Arlington, VA",
         "Oct 20",
         "https://go.vansh.nyc/cL?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Intern, Data & AI",
-        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/gs?s=y"
       ],
       [
         "Centene Corporation",
@@ -6565,13 +6502,6 @@
         "Middletown, RI",
         "Oct 13",
         "https://go.vansh.nyc/8E?s=y"
-      ],
-      [
-        "Expedia Group",
-        "Security Engineering Intern",
-        "Seattle, WA",
-        "Oct 13",
-        "https://go.vansh.nyc/8C?s=y"
       ],
       [
         "Draper",
@@ -8030,6 +7960,13 @@
         ""
       ],
       [
+        "Cisco",
+        "Software Engineer Data & AI II Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
+        "Oct 23",
+        ""
+      ],
+      [
         "ASML",
         "Software Quality Assurance Intern",
         "San Jose, CA",
@@ -8100,6 +8037,55 @@
         ""
       ],
       [
+        "Cisco",
+        "Software Engineer Intern, Embedded Systems II",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Software Engineer Intern, Full Stack / Backend I",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Software Engineer Intern, Full Stack / Backend II",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Machine Learning Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Machine Learning Engineer II Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Engineering Product Management Specialist I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "AI Operations Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
         "Verizon Communications",
         "Data Science Intern, Verizon Consumer Group",
         "Basking Ridge, NJ",
@@ -8166,6 +8152,13 @@
         "Expedia Group",
         "Software Developer 1 Intern",
         "Springfield, MO",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Cisco",
+        "Software Engineer Intern, Data & AI",
+        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
         "Oct 20",
         ""
       ],
@@ -8390,6 +8383,13 @@
         "Gallup",
         "Data Engineering Intern",
         "San Francisco, CA",
+        "Oct 13",
+        ""
+      ],
+      [
+        "Expedia Group",
+        "Security Engineering Intern",
+        "Seattle, WA",
         "Oct 13",
         ""
       ],

@@ -28882,6 +28882,306 @@
       "source": "Simplify Repo",
       "message_id": 4993,
       "chat_id": 8743352944
+    },
+    "5b649f544172": {
+      "company": "Royal Bank of Canada",
+      "role": "Data Engineer Intern",
+      "location": "Vancouver, Canada",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/OF?s=y",
+      "source": "Vansh Repo",
+      "message_id": 4997,
+      "chat_id": 8743352944
+    },
+    "5bf342f4ff12": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Halifax, Canada",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/OG?s=y",
+      "source": "Vansh Repo",
+      "message_id": 4998,
+      "chat_id": 8743352944
+    },
+    "be24d3826863": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Vancouver, Canada",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/OH?s=y",
+      "source": "Vansh Repo",
+      "message_id": 4999,
+      "chat_id": 8743352944
+    },
+    "386e73c055f0": {
+      "company": "Royal Bank of Canada",
+      "role": "Data Engineer Intern",
+      "location": "Halifax, Canada",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/OJ?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5000,
+      "chat_id": 8743352944
+    },
+    "f6b9206f3b7a": {
+      "company": "CVS Health",
+      "role": "Innovation & Technology Intern, Data Engineering",
+      "location": "Irving, TX",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/OI?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5001,
+      "chat_id": 8743352944
+    },
+    "820c47a6b3eb": {
+      "company": "Procter & Gamble (P&G)",
+      "role": "IT Security Intern",
+      "location": "Cincinnati, OH",
+      "term": "Sep 30",
+      "apply_url": "https://go.vansh.nyc/OT?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5002,
+      "chat_id": 8743352944
+    },
+    "1dcdef84c4da": {
+      "company": "CACI",
+      "role": "Software Engineer Co-op",
+      "location": "Danbury, CT",
+      "term": "Aug 30",
+      "apply_url": "https://go.vansh.nyc/OE?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5003,
+      "chat_id": 8743352944
+    },
+    "73ac9e63739e": {
+      "company": "Hewlett Packard Enterprise",
+      "role": "Data Science Intern",
+      "location": "**10 locations**Andover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA",
+      "term": "Aug 29",
+      "apply_url": "https://go.vansh.nyc/OD?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5004,
+      "chat_id": 8743352944
+    },
+    "839ce4242569": {
+      "company": "Juniper Networks",
+      "role": "Cloud Engineer Intern",
+      "location": "**10 locations**Spring, TX Westford, MA Ft. Collins, CO Chippewa Falls, WI Durham, NC Sunnyvale, CA Roseville, CA San Jose, CA Bloomington, MN Andover, MA",
+      "term": "Aug 28",
+      "apply_url": "https://go.vansh.nyc/OO?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5005,
+      "chat_id": 8743352944
+    },
+    "a3fc7be27da9": {
+      "company": "Aerospace Corporation",
+      "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "United States",
+      "term": "Aug 28",
+      "apply_url": "https://go.vansh.nyc/OP?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5006,
+      "chat_id": 8743352944
+    },
+    "b57be807d5ed": {
+      "company": "Aerospace Corporation",
+      "role": "Embedded Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "United States",
+      "term": "Aug 28",
+      "apply_url": "https://go.vansh.nyc/OQ?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5007,
+      "chat_id": 8743352944
+    },
+    "3f8faac29be3": {
+      "company": "Aerospace Corporation",
+      "role": "Software AI Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "United States",
+      "term": "Aug 28",
+      "apply_url": "https://go.vansh.nyc/OR?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5008,
+      "chat_id": 8743352944
+    },
+    "8b968ae9cde2": {
+      "company": "PennState University",
+      "role": "Cyber Security Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "University Park, PA",
+      "term": "Aug 27",
+      "apply_url": "https://go.vansh.nyc/ON?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5009,
+      "chat_id": 8743352944
+    },
+    "0b9cbd636963": {
+      "company": "IMC Trading",
+      "role": "Performance Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Aug 27",
+      "apply_url": "https://go.vansh.nyc/Oz?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5010,
+      "chat_id": 8743352944
+    },
+    "2c62bfc0eb49": {
+      "company": "Hewlett Packard Enterprise",
+      "role": "Software Engineer Intern",
+      "location": "**10 locations**Andover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA",
+      "term": "Aug 27",
+      "apply_url": "https://go.vansh.nyc/OA?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5011,
+      "chat_id": 8743352944
+    },
+    "3aebe19a276e": {
+      "company": "Hewlett Packard Enterprise",
+      "role": "Product Management Intern",
+      "location": "**10 locations**Andover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA",
+      "term": "Aug 27",
+      "apply_url": "https://go.vansh.nyc/OB?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5012,
+      "chat_id": 8743352944
+    },
+    "c448ce17e1ce": {
+      "company": "Booz Allen Hamilton",
+      "role": "Software Developer Intern",
+      "location": "San Diego, CA",
+      "term": "Aug 26",
+      "apply_url": "https://go.vansh.nyc/Oy?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5013,
+      "chat_id": 8743352944
+    },
+    "aa65c197720f": {
+      "company": "TikTok",
+      "role": "AI Infrastructure Engineer Intern, Recommendation & LLM",
+      "location": "San Jose, CA",
+      "term": "Aug 25",
+      "apply_url": "https://go.vansh.nyc/Ox?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5014,
+      "chat_id": 8743352944
+    },
+    "5f96f6145d68": {
+      "company": "Honeywell",
+      "role": "Embedded Engineer Intern",
+      "location": "United States",
+      "term": "Aug 25",
+      "apply_url": "https://go.vansh.nyc/Ou?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5015,
+      "chat_id": 8743352944
+    },
+    "4852edb2307a": {
+      "company": "DV Trading",
+      "role": "Futures & Options Trading Analyst Intern",
+      "location": "New York, NY",
+      "term": "Aug 25",
+      "apply_url": "https://go.vansh.nyc/Ow?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5016,
+      "chat_id": 8743352944
+    },
+    "52ee32b021d4": {
+      "company": "Compeer Financial",
+      "role": "Engineering Intern",
+      "location": "Sun Prairie, WI Mankato, MN Bloomington, IL",
+      "term": "Aug 25",
+      "apply_url": "https://go.vansh.nyc/Ov?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5017,
+      "chat_id": 8743352944
+    },
+    "97c0eaab8d53": {
+      "company": "MSA Safety",
+      "role": "Software Engineer Intern, Product Development",
+      "location": "Cranberry Township, PA",
+      "term": "Aug 24",
+      "apply_url": "https://go.vansh.nyc/Or?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5018,
+      "chat_id": 8743352944
+    },
+    "856b2ccfc67d": {
+      "company": "Garmin",
+      "role": "Software Engineer Intern",
+      "location": "Olathe, KS",
+      "term": "Aug 24",
+      "apply_url": "https://go.vansh.nyc/Oq?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5019,
+      "chat_id": 8743352944
+    },
+    "3686f9d418af": {
+      "company": "AMD",
+      "role": "Software Test Engineering Co-op",
+      "location": "Austin, TX",
+      "term": "Aug 24",
+      "apply_url": "https://go.vansh.nyc/OL?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5020,
+      "chat_id": 8743352944
+    },
+    "94ba1ce438b9": {
+      "company": "AMD",
+      "role": "Software Test Engineering Co-op",
+      "location": "San Jose, CA",
+      "term": "Aug 24",
+      "apply_url": "https://go.vansh.nyc/OM?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5021,
+      "chat_id": 8743352944
+    },
+    "d85fa7b50d39": {
+      "company": "The Hartford",
+      "role": "Software Engineer Intern, Tech & Data Program",
+      "location": "Hartford, CT",
+      "term": "Aug 23",
+      "apply_url": "https://go.vansh.nyc/On?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5022,
+      "chat_id": 8743352944
+    },
+    "3a5d19eb8ee6": {
+      "company": "The Hartford",
+      "role": "Data Engineer Intern, Technology, Data, AI, and Operations",
+      "location": "Hartford, CT",
+      "term": "Aug 23",
+      "apply_url": "https://go.vansh.nyc/Oo?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5023,
+      "chat_id": 8743352944
+    },
+    "1b64d9ad6e77": {
+      "company": "TikTok",
+      "role": "AI Product Manager Intern, Product Social",
+      "location": "San Jose, CA",
+      "term": "Aug 21",
+      "apply_url": "https://go.vansh.nyc/Om?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5024,
+      "chat_id": 8743352944
+    },
+    "0a9423fd0fed": {
+      "company": "Auto-Owners Insurance",
+      "role": "Predictive Modeler Intern",
+      "location": "Lansing, MI",
+      "term": "Aug 20",
+      "apply_url": "https://go.vansh.nyc/Oh?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5025,
+      "chat_id": 8743352944
+    },
+    "e0af1f2a58ca": {
+      "company": "Palantir Technologies",
+      "role": "Information Security Engineer Intern",
+      "location": "New York, NY",
+      "term": "Aug 2022",
+      "apply_url": "https://go.vansh.nyc/OK?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5026,
+      "chat_id": 8743352944
     }
   },
   "applied": {

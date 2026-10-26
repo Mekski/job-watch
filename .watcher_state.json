@@ -3911,7 +3911,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0cb243097cad02672be2fd7dc29405ccd52fc978",
+    "last_sha": "76f6ce16596a581fc773a86a9e93c009a784475c",
     "rows": [
       [
         "Two Six Technologies",
@@ -4012,6 +4012,20 @@
         "https://go.vansh.nyc/MX?s=y"
       ],
       [
+        "L3Harris Technologies",
+        "Software Engineer Intern",
+        "Rockwall, TX",
+        "Oct 26",
+        "https://go.vansh.nyc/Tb?s=y"
+      ],
+      [
+        "Hive Financial Systems",
+        "Software Engineer Intern",
+        "Atlanta, GA",
+        "Oct 26",
+        "https://go.vansh.nyc/Ta?s=y"
+      ],
+      [
         "Highmark Health",
         "Software Engineer Intern",
         "Remote United States",
@@ -4059,6 +4073,13 @@
         "Dallas, TX",
         "Oct 26",
         "https://go.vansh.nyc/SC?s=y"
+      ],
+      [
+        "Cohesity",
+        "Software Engineering Intern",
+        "Santa Clara, CA",
+        "Oct 26",
+        "https://go.vansh.nyc/Tc?s=y"
       ],
       [
         "Cisive",
@@ -4250,11 +4271,32 @@
         "https://go.vansh.nyc/OJ?s=y"
       ],
       [
+        "Highmark Health",
+        "Provider Delivery Software Engineer Intern",
+        "Remote United States",
+        "Oct 25",
+        "https://go.vansh.nyc/T8?s=y"
+      ],
+      [
         "Hewlett Packard Enterprise",
         "AI/ML Developer Intern",
         "San Jose, CA",
         "Oct 25",
         "https://go.vansh.nyc/BM?s=y"
+      ],
+      [
+        "HCSC",
+        "Product Engineer Intern",
+        "Chicago, IL Richardson, TX",
+        "Oct 25",
+        "https://go.vansh.nyc/T7?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Software Test Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Pittsburgh, PA",
+        "Oct 25",
+        "https://go.vansh.nyc/T5?s=y"
       ],
       [
         "CVS Health",
@@ -6187,13 +6229,6 @@
         "Toronto, ON, Canada",
         "Oct 19",
         "https://go.vansh.nyc/d2?s=y"
-      ],
-      [
-        "Altera",
-        "FPGA IP Design Engineer Intern",
-        "Toronto, ON, Canada",
-        "Oct 19",
-        "https://go.vansh.nyc/d3?s=y"
       ],
       [
         "Adobe",
@@ -12268,6 +12303,13 @@
         "Amplify",
         "Product Management Intern",
         "Remote in USA",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Altera",
+        "FPGA IP Design Engineer Intern",
+        "Toronto, ON, Canada",
         "Oct 19",
         ""
       ],

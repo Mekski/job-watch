@@ -3862,7 +3862,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "762862af0698537f9c7a9589433d491903087d42",
+    "last_sha": "f62374da5b4fec647cbc6f870438796e80c619ea",
     "rows": [
       [
         "RTX",
@@ -4458,20 +4458,6 @@
         "Vancouver, BC, Canada",
         "Oct 22",
         "https://go.vansh.nyc/et?s=y"
-      ],
-      [
-        "Pattern",
-        "Data Science Intern",
-        "Lehi, UT",
-        "Oct 22",
-        "https://go.vansh.nyc/fu?s=y"
-      ],
-      [
-        "Pattern",
-        "AI Automation Engineer Intern",
-        "Lehi, UT",
-        "Oct 22",
-        "https://go.vansh.nyc/fw?s=y"
       ],
       [
         "Patreon",
@@ -6383,13 +6369,6 @@
         "San Jose, CA",
         "Oct 15",
         "https://go.vansh.nyc/CJ?s=y"
-      ],
-      [
-        "Micron Technology",
-        "Memory Design Engineer Intern, HBM",
-        "Richardson, TX",
-        "Oct 15",
-        "https://go.vansh.nyc/CN?s=y"
       ],
       [
         "Mastercard",
@@ -11356,6 +11335,20 @@
       ],
       [
         "Pattern",
+        "Data Science Intern",
+        "Lehi, UT",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Pattern",
+        "AI Automation Engineer Intern",
+        "Lehi, UT",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Pattern",
         "AI Infrastructure Engineer Intern",
         "Lehi, UT",
         "Oct 22",
@@ -11708,6 +11701,13 @@
         "ROCKWOOL Group",
         "Associate Product Management Intern",
         "Chicago, IL",
+        "Oct 15",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "Memory Design Engineer Intern, HBM",
+        "Richardson, TX",
         "Oct 15",
         ""
       ],

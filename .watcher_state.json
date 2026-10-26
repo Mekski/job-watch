@@ -3827,7 +3827,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
+    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
     "rows": [
       [
         "Skydio",
@@ -3879,11 +3879,25 @@
         "https://go.vansh.nyc/i?s=y"
       ],
       [
+        "Hewlett Packard Enterprise",
+        "AI/ML Developer Intern",
+        "San Jose, CA",
+        "Oct 25",
+        "https://go.vansh.nyc/BM?s=y"
+      ],
+      [
         "ConnectPrep",
         "Data Analyst Intern",
         "Remote United States",
         "Oct 25",
         "https://go.vansh.nyc/BG?s=y"
+      ],
+      [
+        "Skydio",
+        "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+        "San Mateo, CA",
+        "Oct 24",
+        "https://go.vansh.nyc/BL?s=y"
       ],
       [
         "Trimble",
@@ -4262,13 +4276,6 @@
         "Palo Alto, CA Irvine, CA",
         "Oct 22",
         "https://go.vansh.nyc/fI?s=y"
-      ],
-      [
-        "Renesas Electronics",
-        "Memory Server System Testing Intern",
-        "San Jose, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/fB?s=y"
       ],
       [
         "Qualcomm",
@@ -4850,13 +4857,6 @@
         "Cary, NC",
         "Oct 21",
         "https://go.vansh.nyc/dW?s=y"
-      ],
-      [
-        "Genworth",
-        "Risk Modeling Intern",
-        "Raleigh, NC",
-        "Oct 21",
-        "https://go.vansh.nyc/dD?s=y"
       ],
       [
         "FedEx Freight",
@@ -8051,6 +8051,13 @@
         ""
       ],
       [
+        "Renesas Electronics",
+        "Memory Server System Testing Intern",
+        "San Jose, CA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Pattern",
         "AI Infrastructure Engineer Intern",
         "Lehi, UT",
@@ -8083,6 +8090,13 @@
         "Software Engineer Intern",
         "Redmond, WA",
         "Oct 22",
+        ""
+      ],
+      [
+        "Genworth",
+        "Risk Modeling Intern",
+        "Raleigh, NC",
+        "Oct 21",
         ""
       ],
       [

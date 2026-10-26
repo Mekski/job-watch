@@ -3862,7 +3862,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d3e5776a2d3c6a238d3ef52f4d7296fa936b4d6d",
+    "last_sha": "3e08c8fe165b93e4f1e4112b66925691044b30fc",
     "rows": [
       [
         "RTX",
@@ -4787,6 +4787,13 @@
         "Austin, TX",
         "Oct 22",
         "https://go.vansh.nyc/fK?s=y"
+      ],
+      [
+        "Acuity",
+        "Software Engineer Intern \ud83d\udec2",
+        "Sheboygan, WI",
+        "Oct 22",
+        "https://go.vansh.nyc/PT?s=y"
       ],
       [
         "Walrus",
@@ -7169,6 +7176,13 @@
         "https://go.vansh.nyc/89?s=y"
       ],
       [
+        "DriveTime",
+        "Data Analytics Intern",
+        "Dallas, TX Tempe, AZ",
+        "Oct 12",
+        "https://go.vansh.nyc/PR?s=y"
+      ],
+      [
         "Databricks",
         "Software Engineering Intern",
         "**4 locations**Bellevue, WA Mountain View, CA San Francisco, CA Vancouver, BC",
@@ -7223,6 +7237,13 @@
         "Irving, TX",
         "Oct 12",
         "https://go.vansh.nyc/C6?s=y"
+      ],
+      [
+        "Realty Income",
+        "Technology Intern",
+        "San Diego, CA",
+        "Oct 11",
+        "https://go.vansh.nyc/PY?s=y"
       ],
       [
         "Nissan",
@@ -7701,6 +7722,13 @@
         "https://go.vansh.nyc/G0?s=y"
       ],
       [
+        "Amazon",
+        "Business Intelligence Engineer Intern",
+        "Seattle, WA",
+        "Oct 07",
+        "https://go.vansh.nyc/PX?s=y"
+      ],
+      [
         "AeroVironment",
         "Autonomy & Robotics Engineer Intern",
         "**14 locations**Germantown, MD Dayton, OH Pottstown, PA Albuquerque, NM Sunrise, FL Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN Herndon, VA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA",
@@ -7979,6 +8007,13 @@
         "Montreal, Canada",
         "Oct 05",
         "https://go.vansh.nyc/F1?s=y"
+      ],
+      [
+        "Cadence Solutions",
+        "Product Management Intern",
+        "Remote United States",
+        "Oct 05",
+        "https://go.vansh.nyc/PW?s=y"
       ],
       [
         "Cadence Solutions",
@@ -8261,6 +8296,13 @@
         "https://go.vansh.nyc/Eu?s=y"
       ],
       [
+        "Space Dynamics Laboratory",
+        "FPGA Electrical Engineer Intern, Civil & Commercial Space",
+        "North Logan, UT",
+        "Oct 01",
+        "https://go.vansh.nyc/PU?s=y"
+      ],
+      [
         "SAS",
         "Software Development Intern",
         "Bloomington, MN",
@@ -8329,6 +8371,13 @@
         "Omaha, NE",
         "Oct 01",
         "https://go.vansh.nyc/g1?s=y"
+      ],
+      [
+        "American Bankers Association",
+        "Quantitative Research Intern",
+        "Washington, DC",
+        "Oct 01",
+        "https://go.vansh.nyc/PV?s=y"
       ],
       [
         "Amazon",
@@ -8623,6 +8672,20 @@
         "Raleigh, NC",
         "Sep 27",
         "https://go.vansh.nyc/JL?s=y"
+      ],
+      [
+        "General Motors",
+        "Data Governance Engineer Intern",
+        "Warren, MI",
+        "Sep 27",
+        "https://go.vansh.nyc/Q1?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems, Inc.",
+        "EE/Computer Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Manassas, VA",
+        "Sep 27",
+        "https://go.vansh.nyc/PZ?s=y"
       ],
       [
         "AVARINT",
@@ -8948,10 +9011,24 @@
       ],
       [
         "Qualcomm",
+        "Digital Design Engineer Intern",
+        "Toronto, Canada",
+        "Sep 18",
+        "https://go.vansh.nyc/Q0?s=y"
+      ],
+      [
+        "Qualcomm",
         "MSIP Digital Design Verification Engineering Intern, HW",
         "Toronto, Canada",
         "Sep 18",
         "https://go.vansh.nyc/IQ?s=y"
+      ],
+      [
+        "EHC",
+        "Data Management Intern",
+        "Birmingham, AL",
+        "Sep 18",
+        "https://go.vansh.nyc/Q3?s=y"
       ],
       [
         "Amazon",
@@ -9134,6 +9211,13 @@
         "Irvine, CA",
         "Sep 15",
         "https://go.vansh.nyc/Ix?s=y"
+      ],
+      [
+        "Analog Devices",
+        "Information Technology Intern",
+        "Wilmington, MA Camas, WA",
+        "Sep 15",
+        "https://go.vansh.nyc/Q2?s=y"
       ],
       [
         "AfterQuery",
@@ -9620,6 +9704,13 @@
       ],
       [
         "Textron",
+        "Software Engineer Intern",
+        "Augusta, GA",
+        "Sep 01",
+        "https://go.vansh.nyc/Q7?s=y"
+      ],
+      [
+        "Textron",
         "Autonomy Engineer Intern, Air Systems",
         "Hunt Valley, MD Cockeysville, MD",
         "Sep 01",
@@ -9641,6 +9732,13 @@
       ],
       [
         "Johns Hopkins Applied Physics Laboratory",
+        "Weapon Control Intern",
+        "Laurel, MD",
+        "Sep 01",
+        "https://go.vansh.nyc/Q5?s=y"
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
         "Engineer/SW Developer/Analyst Intern, Maritime Force Engagement Control",
         "Laurel, MD",
         "Sep 01",
@@ -9659,6 +9757,13 @@
         "Laurel, MD",
         "Sep 01",
         "https://go.vansh.nyc/LW?s=y"
+      ],
+      [
+        "AMD",
+        "AGS Libraries Co-op",
+        "Calgary, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/Q4?s=y"
       ],
       [
         "AMD",
@@ -9855,6 +9960,13 @@
         "**10 locations**Spring, TX Westford, MA Ft. Collins, CO Chippewa Falls, WI Durham, NC Sunnyvale, CA Roseville, CA San Jose, CA Bloomington, MN Andover, MA",
         "Aug 28",
         "https://go.vansh.nyc/OO?s=y"
+      ],
+      [
+        "Aerospace Corporation",
+        "Semiconductor Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "United States",
+        "Aug 28",
+        "https://go.vansh.nyc/Q9?s=y"
       ],
       [
         "Aerospace Corporation",

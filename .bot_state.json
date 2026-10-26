@@ -28852,6 +28852,36 @@
       "source": "Vansh Repo",
       "message_id": 4893,
       "chat_id": 8743352944
+    },
+    "e1a1161b47f6": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Halifax Regional Municipality, NS, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 4991,
+      "chat_id": 8743352944
+    },
+    "a978db55b445": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 4992,
+      "chat_id": 8743352944
+    },
+    "895d8c27bc1c": {
+      "company": "PTC",
+      "role": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 4993,
+      "chat_id": 8743352944
     }
   },
   "applied": {

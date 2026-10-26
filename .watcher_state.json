@@ -3834,8 +3834,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b026e2bf45f4b7d58a7300c1b00412b6a6a278c2",
+    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
     "rows": [
+      [
+        "Skydio",
+        "Autonomy Engineer Intern",
+        "San Mateo, CA",
+        "Oct 25",
+        "https://go.vansh.nyc/BH?s=y"
+      ],
       [
         "Skydio",
         "Process Engineering Intern",
@@ -3877,6 +3884,13 @@
         "San Mateo, CA",
         "Oct 25",
         "https://go.vansh.nyc/i?s=y"
+      ],
+      [
+        "ConnectPrep",
+        "Data Analyst Intern",
+        "Remote United States",
+        "Oct 25",
+        "https://go.vansh.nyc/BG?s=y"
       ],
       [
         "Trimble",
@@ -4353,13 +4367,6 @@
         "Redmond, WA",
         "Oct 22",
         "https://go.vansh.nyc/eB?s=y"
-      ],
-      [
-        "Man Group",
-        "Systematic Quant Intern",
-        "Boston, MA",
-        "Oct 22",
-        "https://go.vansh.nyc/fC?s=y"
       ],
       [
         "M&T Bank",
@@ -4864,13 +4871,6 @@
         "United States",
         "Oct 21",
         "https://go.vansh.nyc/hc?s=y"
-      ],
-      [
-        "FedEx Freight",
-        "Data Scientist Intern",
-        "Memphis, TN",
-        "Oct 21",
-        "https://go.vansh.nyc/f6?s=y"
       ],
       [
         "Duke Energy Corporation",
@@ -8072,6 +8072,13 @@
         ""
       ],
       [
+        "Man Group",
+        "Systematic Quant Intern",
+        "Boston, MA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Biogen",
         "Integrated Insights & Analytics Co-op, Nephrology",
         "Cambridge, MA",
@@ -8083,6 +8090,13 @@
         "Software Engineer Intern",
         "Redmond, WA",
         "Oct 22",
+        ""
+      ],
+      [
+        "FedEx Freight",
+        "Data Scientist Intern",
+        "Memphis, TN",
+        "Oct 21",
         ""
       ],
       [

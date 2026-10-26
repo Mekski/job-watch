@@ -3820,7 +3820,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "02bcc61da33938df18e703910471bfa5d878c97b",
+    "last_sha": "972fbe7d4885cd3b9fe93a31669e6bc472f25705",
     "rows": [
       [
         "Two Six Technologies",
@@ -3870,6 +3870,13 @@
         "San Mateo, CA",
         "Oct 26",
         "https://go.vansh.nyc/Sj?s=y"
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Diego, CA",
+        "Oct 26",
+        "https://go.vansh.nyc/T2?s=y"
       ],
       [
         "RTX",
@@ -3982,6 +3989,34 @@
         "Kokomo, IN",
         "Oct 26",
         "https://go.vansh.nyc/Sy?s=y"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Systems Engineer Intern, Games",
+        "Albuquerque, NM",
+        "Oct 26",
+        "https://go.vansh.nyc/T0?s=y"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Systems Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Detroit, MI",
+        "Oct 26",
+        "https://go.vansh.nyc/SX?s=y"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Detroit, MI",
+        "Oct 26",
+        "https://go.vansh.nyc/SY?s=y"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Dayton, OH",
+        "Oct 26",
+        "https://go.vansh.nyc/SZ?s=y"
       ],
       [
         "Booz Allen Hamilton",
@@ -6378,13 +6413,6 @@
         "https://go.vansh.nyc/c3?s=y"
       ],
       [
-        "General Dynamics Mission Systems, Inc.",
-        "Engineer Intern, Electrical or Firmware \ud83c\uddfa\ud83c\uddf8",
-        "Annapolis Junction, MD",
-        "Oct 18",
-        "https://go.vansh.nyc/D0?s=y"
-      ],
-      [
         "Garmin",
         "Cyber Security Engineer Intern",
         "Olathe, KS",
@@ -8035,13 +8063,6 @@
         "Calabasas, CA",
         "Oct 08",
         "https://go.vansh.nyc/Gc?s=y"
-      ],
-      [
-        "Itron",
-        "HR AI Data Science Intern",
-        "Austin, TX",
-        "Oct 08",
-        "https://go.vansh.nyc/Gp?s=y"
       ],
       [
         "Hewlett Packard Enterprise",
@@ -12216,6 +12237,13 @@
         ""
       ],
       [
+        "General Dynamics Mission Systems, Inc.",
+        "Engineer Intern, Electrical or Firmware \ud83c\uddfa\ud83c\uddf8",
+        "Annapolis Junction, MD",
+        "Oct 18",
+        ""
+      ],
+      [
         "General Dynamics Information Technology",
         "Software Developer Intern",
         "Egg Harbor Township, NJ",
@@ -12444,6 +12472,13 @@
         "Software Engineer Intern",
         "Phoenix, AZ",
         "Oct 12",
+        ""
+      ],
+      [
+        "Itron",
+        "HR AI Data Science Intern",
+        "Austin, TX",
+        "Oct 08",
         ""
       ],
       [

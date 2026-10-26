@@ -11160,7 +11160,7 @@
       "term": "Summer 2027",
       "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2453,
+      "message_id": 5317,
       "chat_id": 8743352944
     },
     "d35f5f87b6de": {
@@ -16860,7 +16860,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3953,
+      "message_id": 5316,
       "chat_id": 8743352944
     },
     "11aabe85aa1f": {
@@ -30541,6 +30541,96 @@
       "apply_url": "https://go.vansh.nyc/SZ?s=y",
       "source": "Vansh Repo",
       "message_id": 5306,
+      "chat_id": 8743352944
+    },
+    "f3151b18faf9": {
+      "company": "Hive Financial Systems",
+      "role": "Software Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5307,
+      "chat_id": 8743352944
+    },
+    "a0800e7129fb": {
+      "company": "Wise",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/Wise/744000157817979?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5308,
+      "chat_id": 8743352944
+    },
+    "99cf6d584f02": {
+      "company": "Royal Bank of Canada",
+      "role": "Developer Intern",
+      "location": "Montreal, QC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5309,
+      "chat_id": 8743352944
+    },
+    "177161e9a42b": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern",
+      "location": "Beavercreek, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5310,
+      "chat_id": 8743352944
+    },
+    "c078ac24f203": {
+      "company": "Highmark Health",
+      "role": "Applied Gen AI/Data Scientist Graduate Intern",
+      "location": "51 locationsNew Mexico Washington Kansas Pennsylvania North Dakota Oregon Delaware Iowa California Washington, DC Vermont Wyoming Connecticut Texas Montana Florida New Hampshire Nevada South Carolina South Dakota Georgia Arizona Mississippi Tennessee Virginia Arkansas Minnesota Colorado Nebraska Rhode Island Utah Kentucky West Virginia NYC Maryland Hawaii Wisconsin Maine Massachusetts North Carolina Oklahoma Missouri Ohio New Jersey Indiana Louisiana Alaska Michigan Illinois Alabama Idaho",
+      "term": "Summer 2027",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5311,
+      "chat_id": 8743352944
+    },
+    "d2fdd95077ce": {
+      "company": "Highmark Health",
+      "role": "Software Engineer Graduate Intern",
+      "location": "50 locationsNew Mexico Washington Kansas Pennsylvania North Dakota Oregon Delaware Iowa California Washington, DC Vermont Wyoming Connecticut Texas Montana Florida New Hampshire Nevada South Carolina South Dakota Georgia Arizona Mississippi Tennessee Virginia Arkansas Minnesota Colorado Nebraska Rhode Island Utah Kentucky West Virginia NYC Maryland Hawaii Wisconsin Maine Massachusetts North Carolina Oklahoma Ohio New Jersey Indiana Louisiana Alaska Michigan Illinois Alabama Idaho",
+      "term": "Summer 2027",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5312,
+      "chat_id": 8743352944
+    },
+    "68cea40875db": {
+      "company": "Highmark Health",
+      "role": "Software Engineer Intern",
+      "location": "Pennsylvania",
+      "term": "Summer 2027",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5313,
+      "chat_id": 8743352944
+    },
+    "b2ecbdb9450b": {
+      "company": "Highmark Health",
+      "role": "Software Engineer Undergraduate Intern",
+      "location": "Pennsylvania",
+      "term": "Summer 2027",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5314,
+      "chat_id": 8743352944
+    },
+    "b95ebc9aa094": {
+      "company": "Highmark Health",
+      "role": "Provider Delivery Software Engineer Intern",
+      "location": "Remote in USA",
+      "term": "Summer 2027",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5315,
       "chat_id": 8743352944
     }
   },

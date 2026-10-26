@@ -3771,7 +3771,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "53e814f3d9f35d09825a93e841f188da491891c7",
+    "last_sha": "97a190bfc4e3fe9aee6158121041e02f475f84c5",
     "rows": [
       [
         "RTX",
@@ -3786,6 +3786,13 @@
         "Boston, MA",
         "Oct 26",
         "https://go.vansh.nyc/CS?s=y"
+      ],
+      [
+        "Manhattan Associates",
+        "Cloud Intern",
+        "Atlanta, GA",
+        "Oct 26",
+        "https://go.vansh.nyc/MX?s=y"
       ],
       [
         "Skydio",
@@ -8535,6 +8542,13 @@
       ],
       [
         "Zurn Elkay Water Solutions",
+        "Embedded Hardware Intern",
+        "Milwaukee, WI",
+        "Sep 24",
+        "https://go.vansh.nyc/MW?s=y"
+      ],
+      [
+        "Zurn Elkay Water Solutions",
         "Embedded Firmware Intern",
         "Milwaukee, WI",
         "Sep 24",
@@ -8749,20 +8763,6 @@
         "Mequon, WI",
         "Sep 21",
         "https://go.vansh.nyc/J7?s=y"
-      ],
-      [
-        "Assured Guaranty",
-        "Product Software Developer Intern, Front-End",
-        "New York, NY",
-        "Sep 21",
-        "https://go.vansh.nyc/J4?s=y"
-      ],
-      [
-        "Assured Guaranty",
-        "Product Software Developer Intern, Back-End",
-        "New York, NY",
-        "Sep 21",
-        "https://go.vansh.nyc/J5?s=y"
       ],
       [
         "Marvell",
@@ -9038,11 +9038,676 @@
         "https://go.vansh.nyc/Ip?s=y"
       ],
       [
+        "CACI",
+        "Software Engineer Intern",
+        "**4 locations**Remote United States Sterling, VA Denver, CO",
+        "Sep 13",
+        "https://go.vansh.nyc/MU?s=y"
+      ],
+      [
+        "Booz Allen",
+        "Applied AI Intern",
+        "Washington, DC",
+        "Sep 13",
+        "https://go.vansh.nyc/MV?s=y"
+      ],
+      [
+        "Veeam Software",
+        "Policy Engineering Intern",
+        "San Jose, CA",
+        "Sep 11",
+        "https://go.vansh.nyc/MQ?s=y"
+      ],
+      [
+        "Oshkosh",
+        "Cyber Security Intern",
+        "Oshkosh, WI",
+        "Sep 11",
+        "https://go.vansh.nyc/Nc?s=y"
+      ],
+      [
+        "Constellation Energy",
+        "Information Technology Software Development Intern",
+        "Baltimore, MD",
+        "Sep 11",
+        "https://go.vansh.nyc/MR?s=y"
+      ],
+      [
+        "Constellation Energy",
+        "IT Data Engineering Intern",
+        "Baltimore, MD",
+        "Sep 11",
+        "https://go.vansh.nyc/MS?s=y"
+      ],
+      [
+        "Compeer Financial",
+        "Infrastructure Engineering Intern \ud83d\udec2",
+        "Lakeville, MN",
+        "Sep 11",
+        "https://go.vansh.nyc/Nd?s=y"
+      ],
+      [
+        "Axon",
+        "Software Engineer Intern, R&D Program",
+        "Seattle, WA",
+        "Sep 11",
+        "https://go.vansh.nyc/MT?s=y"
+      ],
+      [
+        "Amazon",
+        "Machine Learning Systems Software Development Engineer Intern, Annapurna Labs",
+        "Toronto, Canada",
+        "Sep 11",
+        "https://go.vansh.nyc/MP?s=y"
+      ],
+      [
+        "The Toro Company",
+        "Spatial Data R&D Intern",
+        "Bloomington, MN",
+        "Sep 10",
+        "https://go.vansh.nyc/MI?s=y"
+      ],
+      [
+        "The Toro Company",
+        "Embedded Software Engineer Intern",
+        "Bloomington, MN",
+        "Sep 10",
+        "https://go.vansh.nyc/MJ?s=y"
+      ],
+      [
+        "The MJ Companies",
+        "Enterprise Data Intern",
+        "Carmel, IN",
+        "Sep 10",
+        "https://go.vansh.nyc/MH?s=y"
+      ],
+      [
+        "Oshkosh",
+        "Autonomy & Active Safety Engineer Intern",
+        "Oshkosh, WI Pittsburgh, PA",
+        "Sep 10",
+        "https://go.vansh.nyc/MK?s=y"
+      ],
+      [
+        "National Information Solutions Cooperative",
+        "Information Security (Cybersecurity) Intern",
+        "Lake St. Louis, MO",
+        "Sep 10",
+        "https://go.vansh.nyc/Na?s=y"
+      ],
+      [
+        "National Information Solutions Cooperative",
+        "Information Security (Cybersecurity) Intern",
+        "Mandan, ND",
+        "Sep 10",
+        "https://go.vansh.nyc/Nb?s=y"
+      ],
+      [
+        "Garmin",
+        "Software Engineer Intern",
+        "Cary, NC",
+        "Sep 10",
+        "https://go.vansh.nyc/MG?s=y"
+      ],
+      [
+        "Garmin",
+        "Software Engineer Intern",
+        "Tulsa, OK",
+        "Sep 10",
+        "https://go.vansh.nyc/MO?s=y"
+      ],
+      [
+        "Emerson Electric",
+        "Software Engineer Co-op",
+        "Eden Prairie, MN",
+        "Sep 10",
+        "https://go.vansh.nyc/MM?s=y"
+      ],
+      [
+        "Danaher Corporation",
+        "IT Security Intern",
+        "Coralville, IA",
+        "Sep 10",
+        "https://go.vansh.nyc/N9?s=y"
+      ],
+      [
+        "Avis Budget Group",
+        "Transformation Engineer Intern, Accelerate",
+        "Parsippany-Troy Hills, NJ",
+        "Sep 10",
+        "https://go.vansh.nyc/ML?s=y"
+      ],
+      [
+        "The Toro Company",
+        "Hardware and Software Engineering Intern",
+        "Perry, OK",
+        "Sep 09",
+        "https://go.vansh.nyc/MD?s=y"
+      ],
+      [
         "Silabs",
         "Design Engineering Intern",
         "Austin, TX",
         "Sep 09",
         "https://go.vansh.nyc/JM?s=y"
+      ],
+      [
+        "Publicis Groupe",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Sep 09",
+        "https://go.vansh.nyc/MB?s=y"
+      ],
+      [
+        "Pilot Company",
+        "Data Governance Intern",
+        "Knoxville, TN",
+        "Sep 09",
+        "https://go.vansh.nyc/Mz?s=y"
+      ],
+      [
+        "Pilot Company",
+        "Application Development Intern",
+        "Knoxville, TN",
+        "Sep 09",
+        "https://go.vansh.nyc/MA?s=y"
+      ],
+      [
+        "PanAgora",
+        "Equity Intern",
+        "Boston, MA",
+        "Sep 09",
+        "https://go.vansh.nyc/ME?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Associate Intern, Security Automation",
+        "Vienna, VA",
+        "Sep 09",
+        "https://go.vansh.nyc/N7?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Business Intelligence Analyst Associate Intern",
+        "Vienna, VA",
+        "Sep 09",
+        "https://go.vansh.nyc/Mx?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Security Workflow Engineer Intern",
+        "Vienna, VA",
+        "Sep 09",
+        "https://go.vansh.nyc/My?s=y"
+      ],
+      [
+        "Barnes & Thornburg",
+        "Information Security Intern",
+        "Indianapolis, IN",
+        "Sep 09",
+        "https://go.vansh.nyc/N8?s=y"
+      ],
+      [
+        "Activision Blizzard",
+        "Software Engineering Intern",
+        "Sherman Oaks, CA Portland, OR Santa Monica, CA",
+        "Sep 09",
+        "https://go.vansh.nyc/N6?s=y"
+      ],
+      [
+        "TruStage",
+        "Information Technology Development and Infrastructure Intern",
+        "Madison, WI",
+        "Sep 08",
+        "https://go.vansh.nyc/Ms?s=y"
+      ],
+      [
+        "Motorola",
+        "FPGA Design Engineering Intern",
+        "Schaumburg, IL",
+        "Sep 08",
+        "https://go.vansh.nyc/Mq?s=y"
+      ],
+      [
+        "Gallup",
+        "DevOps Engineer Intern",
+        "Omaha, NE",
+        "Sep 08",
+        "https://go.vansh.nyc/N5?s=y"
+      ],
+      [
+        "Datadog",
+        "Software Engineer Intern",
+        "Boston, MA New York, NY",
+        "Sep 08",
+        "https://go.vansh.nyc/Mm?s=y"
+      ],
+      [
+        "Covestro",
+        "Digital R&D Intern",
+        "Pittsburgh, PA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mr?s=y"
+      ],
+      [
+        "Coinbase",
+        "Analytics Engineer Intern",
+        "San Francisco, CA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mt?s=y"
+      ],
+      [
+        "Coinbase",
+        "Data Science Intern, Strategy, Execution, & Analytics Platform",
+        "San Francisco, CA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mu?s=y"
+      ],
+      [
+        "Coinbase",
+        "Data Engineer Intern",
+        "San Francisco, CA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mv?s=y"
+      ],
+      [
+        "Coinbase",
+        "Software Engineer Intern",
+        "San Francisco, CA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mw?s=y"
+      ],
+      [
+        "Aramco Americas",
+        "AI/ML Engineering Intern",
+        "Houston, TX",
+        "Sep 08",
+        "https://go.vansh.nyc/Mo?s=y"
+      ],
+      [
+        "Aramco Americas",
+        "Research and Development Intern",
+        "Cambridge, MA",
+        "Sep 08",
+        "https://go.vansh.nyc/Mp?s=y"
+      ],
+      [
+        "AArete",
+        "Data Architecture and Engineering Intern",
+        "Chicago, IL",
+        "Sep 08",
+        "https://go.vansh.nyc/Mn?s=y"
+      ],
+      [
+        "RTX",
+        "FPGA Electrical Design Engineer Intern",
+        "Tucson, AZ",
+        "Sep 07",
+        "https://go.vansh.nyc/Mk?s=y"
+      ],
+      [
+        "RTX",
+        "Digital Design Electrical Engineer Intern",
+        "Tucson, AZ",
+        "Sep 07",
+        "https://go.vansh.nyc/Ml?s=y"
+      ],
+      [
+        "Xcel Energy",
+        "Grid Data Intern",
+        "Minneapolis, MN",
+        "Sep 06",
+        "https://go.vansh.nyc/Mj?s=y"
+      ],
+      [
+        "Westinghouse Electric Company",
+        "Application Development Intern",
+        "Cranberry Township, PA",
+        "Sep 04",
+        "https://go.vansh.nyc/Mh?s=y"
+      ],
+      [
+        "Solidigm",
+        "Software Development & Firmware Engineering Intern",
+        "Rancho Cordova, CA Longmont, CO Sacramento, CA",
+        "Sep 04",
+        "https://go.vansh.nyc/Mi?s=y"
+      ],
+      [
+        "Springs Window Fashions",
+        "AI Intern, Information Technology",
+        "Middleton, WI",
+        "Sep 03",
+        "https://go.vansh.nyc/N4?s=y"
+      ],
+      [
+        "Marvell",
+        "Design for Test Intern",
+        "**4 locations**Morrisville, NC Santa Clara, CA Boise, ID Westborough, MA",
+        "Sep 03",
+        "https://go.vansh.nyc/Ma?s=y"
+      ],
+      [
+        "Marvell",
+        "Functional Validation Intern",
+        "Santa Clara, CA Boise, ID Westborough, MA",
+        "Sep 03",
+        "https://go.vansh.nyc/Mb?s=y"
+      ],
+      [
+        "Marvell",
+        "Design Verification Intern",
+        "**5 locations**Morrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA",
+        "Sep 03",
+        "https://go.vansh.nyc/Me?s=y"
+      ],
+      [
+        "Marvell",
+        "Physical Design Engineer Intern",
+        "**7 locations**Morrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA",
+        "Sep 03",
+        "https://go.vansh.nyc/Mf?s=y"
+      ],
+      [
+        "Hy-Vee",
+        "Data Integration Intern",
+        "West Des Moines, IA",
+        "Sep 03",
+        "https://go.vansh.nyc/Mc?s=y"
+      ],
+      [
+        "DIRECTV",
+        "Product Development Intern, DIRECTV for Business",
+        "Clarksburg, MD",
+        "Sep 03",
+        "https://go.vansh.nyc/M9?s=y"
+      ],
+      [
+        "Amazon",
+        "Software Development Engineer Intern, Robotics",
+        "**7 locations**Seattle, WA Nashville, TN Austin, TX North Reading, MA Arlington, VA Bellevue, WA Westborough, MA",
+        "Sep 03",
+        "https://go.vansh.nyc/Mg?s=y"
+      ],
+      [
+        "Alcon",
+        "Electrical & Computer Engineering Intern",
+        "**5 locations**Fort Worth, TX Lake Forest, CA Johns Creek, GA Houston, TX Goleta, CA",
+        "Sep 03",
+        "https://go.vansh.nyc/N3?s=y"
+      ],
+      [
+        "Universal Health Services",
+        "Software Engineer Intern, Data Analytics",
+        "King of Prussia, PA",
+        "Sep 02",
+        "https://go.vansh.nyc/M0?s=y"
+      ],
+      [
+        "Northmarq",
+        "Software Engineering Intern \ud83d\udec2",
+        "Minneapolis, MN",
+        "Sep 02",
+        "https://go.vansh.nyc/N2?s=y"
+      ],
+      [
+        "National Information Solutions Cooperative",
+        "Software Development Intern",
+        "Lake St Louis, MO",
+        "Sep 02",
+        "https://go.vansh.nyc/M8?s=y"
+      ],
+      [
+        "Hewlett Packard Enterprise",
+        "ASIC Firmware and Diagnostic Intern",
+        "Bloomington, MN Chippewa Falls, WI",
+        "Sep 02",
+        "https://go.vansh.nyc/M3?s=y"
+      ],
+      [
+        "Hewlett Packard Enterprise",
+        "Pre-Silicon Diagnostics Intern",
+        "Fort Collins, CO",
+        "Sep 02",
+        "https://go.vansh.nyc/M4?s=y"
+      ],
+      [
+        "Caterpillar",
+        "Corporate Intern, Autonomy & Intelligent Systems Engineering",
+        "**5 locations**Peoria, IL San Francisco, CA Pittsburgh, PA Mossville, IL Irving, TX",
+        "Sep 02",
+        "https://go.vansh.nyc/M2?s=y"
+      ],
+      [
+        "Caterpillar",
+        "Corporate Intern, Digital and Analytics",
+        "Peoria, IL Chicago, IL Irving, TX",
+        "Sep 02",
+        "https://go.vansh.nyc/M5?s=y"
+      ],
+      [
+        "AMD",
+        "ASIC Verification Engineer Co-op",
+        "Ottawa, Canada",
+        "Sep 02",
+        "https://go.vansh.nyc/M6?s=y"
+      ],
+      [
+        "Textron",
+        "Autonomy Engineer Intern, Air Systems",
+        "Hunt Valley, MD Cockeysville, MD",
+        "Sep 01",
+        "https://go.vansh.nyc/LE?s=y"
+      ],
+      [
+        "McKesson",
+        "Software Engineer Intern",
+        "Longmont, CO",
+        "Sep 01",
+        "https://go.vansh.nyc/LZ?s=y"
+      ],
+      [
+        "Kinder Morgan",
+        "Information Technology Intern, Application Development",
+        "Houston, TX",
+        "Sep 01",
+        "https://go.vansh.nyc/LX?s=y"
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "Engineer/SW Developer/Analyst Intern, Maritime Force Engagement Control",
+        "Laurel, MD",
+        "Sep 01",
+        "https://go.vansh.nyc/LU?s=y"
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "Software Developer Intern, Tactical System Prototyping and Deployment",
+        "Laurel, MD",
+        "Sep 01",
+        "https://go.vansh.nyc/LV?s=y"
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "Cyber Software Engineer Intern, Capabilities Development",
+        "Laurel, MD",
+        "Sep 01",
+        "https://go.vansh.nyc/LW?s=y"
+      ],
+      [
+        "AMD",
+        "Software Engineering Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/MZ?s=y"
+      ],
+      [
+        "AMD",
+        "Software Test Engineering Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/N0?s=y"
+      ],
+      [
+        "AMD",
+        "Machine Learning/Artificial Intelligence Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LG?s=y"
+      ],
+      [
+        "AMD",
+        "Hardware Design Engineer Co-op",
+        "Vancouver, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LI?s=y"
+      ],
+      [
+        "AMD",
+        "Diagnostics Design Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LJ?s=y"
+      ],
+      [
+        "AMD",
+        "Firmware Engineer Co-op",
+        "Vancouver, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LL?s=y"
+      ],
+      [
+        "AMD",
+        "Hardware Design Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LN?s=y"
+      ],
+      [
+        "AMD",
+        "Graphics Software Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LO?s=y"
+      ],
+      [
+        "AMD",
+        "Firmware Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        "https://go.vansh.nyc/LQ?s=y"
+      ],
+      [
+        "Vermeer",
+        "Embedded Software Engineer Intern",
+        "Pella, IA",
+        "Aug 31",
+        "https://go.vansh.nyc/Ls?s=y"
+      ],
+      [
+        "Vanguard",
+        "Application Development Intern",
+        "Dallas, TX",
+        "Aug 31",
+        "https://go.vansh.nyc/LB?s=y"
+      ],
+      [
+        "Tarrant Regional Water District",
+        "Energy Intern",
+        "Fort Worth, TX",
+        "Aug 31",
+        "https://go.vansh.nyc/Lw?s=y"
+      ],
+      [
+        "Stanley Black & Decker",
+        "Embedded Software Engineering Intern",
+        "Towson, MD",
+        "Aug 31",
+        "https://go.vansh.nyc/Lv?s=y"
+      ],
+      [
+        "RTX",
+        "Electrical Engineer Intern",
+        "El Segundo, CA",
+        "Aug 31",
+        "https://go.vansh.nyc/LA?s=y"
+      ],
+      [
+        "Rockwell Automation",
+        "Information Technology Intern",
+        "Milwaukee, WI",
+        "Aug 31",
+        "https://go.vansh.nyc/LC?s=y"
+      ],
+      [
+        "Ingredion",
+        "Digital Innovation Intern",
+        "Bridgewater, NJ",
+        "Aug 31",
+        "https://go.vansh.nyc/Lx?s=y"
+      ],
+      [
+        "IAT Insurance Group",
+        "Data & Integration Intern",
+        "Milwaukee, WI",
+        "Aug 31",
+        "https://go.vansh.nyc/Lt?s=y"
+      ],
+      [
+        "Garmin",
+        "Software Engineer Intern",
+        "Chandler, AZ",
+        "Aug 31",
+        "https://go.vansh.nyc/Lo?s=y"
+      ],
+      [
+        "Cvent",
+        "Software Engineer Intern",
+        "Tysons, VA",
+        "Aug 31",
+        "https://go.vansh.nyc/Lq?s=y"
+      ],
+      [
+        "C3.ai",
+        "Software Engineer Intern",
+        "Redwood City, CA",
+        "Aug 31",
+        "https://go.vansh.nyc/Lp?s=y"
+      ],
+      [
+        "American Express",
+        "Data Engineer Intern, Enterprise Technology Services",
+        "Sunrise, FL",
+        "Aug 31",
+        "https://go.vansh.nyc/LD?s=y"
+      ],
+      [
+        "AeroVironment",
+        "Embedded Software Engineer Intern",
+        "**16 locations**Dayton, OH Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington, VA Melbourne, FL Petaluma, CA Centreville, VA Lawrence, KS Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA",
+        "Aug 31",
+        "https://go.vansh.nyc/Ly?s=y"
+      ],
+      [
+        "AeroVironment",
+        "Software Engineer Intern",
+        "**14 locations**Germantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA",
+        "Aug 31",
+        "https://go.vansh.nyc/Lz?s=y"
+      ],
+      [
+        "Aerotech",
+        "Electrical/Computer Engineering Co-op",
+        "Pittsburgh, PA",
+        "Aug 31",
+        "https://go.vansh.nyc/Lr?s=y"
+      ],
+      [
+        "Aerospace Corporation",
+        "Cyber Security Intern \ud83d\udec2",
+        "United States",
+        "Aug 31",
+        "https://go.vansh.nyc/MY?s=y"
       ],
       [
         "Vertiv",
@@ -10673,6 +11338,20 @@
         "Software Engineering Intern, Embark",
         "Kansas City, MO",
         "Sep 27",
+        ""
+      ],
+      [
+        "Assured Guaranty",
+        "Product Software Developer Intern, Front-End",
+        "New York, NY",
+        "Sep 21",
+        ""
+      ],
+      [
+        "Assured Guaranty",
+        "Product Software Developer Intern, Back-End",
+        "New York, NY",
+        "Sep 21",
         ""
       ],
       [

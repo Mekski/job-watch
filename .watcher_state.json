@@ -3946,7 +3946,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "38b0c753fde55d9bb4d4d5ca55ee9a7daaa7d664",
+    "last_sha": "25210a3c5e0cf93f0e4573f74c15bd9f05e5daea",
     "rows": [
       [
         "Visa",
@@ -3975,13 +3975,6 @@
         "Boston, MA",
         "Oct 27",
         "https://go.vansh.nyc/Vg?s=y"
-      ],
-      [
-        "NVIDIA (Eightfold)",
-        "Software Engineering Intern, AI Agents & Backend Infrastructure",
-        "Berlin, DE",
-        "Oct 27",
-        "https://go.vansh.nyc/Vv?s=y"
       ],
       [
         "Ericsson",
@@ -6572,13 +6565,6 @@
         "Markham, Canada",
         "Oct 18",
         "https://go.vansh.nyc/RA?s=y"
-      ],
-      [
-        "Qualcomm",
-        "AI Driven Test Automation Engineering Intern",
-        "Haifa District, IL",
-        "Oct 18",
-        "https://go.vansh.nyc/RB?s=y"
       ],
       [
         "Qualcomm",
@@ -12160,6 +12146,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "NVIDIA",
+        "Software Engineering Intern, AI Agents & Backend Infrastructure",
+        "Berlin, DE",
+        "Oct 27",
+        ""
+      ],
+      [
         "Trimble",
         "Navigation & Machine Learning Engineering Intern",
         "Richmond Hill, Canada",
@@ -12590,6 +12583,13 @@
         "Rogue Fitness",
         "AI Engineer Intern",
         "Columbus, OH",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Qualcomm",
+        "AI Driven Test Automation Engineering Intern",
+        "Haifa District, IL",
         "Oct 18",
         ""
       ],

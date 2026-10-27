@@ -3953,7 +3953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d4ab2c25a6dc5db675cffdcf467193139490ad28",
+    "last_sha": "18c52079b5d582f3dcd613109122455325b338d6",
     "rows": [
       [
         "Visa",
@@ -3961,6 +3961,20 @@
         "Foster City, CA",
         "Oct 27",
         "https://go.vansh.nyc/UG?s=y"
+      ],
+      [
+        "Rockwell Automation",
+        "Cybersecurity Intern \ud83d\udec2",
+        "Milwaukee, WI Chelmsford, MA",
+        "Oct 27",
+        "https://go.vansh.nyc/Vd?s=y"
+      ],
+      [
+        "Cencora",
+        "AI Intern",
+        "Conshohocken, PA",
+        "Oct 27",
+        "https://go.vansh.nyc/Vc?s=y"
       ],
       [
         "Zillow",
@@ -6952,13 +6966,6 @@
         "https://go.vansh.nyc/b1?s=y"
       ],
       [
-        "ChargePoint",
-        "IT & Network Intern",
-        "Campbell, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/ae?s=y"
-      ],
-      [
         "CenturyLink",
         "Data Intern, Analytics & Decision Science",
         "Remote in USA",
@@ -9158,6 +9165,13 @@
       ],
       [
         "Oceaneering",
+        "IT/OT Cybersecurity Intern",
+        "Houston, TX",
+        "Sep 30",
+        "https://go.vansh.nyc/V3?s=y"
+      ],
+      [
+        "Oceaneering",
         "IT Security Architecture Intern",
         "Houston, TX",
         "Sep 30",
@@ -9575,6 +9589,20 @@
         "New York, NY",
         "Sep 22",
         "https://go.vansh.nyc/Jg?s=y"
+      ],
+      [
+        "Oceaneering",
+        "ROV Software Intern \ud83c\uddfa\ud83c\uddf8",
+        "Austin, TX",
+        "Sep 22",
+        "https://go.vansh.nyc/V1?s=y"
+      ],
+      [
+        "Oceaneering",
+        "Software Intern, C++",
+        "Austin, TX",
+        "Sep 22",
+        "https://go.vansh.nyc/V2?s=y"
       ],
       [
         "Neuberger Berman",
@@ -10198,6 +10226,13 @@
         "Chicago, IL",
         "Sep 09",
         "https://go.vansh.nyc/MB?s=y"
+      ],
+      [
+        "Pilot Company",
+        "Program Intern, Cloud Operations",
+        "Knoxville, TN",
+        "Sep 09",
+        "https://go.vansh.nyc/V0?s=y"
       ],
       [
         "Pilot Company",
@@ -12548,6 +12583,13 @@
         "Northrop Grumman",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Aurora, CO",
+        "Oct 16",
+        ""
+      ],
+      [
+        "ChargePoint",
+        "IT & Network Intern",
+        "Campbell, CA",
         "Oct 16",
         ""
       ],

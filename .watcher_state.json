@@ -3960,7 +3960,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "781c5818a10280cc65d0b7c781dfe4879cc1591b",
+    "last_sha": "03490e9463fa22a7bf06bb5a48d3a249278ccf01",
     "rows": [
       [
         "Zillow",
@@ -4089,6 +4089,13 @@
         "https://go.vansh.nyc/MX?s=y"
       ],
       [
+        "Lockheed Martin",
+        "Software Engineer Intern",
+        "Huntsville, AL",
+        "Oct 26",
+        "https://go.vansh.nyc/UC?s=y"
+      ],
+      [
         "L3Harris Technologies",
         "Software Engineer Intern",
         "Rockwall, TX",
@@ -4129,6 +4136,20 @@
         "Mountain View, CA",
         "Oct 26",
         "https://go.vansh.nyc/SV?s=y"
+      ],
+      [
+        "Disney",
+        "Systems Engineer Intern, Data Services",
+        "Vancouver, Canada",
+        "Oct 26",
+        "https://go.vansh.nyc/Uz?s=y"
+      ],
+      [
+        "Disney",
+        "Software Engineer Intern, Pipeline Infrastructure",
+        "Vancouver, Canada",
+        "Oct 26",
+        "https://go.vansh.nyc/UA?s=y"
       ],
       [
         "Crowe",
@@ -4353,6 +4374,13 @@
         "Halifax, Canada",
         "Oct 25",
         "https://go.vansh.nyc/OJ?s=y"
+      ],
+      [
+        "Niantic Spatial",
+        "Software Engineer Intern, Native SDK & Mobile Platforms",
+        "San Francisco, CA",
+        "Oct 25",
+        "https://go.vansh.nyc/Uy?s=y"
       ],
       [
         "Highmark Health",
@@ -5648,13 +5676,6 @@
         "San Mateo, CA",
         "Oct 20",
         "https://go.vansh.nyc/cH?s=y"
-      ],
-      [
-        "SAS",
-        "JMP Software Testing Intern",
-        "Cary, NC",
-        "Oct 20",
-        "https://go.vansh.nyc/D8?s=y"
       ],
       [
         "Salesforce",
@@ -12289,6 +12310,13 @@
         "Shield AI",
         "Data Science Intern",
         "San Diego, CA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "SAS",
+        "JMP Software Testing Intern",
+        "Cary, NC",
         "Oct 20",
         ""
       ],

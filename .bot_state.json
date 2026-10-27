@@ -30882,6 +30882,46 @@
       "source": "Simplify Repo",
       "message_id": 5342,
       "chat_id": 8743352944
+    },
+    "4d5f2ed1429f": {
+      "company": "Lockheed Martin",
+      "role": "Software Engineer Intern",
+      "location": "Huntsville, AL",
+      "term": "Oct 26",
+      "apply_url": "https://go.vansh.nyc/UC?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5343,
+      "chat_id": 8743352944
+    },
+    "526a690cc0d0": {
+      "company": "Disney",
+      "role": "Systems Engineer Intern, Data Services",
+      "location": "Vancouver, Canada",
+      "term": "Oct 26",
+      "apply_url": "https://go.vansh.nyc/Uz?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5344,
+      "chat_id": 8743352944
+    },
+    "1cb4f5094ccb": {
+      "company": "Disney",
+      "role": "Software Engineer Intern, Pipeline Infrastructure",
+      "location": "Vancouver, Canada",
+      "term": "Oct 26",
+      "apply_url": "https://go.vansh.nyc/UA?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5345,
+      "chat_id": 8743352944
+    },
+    "f15af4dbb710": {
+      "company": "Niantic Spatial",
+      "role": "Software Engineer Intern, Native SDK & Mobile Platforms",
+      "location": "San Francisco, CA",
+      "term": "Oct 25",
+      "apply_url": "https://go.vansh.nyc/Uy?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5346,
+      "chat_id": 8743352944
     }
   },
   "applied": {

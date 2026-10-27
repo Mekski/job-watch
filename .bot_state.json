@@ -12730,7 +12730,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1865,
+      "message_id": 5351,
       "chat_id": 8743352944
     },
     "864485573e49": {
@@ -16010,7 +16010,7 @@
       "term": "Summer 2027",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3173,
+      "message_id": 5347,
       "chat_id": 8743352944
     },
     "637fffb13398": {
@@ -30921,6 +30921,36 @@
       "apply_url": "https://go.vansh.nyc/Uy?s=y",
       "source": "Vansh Repo",
       "message_id": 5346,
+      "chat_id": 8743352944
+    },
+    "d87d3fa91463": {
+      "company": "Aurora Innovation",
+      "role": "Core Autonomy Software Intern - C++",
+      "location": "Pittsburgh, PA Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5348,
+      "chat_id": 8743352944
+    },
+    "af0fc21a0c08": {
+      "company": "Aurora Innovation",
+      "role": "Full Stack Engineer Intern",
+      "location": "Pittsburgh, PA Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5349,
+      "chat_id": 8743352944
+    },
+    "4b26db01e211": {
+      "company": "Aurora Innovation",
+      "role": "Simulation Engineering Intern",
+      "location": "SF Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5350,
       "chat_id": 8743352944
     }
   },

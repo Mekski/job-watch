@@ -31812,6 +31812,46 @@
       "source": "Simplify Repo",
       "message_id": 5448,
       "chat_id": 8743352944
+    },
+    "dfd5e261c123": {
+      "company": "Paccar",
+      "role": "Data Engineer Intern",
+      "location": "Chillicothe, OH",
+      "term": "Oct 27",
+      "apply_url": "https://go.vansh.nyc/WP?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5449,
+      "chat_id": 8743352944
+    },
+    "9d76aaa8f387": {
+      "company": "Nomad GCS",
+      "role": "Software Engineer Intern",
+      "location": "Columbia Falls, MT",
+      "term": "Oct 27",
+      "apply_url": "https://go.vansh.nyc/WO?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5450,
+      "chat_id": 8743352944
+    },
+    "c09f3b32fa9c": {
+      "company": "Assurant",
+      "role": "AI and Data Science Intern",
+      "location": "Atlanta, GA",
+      "term": "Oct 26",
+      "apply_url": "https://go.vansh.nyc/WN?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5451,
+      "chat_id": 8743352944
+    },
+    "84ca0a906485": {
+      "company": "42dot",
+      "role": "Foundation Models Intern",
+      "location": "San Francisco, CA Sunnyvale, CA",
+      "term": "Oct 26",
+      "apply_url": "https://go.vansh.nyc/WM?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5452,
+      "chat_id": 8743352944
     }
   },
   "applied": {

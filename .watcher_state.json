@@ -4051,7 +4051,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e66fc785725d75abfec664ec6a4cd2a2ac1323da",
+    "last_sha": "678b501724d7e9d33de716aaca7ed9792d4f5324",
     "rows": [
       [
         "Workiva",
@@ -4166,11 +4166,25 @@
         "https://go.vansh.nyc/W8?s=y"
       ],
       [
+        "Paccar",
+        "Data Engineer Intern",
+        "Chillicothe, OH",
+        "Oct 27",
+        "https://go.vansh.nyc/WP?s=y"
+      ],
+      [
         "Northrop Grumman",
         "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Azusa, CA",
         "Oct 27",
         "https://go.vansh.nyc/Wl?s=y"
+      ],
+      [
+        "Nomad GCS",
+        "Software Engineer Intern",
+        "Columbia Falls, MT",
+        "Oct 27",
+        "https://go.vansh.nyc/WO?s=y"
       ],
       [
         "National Interstate Insurance",
@@ -4726,6 +4740,13 @@
         "https://go.vansh.nyc/Qs?s=y"
       ],
       [
+        "Assurant",
+        "AI and Data Science Intern",
+        "Atlanta, GA",
+        "Oct 26",
+        "https://go.vansh.nyc/WN?s=y"
+      ],
+      [
         "Apple",
         "Software Engineer Intern, Core OS",
         "United States",
@@ -4752,6 +4773,13 @@
         "North Chicago, IL",
         "Oct 26",
         "https://go.vansh.nyc/SW?s=y"
+      ],
+      [
+        "42dot",
+        "Foundation Models Intern",
+        "San Francisco, CA Sunnyvale, CA",
+        "Oct 26",
+        "https://go.vansh.nyc/WM?s=y"
       ],
       [
         "Skydio",
@@ -5662,13 +5690,6 @@
         "Sunnyvale, CA",
         "Oct 22",
         "https://go.vansh.nyc/gF?s=y"
-      ],
-      [
-        "Amazon",
-        "Systems Development Engineer Intern",
-        "Vancouver, Canada",
-        "Oct 22",
-        "https://go.vansh.nyc/gI?s=y"
       ],
       [
         "Amazon",
@@ -12625,6 +12646,13 @@
         "Biogen",
         "Integrated Insights & Analytics Co-op, Nephrology",
         "Cambridge, MA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Amazon",
+        "Systems Development Engineer Intern",
+        "Vancouver, Canada",
         "Oct 22",
         ""
       ],

@@ -3988,7 +3988,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8e1c3ba11afcdf945cd40f448e4c3c7d8a918240",
+    "last_sha": "87dd9716394a0d51ab2610d3e87bcee0bee8c692",
     "rows": [
       [
         "Zillow",
@@ -5391,13 +5391,6 @@
         "https://go.vansh.nyc/ej?s=y"
       ],
       [
-        "Northrop Grumman",
-        "Systems Engineering Intern, AI Experience",
-        "Dulles, VA",
-        "Oct 21",
-        "https://go.vansh.nyc/f7?s=y"
-      ],
-      [
         "Microsoft",
         "Software Engineer Intern, Security & Identity",
         "Cambridge, MA",
@@ -5657,13 +5650,6 @@
         "https://go.vansh.nyc/cv?s=y"
       ],
       [
-        "T-Mobile",
-        "Software Engineer Intern, Cloud Security",
-        "Atlanta, GA Frisco, TX",
-        "Oct 20",
-        "https://go.vansh.nyc/dw?s=y"
-      ],
-      [
         "Stifel",
         "Technology Product Development Developer Intern",
         "Saint Louis, MO",
@@ -5725,13 +5711,6 @@
         "Palo Alto, CA",
         "Oct 20",
         "https://go.vansh.nyc/cG?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineer Intern",
-        "Tewksbury, MA",
-        "Oct 20",
-        "https://go.vansh.nyc/dr?s=y"
       ],
       [
         "Rhoda AI",
@@ -12223,6 +12202,13 @@
         ""
       ],
       [
+        "Northrop Grumman",
+        "Systems Engineering Intern, AI Experience",
+        "Dulles, VA",
+        "Oct 21",
+        ""
+      ],
+      [
         "ManTech",
         "AI Workflow Intern",
         "Remote in USA Stafford, VA",
@@ -12335,6 +12321,13 @@
         ""
       ],
       [
+        "T-Mobile",
+        "Software Engineer Intern, Cloud Security",
+        "Atlanta, GA Frisco, TX",
+        "Oct 20",
+        ""
+      ],
+      [
         "Space Dynamics Laboratory",
         "AI-Enabled Requirements Engineering Intern",
         "North Logan, UT",
@@ -12359,6 +12352,13 @@
         "SAS",
         "JMP Software Testing Intern",
         "Cary, NC",
+        "Oct 20",
+        ""
+      ],
+      [
+        "RTX",
+        "Software Engineer Intern",
+        "Tewksbury, MA",
         "Oct 20",
         ""
       ],

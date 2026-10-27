@@ -3981,7 +3981,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "46ca5f41be3877d93d7af1f670231097e8d48c6e",
+    "last_sha": "f43b340e2207385345e46177ddaa55a242360a7c",
     "rows": [
       [
         "Visa",
@@ -8814,13 +8814,6 @@
         "https://go.vansh.nyc/FG?s=y"
       ],
       [
-        "CACI",
-        "Cyber Analyst Intern",
-        "Ashburn, VA",
-        "Oct 06",
-        "https://go.vansh.nyc/Hb?s=y"
-      ],
-      [
         "Arcfield",
         "Software Engineer Intern, On-Call",
         "Middletown, RI",
@@ -13066,6 +13059,13 @@
         "RTX",
         "Software Engineer Co-op",
         "Cedar Rapids, IA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "CACI",
+        "Cyber Analyst Intern",
+        "Ashburn, VA",
         "Oct 06",
         ""
       ],

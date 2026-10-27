@@ -3974,7 +3974,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "df6d232f232b4e1fd88bb33ff5f13ffe7f9880a5",
+    "last_sha": "f8734accf674a1e4d644bd09365341b6fcd08c2f",
     "rows": [
       [
         "Visa",
@@ -4019,6 +4019,13 @@
         "https://go.vansh.nyc/UG?s=y"
       ],
       [
+        "RTX",
+        "Secure Software Intern \ud83c\uddfa\ud83c\uddf8",
+        "Woburn, MA",
+        "Oct 27",
+        "https://go.vansh.nyc/VG?s=y"
+      ],
+      [
         "Rockwell Automation",
         "Cybersecurity Intern \ud83d\udec2",
         "Milwaukee, WI Chelmsford, MA",
@@ -4047,6 +4054,13 @@
         "https://go.vansh.nyc/Vu?s=y"
       ],
       [
+        "EQT Corporation",
+        "AI Intern",
+        "Remote United States",
+        "Oct 27",
+        "https://go.vansh.nyc/VF?s=y"
+      ],
+      [
         "Cencora",
         "AI Intern",
         "Conshohocken, PA",
@@ -4059,6 +4073,13 @@
         "Seattle, WA",
         "Oct 26",
         "https://go.vansh.nyc/Tk?s=y"
+      ],
+      [
+        "Visa",
+        "Sophomore Program Software Engineer Intern",
+        "Ashburn, VA",
+        "Oct 26",
+        "https://go.vansh.nyc/VE?s=y"
       ],
       [
         "Two Six Technologies",
@@ -6756,13 +6777,6 @@
         "https://go.vansh.nyc/R3?s=y"
       ],
       [
-        "Creative Artists Agency",
-        "Data Analytics Intern",
-        "Denver, CO",
-        "Oct 18",
-        "https://go.vansh.nyc/bV?s=y"
-      ],
-      [
         "Cognex",
         "Software Engineer Intern",
         "Wauwatosa, WI",
@@ -7286,13 +7300,6 @@
         "New York, NY",
         "Oct 15",
         "https://go.vansh.nyc/9B?s=y"
-      ],
-      [
-        "Apple",
-        "SoC Machine Learning Software Engineer Intern",
-        "Sunnyvale, CA",
-        "Oct 15",
-        "https://go.vansh.nyc/aN?s=y"
       ],
       [
         "AiDASH",
@@ -9239,13 +9246,6 @@
         "Boulder, CO",
         "Sep 30",
         "https://go.vansh.nyc/Vj?s=y"
-      ],
-      [
-        "Quantum Signal AI",
-        "Embedded and Real-Time Software Intern",
-        "Saline, MI",
-        "Sep 30",
-        "https://go.vansh.nyc/E6?s=y"
       ],
       [
         "Procter & Gamble (P&G)",
@@ -11586,13 +11586,6 @@
         "https://go.vansh.nyc/5I?s=y"
       ],
       [
-        "Melius",
-        "Software Engineering Intern",
-        "New York City, NY",
-        "Aug 04",
-        "https://go.vansh.nyc/5R?s=y"
-      ],
-      [
         "ByteDance",
         "Software Engineer Intern, Distributed NoSQL Database Systems",
         "San Jose, CA",
@@ -12685,6 +12678,13 @@
         ""
       ],
       [
+        "Creative Artists Agency",
+        "Data Analytics Intern",
+        "Denver, CO",
+        "Oct 18",
+        ""
+      ],
+      [
         "Persona",
         "Product Design Intern",
         "San Francisco, CA",
@@ -12772,6 +12772,13 @@
         "Micron Technology",
         "Memory Design Engineer Intern, HBM",
         "Richardson, TX",
+        "Oct 15",
+        ""
+      ],
+      [
+        "Apple",
+        "SoC Machine Learning Software Engineer Intern",
+        "Sunnyvale, CA",
         "Oct 15",
         ""
       ],
@@ -12944,6 +12951,13 @@
         ""
       ],
       [
+        "Quantum Signal AI",
+        "Embedded and Real-Time Software Intern",
+        "Saline, MI",
+        "Sep 30",
+        ""
+      ],
+      [
         "Westinghouse Electric Company",
         "Software Developer Intern, Tools & Apps",
         "Warrendale, PA",
@@ -13101,6 +13115,13 @@
         "Netsmart",
         "Software Engineer Intern \ud83d\udec2",
         "Overland Park, KS",
+        "Aug 04",
+        ""
+      ],
+      [
+        "Melius",
+        "Software Engineering Intern",
+        "New York City, NY",
         "Aug 04",
         ""
       ],

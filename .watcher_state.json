@@ -4030,7 +4030,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a2275a0b59f45d23a2d581b6548165829cb6bab9",
+    "last_sha": "717012597c17802144927e9581d32fd7c5db22d7",
     "rows": [
       [
         "Sonos",
@@ -6446,13 +6446,6 @@
         "Pittsburgh, PA",
         "Oct 20",
         "https://go.vansh.nyc/cC?s=y"
-      ],
-      [
-        "General Dynamics Information Technology",
-        "AI and Estimation Intern",
-        "Falls Church, VA",
-        "Oct 20",
-        "https://go.vansh.nyc/dL?s=y"
       ],
       [
         "Genentech",
@@ -10025,27 +10018,6 @@
         "https://go.vansh.nyc/Jh?s=y"
       ],
       [
-        "General Dynamics Information Technology",
-        "Software Development Intern",
-        "Bossier City, LA",
-        "Sep 22",
-        "https://go.vansh.nyc/Jj?s=y"
-      ],
-      [
-        "General Dynamics Information Technology",
-        "AI Network Engineering Intern",
-        "Bossier City, LA",
-        "Sep 22",
-        "https://go.vansh.nyc/Jk?s=y"
-      ],
-      [
-        "General Dynamics Information Technology",
-        "Generative AI Software Development Intern",
-        "Bossier City, LA",
-        "Sep 22",
-        "https://go.vansh.nyc/Jl?s=y"
-      ],
-      [
         "Electronic Arts",
         "AI Engineer Intern, Creative Innovations, Character Pipelines",
         "Vancouver, Canada",
@@ -12986,6 +12958,13 @@
         ""
       ],
       [
+        "General Dynamics Information Technology",
+        "AI and Estimation Intern",
+        "Falls Church, VA",
+        "Oct 20",
+        ""
+      ],
+      [
         "Expedia Group",
         "Software Developer 1 Intern",
         "Springfield, MO",
@@ -13612,6 +13591,27 @@
         "Neuberger Berman",
         "Quantitative Analyst Intern",
         "New York, NY",
+        "Sep 22",
+        ""
+      ],
+      [
+        "General Dynamics Information Technology",
+        "Software Development Intern",
+        "Bossier City, LA",
+        "Sep 22",
+        ""
+      ],
+      [
+        "General Dynamics Information Technology",
+        "AI Network Engineering Intern",
+        "Bossier City, LA",
+        "Sep 22",
+        ""
+      ],
+      [
+        "General Dynamics Information Technology",
+        "Generative AI Software Development Intern",
+        "Bossier City, LA",
         "Sep 22",
         ""
       ],

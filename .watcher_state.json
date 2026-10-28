@@ -4065,7 +4065,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "fb111942a1b6ee9b99446ee525e281e139c834a3",
+    "last_sha": "5a3f638f6993cefe1892722f55b73afe76e59226",
     "rows": [
       [
         "Workiva",
@@ -5741,20 +5741,6 @@
         "https://go.vansh.nyc/eN?s=y"
       ],
       [
-        "Apple",
-        "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
-        "United States",
-        "Oct 22",
-        "https://go.vansh.nyc/Dc?s=y"
-      ],
-      [
-        "Apple",
-        "Cellular Baseband Design Verification Intern",
-        "United States",
-        "Oct 22",
-        "https://go.vansh.nyc/Dd?s=y"
-      ],
-      [
         "American Family Insurance Group",
         "AI Platform Engineering Intern",
         "Madison, WI",
@@ -6455,20 +6441,6 @@
         "https://go.vansh.nyc/ds?s=y"
       ],
       [
-        "Apple",
-        "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
-        "United States",
-        "Oct 20",
-        "https://go.vansh.nyc/D3?s=y"
-      ],
-      [
-        "Apple",
-        "Information Security Intern",
-        "United States",
-        "Oct 20",
-        "https://go.vansh.nyc/D9?s=y"
-      ],
-      [
         "American Family Insurance Group",
         "Data Engineer Intern",
         "Madison, WI",
@@ -6845,13 +6817,6 @@
         "Greensboro, NC",
         "Oct 19",
         "https://go.vansh.nyc/Hm?s=y"
-      ],
-      [
-        "Apple",
-        "Aeon Modeling Software Intern",
-        "United States",
-        "Oct 19",
-        "https://go.vansh.nyc/D1?s=y"
       ],
       [
         "Amplify",
@@ -12748,6 +12713,20 @@
         ""
       ],
       [
+        "Apple",
+        "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
+        "United States",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Apple",
+        "Cellular Baseband Design Verification Intern",
+        "United States",
+        "Oct 22",
+        ""
+      ],
+      [
         "Amazon",
         "Systems Development Engineer Intern",
         "Vancouver, Canada",
@@ -13014,6 +12993,20 @@
         ""
       ],
       [
+        "Apple",
+        "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
+        "United States",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Apple",
+        "Information Security Intern",
+        "United States",
+        "Oct 20",
+        ""
+      ],
+      [
         "Aerospace Corporation",
         "Cloud Solutions Engineer Intern, Site Reliability \ud83c\uddfa\ud83c\uddf8",
         "El Segundo, CA Chantilly, VA Colorado Springs, CO",
@@ -13059,6 +13052,13 @@
         "Applied Materials",
         "Software Engineer Intern",
         "Santa Clara, CA",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Apple",
+        "Aeon Modeling Software Intern",
+        "United States",
         "Oct 19",
         ""
       ],

@@ -4037,7 +4037,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "00a835fd764027f03c1c15862cb8bd3537b4c520",
+    "last_sha": "9a07df8a6b3afcdc583b03166defd888612929dd",
     "rows": [
       [
         "Workiva",
@@ -4339,13 +4339,6 @@
         "Devens, MA",
         "Oct 27",
         "https://go.vansh.nyc/VW?s=y"
-      ],
-      [
-        "Cencora",
-        "AI Intern",
-        "Conshohocken, PA",
-        "Oct 27",
-        "https://go.vansh.nyc/Vc?s=y"
       ],
       [
         "Cboe Global Markets",
@@ -5816,13 +5809,6 @@
         "Andover, MA",
         "Oct 21",
         "https://go.vansh.nyc/dA?s=y"
-      ],
-      [
-        "Smith+Nephew",
-        "Agentic AI Software Engineering Intern",
-        "Andover, MA",
-        "Oct 21",
-        "https://go.vansh.nyc/dl?s=y"
       ],
       [
         "Safran",
@@ -12552,6 +12538,13 @@
         ""
       ],
       [
+        "Cencora",
+        "AI Intern",
+        "Conshohocken, PA",
+        "Oct 27",
+        ""
+      ],
+      [
         "Royal Bank of Canada",
         "Developer Intern",
         "Halifax, Canada",
@@ -12702,6 +12695,13 @@
         "SPS Commerce",
         "Software Engineer Intern",
         "Minneapolis, MN",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Smith+Nephew",
+        "Agentic AI Software Engineering Intern",
+        "Andover, MA",
         "Oct 21",
         ""
       ],

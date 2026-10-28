@@ -4058,7 +4058,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a6cbb6a33d1f1e66826b010008693e1a7f7874d0",
+    "last_sha": "eaaf5a3e66f06e00a71f73747b962defbb9fd48b",
     "rows": [
       [
         "Sonos",
@@ -4094,6 +4094,13 @@
         "Austin, TX Santa Clara, CA",
         "Oct 28",
         "https://go.vansh.nyc/Xp?s=y"
+      ],
+      [
+        "Micron Technology",
+        "Data Science Intern",
+        "San Jose, CA Folsom, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/XF?s=y"
       ],
       [
         "Lockheed Martin",
@@ -5585,13 +5592,6 @@
         "Vancouver, BC, Canada",
         "Oct 22",
         "https://go.vansh.nyc/et?s=y"
-      ],
-      [
-        "Patreon",
-        "Product Manager Intern",
-        "New York, NY San Francisco, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/fA?s=y"
       ],
       [
         "Palantir Technologies",
@@ -7365,13 +7365,6 @@
         "https://go.vansh.nyc/aH?s=y"
       ],
       [
-        "Clera",
-        "Computer Vision & Robotics Intern",
-        "San Francisco, CA",
-        "Oct 17",
-        "https://go.vansh.nyc/aG?s=y"
-      ],
-      [
         "AeroVironment",
         "Software Engineering Intern",
         "Moorpark, CA",
@@ -7559,13 +7552,6 @@
         "Fayetteville, NC",
         "Oct 16",
         "https://go.vansh.nyc/ad?s=y"
-      ],
-      [
-        "Altera",
-        "Software Engineer Intern",
-        "Toronto, ON",
-        "Oct 16",
-        "https://go.vansh.nyc/ac?s=y"
       ],
       [
         "AGCO",
@@ -12727,6 +12713,13 @@
         ""
       ],
       [
+        "Patreon",
+        "Product Manager Intern",
+        "New York, NY San Francisco, CA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "San Antonio, TX",
@@ -13238,6 +13231,13 @@
         ""
       ],
       [
+        "Clera",
+        "Computer Vision & Robotics Intern",
+        "San Francisco, CA",
+        "Oct 17",
+        ""
+      ],
+      [
         "onsemi",
         "Technology Development Intern",
         "Hopewell Junction, NY",
@@ -13262,6 +13262,13 @@
         "ChargePoint",
         "IT & Network Intern",
         "Campbell, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Altera",
+        "Software Engineer Intern",
+        "Toronto, ON",
         "Oct 16",
         ""
       ],

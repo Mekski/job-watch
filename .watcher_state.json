@@ -4051,7 +4051,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b6ee7768998a954e31987d5d07da3330e16afaea",
+    "last_sha": "10983269605c5bc7532b7a2df5778b6c08d645a0",
     "rows": [
       [
         "Sonos",
@@ -4363,13 +4363,6 @@
       ],
       [
         "Micron Technology",
-        "AI Engineer Intern, Platform",
-        "Boise, ID",
-        "Oct 27",
-        "https://go.vansh.nyc/VX?s=y"
-      ],
-      [
-        "Micron Technology",
         "HBM Data Scientist Intern",
         "Richardson, TX",
         "Oct 27",
@@ -4514,6 +4507,13 @@
         "Eden Prairie, MN",
         "Oct 27",
         "https://go.vansh.nyc/VO?s=y"
+      ],
+      [
+        "Berkshire Hathaway Energy",
+        "Intern, Data Systems",
+        "Bridgeport, WV",
+        "Oct 27",
+        "https://go.vansh.nyc/XM?s=y"
       ],
       [
         "Axiom Math",
@@ -4920,27 +4920,6 @@
         "Kokomo, IN",
         "Oct 26",
         "https://go.vansh.nyc/Sy?s=y"
-      ],
-      [
-        "Booz Allen Hamilton",
-        "Systems Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Detroit, MI",
-        "Oct 26",
-        "https://go.vansh.nyc/SX?s=y"
-      ],
-      [
-        "Booz Allen Hamilton",
-        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Detroit, MI",
-        "Oct 26",
-        "https://go.vansh.nyc/SY?s=y"
-      ],
-      [
-        "Booz Allen Hamilton",
-        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Dayton, OH",
-        "Oct 26",
-        "https://go.vansh.nyc/SZ?s=y"
       ],
       [
         "Assurant",
@@ -6873,13 +6852,6 @@
         "Toronto, ON",
         "Oct 19",
         "https://go.vansh.nyc/bG?s=y"
-      ],
-      [
-        "Arch Capital Group",
-        "Security Operations Intern",
-        "Greensboro, NC",
-        "Oct 19",
-        "https://go.vansh.nyc/Hm?s=y"
       ],
       [
         "Amplify",
@@ -11320,13 +11292,6 @@
         "https://go.vansh.nyc/OB?s=y"
       ],
       [
-        "Booz Allen Hamilton",
-        "Software Developer Intern",
-        "San Diego, CA",
-        "Aug 26",
-        "https://go.vansh.nyc/Oy?s=y"
-      ],
-      [
         "TikTok",
         "AI Infrastructure Engineer Intern, Recommendation & LLM",
         "San Jose, CA",
@@ -12538,6 +12503,13 @@
         ""
       ],
       [
+        "Micron Technology",
+        "AI Engineer Intern, Platform",
+        "Boise, ID",
+        "Oct 27",
+        ""
+      ],
+      [
         "Cencora",
         "AI Intern",
         "Conshohocken, PA",
@@ -12548,6 +12520,27 @@
         "Leidos",
         "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
         "Pearl Harbor, HI",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Systems Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Detroit, MI",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Detroit, MI",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Dayton, OH",
         "Oct 26",
         ""
       ],
@@ -13091,6 +13084,13 @@
         ""
       ],
       [
+        "Arch Capital Group",
+        "Security Operations Intern",
+        "Greensboro, NC",
+        "Oct 19",
+        ""
+      ],
+      [
         "Applied Materials",
         "Software Engineer Intern",
         "Santa Clara, CA",
@@ -13613,6 +13613,13 @@
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
         "Sep 10",
+        ""
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Software Developer Intern",
+        "San Diego, CA",
+        "Aug 26",
         ""
       ],
       [

@@ -4058,7 +4058,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "20c5bd121e2b27954e01824c10e90e23a27edd3d",
+    "last_sha": "aa3d1386a9496323a678d9cf9ec293b0e4e66309",
     "rows": [
       [
         "Schonfeld",
@@ -4096,6 +4096,13 @@
         "https://go.vansh.nyc/Xr?s=y"
       ],
       [
+        "Infleqtion",
+        "Quantum Software Intern",
+        "Chicago, IL",
+        "Oct 28",
+        "https://go.vansh.nyc/Xz?s=y"
+      ],
+      [
         "Daimler Truck",
         "Software Release Management Intern",
         "Portland, OR",
@@ -4115,6 +4122,13 @@
         "Oak Brook, IL",
         "Oct 28",
         "https://go.vansh.nyc/Xx?s=y"
+      ],
+      [
+        "WorldEngine AI",
+        "Research Intern, Robotics Data - Real-to-Sim",
+        "San Francisco, CA",
+        "Oct 27",
+        "https://go.vansh.nyc/Xy?s=y"
       ],
       [
         "Workiva",
@@ -6131,20 +6145,6 @@
         "Hartford, CT",
         "Oct 21",
         "https://go.vansh.nyc/fh?s=y"
-      ],
-      [
-        "CVS Health",
-        "Product & Agile Delivery Intern, Innovation & Technology",
-        "**4 locations**Hartford, CT Dallas, TX Scottsdale, AZ Woonsocket, RI",
-        "Oct 21",
-        "https://go.vansh.nyc/fi?s=y"
-      ],
-      [
-        "CVS Health",
-        "Software Engineer Intern, Platform & Applications",
-        "**4 locations**Scottsdale, AZ Dallas, TX Hartford, CT Woonsocket, RI",
-        "Oct 21",
-        "https://go.vansh.nyc/fj?s=y"
       ],
       [
         "CVS Health",
@@ -8252,13 +8252,6 @@
         "Vancouver, Canada",
         "Oct 13",
         "https://go.vansh.nyc/Cb?s=y"
-      ],
-      [
-        "Draper",
-        "Classified Cybersecurity/IT Intern \ud83c\uddfa\ud83c\uddf8",
-        "Cambridge, MA",
-        "Oct 13",
-        "https://go.vansh.nyc/8B?s=y"
       ],
       [
         "CoStar Group",
@@ -12895,6 +12888,20 @@
         ""
       ],
       [
+        "CVS Health",
+        "Product & Agile Delivery Intern, Innovation & Technology",
+        "**4 locations**Hartford, CT Dallas, TX Scottsdale, AZ Woonsocket, RI",
+        "Oct 21",
+        ""
+      ],
+      [
+        "CVS Health",
+        "Software Engineer Intern, Platform & Applications",
+        "**4 locations**Scottsdale, AZ Dallas, TX Hartford, CT Woonsocket, RI",
+        "Oct 21",
+        ""
+      ],
+      [
         "Crusoe",
         "Software Engineering Intern",
         "San Francisco, CA",
@@ -13458,6 +13465,13 @@
         "Expedia Group",
         "Security Engineering Intern",
         "Seattle, WA",
+        "Oct 13",
+        ""
+      ],
+      [
+        "Draper",
+        "Classified Cybersecurity/IT Intern \ud83c\uddfa\ud83c\uddf8",
+        "Cambridge, MA",
         "Oct 13",
         ""
       ],

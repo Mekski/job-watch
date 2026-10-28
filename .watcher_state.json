@@ -4072,7 +4072,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "913197b05dcd040b7d6d89fc72074f30a4fca049",
+    "last_sha": "a6cbb6a33d1f1e66826b010008693e1a7f7874d0",
     "rows": [
       [
         "Sonos",
@@ -4129,6 +4129,13 @@
         "Portland, OR",
         "Oct 28",
         "https://go.vansh.nyc/Xd?s=y"
+      ],
+      [
+        "CrowdStrike",
+        "Overwatch Intern, Research",
+        "Arlington, VA Austin, TX",
+        "Oct 28",
+        "https://go.vansh.nyc/XD?s=y"
       ],
       [
         "Allegion",
@@ -5664,13 +5671,6 @@
         "https://go.vansh.nyc/hy?s=y"
       ],
       [
-        "Leidos",
-        "AI/ML Intern \ud83c\uddfa\ud83c\uddf8",
-        "Huntsville, AL",
-        "Oct 22",
-        "https://go.vansh.nyc/eQ?s=y"
-      ],
-      [
         "LabCorp",
         "Bioinformatics Intern",
         "Baltimore, MD",
@@ -6306,13 +6306,6 @@
         "Sugar Land, TX",
         "Oct 20",
         "https://go.vansh.nyc/cv?s=y"
-      ],
-      [
-        "Stifel",
-        "Technology Product Development Developer Intern",
-        "Saint Louis, MO",
-        "Oct 20",
-        "https://go.vansh.nyc/D5?s=y"
       ],
       [
         "Stifel",
@@ -12385,20 +12378,6 @@
       ],
       [
         "Akuna Capital",
-        "Software Engineer Intern, C# .NET Desktop",
-        "Chicago, IL",
-        "Jul 24",
-        "https://go.vansh.nyc/3E?s=y"
-      ],
-      [
-        "Akuna Capital",
-        "Software Engineer Intern, Full Stack Web \ud83c\uddfa\ud83c\uddf8",
-        "Chicago, IL",
-        "Jul 24",
-        "https://go.vansh.nyc/3D?s=y"
-      ],
-      [
-        "Akuna Capital",
         "Platform Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Chicago, IL",
         "Jul 24",
@@ -12776,6 +12755,13 @@
         ""
       ],
       [
+        "Leidos",
+        "AI/ML Intern \ud83c\uddfa\ud83c\uddf8",
+        "Huntsville, AL",
+        "Oct 22",
+        ""
+      ],
+      [
         "Copart",
         "QA Engineer Intern",
         "Dallas, TX",
@@ -12968,6 +12954,13 @@
         "T-Mobile",
         "Software Engineer Intern, Cloud Security",
         "Atlanta, GA Frisco, TX",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Stifel",
+        "Technology Product Development Developer Intern",
+        "Saint Louis, MO",
         "Oct 20",
         ""
       ],
@@ -13941,6 +13934,20 @@
         "Copart",
         "Software Engineering Intern",
         "Dallas, TX",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Akuna Capital",
+        "Software Engineer Intern, Full Stack Web \ud83c\uddfa\ud83c\uddf8",
+        "Chicago, IL",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Akuna Capital",
+        "Software Engineer Intern, C# .NET Desktop",
+        "Chicago, IL",
         "Jul 24",
         ""
       ],

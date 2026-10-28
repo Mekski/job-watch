@@ -4051,7 +4051,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a45ed8b9189e47c9901d18f4f266a9c8d6bf55a7",
+    "last_sha": "d02b6108ccb16bdb05824a0698540f69d52dda3f",
     "rows": [
       [
         "Sonos",
@@ -4059,6 +4059,13 @@
         "Boston, MA",
         "Oct 28",
         "https://go.vansh.nyc/XB?s=y"
+      ],
+      [
+        "Schonfeld",
+        "Enterprise AI Intern",
+        "New York, NY",
+        "Oct 28",
+        "https://go.vansh.nyc/XY?s=y"
       ],
       [
         "Schonfeld",
@@ -4237,13 +4244,6 @@
       ],
       [
         "Sonos",
-        "Software Engineering Intern \ud83d\udec2",
-        "Seattle, WA",
-        "Oct 27",
-        "https://go.vansh.nyc/W9?s=y"
-      ],
-      [
-        "Sonos",
         "Data Quality Intern \ud83d\udec2",
         "Boston, MA",
         "Oct 27",
@@ -4381,6 +4381,13 @@
         "Cincinnati, OH",
         "Oct 27",
         "https://go.vansh.nyc/Wd?s=y"
+      ],
+      [
+        "Micron Technology",
+        "Embedded Software Engineering Intern",
+        "Boise, ID",
+        "Oct 27",
+        "https://go.vansh.nyc/XX?s=y"
       ],
       [
         "Micron Technology",
@@ -7545,13 +7552,6 @@
         "San Jose, CA",
         "Oct 15",
         "https://go.vansh.nyc/aQ?s=y"
-      ],
-      [
-        "Salesforce",
-        "Solution Engineer Intern",
-        "New York, NY",
-        "Oct 15",
-        "https://go.vansh.nyc/9R?s=y"
       ],
       [
         "Ryan",
@@ -12517,6 +12517,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Sonos",
+        "Software Engineering Intern \ud83d\udec2",
+        "Seattle, WA",
+        "Oct 27",
+        ""
+      ],
+      [
         "NVIDIA",
         "Software Engineering Intern, AI Agents & Backend Infrastructure",
         "Berlin, DE",
@@ -13304,6 +13311,13 @@
         "The Federal Reserve System",
         "Windows Intern",
         "Dallas, TX",
+        "Oct 15",
+        ""
+      ],
+      [
+        "Salesforce",
+        "Solution Engineer Intern",
+        "New York, NY",
         "Oct 15",
         ""
       ],

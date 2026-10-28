@@ -4051,7 +4051,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0416ee75effaee0ef8cedc86b6c03a5d85b1fdf2",
+    "last_sha": "8b481c9c8467812e2ba4a2fc33b9765a2c796463",
     "rows": [
       [
         "Sonos",
@@ -4173,25 +4173,11 @@
         "https://go.vansh.nyc/Xy?s=y"
       ],
       [
-        "Workiva",
-        "Machine Learning Engineering Intern",
-        "Remote United States",
-        "Oct 27",
-        "https://go.vansh.nyc/W7?s=y"
-      ],
-      [
         "VSP Vision",
         "Software Engineer Intern, Technology Innovation",
         "Remote United States",
         "Oct 27",
         "https://go.vansh.nyc/X8?s=y"
-      ],
-      [
-        "VSP Vision",
-        "Software Engineer Intern",
-        "Remote United States",
-        "Oct 27",
-        "https://go.vansh.nyc/X3?s=y"
       ],
       [
         "Visa",
@@ -7785,13 +7771,6 @@
         "https://go.vansh.nyc/aF?s=y"
       ],
       [
-        "QTS",
-        "Information Security Operations Analyst Intern \ud83c\uddfa\ud83c\uddf8",
-        "US GA Atlanta Suwanee 1 DC1",
-        "Oct 14",
-        "https://go.vansh.nyc/9n?s=y"
-      ],
-      [
         "Propio",
         "Product Manager Intern",
         "Overland Park, KS",
@@ -9015,13 +8994,6 @@
         "Santa Rosa, CA",
         "Oct 06",
         "https://go.vansh.nyc/FA?s=y"
-      ],
-      [
-        "ICF International",
-        "Data Engineer Intern",
-        "Remote United States Reston, VA",
-        "Oct 06",
-        "https://go.vansh.nyc/FN?s=y"
       ],
       [
         "Hewlett Packard Enterprise",
@@ -12517,6 +12489,20 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Workiva",
+        "Machine Learning Engineering Intern",
+        "Remote United States",
+        "Oct 27",
+        ""
+      ],
+      [
+        "VSP Vision",
+        "Software Engineer Intern",
+        "Remote United States",
+        "Oct 27",
+        ""
+      ],
+      [
         "Sonos",
         "Software Engineering Intern \ud83d\udec2",
         "Seattle, WA",
@@ -13385,6 +13371,13 @@
         ""
       ],
       [
+        "QTS",
+        "Information Security Operations Analyst Intern \ud83c\uddfa\ud83c\uddf8",
+        "US GA Atlanta Suwanee 1 DC1",
+        "Oct 14",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Tech Publications & Training Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
         "Saint Augustine, FL",
@@ -13570,6 +13563,13 @@
         "MEMX",
         "Information Security Intern",
         "New York, NY",
+        "Oct 06",
+        ""
+      ],
+      [
+        "ICF International",
+        "Data Engineer Intern",
+        "Remote United States Reston, VA",
         "Oct 06",
         ""
       ],

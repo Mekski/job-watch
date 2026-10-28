@@ -31892,6 +31892,36 @@
       "source": "Vansh Repo",
       "message_id": 5456,
       "chat_id": 8743352944
+    },
+    "1f14e3f5c57e": {
+      "company": "FUTO",
+      "role": "Software Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5457,
+      "chat_id": 8743352944
+    },
+    "83ce6c18ae22": {
+      "company": "Paccar",
+      "role": "Application Developer Intern",
+      "location": "Chillicothe, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5458,
+      "chat_id": 8743352944
+    },
+    "55f95a358780": {
+      "company": "Integrate",
+      "role": "Software Engineer Intern",
+      "location": "Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5459,
+      "chat_id": 8743352944
     }
   },
   "applied": {

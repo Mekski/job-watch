@@ -4030,7 +4030,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "717012597c17802144927e9581d32fd7c5db22d7",
+    "last_sha": "0bc0c11801891cac96fe5088115177c1e707985e",
     "rows": [
       [
         "Sonos",
@@ -4143,6 +4143,13 @@
         "New York, NY Edgewood, NY Newark, NJ",
         "Oct 28",
         "https://go.vansh.nyc/Y0?s=y"
+      ],
+      [
+        "ASML",
+        "Software Development Engineer in Test Intern",
+        "San Diego, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/Y2?s=y"
       ],
       [
         "Allegion",
@@ -7552,13 +7559,6 @@
         "Middletown, RI",
         "Oct 15",
         "https://go.vansh.nyc/9O?s=y"
-      ],
-      [
-        "OpenSesame",
-        "Security Analyst Intern",
-        "Remote United States",
-        "Oct 15",
-        "https://go.vansh.nyc/CY?s=y"
       ],
       [
         "Muon Space",
@@ -13290,6 +13290,13 @@
         "ROCKWOOL Group",
         "Associate Product Management Intern",
         "Chicago, IL",
+        "Oct 15",
+        ""
+      ],
+      [
+        "OpenSesame",
+        "Security Analyst Intern",
+        "Remote United States",
         "Oct 15",
         ""
       ],

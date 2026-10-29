@@ -4191,7 +4191,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "3f67bc2e3a2e3cd991b4d43756a6329bd97bb8ea",
+    "last_sha": "7ea620f335cdb5db38b3730b2f1960fcb0e4c115",
     "rows": [
       [
         "Sonos",
@@ -4430,6 +4430,13 @@
         "Beavercreek, OH",
         "Oct 28",
         "https://go.vansh.nyc/Yk?s=y"
+      ],
+      [
+        "Bank of Montreal",
+        "Quantitative Trading Analyst Co-op",
+        "Toronto, Canada",
+        "Oct 28",
+        "https://go.vansh.nyc/Z0?s=y"
       ],
       [
         "ASML",
@@ -10081,13 +10088,6 @@
         "https://go.vansh.nyc/Eb?s=y"
       ],
       [
-        "CACI",
-        "Software Development/Engineer Intern",
-        "Remote United States",
-        "Sep 30",
-        "https://go.vansh.nyc/Ec?s=y"
-      ],
-      [
         "SAS",
         "Data Science Research Intern",
         "Bloomington, MN",
@@ -14025,6 +14025,13 @@
         "Quantum Signal AI",
         "Embedded and Real-Time Software Intern",
         "Saline, MI",
+        "Sep 30",
+        ""
+      ],
+      [
+        "CACI",
+        "Software Development/Engineer Intern",
+        "Remote United States",
         "Sep 30",
         ""
       ],

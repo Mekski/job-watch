@@ -4163,7 +4163,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "491220301048627ab07f8b67f39ba9018b5263ac",
+    "last_sha": "e566d133bffc90863f57adbc26eb055f5ed49175",
     "rows": [
       [
         "Sonos",
@@ -4290,6 +4290,13 @@
         "San Francisco, CA",
         "Oct 28",
         "https://go.vansh.nyc/YE?s=y"
+      ],
+      [
+        "Ericsson",
+        "AI and Automation Engineer Intern \ud83d\udec2",
+        "Plano, TX",
+        "Oct 28",
+        "https://go.vansh.nyc/YK?s=y"
       ],
       [
         "Daimler Truck",
@@ -6824,13 +6831,6 @@
         "Farmington Hills, MI",
         "Oct 20",
         "https://go.vansh.nyc/ds?s=y"
-      ],
-      [
-        "American Family Insurance Group",
-        "Data Engineer Intern",
-        "Madison, WI",
-        "Oct 20",
-        "https://go.vansh.nyc/dJ?s=y"
       ],
       [
         "American Electric Power",
@@ -13353,6 +13353,13 @@
         "Apple",
         "Information Security Intern",
         "United States",
+        "Oct 20",
+        ""
+      ],
+      [
+        "American Family Insurance Group",
+        "Data Engineer Intern",
+        "Madison, WI",
         "Oct 20",
         ""
       ],

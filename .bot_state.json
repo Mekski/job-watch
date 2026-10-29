@@ -11430,7 +11430,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2281,
+      "message_id": 5638,
       "chat_id": 8743352944
     },
     "66dadfab6678": {
@@ -33521,6 +33521,116 @@
       "apply_url": "https://go.vansh.nyc/ZA?s=y",
       "source": "Vansh Repo",
       "message_id": 5626,
+      "chat_id": 8743352944
+    },
+    "c29625f94c4d": {
+      "company": "Overland AI",
+      "role": "Software Engineering Intern",
+      "location": "Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5627,
+      "chat_id": 8743352944
+    },
+    "8bbaa3fe5042": {
+      "company": "SOTI",
+      "role": "Software Developer Intern",
+      "location": "Mississauga, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5628,
+      "chat_id": 8743352944
+    },
+    "de2767b9e8be": {
+      "company": "PTC",
+      "role": "Arena Engineering Intern",
+      "location": "San Mateo, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5629,
+      "chat_id": 8743352944
+    },
+    "7a013aef590f": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "AI Systems Software Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5630,
+      "chat_id": 8743352944
+    },
+    "d3cbf1874f7c": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "Compiler Software Engineer Intern",
+      "location": "Redmond, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5631,
+      "chat_id": 8743352944
+    },
+    "5dfa3743249b": {
+      "company": "Leidos",
+      "role": "Software Developer Intern",
+      "location": "Annapolis Junction, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5632,
+      "chat_id": 8743352944
+    },
+    "edc197aa261c": {
+      "company": "Great American Insurance Company",
+      "role": "DevOps Developer Intern",
+      "location": "Cincinnati, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5633,
+      "chat_id": 8743352944
+    },
+    "72842778f779": {
+      "company": "Great American Insurance Company",
+      "role": "Extreme Programming Engineer Intern",
+      "location": "Cincinnati, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5634,
+      "chat_id": 8743352944
+    },
+    "426e560b9056": {
+      "company": "Great American Insurance Company",
+      "role": "Content Publishing Developer Intern",
+      "location": "Cincinnati, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5635,
+      "chat_id": 8743352944
+    },
+    "403d36b068f1": {
+      "company": "Genius AI",
+      "role": "Engineering Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5636,
+      "chat_id": 8743352944
+    },
+    "491aa09c1aec": {
+      "company": "Garda Capital Partners",
+      "role": "Software Engineer Intern - C#",
+      "location": "Wayzata, MN",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5637,
       "chat_id": 8743352944
     }
   },

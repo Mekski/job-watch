@@ -4184,7 +4184,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b77d65c04f85174332db43218748fb6a29e629ec",
+    "last_sha": "e793864421023cd529dbde4984ac71a8bf3bc7fa",
     "rows": [
       [
         "Two Six Technologies",
@@ -4192,6 +4192,13 @@
         "Arlington, VA",
         "Oct 29",
         "https://go.vansh.nyc/Z3?s=y"
+      ],
+      [
+        "Toyota Research Institute",
+        "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
+        "Los Altos, CA",
+        "Oct 29",
+        "https://go.vansh.nyc/Zo?s=y"
       ],
       [
         "Sonos",
@@ -5671,13 +5678,6 @@
         "https://go.vansh.nyc/T5?s=y"
       ],
       [
-        "CVS Health",
-        "Innovation & Technology Intern, Data Engineering",
-        "Irving, TX",
-        "Oct 25",
-        "https://go.vansh.nyc/OI?s=y"
-      ],
-      [
         "ConnectPrep",
         "Data Analyst Intern",
         "Remote United States",
@@ -6642,13 +6642,6 @@
         "Hartford, CT",
         "Oct 21",
         "https://go.vansh.nyc/fh?s=y"
-      ],
-      [
-        "CVS Health",
-        "Data Engineering Intern, Innovation & Technology",
-        "New York, NY",
-        "Oct 21",
-        "https://go.vansh.nyc/fk?s=y"
       ],
       [
         "CVS Health",
@@ -13063,6 +13056,13 @@
         ""
       ],
       [
+        "CVS Health",
+        "Innovation & Technology Intern, Data Engineering",
+        "Irving, TX",
+        "Oct 25",
+        ""
+      ],
+      [
         "Trimble",
         "Navigation & Machine Learning Engineering Intern",
         "Richmond Hill, Canada",
@@ -13304,6 +13304,13 @@
         "FedEx Freight",
         "Data Scientist Intern",
         "Memphis, TN",
+        "Oct 21",
+        ""
+      ],
+      [
+        "CVS Health",
+        "Data Engineering Intern, Innovation & Technology",
+        "New York, NY",
         "Oct 21",
         ""
       ],

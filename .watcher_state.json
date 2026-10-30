@@ -4198,7 +4198,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "77d3b8ff78f521c47fbb582513a3180dcf1747da",
+    "last_sha": "2ed47eaa9f02d8f0c3a032214892f2ba1a30640c",
     "rows": [
       [
         "Wex",
@@ -4215,6 +4215,13 @@
         "https://go.vansh.nyc/10G?s=y"
       ],
       [
+        "Samsung Semiconductor",
+        "SRAM Design Engineer Intern",
+        "San Jose, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/10P?s=y"
+      ],
+      [
         "Salesforce",
         "AI Labs Intern, Emerging Talent",
         "San Francisco, CA Seattle, WA",
@@ -4222,11 +4229,32 @@
         "https://go.vansh.nyc/10J?s=y"
       ],
       [
+        "GCM Grosvenor",
+        "Cybersecurity Intern",
+        "Chicago, IL",
+        "Oct 30",
+        "https://go.vansh.nyc/10U?s=y"
+      ],
+      [
         "Barclays",
         "Chief Client Office Intern, Client Data & Engineering Group \ud83d\udec2",
         "New York, NY",
         "Oct 30",
         "https://go.vansh.nyc/10x?s=y"
+      ],
+      [
+        "Altera",
+        "FPGA Development Tools Intern",
+        "Toronto, Canada",
+        "Oct 30",
+        "https://go.vansh.nyc/10V?s=y"
+      ],
+      [
+        "Altera",
+        "Hardware Design Engineer Intern",
+        "Toronto, Canada",
+        "Oct 30",
+        "https://go.vansh.nyc/10W?s=y"
       ],
       [
         "Waggoner Financial",
@@ -6908,13 +6936,6 @@
         "New York, NY",
         "Oct 21",
         "https://go.vansh.nyc/fn?s=y"
-      ],
-      [
-        "Brookhaven Lab",
-        "Data Engineering Student Assistant Intern",
-        "Upton, NY",
-        "Oct 21",
-        "https://go.vansh.nyc/fb?s=y"
       ],
       [
         "Aptiv",
@@ -11061,6 +11082,13 @@
         "https://go.vansh.nyc/Io?s=y"
       ],
       [
+        "Brain Co.",
+        "Machine Learning Engineer Intern, Applied AI",
+        "San Francisco, CA",
+        "Sep 14",
+        "https://go.vansh.nyc/10T?s=y"
+      ],
+      [
         "Awardco",
         "Back-End Software Engineer Intern",
         "Lindon, UT",
@@ -11080,6 +11108,27 @@
         "Washington, DC",
         "Sep 13",
         "https://go.vansh.nyc/MV?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Platform Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10Q?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Product Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10R?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Security Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10S?s=y"
       ],
       [
         "Veeam Software",
@@ -13633,6 +13682,13 @@
         "Cisco",
         "AI Operations Engineer I Intern",
         "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Brookhaven Lab",
+        "Data Engineering Student Assistant Intern",
+        "Upton, NY",
         "Oct 21",
         ""
       ],

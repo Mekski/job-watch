@@ -4212,7 +4212,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "dae6b9841c7f45e9c887719a5c2a5ace5de071f4",
+    "last_sha": "9c23d7ea6543d4fa95c55c5dedeed7cf641930a7",
     "rows": [
       [
         "Wex",
@@ -4222,18 +4222,18 @@
         "https://go.vansh.nyc/10z?s=y"
       ],
       [
-        "Trane Technologies",
-        "AI & Analytics Intern",
-        "Davidson, NC Minneapolis, MN",
-        "Oct 30",
-        "https://go.vansh.nyc/10w?s=y"
-      ],
-      [
         "Sierra Nevada Corporation",
         "Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Folsom, CA",
         "Oct 30",
         "https://go.vansh.nyc/10G?s=y"
+      ],
+      [
+        "Salesforce",
+        "AI Labs Intern, Emerging Talent",
+        "San Francisco, CA Seattle, WA",
+        "Oct 30",
+        "https://go.vansh.nyc/10J?s=y"
       ],
       [
         "Barclays",
@@ -4423,6 +4423,13 @@
         "Foster City, CA",
         "Oct 29",
         "https://go.vansh.nyc/Z6?s=y"
+      ],
+      [
+        "Emerson Electric",
+        "Software Engineering Intern \ud83d\udec2",
+        "Austin, TX",
+        "Oct 29",
+        "https://go.vansh.nyc/10L?s=y"
       ],
       [
         "Cisco",
@@ -4689,6 +4696,13 @@
         "San Francisco, CA",
         "Oct 28",
         "https://go.vansh.nyc/YE?s=y"
+      ],
+      [
+        "Harmonic",
+        "Software Engineer Intern",
+        "San Jose, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/10K?s=y"
       ],
       [
         "GM Financial",
@@ -6187,13 +6201,6 @@
         "Cincinnati, OH",
         "Oct 22",
         "https://go.vansh.nyc/eX?s=y"
-      ],
-      [
-        "Walmart",
-        "Automation, Product Manager, Corporate Intern",
-        "Lancaster, TX",
-        "Oct 22",
-        "https://go.vansh.nyc/eW?s=y"
       ],
       [
         "Veeda AI",
@@ -13084,6 +13091,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Trane Technologies",
+        "AI & Analytics Intern",
+        "Davidson, NC Minneapolis, MN",
+        "Oct 30",
+        ""
+      ],
+      [
         "Toyota Research Institute",
         "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
         "Los Altos, CA",
@@ -13368,6 +13382,13 @@
         "Software Intern",
         "Toronto, Canada",
         "Oct 23",
+        ""
+      ],
+      [
+        "Walmart",
+        "Automation, Product Manager, Corporate Intern",
+        "Lancaster, TX",
+        "Oct 22",
         ""
       ],
       [

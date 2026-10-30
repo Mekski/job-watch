@@ -4226,7 +4226,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e415dfd2124bfad14999ed54a59b7248e62ba91f",
+    "last_sha": "dae6b9841c7f45e9c887719a5c2a5ace5de071f4",
     "rows": [
       [
         "Wex",
@@ -4836,13 +4836,6 @@
         "Beavercreek, OH",
         "Oct 28",
         "https://go.vansh.nyc/Yk?s=y"
-      ],
-      [
-        "Blackberry",
-        "Application Engineering Student Intern",
-        "Ottawa, Canada",
-        "Oct 28",
-        "https://go.vansh.nyc/101?s=y"
       ],
       [
         "Bank of Montreal",
@@ -8189,20 +8182,6 @@
         "Reston, VA",
         "Oct 16",
         "https://go.vansh.nyc/ai?s=y"
-      ],
-      [
-        "HCSC",
-        "Finance Data & Analytics Developer Intern",
-        "Chicago, IL Richardson, TX",
-        "Oct 16",
-        "https://go.vansh.nyc/b6?s=y"
-      ],
-      [
-        "HCSC",
-        "Finance Application Developer Intern",
-        "Chicago, IL Richardson, TX",
-        "Oct 16",
-        "https://go.vansh.nyc/b7?s=y"
       ],
       [
         "Gilead Sciences",
@@ -13168,6 +13147,13 @@
         ""
       ],
       [
+        "Blackberry",
+        "Application Engineering Student Intern",
+        "Ottawa, Canada",
+        "Oct 28",
+        ""
+      ],
+      [
         "Workiva",
         "Machine Learning Engineering Intern",
         "Remote United States",
@@ -14060,6 +14046,20 @@
         "Northrop Grumman",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Aurora, CO",
+        "Oct 16",
+        ""
+      ],
+      [
+        "HCSC",
+        "Finance Data & Analytics Developer Intern",
+        "Chicago, IL Richardson, TX",
+        "Oct 16",
+        ""
+      ],
+      [
+        "HCSC",
+        "Finance Application Developer Intern",
+        "Chicago, IL Richardson, TX",
         "Oct 16",
         ""
       ],

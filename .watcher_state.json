@@ -4233,7 +4233,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "1a6149bb1ec24106e3b3fdf0210fc4561a5cfe26",
+    "last_sha": "a4226669936090be59d17e2bc77e67cb5719675d",
     "rows": [
       [
         "Waggoner Financial",
@@ -7328,13 +7328,6 @@
         "San Jose, CA",
         "Oct 19",
         "https://go.vansh.nyc/gp?s=y"
-      ],
-      [
-        "Schweitzer Engineering Laboratories",
-        "Software Engineer Intern",
-        "Pullman, WA",
-        "Oct 19",
-        "https://go.vansh.nyc/cZ?s=y"
       ],
       [
         "Scale AI",
@@ -13850,6 +13843,13 @@
         "Westinghouse Electric Company",
         "Software Development Intern",
         "Cranberry Township, PA",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Schweitzer Engineering Laboratories",
+        "Software Engineer Intern",
+        "Pullman, WA",
         "Oct 19",
         ""
       ],

@@ -4198,7 +4198,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2ed47eaa9f02d8f0c3a032214892f2ba1a30640c",
+    "last_sha": "595041f00e768e2ed699bdd0c4fb773d8307e73a",
     "rows": [
       [
         "Wex",
@@ -9724,20 +9724,6 @@
         "https://go.vansh.nyc/Fz?s=y"
       ],
       [
-        "Dow Jones",
-        "Data Analyst Intern",
-        "New York, NY",
-        "Oct 06",
-        "https://go.vansh.nyc/FL?s=y"
-      ],
-      [
-        "Dow Jones",
-        "Software Engineer Intern",
-        "New York, NY",
-        "Oct 06",
-        "https://go.vansh.nyc/FP?s=y"
-      ],
-      [
         "Courier Health",
         "Software Engineer Intern",
         "New York, NY",
@@ -14452,6 +14438,20 @@
         "ICF International",
         "Data Engineer Intern",
         "Remote United States Reston, VA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Dow Jones",
+        "Data Analyst Intern",
+        "New York, NY",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Dow Jones",
+        "Software Engineer Intern",
+        "New York, NY",
         "Oct 06",
         ""
       ],

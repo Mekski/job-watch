@@ -10060,7 +10060,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3494,
+      "message_id": 5703,
       "chat_id": 8743352944
     },
     "a51f65803317": {
@@ -16980,7 +16980,7 @@
       "term": "Summer 2027",
       "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2995,
+      "message_id": 5700,
       "chat_id": 8743352944
     },
     "9fff0a15a361": {
@@ -34171,6 +34171,46 @@
       "apply_url": "https://go.vansh.nyc/111?s=y",
       "source": "Vansh Repo",
       "message_id": 5697,
+      "chat_id": 8743352944
+    },
+    "cdf756ba1981": {
+      "company": "\ud83d\udd25 Amazon",
+      "role": "Software Engineer Intern - Machine Learning/Automated Reasoning",
+      "location": "9 locationsBoston, MA Seattle, WA Austin, TX Irvine, CA Arlington County, Arlington, VA NYC Bellevue, WA Sunnyvale, CA San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5698,
+      "chat_id": 8743352944
+    },
+    "38f59937befb": {
+      "company": "Obsidian Entertainment",
+      "role": "Gameplay Engineer Intern",
+      "location": "Irvine, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5699,
+      "chat_id": 8743352944
+    },
+    "d3afdeb9859a": {
+      "company": "Brain Co.",
+      "role": "AI Product Intern",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5701,
+      "chat_id": 8743352944
+    },
+    "1d39f967dc81": {
+      "company": "Brain Co.",
+      "role": "AI Platform Engineer Intern",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5702,
       "chat_id": 8743352944
     }
   },

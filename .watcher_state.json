@@ -4233,7 +4233,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b2c07aa274bf62ab3748715571aac235aaf2fd69",
+    "last_sha": "e415dfd2124bfad14999ed54a59b7248e62ba91f",
     "rows": [
       [
         "Wex",
@@ -4248,6 +4248,13 @@
         "Davidson, NC Minneapolis, MN",
         "Oct 30",
         "https://go.vansh.nyc/10w?s=y"
+      ],
+      [
+        "Sierra Nevada Corporation",
+        "Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Folsom, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/10G?s=y"
       ],
       [
         "Barclays",
@@ -4990,13 +4997,6 @@
         "Remote United States",
         "Oct 27",
         "https://go.vansh.nyc/Yc?s=y"
-      ],
-      [
-        "Sonos",
-        "Data Quality Intern \ud83d\udec2",
-        "Boston, MA",
-        "Oct 27",
-        "https://go.vansh.nyc/Wa?s=y"
       ],
       [
         "Solarity",
@@ -13185,6 +13185,13 @@
         "VSP Vision",
         "Software Engineer Intern",
         "Remote United States",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Sonos",
+        "Data Quality Intern \ud83d\udec2",
+        "Boston, MA",
         "Oct 27",
         ""
       ],

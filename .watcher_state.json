@@ -4198,7 +4198,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "595041f00e768e2ed699bdd0c4fb773d8307e73a",
+    "last_sha": "94d2480185c408428db0d61a425eed85b7477fae",
     "rows": [
       [
         "Wex",
@@ -4206,6 +4206,13 @@
         "Remote United States",
         "Oct 30",
         "https://go.vansh.nyc/10z?s=y"
+      ],
+      [
+        "The New York Times",
+        "Backend Engineering Intern, Wirecutter",
+        "New York, NY",
+        "Oct 30",
+        "https://go.vansh.nyc/10Y?s=y"
       ],
       [
         "Sierra Nevada Corporation",
@@ -4234,6 +4241,13 @@
         "Chicago, IL",
         "Oct 30",
         "https://go.vansh.nyc/10U?s=y"
+      ],
+      [
+        "Dow Jones",
+        "Software Engineering Intern",
+        "New York, NY",
+        "Oct 30",
+        "https://go.vansh.nyc/10X?s=y"
       ],
       [
         "Barclays",
@@ -6784,13 +6798,6 @@
         "https://go.vansh.nyc/Vm?s=y"
       ],
       [
-        "Radiance Technologies",
-        "Microelectronics Engineer Intern",
-        "Ruston, LA",
-        "Oct 21",
-        "https://go.vansh.nyc/f9?s=y"
-      ],
-      [
         "Qualcomm",
         "Camera Design Implementation Intern",
         "Markham, ON, Canada",
@@ -7272,13 +7279,6 @@
         "Chicago, IL NYC",
         "Oct 20",
         "https://go.vansh.nyc/df?s=y"
-      ],
-      [
-        "Bosch",
-        "Calibration Process Optimization Intern",
-        "Farmington Hills, MI",
-        "Oct 20",
-        "https://go.vansh.nyc/ds?s=y"
       ],
       [
         "American Electric Power",
@@ -11558,13 +11558,6 @@
         "https://go.vansh.nyc/M0?s=y"
       ],
       [
-        "Northmarq",
-        "Software Engineering Intern \ud83d\udec2",
-        "Minneapolis, MN",
-        "Sep 02",
-        "https://go.vansh.nyc/N2?s=y"
-      ],
-      [
         "National Information Solutions Cooperative",
         "Software Development Intern",
         "Lake St Louis, MO",
@@ -13553,6 +13546,13 @@
         ""
       ],
       [
+        "Radiance Technologies",
+        "Microelectronics Engineer Intern",
+        "Ruston, LA",
+        "Oct 21",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Systems Engineering Intern, AI Experience",
         "Dulles, VA",
@@ -13829,6 +13829,13 @@
         "Centene Corporation",
         "Cybersecurity Intern",
         "Remote in USA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Bosch",
+        "Calibration Process Optimization Intern",
+        "Farmington Hills, MI",
         "Oct 20",
         ""
       ],
@@ -14614,6 +14621,13 @@
         "Product Development Intern, DIRECTV for Business",
         "Clarksburg, MD",
         "Sep 03",
+        ""
+      ],
+      [
+        "Northmarq",
+        "Software Engineering Intern \ud83d\udec2",
+        "Minneapolis, MN",
+        "Sep 02",
         ""
       ],
       [

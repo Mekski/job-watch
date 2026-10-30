@@ -4198,7 +4198,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9b5650f71869856e64a627f15e32e4562b69b96b",
+    "last_sha": "f1081b808bda2b1cb1dd353cbbb69b1d392fd92a",
     "rows": [
       [
         "Wex",
@@ -4222,6 +4222,13 @@
         "https://go.vansh.nyc/10Y?s=y"
       ],
       [
+        "Sophinea",
+        "Mobile App Developer Intern",
+        "Manassas, VA",
+        "Oct 30",
+        "https://go.vansh.nyc/11a?s=y"
+      ],
+      [
         "Sierra Nevada Corporation",
         "Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Folsom, CA",
@@ -4241,6 +4248,13 @@
         "San Francisco, CA Seattle, WA",
         "Oct 30",
         "https://go.vansh.nyc/10J?s=y"
+      ],
+      [
+        "Obsidian Entertainment",
+        "Gameplay Engineer Intern",
+        "Irvine, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/119?s=y"
       ],
       [
         "Hewlett Packard Enterprise",
@@ -4276,6 +4290,13 @@
         "Pittsburgh, PA",
         "Oct 30",
         "https://go.vansh.nyc/110?s=y"
+      ],
+      [
+        "Cadillac Formula 1 Team",
+        "Aerodynamics AI Industrial Placement Intern",
+        "Indianapolis, IN",
+        "Oct 30",
+        "https://go.vansh.nyc/11b?s=y"
       ],
       [
         "Barclays",
@@ -4332,6 +4353,13 @@
         "East Hartford, CT",
         "Oct 29",
         "https://go.vansh.nyc/Zm?s=y"
+      ],
+      [
+        "Revvity",
+        "Full-Stack AI Developer Intern",
+        "Canada",
+        "Oct 29",
+        "https://go.vansh.nyc/116?s=y"
       ],
       [
         "Qualcomm",
@@ -4404,6 +4432,13 @@
         "https://go.vansh.nyc/Zf?s=y"
       ],
       [
+        "Morningstar",
+        "Tech Intern",
+        "Chicago, IL",
+        "Oct 29",
+        "https://go.vansh.nyc/114?s=y"
+      ],
+      [
         "MITRE",
         "Data Science and Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
@@ -4430,6 +4465,13 @@
         "Redmond, WA",
         "Oct 29",
         "https://go.vansh.nyc/Z4?s=y"
+      ],
+      [
+        "Life Fitness",
+        "IT Intern",
+        "Rosemont, IL",
+        "Oct 29",
+        "https://go.vansh.nyc/117?s=y"
       ],
       [
         "L3Harris Technologies",
@@ -4647,13 +4689,6 @@
         "Vancouver, Canada",
         "Oct 28",
         "https://go.vansh.nyc/Yi?s=y"
-      ],
-      [
-        "NVIDIA",
-        "Compiler Software Engineer Intern",
-        "Redmond, WA",
-        "Oct 28",
-        "https://go.vansh.nyc/102?s=y"
       ],
       [
         "Micron Technology",
@@ -7883,13 +7918,6 @@
         "https://go.vansh.nyc/Rp?s=y"
       ],
       [
-        "NVIDIA",
-        "ASIC Verification Intern",
-        "Toronto, ON, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/bT?s=y"
-      ],
-      [
         "Micron Technology",
         "HBM Design Engineer Intern - HBM",
         "Richardson, TX",
@@ -8800,13 +8828,6 @@
         "https://go.vansh.nyc/Cc?s=y"
       ],
       [
-        "NVIDIA",
-        "Differentiable Simulation Research Intern",
-        "Santa Clara, CA",
-        "Oct 13",
-        "https://go.vansh.nyc/8L?s=y"
-      ],
-      [
         "Medpace",
         "Python Developer Intern",
         "Cincinnati, OH",
@@ -9246,13 +9267,6 @@
         "Lincoln, NE",
         "Oct 10",
         "https://go.vansh.nyc/7X?s=y"
-      ],
-      [
-        "NVIDIA",
-        "Research Intern, World Models and Synthetic Data for Autonomous Driving",
-        "Santa Clara, CA",
-        "Oct 10",
-        "https://go.vansh.nyc/7V?s=y"
       ],
       [
         "Affirm",
@@ -9771,13 +9785,6 @@
         "Austin, TX",
         "Oct 05",
         "https://go.vansh.nyc/H8?s=y"
-      ],
-      [
-        "NVIDIA",
-        "PCIe Design Verification Intern",
-        "Austin, TX",
-        "Oct 05",
-        "https://go.vansh.nyc/EW?s=y"
       ],
       [
         "Mayo Clinic",
@@ -13140,6 +13147,13 @@
         ""
       ],
       [
+        "NVIDIA",
+        "Compiler Software Engineer Intern",
+        "Redmond, WA",
+        "Oct 28",
+        ""
+      ],
+      [
         "Micron Technology",
         "Embedded Software Engineer Intern",
         "Boise, ID",
@@ -14015,6 +14029,13 @@
         ""
       ],
       [
+        "NVIDIA",
+        "ASIC Verification Intern",
+        "Toronto, ON, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Boulder, CO",
@@ -14303,6 +14324,13 @@
       ],
       [
         "NVIDIA",
+        "Differentiable Simulation Research Intern",
+        "Santa Clara, CA",
+        "Oct 13",
+        ""
+      ],
+      [
+        "NVIDIA",
         "Sparse Linear Algebra Libraries Intern",
         "Santa Clara, CA",
         "Oct 13",
@@ -14442,6 +14470,13 @@
         ""
       ],
       [
+        "NVIDIA",
+        "Research Intern, World Models and Synthetic Data for Autonomous Driving",
+        "Santa Clara, CA",
+        "Oct 10",
+        ""
+      ],
+      [
         "Residex Software",
         "Product Management Intern",
         "United States",
@@ -14502,6 +14537,13 @@
         "Entry-Level Software Engineer Intern, C++",
         "Chicago, IL",
         "Oct 06",
+        ""
+      ],
+      [
+        "NVIDIA",
+        "PCIe Design Verification Intern",
+        "Austin, TX",
+        "Oct 05",
         ""
       ],
       [

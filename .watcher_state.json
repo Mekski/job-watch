@@ -4240,7 +4240,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "70e8b49c1f0e48840c72ce784323158723bc3a37",
+    "last_sha": "3eff7e10ce381cc91ada05e22221a3873e73b610",
     "rows": [
       [
         "Waggoner Financial",
@@ -5060,13 +5060,6 @@
         "Chillicothe, OH",
         "Oct 27",
         "https://go.vansh.nyc/WP?s=y"
-      ],
-      [
-        "Northrop Grumman",
-        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Azusa, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Wl?s=y"
       ],
       [
         "Nomad GCS",
@@ -10963,13 +10956,6 @@
         "https://go.vansh.nyc/IG?s=y"
       ],
       [
-        "Cisco",
-        "Data Analyst I Intern",
-        "San Jose, CA Austin, TX Research Triangle Park, NC",
-        "Sep 17",
-        "https://go.vansh.nyc/JT?s=y"
-      ],
-      [
         "Amazon",
         "Software Development Engineer Intern",
         "Seattle, WA Arlington, VA",
@@ -11010,13 +10996,6 @@
         "Boston, MA Somerville, MA",
         "Sep 16",
         "https://go.vansh.nyc/IA?s=y"
-      ],
-      [
-        "Cisco",
-        "Hardware Engineer I Intern",
-        "San Jose, CA Austin, TX Research Triangle Park, NC",
-        "Sep 16",
-        "https://go.vansh.nyc/JR?s=y"
       ],
       [
         "Abundant",
@@ -11087,13 +11066,6 @@
         "Pittsburgh, PA",
         "Sep 15",
         "https://go.vansh.nyc/It?s=y"
-      ],
-      [
-        "CoStar Group",
-        "Associate Software Engineer Intern",
-        "Irvine, CA",
-        "Sep 15",
-        "https://go.vansh.nyc/Ix?s=y"
       ],
       [
         "Analog Devices",
@@ -13231,6 +13203,13 @@
         ""
       ],
       [
+        "Northrop Grumman",
+        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Azusa, CA",
+        "Oct 27",
+        ""
+      ],
+      [
         "Micron Technology",
         "AI Engineer Intern, Platform",
         "Boise, ID",
@@ -14505,10 +14484,31 @@
         ""
       ],
       [
+        "Cisco",
+        "Data Analyst I Intern",
+        "San Jose, CA Austin, TX Research Triangle Park, NC",
+        "Sep 17",
+        ""
+      ],
+      [
         "LSEG",
         "Engineering Intern, Multiple Teams",
         "Boston, MA",
         "Sep 16",
+        ""
+      ],
+      [
+        "Cisco",
+        "Hardware Engineer I Intern",
+        "San Jose, CA Austin, TX Research Triangle Park, NC",
+        "Sep 16",
+        ""
+      ],
+      [
+        "CoStar Group",
+        "Associate Software Engineer Intern",
+        "Irvine, CA",
+        "Sep 15",
         ""
       ],
       [

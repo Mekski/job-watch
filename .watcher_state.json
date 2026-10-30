@@ -4233,8 +4233,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7c41efd8fb89203ce9bae6ed6eba85a6dddebbb2",
+    "last_sha": "b2c07aa274bf62ab3748715571aac235aaf2fd69",
     "rows": [
+      [
+        "Wex",
+        "Software Engineer Intern",
+        "Remote United States",
+        "Oct 30",
+        "https://go.vansh.nyc/10z?s=y"
+      ],
       [
         "Trane Technologies",
         "AI & Analytics Intern",
@@ -7237,13 +7244,6 @@
         "San Francisco, CA",
         "Oct 20",
         "https://go.vansh.nyc/cV?s=y"
-      ],
-      [
-        "Hewlett Packard Enterprise",
-        "Software Development Intern, AI-Assisted Development",
-        "Saint-Laurent, Montreal, QC, Canada",
-        "Oct 20",
-        "https://go.vansh.nyc/eg?s=y"
       ],
       [
         "GlobalFoundries",
@@ -10809,13 +10809,6 @@
         "https://go.vansh.nyc/J8?s=y"
       ],
       [
-        "Qorvo",
-        "Digital Systems Engineer Intern",
-        "Greensboro, NC",
-        "Sep 21",
-        "https://go.vansh.nyc/J1?s=y"
-      ],
-      [
         "Propio",
         "Software Engineering Intern",
         "Overland Park, KS",
@@ -13777,6 +13770,13 @@
         ""
       ],
       [
+        "Hewlett Packard Enterprise",
+        "Software Development Intern, AI-Assisted Development",
+        "Saint-Laurent, Montreal, QC, Canada",
+        "Oct 20",
+        ""
+      ],
+      [
         "General Dynamics Information Technology",
         "AI and Estimation Intern",
         "Falls Church, VA",
@@ -14501,6 +14501,13 @@
         "The Aerospace Corporation",
         "Software Tools and Assurance Intern, Information Systems and Cyber Division",
         "El Segundo, CA",
+        "Sep 21",
+        ""
+      ],
+      [
+        "Qorvo",
+        "Digital Systems Engineer Intern",
+        "Greensboro, NC",
         "Sep 21",
         ""
       ],

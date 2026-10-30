@@ -4240,7 +4240,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "66c281dd2945d142a70c5394868f7b94b761ecef",
+    "last_sha": "6521d00c7278c9c60f98143d81c58ff483ad0d84",
     "rows": [
       [
         "Waggoner Financial",
@@ -4759,13 +4759,6 @@
         "Deer Park, TX",
         "Oct 28",
         "https://go.vansh.nyc/Yj?s=y"
-      ],
-      [
-        "Centene Corporation",
-        "AI Engineer Intern",
-        "United States",
-        "Oct 28",
-        "https://go.vansh.nyc/ZI?s=y"
       ],
       [
         "CareSource",
@@ -11859,13 +11852,6 @@
         "https://go.vansh.nyc/Lp?s=y"
       ],
       [
-        "American Express",
-        "Data Engineer Intern, Enterprise Technology Services",
-        "Sunrise, FL",
-        "Aug 31",
-        "https://go.vansh.nyc/LD?s=y"
-      ],
-      [
         "AeroVironment",
         "Embedded Software Engineer Intern",
         "**16 locations**Dayton, OH Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington, VA Melbourne, FL Petaluma, CA Centreville, VA Lawrence, KS Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA",
@@ -12095,13 +12081,6 @@
         "Miami, FL",
         "Aug 21",
         "https://go.vansh.nyc/7f?s=y"
-      ],
-      [
-        "Kastle",
-        "Software Engineer Intern",
-        "San Francisco, CA",
-        "Aug 21",
-        "https://go.vansh.nyc/7A?s=y"
       ],
       [
         "JPMorgan Chase",
@@ -13199,6 +13178,13 @@
         "Micron Technology",
         "Embedded Software Engineer Intern",
         "Boise, ID",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Centene Corporation",
+        "AI Engineer Intern",
+        "United States",
         "Oct 28",
         ""
       ],
@@ -14547,6 +14533,13 @@
         ""
       ],
       [
+        "American Express",
+        "Data Engineer Intern, Enterprise Technology Services",
+        "Sunrise, FL",
+        "Aug 31",
+        ""
+      ],
+      [
         "Booz Allen Hamilton",
         "Software Developer Intern",
         "San Diego, CA",
@@ -14571,6 +14564,13 @@
         "Raytheon",
         "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
         "Tewksbury, MA",
+        "Aug 21",
+        ""
+      ],
+      [
+        "Kastle",
+        "Software Engineer Intern",
+        "San Francisco, CA",
         "Aug 21",
         ""
       ],

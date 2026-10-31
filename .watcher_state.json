@@ -4037,7 +4037,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "181284eb93cdcab246904a723a4242b701d85adb",
+    "last_sha": "cdb1cacc37ead4cebc8b148e98cc5491b1c602f8",
     "rows": [
       [
         "Wex",
@@ -4615,13 +4615,6 @@
       ],
       [
         "Qualcomm",
-        "Deep Learning Research Intern",
-        "Markham, Canada",
-        "Oct 28",
-        "https://go.vansh.nyc/YP?s=y"
-      ],
-      [
-        "Qualcomm",
         "Deep Learning Research Intern, Interim Engineering Systems",
         "Markham, Canada",
         "Oct 28",
@@ -5062,13 +5055,6 @@
         "https://go.vansh.nyc/VQ?s=y"
       ],
       [
-        "sephora.com",
-        "AI & Distribution Analytics Intern",
-        "Salt Lake City, UT",
-        "Oct 27",
-        "https://go.vansh.nyc/11P?s=y"
-      ],
-      [
         "Sephora",
         "AI Automation Intern, WMS & DC Systems",
         "United States",
@@ -5494,13 +5480,6 @@
         "Madison, WI Boston, MA",
         "Oct 27",
         "https://go.vansh.nyc/VN?s=y"
-      ],
-      [
-        "Amazon",
-        "Database Engineer Intern",
-        "Seattle, WA East Palo Alto, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/WF?s=y"
       ],
       [
         "Allegion",
@@ -6722,13 +6701,6 @@
       ],
       [
         "Amazon",
-        "Software Engineer Intern, Embedded Systems",
-        "United States",
-        "Oct 22",
-        "https://go.vansh.nyc/gE?s=y"
-      ],
-      [
-        "Amazon",
         "ASIC Engineer Intern",
         "Sunnyvale, CA",
         "Oct 22",
@@ -7863,31 +7835,10 @@
       ],
       [
         "Qualcomm",
-        "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
-        "Markham, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/Rx?s=y"
-      ],
-      [
-        "Qualcomm",
-        "Firmware/Embedded Software Engineering Intern",
-        "Toronto, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/Ry?s=y"
-      ],
-      [
-        "Qualcomm",
         "Low Power AI Software Development Intern",
         "Markham, Canada",
         "Oct 18",
         "https://go.vansh.nyc/Rz?s=y"
-      ],
-      [
-        "Qualcomm",
-        "PAL Firmware Development Intern",
-        "Markham, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/RA?s=y"
       ],
       [
         "Qualcomm",
@@ -7972,13 +7923,6 @@
         "Austin, TX Raleigh, NC",
         "Oct 18",
         "https://go.vansh.nyc/Rg?s=y"
-      ],
-      [
-        "Keysight Technologies",
-        "Software Engineering Intern",
-        "Calabasas, CA",
-        "Oct 18",
-        "https://go.vansh.nyc/Rh?s=y"
       ],
       [
         "Interclypse",
@@ -9729,13 +9673,6 @@
         "Middletown, RI",
         "Oct 06",
         "https://go.vansh.nyc/FD?s=y"
-      ],
-      [
-        "Amazon",
-        "Software Engineer Intern, Embedded Systems",
-        "Redmond, WA Northridge, CA",
-        "Oct 06",
-        "https://go.vansh.nyc/FS?s=y"
       ],
       [
         "Amazon",
@@ -13140,6 +13077,13 @@
         ""
       ],
       [
+        "Qualcomm",
+        "Deep Learning Research Intern",
+        "Markham, Canada",
+        "Oct 28",
+        ""
+      ],
+      [
         "NVIDIA",
         "Compiler Software Engineer Intern",
         "Redmond, WA",
@@ -13196,6 +13140,13 @@
         ""
       ],
       [
+        "sephora.com",
+        "AI & Distribution Analytics Intern",
+        "Salt Lake City, UT",
+        "Oct 27",
+        ""
+      ],
+      [
         "RTX",
         "Software Engineer Intern, Receiver, Exciter, & Processing Architecture \ud83c\uddfa\ud83c\uddf8",
         "Marlborough, MA",
@@ -13241,6 +13192,13 @@
         "Cencora",
         "AI Intern",
         "Conshohocken, PA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Amazon",
+        "Database Engineer Intern",
+        "Seattle, WA East Palo Alto, CA",
         "Oct 27",
         ""
       ],
@@ -13513,6 +13471,13 @@
       [
         "Apple",
         "Cellular Baseband Design Verification Intern",
+        "United States",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Amazon",
+        "Software Engineer Intern, Embedded Systems",
         "United States",
         "Oct 22",
         ""
@@ -14016,6 +13981,27 @@
       ],
       [
         "Qualcomm",
+        "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
+        "Markham, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Qualcomm",
+        "Firmware/Embedded Software Engineering Intern",
+        "Toronto, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Qualcomm",
+        "PAL Firmware Development Intern",
+        "Markham, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Qualcomm",
         "AI Driven Test Automation Engineering Intern",
         "Haifa District, IL",
         "Oct 18",
@@ -14039,6 +14025,13 @@
         "MITRE",
         "AI Engineering Intern",
         "Bedford, MA",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Keysight Technologies",
+        "Software Engineering Intern",
+        "Calabasas, CA",
         "Oct 18",
         ""
       ],
@@ -14529,6 +14522,13 @@
         "CACI",
         "Cyber Analyst Intern",
         "Ashburn, VA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Amazon",
+        "Software Engineer Intern, Embedded Systems",
+        "Redmond, WA Northridge, CA",
         "Oct 06",
         ""
       ],

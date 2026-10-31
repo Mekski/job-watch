@@ -34762,6 +34762,36 @@
       "source": "Simplify Repo",
       "message_id": 5765,
       "chat_id": 8743352944
+    },
+    "08acf166757c": {
+      "company": "NVIDIA",
+      "role": "Software Engineering Intern",
+      "location": "Santa Clara, CA",
+      "term": "Oct 31",
+      "apply_url": "https://go.vansh.nyc/12g?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5768,
+      "chat_id": 8743352944
+    },
+    "095a6102f8ca": {
+      "company": "NVIDIA",
+      "role": "Autonomous Vehicles and Robotics Intern",
+      "location": "Santa Clara, CA",
+      "term": "Oct 31",
+      "apply_url": "https://go.vansh.nyc/12h?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5769,
+      "chat_id": 8743352944
+    },
+    "01371bd1b7f9": {
+      "company": "NVIDIA",
+      "role": "Deep Learning Intern",
+      "location": "Santa Clara, CA",
+      "term": "Oct 31",
+      "apply_url": "https://go.vansh.nyc/12j?s=y",
+      "source": "Vansh Repo",
+      "message_id": 5770,
+      "chat_id": 8743352944
     }
   },
   "applied": {

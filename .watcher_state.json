@@ -4037,7 +4037,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "fffce2bc771691967faaa516fcba2e35c0f0c177",
+    "last_sha": "cc8440f07ba6a5b41ce232c672c1537e7e40acaa",
     "rows": [
       [
         "Wex",
@@ -4227,13 +4227,6 @@
         "Boston, MA",
         "Oct 29",
         "https://go.vansh.nyc/YW?s=y"
-      ],
-      [
-        "RTX",
-        "Sustainment Data and Analytics Intern \ud83c\uddfa\ud83c\uddf8",
-        "East Hartford, CT",
-        "Oct 29",
-        "https://go.vansh.nyc/Zm?s=y"
       ],
       [
         "Revvity",
@@ -5076,13 +5069,6 @@
         "https://go.vansh.nyc/11N?s=y"
       ],
       [
-        "RTX",
-        "Secure Software Intern \ud83c\uddfa\ud83c\uddf8",
-        "Woburn, MA",
-        "Oct 27",
-        "https://go.vansh.nyc/VG?s=y"
-      ],
-      [
         "Rockwell Automation",
         "Cybersecurity Intern \ud83d\udec2",
         "Milwaukee, WI Chelmsford, MA",
@@ -5669,13 +5655,6 @@
         "Markham, Canada",
         "Oct 26",
         "https://go.vansh.nyc/Tm?s=y"
-      ],
-      [
-        "Northrop Grumman",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Beavercreek, OH",
-        "Oct 26",
-        "https://go.vansh.nyc/ST?s=y"
       ],
       [
         "Nissan",
@@ -6917,13 +6896,6 @@
         "https://go.vansh.nyc/hc?s=y"
       ],
       [
-        "Duke Energy Corporation",
-        "Nuclear Cybersecurity Intern",
-        "Hartsville, SC",
-        "Oct 21",
-        "https://go.vansh.nyc/em?s=y"
-      ],
-      [
         "DP World",
         "Network Engineering Intern \ud83d\udec2",
         "Charlotte, NC",
@@ -7083,20 +7055,6 @@
         "Sugar Land, TX",
         "Oct 20",
         "https://go.vansh.nyc/cv?s=y"
-      ],
-      [
-        "Stifel",
-        "Data Analyst Intern",
-        "Saint Louis, MO",
-        "Oct 20",
-        "https://go.vansh.nyc/D6?s=y"
-      ],
-      [
-        "Stifel",
-        "Information Security Intern",
-        "Saint Louis, MO",
-        "Oct 20",
-        "https://go.vansh.nyc/D7?s=y"
       ],
       [
         "Steel",
@@ -8968,13 +8926,6 @@
         "https://go.vansh.nyc/C7?s=y"
       ],
       [
-        "Rolls-Royce",
-        "Integrated Control Systems Engineer Intern, Software",
-        "Indianapolis, IN",
-        "Oct 12",
-        "https://go.vansh.nyc/C4?s=y"
-      ],
-      [
         "Koch Industries",
         "Digital Technology & Data Intern",
         "Auburn Hills, MI",
@@ -10142,20 +10093,6 @@
         "Sunnyvale, CA Warren, MI",
         "Oct 01",
         "https://go.vansh.nyc/Eq?s=y"
-      ],
-      [
-        "Elevance Health",
-        "Data Analytics Intern",
-        "**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
-        "Oct 01",
-        "https://go.vansh.nyc/Eo?s=y"
-      ],
-      [
-        "Elevance Health",
-        "Engineering Intern",
-        "**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
-        "Oct 01",
-        "https://go.vansh.nyc/Ep?s=y"
       ],
       [
         "Election Systems & Software",
@@ -13063,6 +13000,13 @@
         ""
       ],
       [
+        "RTX",
+        "Sustainment Data and Analytics Intern \ud83c\uddfa\ud83c\uddf8",
+        "East Hartford, CT",
+        "Oct 29",
+        ""
+      ],
+      [
         "Qualcomm",
         "Deep Learning Research Intern, Embodied AI",
         "Markham, Canada",
@@ -13155,6 +13099,13 @@
       ],
       [
         "RTX",
+        "Secure Software Intern \ud83c\uddfa\ud83c\uddf8",
+        "Woburn, MA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "RTX",
         "Software Engineer Intern, Receiver, Exciter, & Processing Architecture \ud83c\uddfa\ud83c\uddf8",
         "Marlborough, MA",
         "Oct 27",
@@ -13207,6 +13158,13 @@
         "Database Engineer Intern",
         "Seattle, WA East Palo Alto, CA",
         "Oct 27",
+        ""
+      ],
+      [
+        "Northrop Grumman",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Beavercreek, OH",
+        "Oct 26",
         ""
       ],
       [
@@ -13581,6 +13539,13 @@
         ""
       ],
       [
+        "Duke Energy Corporation",
+        "Nuclear Cybersecurity Intern",
+        "Hartsville, SC",
+        "Oct 21",
+        ""
+      ],
+      [
         "CVS Health",
         "Data Engineering Intern, Innovation & Technology",
         "New York, NY",
@@ -13689,6 +13654,20 @@
         "T-Mobile",
         "Software Engineer Intern, Cloud Security",
         "Atlanta, GA Frisco, TX",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Stifel",
+        "Data Analyst Intern",
+        "Saint Louis, MO",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Stifel",
+        "Information Security Intern",
+        "Saint Louis, MO",
         "Oct 20",
         ""
       ],
@@ -14407,6 +14386,13 @@
         ""
       ],
       [
+        "Rolls-Royce",
+        "Integrated Control Systems Engineer Intern, Software",
+        "Indianapolis, IN",
+        "Oct 12",
+        ""
+      ],
+      [
         "Moog",
         "Product Engineering Intern",
         "Buffalo, NY",
@@ -14564,6 +14550,20 @@
         "Marvell",
         "Firmware Engineer Co-op",
         "Toronto, Canada",
+        "Oct 01",
+        ""
+      ],
+      [
+        "Elevance Health",
+        "Data Analytics Intern",
+        "**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+        "Oct 01",
+        ""
+      ],
+      [
+        "Elevance Health",
+        "Engineering Intern",
+        "**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
         "Oct 01",
         ""
       ],

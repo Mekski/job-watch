@@ -4093,7 +4093,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "cc8440f07ba6a5b41ce232c672c1537e7e40acaa",
+    "last_sha": "8f8d45ceb0df19b2ef529438a5933b9b2be21c9a",
     "rows": [
       [
         "Wex",
@@ -4115,6 +4115,41 @@
         "New York, NY",
         "Oct 30",
         "https://go.vansh.nyc/10Y?s=y"
+      ],
+      [
+        "Tevora",
+        "Cybersecurity Intern, Federal",
+        "Fairfax, VA Irvine, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/12b?s=y"
+      ],
+      [
+        "Tevora",
+        "Cybersecurity Intern, Healthcare",
+        "Irvine, CA Fairfax, VA",
+        "Oct 30",
+        "https://go.vansh.nyc/12c?s=y"
+      ],
+      [
+        "Tevora",
+        "Cybersecurity Intern, Payments",
+        "Fairfax, VA Irvine, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/12d?s=y"
+      ],
+      [
+        "Tevora",
+        "Cybersecurity Intern, Solutions",
+        "Irvine, CA Fairfax, VA",
+        "Oct 30",
+        "https://go.vansh.nyc/12e?s=y"
+      ],
+      [
+        "Tevora",
+        "Cybersecurity Intern, Threat",
+        "Irvine, CA Fairfax, VA",
+        "Oct 30",
+        "https://go.vansh.nyc/12f?s=y"
       ],
       [
         "Sophinea",
@@ -4166,6 +4201,13 @@
         "https://go.vansh.nyc/119?s=y"
       ],
       [
+        "NVIDIA",
+        "Enterprise Platform Technical Marketing Engineer Intern",
+        "Santa Clara, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/12a?s=y"
+      ],
+      [
         "Northrop Grumman",
         "Data Scientist Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
         "San Diego, CA",
@@ -4192,6 +4234,13 @@
         "Wayzata, MN",
         "Oct 30",
         "https://go.vansh.nyc/10Z?s=y"
+      ],
+      [
+        "First Citizens BancShares",
+        "AI Innovation Intern",
+        "Raleigh, NC",
+        "Oct 30",
+        "https://go.vansh.nyc/129?s=y"
       ],
       [
         "Firework",
@@ -4474,27 +4523,6 @@
         "https://go.vansh.nyc/11Z?s=y"
       ],
       [
-        "Gilead Sciences",
-        "Research Intern, Oncology Biomarker - AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z7?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Discovery Sciences and Technologies, AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z5?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Inflammation, AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z6?s=y"
-      ],
-      [
         "Emerson Electric",
         "Software Engineering Intern \ud83d\udec2",
         "Austin, TX",
@@ -4556,6 +4584,13 @@
         "Overland Park, KS",
         "Oct 28",
         "https://go.vansh.nyc/Zz?s=y"
+      ],
+      [
+        "Systems Planning and Analysis",
+        "Data Engineer Intern",
+        "Alexandria, VA",
+        "Oct 28",
+        "https://go.vansh.nyc/128?s=y"
       ],
       [
         "Syntiant",
@@ -5676,20 +5711,6 @@
         "Cedar Rapids, IA",
         "Oct 26",
         "https://go.vansh.nyc/Ww?s=y"
-      ],
-      [
-        "RTX",
-        "Embedded Software Engineer Intern",
-        "Goleta, CA",
-        "Oct 26",
-        "https://go.vansh.nyc/VI?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "San Diego, CA",
-        "Oct 26",
-        "https://go.vansh.nyc/T2?s=y"
       ],
       [
         "RTX",
@@ -7288,13 +7309,6 @@
         "https://go.vansh.nyc/cC?s=y"
       ],
       [
-        "Genentech",
-        "Product Technical Development Intern, Digital Sciences Focus",
-        "South San Francisco, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/cB?s=y"
-      ],
-      [
         "Galaxy",
         "Cybersecurity Intern",
         "Remote United States",
@@ -8182,27 +8196,6 @@
         "Reston, VA",
         "Oct 16",
         "https://go.vansh.nyc/ai?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Clinical Virology - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/bx?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Data Sciences - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/ag?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Strategy, Innovation & Portfolio - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/ah?s=y"
       ],
       [
         "General Motors",
@@ -9710,13 +9703,6 @@
         "https://go.vansh.nyc/H5?s=y"
       ],
       [
-        "RTX",
-        "FPGA Engineer Intern",
-        "McKinney, TX",
-        "Oct 05",
-        "https://go.vansh.nyc/F5?s=y"
-      ],
-      [
         "Quantum Signal AI",
         "Software Engineer Intern, Tools and Prototypes",
         "Saline, MI",
@@ -10900,13 +10886,6 @@
         "https://go.vansh.nyc/Iy?s=y"
       ],
       [
-        "Trane Technologies",
-        "Software Development Engineering Intern",
-        "St Paul, MN",
-        "Sep 15",
-        "https://go.vansh.nyc/JQ?s=y"
-      ],
-      [
         "SimVentions",
         "Software Development Intern",
         "Fredericksburg, VA",
@@ -11383,20 +11362,6 @@
         "https://go.vansh.nyc/Mn?s=y"
       ],
       [
-        "RTX",
-        "FPGA Electrical Design Engineer Intern",
-        "Tucson, AZ",
-        "Sep 07",
-        "https://go.vansh.nyc/Mk?s=y"
-      ],
-      [
-        "RTX",
-        "Digital Design Electrical Engineer Intern",
-        "Tucson, AZ",
-        "Sep 07",
-        "https://go.vansh.nyc/Ml?s=y"
-      ],
-      [
         "Xcel Energy",
         "Grid Data Intern",
         "Minneapolis, MN",
@@ -11451,13 +11416,6 @@
         "**7 locations**Morrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA",
         "Sep 03",
         "https://go.vansh.nyc/Mf?s=y"
-      ],
-      [
-        "Hy-Vee",
-        "Data Integration Intern",
-        "West Des Moines, IA",
-        "Sep 03",
-        "https://go.vansh.nyc/Mc?s=y"
       ],
       [
         "Amazon",
@@ -11675,13 +11633,6 @@
         "Towson, MD",
         "Aug 31",
         "https://go.vansh.nyc/Lv?s=y"
-      ],
-      [
-        "RTX",
-        "Electrical Engineer Intern",
-        "El Segundo, CA",
-        "Aug 31",
-        "https://go.vansh.nyc/LA?s=y"
       ],
       [
         "Rockwell Automation",
@@ -13077,6 +13028,27 @@
         ""
       ],
       [
+        "Gilead Sciences",
+        "Research Intern, Discovery Sciences and Technologies, AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Inflammation, AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Oncology Biomarker - AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
         "Axon",
         "Software Engineer Intern",
         "Seattle, WA Arlington, VA",
@@ -13214,6 +13186,20 @@
         "Database Engineer Intern",
         "Seattle, WA East Palo Alto, CA",
         "Oct 27",
+        ""
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "San Diego, CA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "RTX",
+        "Embedded Software Engineer Intern",
+        "Goleta, CA",
+        "Oct 26",
         ""
       ],
       [
@@ -13826,6 +13812,13 @@
         ""
       ],
       [
+        "Genentech",
+        "Product Technical Development Intern, Digital Sciences Focus",
+        "South San Francisco, CA",
+        "Oct 20",
+        ""
+      ],
+      [
         "Expedia Group",
         "Software Developer 1 Intern",
         "Springfield, MO",
@@ -14158,6 +14151,27 @@
         "HCSC",
         "Finance Application Developer Intern",
         "Chicago, IL Richardson, TX",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Data Sciences - AI",
+        "Foster City, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Strategy, Innovation & Portfolio - AI",
+        "Foster City, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Clinical Virology - AI",
+        "Foster City, CA",
         "Oct 16",
         ""
       ],
@@ -14589,6 +14603,13 @@
         ""
       ],
       [
+        "RTX",
+        "FPGA Engineer Intern",
+        "McKinney, TX",
+        "Oct 05",
+        ""
+      ],
+      [
         "NVIDIA",
         "PCIe Design Verification Intern",
         "Austin, TX",
@@ -14736,6 +14757,13 @@
         ""
       ],
       [
+        "Trane Technologies",
+        "Software Development Engineering Intern",
+        "St Paul, MN",
+        "Sep 15",
+        ""
+      ],
+      [
         "CoStar Group",
         "Associate Software Engineer Intern",
         "Irvine, CA",
@@ -14747,6 +14775,27 @@
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
         "Sep 10",
+        ""
+      ],
+      [
+        "RTX",
+        "FPGA Electrical Design Engineer Intern",
+        "Tucson, AZ",
+        "Sep 07",
+        ""
+      ],
+      [
+        "RTX",
+        "Digital Design Electrical Engineer Intern",
+        "Tucson, AZ",
+        "Sep 07",
+        ""
+      ],
+      [
+        "Hy-Vee",
+        "Data Integration Intern",
+        "West Des Moines, IA",
+        "Sep 03",
         ""
       ],
       [
@@ -14768,6 +14817,13 @@
         "Cyber Software Engineer Intern, Capabilities Development",
         "Laurel, MD",
         "Sep 01",
+        ""
+      ],
+      [
+        "RTX",
+        "Electrical Engineer Intern",
+        "El Segundo, CA",
+        "Aug 31",
         ""
       ],
       [

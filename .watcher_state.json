@@ -3757,7 +3757,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "04c76654786ec7ddb0c49af7992fcc2cf38b1087",
+    "last_sha": "e9543971fe4601892cd6caebf8ce5ea3ece2f67d",
     "rows": [
       [
         "The Federal Reserve System",
@@ -3779,6 +3779,13 @@
         "Deerfield Beach, FL",
         "Nov 02",
         "https://go.vansh.nyc/19j?s=y"
+      ],
+      [
+        "First Citizens BancShares",
+        "Data Analyst Intern, Enterprise Data Products",
+        "Raleigh, NC",
+        "Nov 02",
+        "https://go.vansh.nyc/19n?s=y"
       ],
       [
         "Entrust",
@@ -10529,13 +10536,6 @@
         "https://go.vansh.nyc/17D?s=y"
       ],
       [
-        "HCSC",
-        "Security Data Classification Intern",
-        "Richardson, TX",
-        "Oct 07",
-        "https://go.vansh.nyc/G6?s=y"
-      ],
-      [
         "Happyrobot",
         "Product Operations Engineer Intern",
         "San Francisco, CA",
@@ -15594,6 +15594,13 @@
         "HR AI Data Science Intern",
         "Austin, TX",
         "Oct 08",
+        ""
+      ],
+      [
+        "HCSC",
+        "Security Data Classification Intern",
+        "Richardson, TX",
+        "Oct 07",
         ""
       ],
       [

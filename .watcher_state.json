@@ -3722,7 +3722,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "acaa04b4d198605d6000aed5d67d73cf8d80a742",
+    "last_sha": "29d5c9eb05b33c81e8abf03eac1ef73272e8a85b",
     "rows": [
       [
         "Tecsys",
@@ -3730,6 +3730,13 @@
         "Montreal, Canada",
         "Nov 02",
         "https://go.vansh.nyc/19b?s=y"
+      ],
+      [
+        "CoStar Group",
+        "Data Science Intern",
+        "Richmond, VA",
+        "Nov 02",
+        "https://go.vansh.nyc/19c?s=y"
       ],
       [
         "TikTok",
@@ -4087,6 +4094,13 @@
         "Chicago, IL",
         "Nov 01",
         "https://go.vansh.nyc/18V?s=y"
+      ],
+      [
+        "ParetoHealth",
+        "Software Engineering Intern \ud83d\udec2",
+        "Philadelphia, PA",
+        "Nov 01",
+        "https://go.vansh.nyc/19e?s=y"
       ],
       [
         "Microsoft",
@@ -5081,13 +5095,6 @@
         "San Francisco, CA",
         "Oct 30",
         "https://go.vansh.nyc/12J?s=y"
-      ],
-      [
-        "Cohen & Steers",
-        "Associate Intern, Information Security",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/12I?s=y"
       ],
       [
         "Clay",
@@ -11026,13 +11033,6 @@
         "https://go.vansh.nyc/Et?s=y"
       ],
       [
-        "Farmers Mutual Hail",
-        "Data Architect Intern",
-        "West Des Moines, IA",
-        "Oct 02",
-        "https://go.vansh.nyc/17C?s=y"
-      ],
-      [
         "Arc",
         "Software Engineer Intern",
         "Torrance, CA",
@@ -13952,6 +13952,13 @@
         ""
       ],
       [
+        "Cohen & Steers",
+        "Associate Intern, Information Security",
+        "New York, NY",
+        "Oct 30",
+        ""
+      ],
+      [
         "Toyota Research Institute",
         "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
         "Los Altos, CA",
@@ -15629,6 +15636,13 @@
         "AI Engineering Intern, Business Systems",
         "Cary, NC",
         "Oct 05",
+        ""
+      ],
+      [
+        "Farmers Mutual Hail",
+        "Data Architect Intern",
+        "West Des Moines, IA",
+        "Oct 02",
         ""
       ],
       [

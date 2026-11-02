@@ -3827,7 +3827,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "aae6ce33d5e84eefdb5619ba054879b8e3df00d3",
+    "last_sha": "ffdd63e55d56193bed6284027c70aaf85b5852d9",
     "rows": [
       [
         "TikTok",
@@ -4187,11 +4187,11 @@
         "https://go.vansh.nyc/18V?s=y"
       ],
       [
-        "KnowBe4",
-        "Software Engineer Intern",
-        "Clearwater, FL",
+        "Microsoft",
+        "First-Year Explore Program Engineering Intern",
+        "Redmond, WA",
         "Nov 01",
-        "https://go.vansh.nyc/191?s=y"
+        "https://go.vansh.nyc/199?s=y"
       ],
       [
         "ByteDance",
@@ -11019,20 +11019,6 @@
         "https://go.vansh.nyc/EU?s=y"
       ],
       [
-        "ABB",
-        "ERP Intern, AI Engineering",
-        "Cary, NC",
-        "Oct 05",
-        "https://go.vansh.nyc/F2?s=y"
-      ],
-      [
-        "ABB",
-        "AI Engineering Intern, Business Systems",
-        "Cary, NC",
-        "Oct 05",
-        "https://go.vansh.nyc/F4?s=y"
-      ],
-      [
         "Midland States Bank",
         "AI Solutions Engineer Intern",
         "Rockford, IL St. Louis, MO Effingham, IL",
@@ -12979,20 +12965,6 @@
         "https://go.vansh.nyc/OM?s=y"
       ],
       [
-        "The Hartford",
-        "Software Engineer Intern, Tech & Data Program",
-        "Hartford, CT",
-        "Aug 23",
-        "https://go.vansh.nyc/On?s=y"
-      ],
-      [
-        "The Hartford",
-        "Data Engineer Intern, Technology, Data, AI, and Operations",
-        "Hartford, CT",
-        "Aug 23",
-        "https://go.vansh.nyc/Oo?s=y"
-      ],
-      [
         "Vertiv",
         "Product Management Intern, MBA \ud83d\udec2",
         "Delaware, OH",
@@ -14069,6 +14041,13 @@
         "Milwaukee, WI",
         "Oct 2015",
         "https://go.vansh.nyc/Qu?s=y"
+      ],
+      [
+        "KnowBe4",
+        "Software Engineer Intern",
+        "Clearwater, FL",
+        "Nov 01",
+        ""
       ],
       [
         "Trane Technologies",
@@ -15737,6 +15716,20 @@
         ""
       ],
       [
+        "ABB",
+        "ERP Intern, AI Engineering",
+        "Cary, NC",
+        "Oct 05",
+        ""
+      ],
+      [
+        "ABB",
+        "AI Engineering Intern, Business Systems",
+        "Cary, NC",
+        "Oct 05",
+        ""
+      ],
+      [
         "Space Dynamics Laboratory",
         "FPGA Electrical Engineer Intern, Civil & Commercial Space",
         "North Logan, UT",
@@ -15965,6 +15958,20 @@
         "Software Developer Intern",
         "San Diego, CA",
         "Aug 26",
+        ""
+      ],
+      [
+        "The Hartford",
+        "Software Engineer Intern, Tech & Data Program",
+        "Hartford, CT",
+        "Aug 23",
+        ""
+      ],
+      [
+        "The Hartford",
+        "Data Engineer Intern, Technology, Data, AI, and Operations",
+        "Hartford, CT",
+        "Aug 23",
         ""
       ],
       [

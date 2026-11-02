@@ -3722,7 +3722,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "96a9ddc854f647277b4fe948e1f783e03976aef0",
+    "last_sha": "ec16b5e06b00591a5f4fd7ea8d55d0307b846b39",
     "rows": [
       [
         "Zebra Technologies",
@@ -3807,6 +3807,13 @@
         "Deerfield Beach, FL",
         "Nov 02",
         "https://go.vansh.nyc/19j?s=y"
+      ],
+      [
+        "Intuitive",
+        "AI/ML Engineer Intern",
+        "Sunnyvale, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/19B?s=y"
       ],
       [
         "Intuitive",
@@ -11019,13 +11026,6 @@
         "https://go.vansh.nyc/Ev?s=y"
       ],
       [
-        "Hewlett Packard Enterprise",
-        "VLSI Design Verification Intern",
-        "Chippewa Falls, WI",
-        "Oct 03",
-        "https://go.vansh.nyc/Ew?s=y"
-      ],
-      [
         "DocuSign",
         "Software Engineer Intern, Self-Service Directory Diagnostics",
         "Seattle, WA",
@@ -13889,13 +13889,6 @@
         "https://go.vansh.nyc/Qy?s=y"
       ],
       [
-        "Express",
-        "Information Security Intern \ud83d\udec2",
-        "Columbus, OH",
-        "Oct 24",
-        "https://go.vansh.nyc/CT?s=y"
-      ],
-      [
         "QuantCo",
         "Data Science Intern",
         "United States",
@@ -15737,6 +15730,13 @@
         ""
       ],
       [
+        "Hewlett Packard Enterprise",
+        "VLSI Design Verification Intern",
+        "Chippewa Falls, WI",
+        "Oct 03",
+        ""
+      ],
+      [
         "Farmers Mutual Hail",
         "Data Architect Intern",
         "West Des Moines, IA",
@@ -16868,6 +16868,13 @@
         "Software Engineer Intern \ud83d\udec2",
         "Frisco, TX",
         "Apr 19",
+        ""
+      ],
+      [
+        "Express",
+        "Information Security Intern \ud83d\udec2",
+        "Columbus, OH",
+        "Oct 24",
         ""
       ]
     ]

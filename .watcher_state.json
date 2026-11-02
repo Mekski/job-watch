@@ -3715,7 +3715,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "ec16b5e06b00591a5f4fd7ea8d55d0307b846b39",
+    "last_sha": "21620100a53ce51902272abd3ca099a5c7f3844e",
     "rows": [
       [
         "Zebra Technologies",
@@ -3765,6 +3765,13 @@
         "Southern Pines, NC",
         "Nov 02",
         "https://go.vansh.nyc/19v?s=y"
+      ],
+      [
+        "RTX",
+        "Systems Security Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Fullerton, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/19G?s=y"
       ],
       [
         "Northrop Grumman",
@@ -11866,13 +11873,6 @@
         "https://go.vansh.nyc/Iv?s=y"
       ],
       [
-        "Keysight Technologies",
-        "ASIC Design-for-Test Engineer Intern, DFT",
-        "Colorado Springs, CO",
-        "Sep 15",
-        "https://go.vansh.nyc/Is?s=y"
-      ],
-      [
         "Inmar Intelligence",
         "Information Security Intern",
         "Winston Salem, NC",
@@ -15880,6 +15880,13 @@
         "Trane Technologies",
         "Software Development Engineering Intern",
         "St Paul, MN",
+        "Sep 15",
+        ""
+      ],
+      [
+        "Keysight Technologies",
+        "ASIC Design-for-Test Engineer Intern, DFT",
+        "Colorado Springs, CO",
         "Sep 15",
         ""
       ],

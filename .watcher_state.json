@@ -3722,7 +3722,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0d7dc21313068f565b71656575c582fd7db7a0d4",
+    "last_sha": "887318cec3de18b8740a0e28b1aeeea20ab5ccfa",
     "rows": [
       [
         "The Federal Reserve System",
@@ -4523,13 +4523,6 @@
         "https://go.vansh.nyc/18K?s=y"
       ],
       [
-        "C&S Wholesale Grocers",
-        "IS Intern, Web Applications",
-        "Houston, TX",
-        "Oct 31",
-        "https://go.vansh.nyc/18J?s=y"
-      ],
-      [
         "AeroVect",
         "Autonomy Intern",
         "San Francisco, CA",
@@ -4626,13 +4619,6 @@
         "Montreal, Canada",
         "Oct 30",
         "https://go.vansh.nyc/13r?s=y"
-      ],
-      [
-        "The New York Times",
-        "Backend Engineering Intern, Wirecutter",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/10Y?s=y"
       ],
       [
         "Tevora",
@@ -5571,13 +5557,6 @@
         "Mississauga, Canada",
         "Oct 28",
         "https://go.vansh.nyc/ZV?s=y"
-      ],
-      [
-        "Sonos",
-        "Software Engineering Intern \ud83d\udec2",
-        "Seattle, WA",
-        "Oct 28",
-        "https://go.vansh.nyc/Y1?s=y"
       ],
       [
         "Sonos",
@@ -6859,13 +6838,6 @@
         "Remote United States",
         "Oct 26",
         "https://go.vansh.nyc/SB?s=y"
-      ],
-      [
-        "CHS",
-        "Data Engineer Intern",
-        "Inver Grove Heights, MN",
-        "Oct 26",
-        "https://go.vansh.nyc/Tg?s=y"
       ],
       [
         "Cadence",
@@ -12307,13 +12279,6 @@
         "https://go.vansh.nyc/Mq?s=y"
       ],
       [
-        "Gallup",
-        "DevOps Engineer Intern",
-        "Omaha, NE",
-        "Sep 08",
-        "https://go.vansh.nyc/N5?s=y"
-      ],
-      [
         "Datadog",
         "Software Engineer Intern",
         "Boston, MA New York, NY",
@@ -13966,9 +13931,23 @@
         ""
       ],
       [
+        "C&S Wholesale Grocers",
+        "IS Intern, Web Applications",
+        "Houston, TX",
+        "Oct 31",
+        ""
+      ],
+      [
         "Trane Technologies",
         "AI & Analytics Intern",
         "Davidson, NC Minneapolis, MN",
+        "Oct 30",
+        ""
+      ],
+      [
+        "The New York Times",
+        "Backend Engineering Intern, Wirecutter",
+        "New York, NY",
         "Oct 30",
         ""
       ],
@@ -14047,6 +14026,13 @@
         "Software Engineer Intern",
         "Seattle, WA Arlington, VA",
         "Oct 29",
+        ""
+      ],
+      [
+        "Sonos",
+        "Software Engineering Intern \ud83d\udec2",
+        "Seattle, WA",
+        "Oct 28",
         ""
       ],
       [
@@ -14242,6 +14228,13 @@
         "Glean",
         "Software Engineer Intern",
         "Mountain View, CA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "CHS",
+        "Data Engineer Intern",
+        "Inver Grove Heights, MN",
         "Oct 26",
         ""
       ],
@@ -15825,6 +15818,13 @@
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
         "Sep 10",
+        ""
+      ],
+      [
+        "Gallup",
+        "DevOps Engineer Intern",
+        "Omaha, NE",
+        "Sep 08",
         ""
       ],
       [

@@ -3715,8 +3715,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b99a308b621b5393853d821054d5889c2d4b8d45",
+    "last_sha": "09f3e13d67aca15bf93391e3a31ca535264b9aee",
     "rows": [
+      [
+        "Zebra Technologies",
+        "AI Intern",
+        "Lincolnshire, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/19O?s=y"
+      ],
       [
         "Zebra Technologies",
         "Software/AI Engineer Intern, Handheld Mobile Computers",
@@ -3786,6 +3793,13 @@
         "Chandler, AZ",
         "Nov 02",
         "https://go.vansh.nyc/19K?s=y"
+      ],
+      [
+        "Northrop Grumman",
+        "Engineering Intern, Software, Mission Assurance, Quality \ud83c\uddfa\ud83c\uddf8",
+        "Chandler, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/19N?s=y"
       ],
       [
         "Northrop Grumman",
@@ -5482,13 +5496,6 @@
         "https://go.vansh.nyc/Zf?s=y"
       ],
       [
-        "Morningstar",
-        "Tech Intern",
-        "Chicago, IL",
-        "Oct 29",
-        "https://go.vansh.nyc/114?s=y"
-      ],
-      [
         "Molina Healthcare",
         "Data Analytics Internship (Remote) \u2013(Undergraduate)",
         "United States",
@@ -5599,13 +5606,6 @@
         "Austin, TX",
         "Oct 29",
         "https://go.vansh.nyc/10L?s=y"
-      ],
-      [
-        "Cisco",
-        "Security Consulting Engineer I Intern",
-        "Research Triangle Park, NC",
-        "Oct 29",
-        "https://go.vansh.nyc/Zg?s=y"
       ],
       [
         "Benchmark Space Systems",
@@ -14036,6 +14036,13 @@
         ""
       ],
       [
+        "Morningstar",
+        "Tech Intern",
+        "Chicago, IL",
+        "Oct 29",
+        ""
+      ],
+      [
         "Gilead Sciences",
         "Research Intern, Discovery Sciences and Technologies, AI",
         "Foster City, CA",
@@ -14053,6 +14060,13 @@
         "Gilead Sciences",
         "Research Intern, Oncology Biomarker - AI",
         "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Cisco",
+        "Security Consulting Engineer I Intern",
+        "Research Triangle Park, NC",
         "Oct 29",
         ""
       ],

@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3487,
+      "message_id": 5988,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -36921,6 +36921,16 @@
       "apply_url": "https://go.vansh.nyc/19k?s=y",
       "source": "Vansh Repo",
       "message_id": 5986,
+      "chat_id": 8743352944
+    },
+    "7761b6ef3915": {
+      "company": "ParetoHealth",
+      "role": "Software Engineer Intern",
+      "location": "Philadelphia, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 5987,
       "chat_id": 8743352944
     }
   },

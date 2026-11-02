@@ -3757,8 +3757,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c69d168c2cbfeecc9de715c9fed22e11238a3677",
+    "last_sha": "73ed165d1cbdd3ad001b9c3462802457ceced9b4",
     "rows": [
+      [
+        "Zebra Technologies",
+        "Software/AI Engineer Intern, Handheld Mobile Computers",
+        "Holtsville, NY",
+        "Nov 02",
+        "https://go.vansh.nyc/19p?s=y"
+      ],
       [
         "The Federal Reserve System",
         "Supervision & Regulation Intern, Cybersecurity \ud83d\udec2",
@@ -7239,13 +7246,6 @@
         "https://go.vansh.nyc/Qj?s=y"
       ],
       [
-        "DocuSign",
-        "Software Developer Intern \ud83d\udec2",
-        "San Francisco, CA",
-        "Oct 23",
-        "https://go.vansh.nyc/BU?s=y"
-      ],
-      [
         "Delta Dental Of Missouri",
         "Data Science Intern",
         "Fenton, MO",
@@ -7643,20 +7643,6 @@
         "Markham, Canada",
         "Oct 22",
         "https://go.vansh.nyc/he?s=y"
-      ],
-      [
-        "DocuSign",
-        "AI Platform Engineer Intern \ud83d\udec2",
-        "San Francisco, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/BR?s=y"
-      ],
-      [
-        "DocuSign",
-        "Agentic AI Engineer Intern \ud83d\udec2",
-        "San Francisco, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/BS?s=y"
       ],
       [
         "Copart",
@@ -10933,13 +10919,6 @@
         "**5 locations**Boston, MA Costa Mesa, CA Fort Collins, CO Reston, VA Seattle, WA",
         "Oct 05",
         "https://go.vansh.nyc/g5?s=y"
-      ],
-      [
-        "Alston & Bird Law Firm",
-        "Developer Intern",
-        "Atlanta, GA",
-        "Oct 05",
-        "https://go.vansh.nyc/EU?s=y"
       ],
       [
         "Midland States Bank",
@@ -14379,6 +14358,13 @@
         ""
       ],
       [
+        "DocuSign",
+        "Software Developer Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Oct 23",
+        ""
+      ],
+      [
         "Cisco",
         "Software Engineer Data & AI II Intern",
         "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
@@ -14480,6 +14466,20 @@
         "Leidos",
         "AI/ML Intern \ud83c\uddfa\ud83c\uddf8",
         "Huntsville, AL",
+        "Oct 22",
+        ""
+      ],
+      [
+        "DocuSign",
+        "AI Platform Engineer Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "DocuSign",
+        "Agentic AI Engineer Intern \ud83d\udec2",
+        "San Francisco, CA",
         "Oct 22",
         ""
       ],
@@ -15677,6 +15677,13 @@
         "NVIDIA",
         "PCIe Design Verification Intern",
         "Austin, TX",
+        "Oct 05",
+        ""
+      ],
+      [
+        "Alston & Bird Law Firm",
+        "Developer Intern",
+        "Atlanta, GA",
         "Oct 05",
         ""
       ],

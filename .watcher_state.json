@@ -3757,7 +3757,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e02d1e7ce1488ef077d0a5eef5b2e874e5f6b295",
+    "last_sha": "3a20622b71f7d5a63dd28dd1ee7286f55ce62b52",
     "rows": [
       [
         "Two Six Technologies",
@@ -9584,13 +9584,6 @@
         "https://go.vansh.nyc/cg?s=y"
       ],
       [
-        "Highmark Health",
-        "Data Analyst Intern",
-        "Pittsburgh, PA",
-        "Oct 19",
-        "https://go.vansh.nyc/bn?s=y"
-      ],
-      [
         "Hewlett Packard Enterprise",
         "Embedded Software Engineer Intern",
         "Roseville, CA",
@@ -13035,13 +13028,6 @@
         "https://go.vansh.nyc/MI?s=y"
       ],
       [
-        "The MJ Companies",
-        "Enterprise Data Intern",
-        "Carmel, IN",
-        "Sep 10",
-        "https://go.vansh.nyc/MH?s=y"
-      ],
-      [
         "Oshkosh",
         "Autonomy & Active Safety Engineer Intern",
         "Oshkosh, WI Pittsburgh, PA",
@@ -16066,6 +16052,13 @@
         ""
       ],
       [
+        "Highmark Health",
+        "Data Analyst Intern",
+        "Pittsburgh, PA",
+        "Oct 19",
+        ""
+      ],
+      [
         "BMO Financial Group",
         "Junior Cloud Engineer Co-op",
         "Toronto, ON",
@@ -17056,6 +17049,13 @@
         "The Toro Company",
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
+        "Sep 10",
+        ""
+      ],
+      [
+        "The MJ Companies",
+        "Enterprise Data Intern",
+        "Carmel, IN",
         "Sep 10",
         ""
       ],

@@ -3813,7 +3813,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "6bb719c322d2c7722be0af7ead72d4206382c60a",
+    "last_sha": "ab43e79a913840ffea9aa1668712d790b2ec4148",
     "rows": [
       [
         "The Mosaic Company",
@@ -3842,6 +3842,13 @@
         "Colorado Springs, CO",
         "Nov 03",
         "https://go.vansh.nyc/1dt?s=y"
+      ],
+      [
+        "Cox",
+        "Software Engineering Intern \ud83d\udec2",
+        "Austin, TX",
+        "Nov 03",
+        "https://go.vansh.nyc/1dF?s=y"
       ],
       [
         "Arch Capital Group",
@@ -13336,13 +13343,6 @@
         "https://go.vansh.nyc/17w?s=y"
       ],
       [
-        "Westinghouse Electric Company",
-        "Application Development Intern",
-        "Cranberry Township, PA",
-        "Sep 04",
-        "https://go.vansh.nyc/Mh?s=y"
-      ],
-      [
         "Solidigm",
         "Software Development & Firmware Engineering Intern",
         "Rancho Cordova, CA Longmont, CO Sacramento, CA",
@@ -17015,6 +17015,13 @@
         "Grid Data Intern",
         "Minneapolis, MN",
         "Sep 06",
+        ""
+      ],
+      [
+        "Westinghouse Electric Company",
+        "Application Development Intern",
+        "Cranberry Township, PA",
+        "Sep 04",
         ""
       ],
       [

@@ -3834,7 +3834,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "886679004f0c80a94b63f9c0df6ee9060577c1e4",
+    "last_sha": "ea0fd30dcd7ae8e79911d605a09311a941fe2304",
     "rows": [
       [
         "Zebra Technologies",
@@ -4012,6 +4012,13 @@
         "https://go.vansh.nyc/1bj?s=y"
       ],
       [
+        "onepot",
+        "Research Intern, Machine Learning",
+        "South San Francisco, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1cp?s=y"
+      ],
+      [
         "NXP",
         "HW/SW System and Application Engineer Intern",
         "Chandler, AZ",
@@ -4145,6 +4152,27 @@
         "https://go.vansh.nyc/1bi?s=y"
       ],
       [
+        "CWAN",
+        "Software Development Intern",
+        "Boise, ID",
+        "Nov 02",
+        "https://go.vansh.nyc/1cl?s=y"
+      ],
+      [
+        "CWAN",
+        "Software Development Intern",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1cm?s=y"
+      ],
+      [
+        "CWAN",
+        "Gen AI Intern",
+        "Seattle, WA",
+        "Nov 02",
+        "https://go.vansh.nyc/1cn?s=y"
+      ],
+      [
         "Costco",
         "Digital Services Intern, Infosec AI/ML",
         "Issaquah, WA",
@@ -4178,6 +4206,83 @@
         "Richmond, VA",
         "Nov 02",
         "https://go.vansh.nyc/19c?s=y"
+      ],
+      [
+        "CNA Insurance",
+        "Software Engineering Intern, Technology \ud83d\udec2",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1c9?s=y"
+      ],
+      [
+        "CNA Insurance",
+        "AI Engineering Intern, Technology \ud83d\udec2",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1ca?s=y"
+      ],
+      [
+        "CNA Insurance",
+        "Data Engineering Intern, Technology \ud83d\udec2",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1cb?s=y"
+      ],
+      [
+        "CNA Insurance",
+        "Cybersecurity Intern, Technology \ud83d\udec2",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1cc?s=y"
+      ],
+      [
+        "Clarios",
+        "Forward Deployed Engineering Intern \ud83d\udec2",
+        "Milwaukee, WI",
+        "Nov 02",
+        "https://go.vansh.nyc/1ck?s=y"
+      ],
+      [
+        "Cambridge Investment Research",
+        "Software Engineering Intern",
+        "Fairfield, IA West Des Moines, IA Phoenix, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/1ch?s=y"
+      ],
+      [
+        "Cambridge Investment Research",
+        "Salesforce Developer Intern",
+        "Phoenix, AZ Fairfield, IA",
+        "Nov 02",
+        "https://go.vansh.nyc/1ci?s=y"
+      ],
+      [
+        "Cambridge Investment Research",
+        "Data Engineering Intern",
+        "Phoenix, AZ Fairfield, IA",
+        "Nov 02",
+        "https://go.vansh.nyc/1cj?s=y"
+      ],
+      [
+        "CAI",
+        "Cybersecurity Analyst Intern",
+        "United States",
+        "Nov 02",
+        "https://go.vansh.nyc/1cd?s=y"
+      ],
+      [
+        "CAI",
+        "GIS Software Developer Intern",
+        "United States",
+        "Nov 02",
+        "https://go.vansh.nyc/1ce?s=y"
+      ],
+      [
+        "C.H. Robinson",
+        "Software Engineering Intern",
+        "Eden Prairie, MN",
+        "Nov 02",
+        "https://go.vansh.nyc/1cg?s=y"
       ],
       [
         "Bracco",
@@ -6222,13 +6327,6 @@
         "Cambridge, MA Morristown, NJ",
         "Oct 28",
         "https://go.vansh.nyc/104?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineer Intern",
-        "Sterling, VA",
-        "Oct 28",
-        "https://go.vansh.nyc/ZE?s=y"
       ],
       [
         "RosaicLabs",
@@ -9197,13 +9295,6 @@
         "Pittsburgh, PA",
         "Oct 19",
         "https://go.vansh.nyc/be?s=y"
-      ],
-      [
-        "BMO Financial Group",
-        "Junior Cloud Engineer Co-op",
-        "Toronto, ON",
-        "Oct 19",
-        "https://go.vansh.nyc/bG?s=y"
       ],
       [
         "Amplify",
@@ -14568,6 +14659,13 @@
         ""
       ],
       [
+        "RTX",
+        "Software Engineer Intern",
+        "Sterling, VA",
+        "Oct 28",
+        ""
+      ],
+      [
         "Qualcomm",
         "Deep Learning Research Intern",
         "Markham, Canada",
@@ -15530,6 +15628,13 @@
         "Inmar Intelligence",
         "Data Science Intern",
         "Raleigh, NC Winston-Salem, NC",
+        "Oct 19",
+        ""
+      ],
+      [
+        "BMO Financial Group",
+        "Junior Cloud Engineer Co-op",
+        "Toronto, ON",
         "Oct 19",
         ""
       ],

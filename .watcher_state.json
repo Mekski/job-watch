@@ -3806,7 +3806,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "72623a6758a6aa9b700ec9ba952409ab0fef22de",
+    "last_sha": "72c8ed920e73c5998f87cef5743da5c737db2118",
     "rows": [
       [
         "Two Six Technologies",
@@ -4801,6 +4801,13 @@
         "Medina, MN",
         "Nov 02",
         "https://go.vansh.nyc/1c7?s=y"
+      ],
+      [
+        "American Express",
+        "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+        "Phoenix, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/1dS?s=y"
       ],
       [
         "Allegion",
@@ -8100,13 +8107,6 @@
         "https://go.vansh.nyc/OH?s=y"
       ],
       [
-        "Niantic Spatial",
-        "Software Engineer Intern, Native SDK & Mobile Platforms",
-        "San Francisco, CA",
-        "Oct 25",
-        "https://go.vansh.nyc/Uy?s=y"
-      ],
-      [
         "Highmark Health",
         "Provider Delivery Software Engineer Intern",
         "Remote United States",
@@ -9949,13 +9949,6 @@
       ],
       [
         "Keysight Technologies",
-        "Enterprise Software Development Intern, EDA Tools",
-        "Santa Rosa, CA",
-        "Oct 18",
-        "https://go.vansh.nyc/Rf?s=y"
-      ],
-      [
-        "Keysight Technologies",
         "Engineering Software Developer Intern",
         "Austin, TX Raleigh, NC",
         "Oct 18",
@@ -10786,13 +10779,6 @@
         "Waterloo, Canada",
         "Oct 13",
         "https://go.vansh.nyc/Cj?s=y"
-      ],
-      [
-        "KLA",
-        "Software Engineer Intern, AI",
-        "Ann Arbor, MI",
-        "Oct 13",
-        "https://go.vansh.nyc/8G?s=y"
       ],
       [
         "Jain Global",
@@ -15359,6 +15345,13 @@
         ""
       ],
       [
+        "Niantic Spatial",
+        "Software Engineer Intern, Native SDK & Mobile Platforms",
+        "San Francisco, CA",
+        "Oct 25",
+        ""
+      ],
+      [
         "CVS Health",
         "Innovation & Technology Intern, Data Engineering",
         "Irving, TX",
@@ -16200,6 +16193,13 @@
       ],
       [
         "Keysight Technologies",
+        "Enterprise Software Development Intern, EDA Tools",
+        "Santa Rosa, CA",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Keysight Technologies",
         "Software Engineering Intern",
         "Calabasas, CA",
         "Oct 18",
@@ -16573,6 +16573,13 @@
         "LSEG",
         "Software Engineer Intern",
         "New York, NY",
+        "Oct 13",
+        ""
+      ],
+      [
+        "KLA",
+        "Software Engineer Intern, AI",
+        "Ann Arbor, MI",
         "Oct 13",
         ""
       ],

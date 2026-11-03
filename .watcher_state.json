@@ -3820,7 +3820,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7dc856092a608d8146bb65fb0a7371c6b17fbe5d",
+    "last_sha": "7ccf9feff07d212fc3dfc54195353399ed1dfdcd",
     "rows": [
       [
         "Two Six Technologies",
@@ -3828,6 +3828,13 @@
         "Arlington, VA",
         "Nov 03",
         "https://go.vansh.nyc/1dI?s=y"
+      ],
+      [
+        "Trimble",
+        "AI Developer Intern",
+        "Westminster, CO Dayton, OH",
+        "Nov 03",
+        "https://go.vansh.nyc/1dM?s=y"
       ],
       [
         "The Mosaic Company",
@@ -3849,6 +3856,13 @@
         "Chesterfield, MO",
         "Nov 03",
         "https://go.vansh.nyc/1dL?s=y"
+      ],
+      [
+        "Northrop Grumman",
+        "Engineering Software Tool Development Intern, Field Engineering \ud83c\uddfa\ud83c\uddf8",
+        "Baltimore, MD",
+        "Nov 03",
+        "https://go.vansh.nyc/1dO?s=y"
       ],
       [
         "Northrop Grumman",
@@ -4243,13 +4257,6 @@
         "https://go.vansh.nyc/1d9?s=y"
       ],
       [
-        "NJM Insurance Group",
-        "IT Data Science Intern",
-        "Trenton, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1da?s=y"
-      ],
-      [
         "Newrez",
         "Software Developer Intern",
         "Coppell, TX",
@@ -4502,13 +4509,6 @@
         "https://go.vansh.nyc/1cv?s=y"
       ],
       [
-        "Gordon Food Service",
-        "Data Engineering Intern",
-        "Atlanta, GA",
-        "Nov 02",
-        "https://go.vansh.nyc/1cw?s=y"
-      ],
-      [
         "GenMD",
         "Member of Technical Staff Intern, Applied AI",
         "Palo Alto, CA",
@@ -4577,6 +4577,13 @@
         "Torrance, CA",
         "Nov 02",
         "https://go.vansh.nyc/1bi?s=y"
+      ],
+      [
+        "Dell Technologies",
+        "Software Engineering Undergraduate Intern, CSG",
+        "United States",
+        "Nov 02",
+        "https://go.vansh.nyc/1dN?s=y"
       ],
       [
         "CWAN",
@@ -7051,13 +7058,6 @@
       ],
       [
         "CareSource",
-        "AI Intern",
-        "Remote United States",
-        "Oct 28",
-        "https://go.vansh.nyc/105?s=y"
-      ],
-      [
-        "CareSource",
         "Full Stack AI Development Intern",
         "Remote United States",
         "Oct 28",
@@ -7811,13 +7811,6 @@
         "Cleveland, OH",
         "Oct 26",
         "https://go.vansh.nyc/UD?s=y"
-      ],
-      [
-        "Salesforce",
-        "Forward Deployed Engineer Intern, Global Public Sector",
-        "United States",
-        "Oct 26",
-        "https://go.vansh.nyc/WD?s=y"
       ],
       [
         "RTX",
@@ -12622,13 +12615,6 @@
         "https://go.vansh.nyc/J2?s=y"
       ],
       [
-        "Tyler Technologies",
-        "Software Development Intern",
-        "Lubbock, TX",
-        "Sep 21",
-        "https://go.vansh.nyc/J3?s=y"
-      ],
-      [
         "Stryker",
         "Data Analytics Intern",
         "Fort Wayne, IN",
@@ -14932,6 +14918,20 @@
         ""
       ],
       [
+        "NJM Insurance Group",
+        "IT Data Science Intern",
+        "Trenton, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Gordon Food Service",
+        "Data Engineering Intern",
+        "Atlanta, GA",
+        "Nov 02",
+        ""
+      ],
+      [
         "AllianceBernstein",
         "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
         "Nashville, TN",
@@ -15121,6 +15121,13 @@
         ""
       ],
       [
+        "CareSource",
+        "AI Intern",
+        "Remote United States",
+        "Oct 28",
+        ""
+      ],
+      [
         "Blackberry",
         "Application Engineering Student Intern",
         "Ottawa, Canada",
@@ -15244,6 +15251,13 @@
         "Database Engineer Intern",
         "Seattle, WA East Palo Alto, CA",
         "Oct 27",
+        ""
+      ],
+      [
+        "Salesforce",
+        "Forward Deployed Engineer Intern, Global Public Sector",
+        "United States",
+        "Oct 26",
         ""
       ],
       [
@@ -16945,6 +16959,13 @@
         "Generative AI Software Development Intern",
         "Bossier City, LA",
         "Sep 22",
+        ""
+      ],
+      [
+        "Tyler Technologies",
+        "Software Development Intern",
+        "Lubbock, TX",
+        "Sep 21",
         ""
       ],
       [

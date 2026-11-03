@@ -38142,6 +38142,496 @@
       "source": "Vansh Repo",
       "message_id": 6120,
       "chat_id": 8743352944
+    },
+    "e5d3dc716428": {
+      "company": "SWBC",
+      "role": "Software Engineering Intern",
+      "location": "San Antonio, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cI?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6121,
+      "chat_id": 8743352944
+    },
+    "602aa0b7406c": {
+      "company": "SWBC",
+      "role": "DevOps Intern",
+      "location": "San Antonio, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cJ?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6122,
+      "chat_id": 8743352944
+    },
+    "a9d5c476a8e6": {
+      "company": "SWBC",
+      "role": "Application Security Intern",
+      "location": "San Antonio, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cK?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6123,
+      "chat_id": 8743352944
+    },
+    "3daee1f7bc39": {
+      "company": "SouthState Bank",
+      "role": "Quantitative Intern",
+      "location": "Remote United States",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cH?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6124,
+      "chat_id": 8743352944
+    },
+    "eb493efc2ebf": {
+      "company": "RTX",
+      "role": "Software Engineer Co-op",
+      "location": "Cedar Rapids, IA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cP?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6125,
+      "chat_id": 8743352944
+    },
+    "1dd5e516e356": {
+      "company": "RTX",
+      "role": "Software Engineering Co-op, AGS \ud83c\uddfa\ud83c\uddf8",
+      "location": "Cedar Rapids, IA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cQ?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6126,
+      "chat_id": 8743352944
+    },
+    "13e8e14e7e5e": {
+      "company": "RTX",
+      "role": "Cyber Research Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Cedar Rapids, IA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cR?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6127,
+      "chat_id": 8743352944
+    },
+    "e5fa6673bfcf": {
+      "company": "RTX",
+      "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "East Hartford, CT",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cS?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6128,
+      "chat_id": 8743352944
+    },
+    "f7af564b1198": {
+      "company": "RTX",
+      "role": "Systems Engineer Intern, Mission Sensor Manager \ud83c\uddfa\ud83c\uddf8",
+      "location": "Cedar Rapids, IA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cT?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6129,
+      "chat_id": 8743352944
+    },
+    "cfcd5a00b5f2": {
+      "company": "RTX",
+      "role": "Systems Engineer Co-op \ud83c\uddfa\ud83c\uddf8",
+      "location": "Cedar Rapids, IA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cU?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6130,
+      "chat_id": 8743352944
+    },
+    "c81eb9a2ed0f": {
+      "company": "Q2",
+      "role": "Software Engineer Intern \ud83d\udec2",
+      "location": "Austin, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1dc?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6131,
+      "chat_id": 8743352944
+    },
+    "f9e0e5dd9857": {
+      "company": "Q2",
+      "role": "Data Science Intern \ud83d\udec2",
+      "location": "Austin, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1dd?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6132,
+      "chat_id": 8743352944
+    },
+    "f568147c514a": {
+      "company": "Q2",
+      "role": "Machine Learning Engineer Intern \ud83d\udec2",
+      "location": "Austin, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1de?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6133,
+      "chat_id": 8743352944
+    },
+    "847f5ef36ba2": {
+      "company": "Q2",
+      "role": "Software Engineer Intern \ud83d\udec2",
+      "location": "Cary, NC",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1df?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6134,
+      "chat_id": 8743352944
+    },
+    "4a03695a8d21": {
+      "company": "Q2",
+      "role": "Data Science Intern \ud83d\udec2",
+      "location": "Cary, NC",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1dg?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6135,
+      "chat_id": 8743352944
+    },
+    "eb1c4307faf8": {
+      "company": "Q2",
+      "role": "Machine Learning Engineer Intern \ud83d\udec2",
+      "location": "Cary, NC",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1dh?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6136,
+      "chat_id": 8743352944
+    },
+    "6d789efafaf3": {
+      "company": "Oshkosh",
+      "role": "Software Engineer Intern",
+      "location": "Greenville, WI Oshkosh, WI",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1db?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6137,
+      "chat_id": 8743352944
+    },
+    "ccb63eb32277": {
+      "company": "Northrop Grumman",
+      "role": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "location": "Linthicum, MD",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d8?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6138,
+      "chat_id": 8743352944
+    },
+    "a36d8d987d70": {
+      "company": "NJM Insurance Group",
+      "role": "IT QA Automation Intern",
+      "location": "Trenton, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d9?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6139,
+      "chat_id": 8743352944
+    },
+    "05564906ea76": {
+      "company": "NJM Insurance Group",
+      "role": "IT Data Science Intern",
+      "location": "Trenton, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1da?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6140,
+      "chat_id": 8743352944
+    },
+    "692ee2580b2f": {
+      "company": "Newrez",
+      "role": "Software Developer Intern",
+      "location": "Coppell, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cG?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6141,
+      "chat_id": 8743352944
+    },
+    "9a4ffc5cb64c": {
+      "company": "Momentive",
+      "role": "Data Science Intern, Enterprise Reporting & Analytics",
+      "location": "Niskayuna, NY",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cF?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6142,
+      "chat_id": 8743352944
+    },
+    "967d1965f65a": {
+      "company": "Micron Technology",
+      "role": "Data Center SSD Firmware Intern",
+      "location": "Longmont, CO",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d3?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6143,
+      "chat_id": 8743352944
+    },
+    "66df05a788b9": {
+      "company": "Micron Technology",
+      "role": "Firmware Engineer Intern",
+      "location": "Longmont, CO",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d4?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6144,
+      "chat_id": 8743352944
+    },
+    "bff7a27ca787": {
+      "company": "Micron Technology",
+      "role": "AI Engineering Intern, SMAI TD",
+      "location": "Boise, ID",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d5?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6145,
+      "chat_id": 8743352944
+    },
+    "d1889dcd568a": {
+      "company": "Micron Technology",
+      "role": "IT Software Engineer Intern",
+      "location": "Boise, ID",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d6?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6146,
+      "chat_id": 8743352944
+    },
+    "d681315ac199": {
+      "company": "Micron Technology",
+      "role": "SSD Firmware Intern, CICD",
+      "location": "Longmont, CO",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d7?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6147,
+      "chat_id": 8743352944
+    },
+    "876804ed5339": {
+      "company": "Johnson & Johnson",
+      "role": "Software Engineering Co-op",
+      "location": "Cincinnati, OH",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cA?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6148,
+      "chat_id": 8743352944
+    },
+    "38f5e8d04d39": {
+      "company": "Johnson & Johnson",
+      "role": "Data Science Co-op",
+      "location": "Cincinnati, OH",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cB?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6149,
+      "chat_id": 8743352944
+    },
+    "52dff89dfa44": {
+      "company": "Inmar Intelligence",
+      "role": "Data, Analytics & AI Intern",
+      "location": "Winston Salem, NC",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d1?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6150,
+      "chat_id": 8743352944
+    },
+    "ce55ff6a32c6": {
+      "company": "Inmar Intelligence",
+      "role": "Software Engineering Intern",
+      "location": "Winston Salem, NC",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d2?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6151,
+      "chat_id": 8743352944
+    },
+    "3388aeeebe4e": {
+      "company": "IGS Energy",
+      "role": "Software Engineer Intern",
+      "location": "Remote United States",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1d0?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6152,
+      "chat_id": 8743352944
+    },
+    "71a9bef18367": {
+      "company": "Guardian Life",
+      "role": "Data Engineering Intern, Digital & Technology",
+      "location": "New York, NY Bethlehem, PA Holmdel, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cV?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6153,
+      "chat_id": 8743352944
+    },
+    "9eb92fef4975": {
+      "company": "Guardian Life",
+      "role": "AI & Machine Learning Intern, Digital & Technology",
+      "location": "New York, NY Bethlehem, PA Holmdel, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cW?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6154,
+      "chat_id": 8743352944
+    },
+    "7de4cdfe6d10": {
+      "company": "Guardian Life",
+      "role": "Application Development Intern, Digital & Technology",
+      "location": "New York, NY Bethlehem, PA Holmdel, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cX?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6155,
+      "chat_id": 8743352944
+    },
+    "636e1635127c": {
+      "company": "Guardian Life",
+      "role": "Cloud & DevOps Intern, Digital & Technology",
+      "location": "Bethlehem, PA Holmdel, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cY?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6156,
+      "chat_id": 8743352944
+    },
+    "04b5d2da8721": {
+      "company": "Guardian Life",
+      "role": "Cybersecurity Intern, Digital & Technology",
+      "location": "New York, NY Bethlehem, PA Holmdel, NJ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cZ?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6157,
+      "chat_id": 8743352944
+    },
+    "7e5bcd78d00f": {
+      "company": "Graco",
+      "role": "AI Intern",
+      "location": "Dayton, MN",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cx?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6158,
+      "chat_id": 8743352944
+    },
+    "450283f589b9": {
+      "company": "Graco",
+      "role": "Cybersecurity Intern",
+      "location": "Dayton, MN",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cy?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6159,
+      "chat_id": 8743352944
+    },
+    "639bbd217965": {
+      "company": "Gordon Food Service",
+      "role": "Data Science Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cu?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6160,
+      "chat_id": 8743352944
+    },
+    "e1c5c45779f9": {
+      "company": "Gordon Food Service",
+      "role": "Cloud DevOps Intern",
+      "location": "Atlanta, GA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cv?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6161,
+      "chat_id": 8743352944
+    },
+    "a16d074ddf38": {
+      "company": "Gordon Food Service",
+      "role": "Data Engineering Intern",
+      "location": "Atlanta, GA",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cw?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6162,
+      "chat_id": 8743352944
+    },
+    "54811d767c2b": {
+      "company": "FHLBank Chicago",
+      "role": "Cybersecurity Intern",
+      "location": "Chicago, IL",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cN?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6163,
+      "chat_id": 8743352944
+    },
+    "cc3b05f4b437": {
+      "company": "DriveTime",
+      "role": "Software Engineering Intern",
+      "location": "Tempe, AZ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cr?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6164,
+      "chat_id": 8743352944
+    },
+    "ab8a71fa929b": {
+      "company": "DriveTime",
+      "role": "Database Engineering Intern",
+      "location": "Tempe, AZ",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cs?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6165,
+      "chat_id": 8743352944
+    },
+    "b7b6d8c7727e": {
+      "company": "DriveTime",
+      "role": "Data Science Intern",
+      "location": "Tempe, AZ Dallas, TX",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1ct?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6166,
+      "chat_id": 8743352944
+    },
+    "a07f8f48a19d": {
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
+      "role": "Student II Security Analyst Intern",
+      "location": "Remote United States",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cq?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6167,
+      "chat_id": 8743352944
+    },
+    "3c869b4fe3d4": {
+      "company": "Auto-Owners Insurance",
+      "role": "Data Engineering Intern \ud83d\udec2",
+      "location": "Lansing, MI",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cL?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6168,
+      "chat_id": 8743352944
+    },
+    "8edabea662ef": {
+      "company": "Auto-Owners Insurance",
+      "role": "Software Developer Intern \ud83d\udec2",
+      "location": "Lansing, MI",
+      "term": "Nov 02",
+      "apply_url": "https://go.vansh.nyc/1cM?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6169,
+      "chat_id": 8743352944
     }
   },
   "applied": {

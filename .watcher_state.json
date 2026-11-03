@@ -3820,7 +3820,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f84838ab0ac9d17eb53fb3c08ef93afae040ea87",
+    "last_sha": "aa56bb55b5e8b9563ab7d5d55b532e472d501847",
     "rows": [
       [
         "Two Six Technologies",
@@ -3877,6 +3877,13 @@
         "Colorado Springs, CO",
         "Nov 03",
         "https://go.vansh.nyc/1dt?s=y"
+      ],
+      [
+        "CareSource",
+        "Data Science Intern",
+        "Remote United States",
+        "Nov 03",
+        "https://go.vansh.nyc/1dQ?s=y"
       ],
       [
         "Arrowstreet Capital",
@@ -4493,13 +4500,6 @@
         "Dayton, MN",
         "Nov 02",
         "https://go.vansh.nyc/1cy?s=y"
-      ],
-      [
-        "Gordon Food Service",
-        "Data Science Engineer Intern",
-        "Atlanta, GA",
-        "Nov 02",
-        "https://go.vansh.nyc/1cu?s=y"
       ],
       [
         "Gordon Food Service",
@@ -9192,13 +9192,6 @@
         "https://go.vansh.nyc/18T?s=y"
       ],
       [
-        "Steel",
-        "Software Engineer Intern",
-        "Toronto, ON, Canada",
-        "Oct 20",
-        "https://go.vansh.nyc/ct?s=y"
-      ],
-      [
         "SOTI",
         "Cloud Administrator Intern",
         "Mississauga, ON",
@@ -10767,13 +10760,6 @@
         "https://go.vansh.nyc/8N?s=y"
       ],
       [
-        "Phillips 66",
-        "ERI Analytical Solutions Intern",
-        "Bartlesville, OK",
-        "Oct 13",
-        "https://go.vansh.nyc/Cm?s=y"
-      ],
-      [
         "Pebl",
         "Software Engineering Intern",
         "Toronto, Canada",
@@ -10968,13 +10954,6 @@
         "Auburn Hills, MI",
         "Oct 12",
         "https://go.vansh.nyc/C2?s=y"
-      ],
-      [
-        "KLA",
-        "AI/ML Software Engineer Intern",
-        "Ann Arbor, MI",
-        "Oct 12",
-        "https://go.vansh.nyc/8g?s=y"
       ],
       [
         "KLA",
@@ -13175,13 +13154,6 @@
         "https://go.vansh.nyc/JM?s=y"
       ],
       [
-        "Publicis Groupe",
-        "Software Engineer Intern",
-        "Chicago, IL",
-        "Sep 09",
-        "https://go.vansh.nyc/MB?s=y"
-      ],
-      [
         "Pilot Company",
         "Program Intern, Cloud Operations",
         "Knoxville, TN",
@@ -14926,6 +14898,13 @@
       ],
       [
         "Gordon Food Service",
+        "Data Science Engineer Intern",
+        "Atlanta, GA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Gordon Food Service",
         "Data Engineering Intern",
         "Atlanta, GA",
         "Nov 02",
@@ -15849,6 +15828,13 @@
         ""
       ],
       [
+        "Steel",
+        "Software Engineer Intern",
+        "Toronto, ON, Canada",
+        "Oct 20",
+        ""
+      ],
+      [
         "Space Dynamics Laboratory",
         "AI-Enabled Requirements Engineering Intern",
         "North Logan, UT",
@@ -16556,6 +16542,13 @@
         ""
       ],
       [
+        "Phillips 66",
+        "ERI Analytical Solutions Intern",
+        "Bartlesville, OK",
+        "Oct 13",
+        ""
+      ],
+      [
         "NVIDIA",
         "Differentiable Simulation Research Intern",
         "Santa Clara, CA",
@@ -16671,6 +16664,13 @@
         "MEMX",
         "Data Engineer Intern",
         "New York, NY",
+        "Oct 12",
+        ""
+      ],
+      [
+        "KLA",
+        "AI/ML Software Engineer Intern",
+        "Ann Arbor, MI",
         "Oct 12",
         ""
       ],
@@ -17043,6 +17043,13 @@
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
         "Sep 10",
+        ""
+      ],
+      [
+        "Publicis Groupe",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Sep 09",
         ""
       ],
       [

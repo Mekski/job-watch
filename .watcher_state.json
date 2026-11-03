@@ -3771,7 +3771,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "445799208f5613d0eec1785e5ed51263accec557",
+    "last_sha": "3103ed0223520173af685deb7a7623dd5768fb56",
     "rows": [
       [
         "Two Six Technologies",
@@ -3810,6 +3810,13 @@
       ],
       [
         "Northrop Grumman",
+        "Flight Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Manhattan Beach, CA",
+        "Nov 03",
+        "https://go.vansh.nyc/1dV?s=y"
+      ],
+      [
+        "Northrop Grumman",
         "Engineering Software Tool Development Intern, Field Engineering \ud83c\uddfa\ud83c\uddf8",
         "Baltimore, MD",
         "Nov 03",
@@ -3823,11 +3830,25 @@
         "https://go.vansh.nyc/1dD?s=y"
       ],
       [
+        "Microsoft",
+        "Software Engineer Intern, Teamwork Experiences",
+        "Redmond, WA",
+        "Nov 03",
+        "https://go.vansh.nyc/1dY?s=y"
+      ],
+      [
         "Keysight Technologies",
         "DevSecOps Intern",
         "Colorado Springs, CO",
         "Nov 03",
         "https://go.vansh.nyc/1dt?s=y"
+      ],
+      [
+        "JM Family Enterprises",
+        "AI & Decision Science Intern",
+        "Deerfield Beach, FL",
+        "Nov 03",
+        "https://go.vansh.nyc/1dZ?s=y"
       ],
       [
         "CareSource",
@@ -4045,6 +4066,13 @@
         "Fullerton, CA",
         "Nov 02",
         "https://go.vansh.nyc/19G?s=y"
+      ],
+      [
+        "Rockland Trust",
+        "Business Intelligence (BI) Intern",
+        "Rockland, MA",
+        "Nov 02",
+        "https://go.vansh.nyc/1dX?s=y"
       ],
       [
         "Resideo",
@@ -4304,20 +4332,6 @@
         "Phoenix, AZ",
         "Nov 02",
         "https://go.vansh.nyc/1dx?s=y"
-      ],
-      [
-        "KLA",
-        "Digital Twin Eng Apps Intern",
-        "Ann Arbor, MI",
-        "Nov 02",
-        "https://go.vansh.nyc/1dw?s=y"
-      ],
-      [
-        "KLA",
-        "PLM BI & Analytics Intern",
-        "Ann Arbor, MI",
-        "Nov 02",
-        "https://go.vansh.nyc/1dm?s=y"
       ],
       [
         "Johnson & Johnson",
@@ -7104,13 +7118,6 @@
         "Golden, CO",
         "Oct 28",
         "https://go.vansh.nyc/Xv?s=y"
-      ],
-      [
-        "Ace Hardware Corporation",
-        "IT Associate Software Engineer Intern",
-        "Oak Brook, IL",
-        "Oct 28",
-        "https://go.vansh.nyc/Xx?s=y"
       ],
       [
         "WorldEngine AI",
@@ -14834,6 +14841,20 @@
         ""
       ],
       [
+        "KLA",
+        "PLM BI & Analytics Intern",
+        "Ann Arbor, MI",
+        "Nov 02",
+        ""
+      ],
+      [
+        "KLA",
+        "Digital Twin Eng Apps Intern",
+        "Ann Arbor, MI",
+        "Nov 02",
+        ""
+      ],
+      [
         "Gordon Food Service",
         "Data Science Engineer Intern",
         "Atlanta, GA",
@@ -15054,6 +15075,13 @@
         "Apple",
         "Design Verification Engineer Intern",
         "Beaverton, OR",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Ace Hardware Corporation",
+        "IT Associate Software Engineer Intern",
+        "Oak Brook, IL",
         "Oct 28",
         ""
       ],

@@ -3834,8 +3834,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "4db7250b5442bd533e84e8f57d4833e60043bbb1",
+    "last_sha": "bdc515b3e4883fd750f0ad1d2b939d3b44b606cd",
     "rows": [
+      [
+        "The Mosaic Company",
+        "Artificial Intelligence Co-op",
+        "Tampa, FL",
+        "Nov 03",
+        "https://go.vansh.nyc/1dB?s=y"
+      ],
       [
         "RTX",
         "Secure System Engineering Intern \ud83c\uddfa\ud83c\uddf8",
@@ -3940,6 +3947,13 @@
         "Remote United States",
         "Nov 02",
         "https://go.vansh.nyc/1cH?s=y"
+      ],
+      [
+        "Sierra Nevada Corporation",
+        "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Southern Pines, NC",
+        "Nov 02",
+        "https://go.vansh.nyc/1dz?s=y"
       ],
       [
         "Sierra Nevada Corporation",
@@ -4290,6 +4304,27 @@
         "Boise, ID",
         "Nov 02",
         "https://go.vansh.nyc/1bI?s=y"
+      ],
+      [
+        "Marvell",
+        "Security Verification/Validation Engineer Intern",
+        "Chandler, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/1dy?s=y"
+      ],
+      [
+        "Maricopa Association of Governments",
+        "Socioeconomic Data Intern",
+        "Phoenix, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/1dx?s=y"
+      ],
+      [
+        "KLA",
+        "Digital Twin Eng Apps Intern",
+        "Ann Arbor, MI",
+        "Nov 02",
+        "https://go.vansh.nyc/1dw?s=y"
       ],
       [
         "KLA",
@@ -4745,13 +4780,6 @@
         "Medina, MN",
         "Nov 02",
         "https://go.vansh.nyc/1c7?s=y"
-      ],
-      [
-        "AllianceBernstein",
-        "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
-        "Nashville, TN",
-        "Nov 02",
-        "https://go.vansh.nyc/1bY?s=y"
       ],
       [
         "Allegion",
@@ -9162,13 +9190,6 @@
         "Mississauga, ON",
         "Oct 20",
         "https://go.vansh.nyc/cI?s=y"
-      ],
-      [
-        "SOTI",
-        "Software Developer Intern",
-        "Mississauga, ON",
-        "Oct 20",
-        "https://go.vansh.nyc/cJ?s=y"
       ],
       [
         "Sony",
@@ -14890,6 +14911,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "AllianceBernstein",
+        "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
+        "Nashville, TN",
+        "Nov 02",
+        ""
+      ],
+      [
         "KnowBe4",
         "Software Engineer Intern",
         "Clearwater, FL",
@@ -15782,6 +15810,13 @@
         "Space Dynamics Laboratory",
         "AI-Enabled Requirements Engineering Intern",
         "North Logan, UT",
+        "Oct 20",
+        ""
+      ],
+      [
+        "SOTI",
+        "Software Developer Intern",
+        "Mississauga, ON",
         "Oct 20",
         ""
       ],

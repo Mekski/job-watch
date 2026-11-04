@@ -3855,7 +3855,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "223d83126e0ad43c266be39d240df8ea3e7469ff",
+    "last_sha": "a9b7815457ecbffb3ad3a347e82db41b07ef7209",
     "rows": [
       [
         "Zebra Technologies",
@@ -4094,6 +4094,13 @@
         "Denver, CO",
         "Nov 03",
         "https://go.vansh.nyc/1gs?s=y"
+      ],
+      [
+        "Parsons",
+        "AI/ML Engineer Intern",
+        "Centreville, VA",
+        "Nov 03",
+        "https://go.vansh.nyc/1gF?s=y"
       ],
       [
         "Northrop Grumman",
@@ -5634,13 +5641,6 @@
         "Seattle, WA",
         "Nov 01",
         "https://go.vansh.nyc/18r?s=y"
-      ],
-      [
-        "TikTok",
-        "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/18s?s=y"
       ],
       [
         "TikTok",
@@ -7608,13 +7608,6 @@
         "San Francisco, CA",
         "Oct 27",
         "https://go.vansh.nyc/Xy?s=y"
-      ],
-      [
-        "VSP Vision",
-        "Software Engineer Intern, Technology Innovation",
-        "Remote United States",
-        "Oct 27",
-        "https://go.vansh.nyc/X8?s=y"
       ],
       [
         "Visa",
@@ -15527,6 +15520,13 @@
         ""
       ],
       [
+        "TikTok",
+        "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
+        "San Jose, CA",
+        "Nov 01",
+        ""
+      ],
+      [
         "Marriott Vacations Worldwide",
         "Corporate Information Technology Intern",
         "Orlando, FL",
@@ -15803,6 +15803,13 @@
         "Workday",
         "Analytics Engineer Intern",
         "Pleasanton, CA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "VSP Vision",
+        "Software Engineer Intern, Technology Innovation",
+        "Remote United States",
         "Oct 27",
         ""
       ],

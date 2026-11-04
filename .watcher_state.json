@@ -3841,7 +3841,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "ae05841163f74f9ade6ce79efe15d732865ee594",
+    "last_sha": "d141009ce8184fc603f0e3fe7b28b81151a8c813",
     "rows": [
       [
         "Zebra Technologies",
@@ -3877,6 +3877,13 @@
         "Andover, MA",
         "Nov 04",
         "https://go.vansh.nyc/1gP?s=y"
+      ],
+      [
+        "Plusgrade",
+        "Data Science Intern",
+        "Toronto, Canada",
+        "Nov 04",
+        "https://go.vansh.nyc/1gR?s=y"
       ],
       [
         "Plusgrade",
@@ -3954,6 +3961,13 @@
         "Torrance, CA",
         "Nov 04",
         "https://go.vansh.nyc/1gy?s=y"
+      ],
+      [
+        "Microchip Technology",
+        "Data Analyst Intern",
+        "Gresham, OR",
+        "Nov 04",
+        "https://go.vansh.nyc/1gQ?s=y"
       ],
       [
         "L3Harris Technologies",
@@ -12440,13 +12454,6 @@
         "https://go.vansh.nyc/H3?s=y"
       ],
       [
-        "Principal Financial Group",
-        "Quantitative Analyst Intern, Quantitative Research",
-        "Des Moines, IA New York, NY",
-        "Oct 01",
-        "https://go.vansh.nyc/Ei?s=y"
-      ],
-      [
         "Pacific Fusion",
         "Software Engineering Intern",
         "San Leandro, CA Fremont, CA Los Lunas, NM",
@@ -12606,13 +12613,6 @@
         "Sunnyvale, CA",
         "Sep 30",
         "https://go.vansh.nyc/E9?s=y"
-      ],
-      [
-        "CoStar Group",
-        "Embedded Software Engineer Intern",
-        "Sunnyvale, CA",
-        "Sep 30",
-        "https://go.vansh.nyc/Ea?s=y"
       ],
       [
         "CoStar Group",
@@ -17648,6 +17648,13 @@
         ""
       ],
       [
+        "Principal Financial Group",
+        "Quantitative Analyst Intern, Quantitative Research",
+        "Des Moines, IA New York, NY",
+        "Oct 01",
+        ""
+      ],
+      [
         "Marvell",
         "Firmware Engineer Co-op",
         "Toronto, Canada",
@@ -17672,6 +17679,13 @@
         "Quantum Signal AI",
         "Embedded and Real-Time Software Intern",
         "Saline, MI",
+        "Sep 30",
+        ""
+      ],
+      [
+        "CoStar Group",
+        "Embedded Software Engineer Intern",
+        "Sunnyvale, CA",
         "Sep 30",
         ""
       ],

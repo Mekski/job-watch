@@ -12630,7 +12630,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1839,
+      "message_id": 6314,
       "chat_id": 8743352944
     },
     "9366c7ca2527": {
@@ -39911,6 +39911,36 @@
       "apply_url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 6310,
+      "chat_id": 8743352944
+    },
+    "4f5618ba4bd3": {
+      "company": "Roku",
+      "role": "AI Engineering Intern",
+      "location": "Manchester, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6311,
+      "chat_id": 8743352944
+    },
+    "4cdca4c716de": {
+      "company": "Roku",
+      "role": "AI Engineering Intern",
+      "location": "Cambridge, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6312,
+      "chat_id": 8743352944
+    },
+    "ebd520ca0156": {
+      "company": "William Blair",
+      "role": "Agentic AI Development Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6313,
       "chat_id": 8743352944
     }
   },

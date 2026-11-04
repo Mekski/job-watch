@@ -3834,7 +3834,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f1fa98d6b1776c0488445a658cb1337bc1f46b35",
+    "last_sha": "92a9fce05f64fdef1039407e766568de0e959541",
     "rows": [
       [
         "Two Six Technologies",
@@ -6614,13 +6614,6 @@
         "Dallas, TX",
         "Oct 30",
         "https://go.vansh.nyc/12K?s=y"
-      ],
-      [
-        "Context",
-        "Intern",
-        "San Francisco, CA",
-        "Oct 30",
-        "https://go.vansh.nyc/12J?s=y"
       ],
       [
         "Clay",
@@ -15425,6 +15418,13 @@
         "TensorWave",
         "Software Engineering Intern",
         "Las Vegas, NV",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Context",
+        "Intern",
+        "San Francisco, CA",
         "Oct 30",
         ""
       ],

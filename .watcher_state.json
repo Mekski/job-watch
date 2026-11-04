@@ -3827,7 +3827,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f3d009028bbccc850d107138585baff38b68cfd8",
+    "last_sha": "f28113802ca9c78fc91770226b613516ef25aacc",
     "rows": [
       [
         "United Parcel Service (UPS)",
@@ -6217,13 +6217,6 @@
         "https://go.vansh.nyc/11a?s=y"
       ],
       [
-        "Sierra Nevada Corporation",
-        "Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Folsom, CA",
-        "Oct 30",
-        "https://go.vansh.nyc/10G?s=y"
-      ],
-      [
         "ShopBack",
         "Software Engineer Intern",
         "San Francisco, CA",
@@ -6327,13 +6320,6 @@
         "Santa Clara, CA",
         "Oct 30",
         "https://go.vansh.nyc/12a?s=y"
-      ],
-      [
-        "Northrop Grumman",
-        "Data Scientist Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
-        "San Diego, CA",
-        "Oct 30",
-        "https://go.vansh.nyc/125?s=y"
       ],
       [
         "Nordson",
@@ -7377,13 +7363,6 @@
         "Brea, CA",
         "Oct 28",
         "https://go.vansh.nyc/ZF?s=y"
-      ],
-      [
-        "Daimler Truck",
-        "Software Release Management Intern",
-        "Portland, OR",
-        "Oct 28",
-        "https://go.vansh.nyc/Xd?s=y"
       ],
       [
         "CrowdStrike",
@@ -15457,6 +15436,20 @@
         ""
       ],
       [
+        "Sierra Nevada Corporation",
+        "Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Folsom, CA",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Northrop Grumman",
+        "Data Scientist Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
+        "San Diego, CA",
+        "Oct 30",
+        ""
+      ],
+      [
         "Context",
         "Intern",
         "San Francisco, CA",
@@ -15600,6 +15593,13 @@
         "Leidos",
         "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
         "Annapolis Junction, MD",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Daimler Truck",
+        "Software Release Management Intern",
+        "Portland, OR",
         "Oct 28",
         ""
       ],

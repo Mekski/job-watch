@@ -3806,7 +3806,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "00f4c6584274caae13266bf72c7097f749490c0c",
+    "last_sha": "c7a6f0d761cfbbf8c4c6c99dc478ff8e11060531",
     "rows": [
       [
         "Zebra Technologies",
@@ -3849,6 +3849,13 @@
         "Andover, MA",
         "Nov 04",
         "https://go.vansh.nyc/1gP?s=y"
+      ],
+      [
+        "RTX",
+        "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
+        "Cedar Rapids, IA",
+        "Nov 04",
+        "https://go.vansh.nyc/1hb?s=y"
       ],
       [
         "Plusgrade",
@@ -6250,13 +6257,6 @@
         "South San Francisco, CA",
         "Oct 30",
         "https://go.vansh.nyc/13y?s=y"
-      ],
-      [
-        "West Bend Insurance",
-        "Data Scientist Intern",
-        "West Bend, WI",
-        "Oct 30",
-        "https://go.vansh.nyc/13w?s=y"
       ],
       [
         "West Bend Insurance",
@@ -15551,6 +15551,13 @@
         "Wex",
         "Software Engineer Intern",
         "Remote United States",
+        "Oct 30",
+        ""
+      ],
+      [
+        "West Bend Insurance",
+        "Data Scientist Intern",
+        "West Bend, WI",
         "Oct 30",
         ""
       ],

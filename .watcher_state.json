@@ -3806,7 +3806,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c7a6f0d761cfbbf8c4c6c99dc478ff8e11060531",
+    "last_sha": "77b38bf89d67877e44eed89ce51fe63fbc21a39d",
     "rows": [
       [
         "Zebra Technologies",
@@ -3849,13 +3849,6 @@
         "Andover, MA",
         "Nov 04",
         "https://go.vansh.nyc/1gP?s=y"
-      ],
-      [
-        "RTX",
-        "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
-        "Cedar Rapids, IA",
-        "Nov 04",
-        "https://go.vansh.nyc/1hb?s=y"
       ],
       [
         "Plusgrade",
@@ -3968,13 +3961,6 @@
         "Rochester, NY",
         "Nov 04",
         "https://go.vansh.nyc/1h2?s=y"
-      ],
-      [
-        "Cigna",
-        "Cybersecurity Intern, Technology Development Program",
-        "Bloomfield, CT St. Louis, MO",
-        "Nov 04",
-        "https://go.vansh.nyc/1h8?s=y"
       ],
       [
         "Carnegie Mellon SEI",
@@ -4276,6 +4262,13 @@
         "Cedar Rapids, IA",
         "Nov 03",
         "https://go.vansh.nyc/1fj?s=y"
+      ],
+      [
+        "GM Financial",
+        "Cloud Engineer Intern",
+        "Irving, TX",
+        "Nov 03",
+        "https://go.vansh.nyc/1hc?s=y"
       ],
       [
         "First Citizens BancShares",
@@ -8420,13 +8413,6 @@
         "Seattle, WA",
         "Oct 26",
         "https://go.vansh.nyc/Wb?s=y"
-      ],
-      [
-        "Altera",
-        "Undergrad Technical Intern",
-        "Toronto, Canada",
-        "Oct 26",
-        "https://go.vansh.nyc/SU?s=y"
       ],
       [
         "AbbVie",
@@ -15401,9 +15387,23 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "RTX",
+        "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
+        "Cedar Rapids, IA",
+        "Nov 04",
+        ""
+      ],
+      [
         "Plusgrade",
         "UI/UX Design and Frontend Engineer Intern",
         "Toronto, Canada",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Cigna",
+        "Cybersecurity Intern, Technology Development Program",
+        "Bloomfield, CT St. Louis, MO",
         "Nov 04",
         ""
       ],
@@ -16055,6 +16055,13 @@
         "Apple",
         "Software Engineer Intern, Core OS",
         "United States",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Altera",
+        "Undergrad Technical Intern",
+        "Toronto, Canada",
         "Oct 26",
         ""
       ],

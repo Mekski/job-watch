@@ -3855,7 +3855,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d461ab0db890b5530611002334cf497129798419",
+    "last_sha": "0b0b83661c988a900bb9292444bf4761fcb6f445",
     "rows": [
       [
         "Zebra Technologies",
@@ -3891,6 +3891,13 @@
         "Toronto, Canada",
         "Nov 04",
         "https://go.vansh.nyc/1gq?s=y"
+      ],
+      [
+        "Parsons",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Huntsville, AL",
+        "Nov 04",
+        "https://go.vansh.nyc/1gI?s=y"
       ],
       [
         "Paccar",
@@ -3954,6 +3961,13 @@
         "Plano, TX",
         "Nov 04",
         "https://go.vansh.nyc/1gz?s=y"
+      ],
+      [
+        "BorgWarner",
+        "Software Engineering Intern",
+        "Auburn Hills, MI",
+        "Nov 04",
+        "https://go.vansh.nyc/1gH?s=y"
       ],
       [
         "United Parcel Service (UPS)",
@@ -7897,13 +7911,6 @@
         "https://go.vansh.nyc/Y4?s=y"
       ],
       [
-        "Kudu Dynamics",
-        "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
-        "Arlington, VA Washington, DC Camp Springs, MD",
-        "Oct 27",
-        "https://go.vansh.nyc/W5?s=y"
-      ],
-      [
         "Keysight Technologies",
         "Application Development Intern",
         "Santa Rosa, CA",
@@ -9218,13 +9225,6 @@
         "Kanata, Canada",
         "Oct 22",
         "https://go.vansh.nyc/eN?s=y"
-      ],
-      [
-        "American Family Insurance Group",
-        "AI Platform Engineering Intern",
-        "Madison, WI",
-        "Oct 22",
-        "https://go.vansh.nyc/hn?s=y"
       ],
       [
         "Amazon",
@@ -15898,6 +15898,13 @@
         ""
       ],
       [
+        "Kudu Dynamics",
+        "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
+        "Arlington, VA Washington, DC Camp Springs, MD",
+        "Oct 27",
+        ""
+      ],
+      [
         "CFS Energy",
         "Scientific Software Engineer Intern",
         "Devens, MA",
@@ -16279,6 +16286,13 @@
         "Apple",
         "Cellular Baseband Design Verification Intern",
         "United States",
+        "Oct 22",
+        ""
+      ],
+      [
+        "American Family Insurance Group",
+        "AI Platform Engineering Intern",
+        "Madison, WI",
         "Oct 22",
         ""
       ],

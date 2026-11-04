@@ -11500,7 +11500,7 @@
       "term": "Summer 2027",
       "apply_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3495,
+      "message_id": 6295,
       "chat_id": 8743352944
     },
     "ac5b2140f13a": {
@@ -12180,7 +12180,7 @@
       "term": "Summer 2027",
       "apply_url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1759,
+      "message_id": 6294,
       "chat_id": 8743352944
     },
     "f1ecbdae76df": {
@@ -31720,7 +31720,7 @@
       "term": "Summer 2027",
       "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 5431,
+      "message_id": 6293,
       "chat_id": 8743352944
     },
     "aa2f6e6bffdd": {
@@ -39681,6 +39681,96 @@
       "apply_url": "https://go.vansh.nyc/1fw?s=y",
       "source": "Vansh Repo",
       "message_id": 6283,
+      "chat_id": 8743352944
+    },
+    "96183db4d72d": {
+      "company": "\ud83d\udd25 Microsoft",
+      "role": "Software Engineer Intern",
+      "location": "Redmond, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557037859?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6284,
+      "chat_id": 8743352944
+    },
+    "85e03706f8d6": {
+      "company": "Electronic Arts",
+      "role": "Anticheat Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6285,
+      "chat_id": 8743352944
+    },
+    "c2ccf2d3f0c4": {
+      "company": "Nex",
+      "role": "Software Engineer Intern - Sports & Fitness - Game Development",
+      "location": "San Jose, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/nex/jobs/5421056008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6286,
+      "chat_id": 8743352944
+    },
+    "0f28eabf7497": {
+      "company": "T-Mobile",
+      "role": "T-Ads Software Engineer Intern",
+      "location": "Philadelphia, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6287,
+      "chat_id": 8743352944
+    },
+    "2958605887b5": {
+      "company": "T-Mobile",
+      "role": "Software Engineering Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6288,
+      "chat_id": 8743352944
+    },
+    "a570e1daa439": {
+      "company": "RTX",
+      "role": "Software Engineer Intern",
+      "location": "West Valley City, UT",
+      "term": "Summer 2027",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6289,
+      "chat_id": 8743352944
+    },
+    "53d18f47545f": {
+      "company": "Northrop Grumman",
+      "role": "Flight Software Engineer Intern",
+      "location": "Manhattan Beach, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6290,
+      "chat_id": 8743352944
+    },
+    "da9a00512d33": {
+      "company": "Northrop Grumman",
+      "role": "Ground Software Engineer Intern",
+      "location": "Redondo Beach, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6291,
+      "chat_id": 8743352944
+    },
+    "a2863dc50150": {
+      "company": "JM Family",
+      "role": "AI Center of Excellence Delivery Team Intern",
+      "location": "Deerfield Beach, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6292,
       "chat_id": 8743352944
     }
   },

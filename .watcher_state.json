@@ -3848,7 +3848,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "4e27d2861aa3381ce8554264934845827a995472",
+    "last_sha": "8c8e0606d46eb1f01d57e273e78827a786faa854",
     "rows": [
       [
         "Zebra Technologies",
@@ -3863,6 +3863,27 @@
         "Kennesaw, GA",
         "Nov 04",
         "https://go.vansh.nyc/1gx?s=y"
+      ],
+      [
+        "Smith+Nephew",
+        "Data Science Intern, AI Center of Excellence",
+        "Pittsburgh, PA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gN?s=y"
+      ],
+      [
+        "Smith+Nephew",
+        "Robotics Software Engineering Intern",
+        "Pittsburgh, PA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gO?s=y"
+      ],
+      [
+        "Smith+Nephew",
+        "AI Engineer Intern, R&D",
+        "Andover, MA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gP?s=y"
       ],
       [
         "Plusgrade",
@@ -4171,13 +4192,6 @@
         "Redmond, WA",
         "Nov 03",
         "https://go.vansh.nyc/1dY?s=y"
-      ],
-      [
-        "McKesson",
-        "CMM Technology Intern",
-        "Columbus, OH",
-        "Nov 03",
-        "https://go.vansh.nyc/1fp?s=y"
       ],
       [
         "LLNL",
@@ -5767,13 +5781,6 @@
         "Arlington, VA",
         "Nov 01",
         "https://go.vansh.nyc/1bc?s=y"
-      ],
-      [
-        "Leidos",
-        "Data Science Intern",
-        "Arlington, VA",
-        "Nov 01",
-        "https://go.vansh.nyc/1bf?s=y"
       ],
       [
         "KLA",
@@ -12440,13 +12447,6 @@
         "https://go.vansh.nyc/H3?s=y"
       ],
       [
-        "Regeneron Pharmaceuticals",
-        "Precision Medicine Operations Co-op",
-        "Armonk, NY",
-        "Oct 01",
-        "https://go.vansh.nyc/El?s=y"
-      ],
-      [
         "Principal Financial Group",
         "Quantitative Analyst Intern, Quantitative Research",
         "Des Moines, IA New York, NY",
@@ -15457,6 +15457,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "McKesson",
+        "CMM Technology Intern",
+        "Columbus, OH",
+        "Nov 03",
+        ""
+      ],
+      [
         "Cox",
         "Software Engineering Intern \ud83d\udec2",
         "Austin, TX",
@@ -15523,6 +15530,13 @@
         "Marriott Vacations Worldwide",
         "Corporate Information Technology Intern",
         "Orlando, FL",
+        "Nov 01",
+        ""
+      ],
+      [
+        "Leidos",
+        "Data Science Intern",
+        "Arlington, VA",
         "Nov 01",
         ""
       ],
@@ -17630,6 +17644,13 @@
         "Space Dynamics Laboratory",
         "FPGA Electrical Engineer Intern, Civil & Commercial Space",
         "North Logan, UT",
+        "Oct 01",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Precision Medicine Operations Co-op",
+        "Armonk, NY",
         "Oct 01",
         ""
       ],

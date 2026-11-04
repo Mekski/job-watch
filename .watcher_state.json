@@ -3820,7 +3820,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a8dd766fecf91b72e794ab1c9a40d1e366cd6347",
+    "last_sha": "9e1bf0dab7ab176eb74b3e8ac735c049344bdb8e",
     "rows": [
       [
         "Zebra Technologies",
@@ -9584,13 +9584,6 @@
         "https://go.vansh.nyc/cv?s=y"
       ],
       [
-        "Sycamore",
-        "Member of Technical Staff Intern, Infrastructure",
-        "Palo Alto, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/18T?s=y"
-      ],
-      [
         "SOTI",
         "Cloud Administrator Intern",
         "Mississauga, ON",
@@ -10499,13 +10492,6 @@
         "Alpharetta, GA",
         "Oct 16",
         "https://go.vansh.nyc/ar?s=y"
-      ],
-      [
-        "Together AI",
-        "Hardware Security Engineer Intern",
-        "San Francisco, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/bm?s=y"
       ],
       [
         "Rocket Companies",
@@ -16542,6 +16528,13 @@
         ""
       ],
       [
+        "Sycamore",
+        "Member of Technical Staff Intern, Infrastructure",
+        "Palo Alto, CA",
+        "Oct 20",
+        ""
+      ],
+      [
         "Stifel",
         "Data Analyst Intern",
         "Saint Louis, MO",
@@ -17029,6 +17022,13 @@
         "Computer Vision & Robotics Intern",
         "San Francisco, CA",
         "Oct 17",
+        ""
+      ],
+      [
+        "Together AI",
+        "Hardware Security Engineer Intern",
+        "San Francisco, CA",
+        "Oct 16",
         ""
       ],
       [

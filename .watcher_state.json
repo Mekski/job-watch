@@ -3834,7 +3834,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "92a9fce05f64fdef1039407e766568de0e959541",
+    "last_sha": "7f97826e15f7482495a85b3d2e37a377d8629822",
     "rows": [
       [
         "Two Six Technologies",
@@ -3919,6 +3919,13 @@
         "Windsor Locks, CT",
         "Nov 03",
         "https://go.vansh.nyc/1du?s=y"
+      ],
+      [
+        "Royal Bank of Canada",
+        "AI Engineer Co-op, Capital Markets, Global Equities",
+        "Toronto, Canada",
+        "Nov 03",
+        "https://go.vansh.nyc/1fV?s=y"
       ],
       [
         "RGA Reinsurance Company",
@@ -8933,13 +8940,6 @@
         "https://go.vansh.nyc/hy?s=y"
       ],
       [
-        "LabCorp",
-        "Bioinformatics Intern",
-        "Baltimore, MD",
-        "Oct 22",
-        "https://go.vansh.nyc/eG?s=y"
-      ],
-      [
         "L3Harris Technologies",
         "Software Engineer Intern",
         "Tulsa, OK",
@@ -9204,13 +9204,6 @@
         "Plano, TX",
         "Oct 21",
         "https://go.vansh.nyc/dm?s=y"
-      ],
-      [
-        "Smith+Nephew",
-        "Embedded Software Engineering Intern",
-        "Andover, MA",
-        "Oct 21",
-        "https://go.vansh.nyc/dA?s=y"
       ],
       [
         "Safran",
@@ -16024,6 +16017,13 @@
         ""
       ],
       [
+        "LabCorp",
+        "Bioinformatics Intern",
+        "Baltimore, MD",
+        "Oct 22",
+        ""
+      ],
+      [
         "DocuSign",
         "AI Platform Engineer Intern \ud83d\udec2",
         "San Francisco, CA",
@@ -16104,6 +16104,13 @@
         "SPS Commerce",
         "Software Engineer Intern",
         "Minneapolis, MN",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Smith+Nephew",
+        "Embedded Software Engineering Intern",
+        "Andover, MA",
         "Oct 21",
         ""
       ],

@@ -4093,7 +4093,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "fef5c0b933cb4d4f27879ea6c77bb69bf4312c9a",
+    "last_sha": "e05c32dbfb9a9208f525f900663dcb126a8ef746",
     "rows": [
       [
         "Veryable",
@@ -4227,6 +4227,13 @@
         "Sunnyvale, CA",
         "Nov 05",
         "https://go.vansh.nyc/1in?s=y"
+      ],
+      [
+        "Little Caesars Enterprises",
+        "Developer IT Intern",
+        "Detroit, MI",
+        "Nov 05",
+        "https://go.vansh.nyc/1iC?s=y"
       ],
       [
         "Kimball Electronics",
@@ -5846,13 +5853,6 @@
         "https://go.vansh.nyc/1bD?s=y"
       ],
       [
-        "CoStar Group",
-        "Data Science Intern",
-        "Richmond, VA",
-        "Nov 02",
-        "https://go.vansh.nyc/19c?s=y"
-      ],
-      [
         "CNA Insurance",
         "Software Engineering Intern, Technology \ud83d\udec2",
         "Chicago, IL",
@@ -6460,13 +6460,6 @@
         "Rochester, NY",
         "Nov 01",
         "https://go.vansh.nyc/1bs?s=y"
-      ],
-      [
-        "Cincinnati Children\u2019s Hospital and Medical Center",
-        "Software Engineer Intern",
-        "Remote United States",
-        "Nov 01",
-        "https://go.vansh.nyc/1bb?s=y"
       ],
       [
         "Cincinnati Children\u2019s Hospital and Medical Center",
@@ -8182,13 +8175,6 @@
         "Arden Hills, MN",
         "Oct 28",
         "https://go.vansh.nyc/YD?s=y"
-      ],
-      [
-        "Booz Allen Hamilton",
-        "Design and Verification Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Beavercreek, OH",
-        "Oct 28",
-        "https://go.vansh.nyc/Yk?s=y"
       ],
       [
         "Beli",
@@ -15772,13 +15758,6 @@
         "https://go.vansh.nyc/38?s=y"
       ],
       [
-        "Susquehanna Investment Group",
-        "Quantitative Strategy Developer Intern",
-        "Bala Cynwyd, PA",
-        "Jul 07",
-        "https://go.vansh.nyc/3c?s=y"
-      ],
-      [
         "DE Shaw",
         "Software Developer Intern",
         "New York, NY",
@@ -15805,13 +15784,6 @@
         "Radnor, PA",
         "May 23",
         "https://go.vansh.nyc/17s?s=y"
-      ],
-      [
-        "Susquehanna",
-        "Trading System Engineering Intern",
-        "Bala Cynwyd, PA",
-        "May 22",
-        "https://go.vansh.nyc/2M?s=y"
       ],
       [
         "Stoke Space",
@@ -16115,6 +16087,13 @@
         ""
       ],
       [
+        "CoStar Group",
+        "Data Science Intern",
+        "Richmond, VA",
+        "Nov 02",
+        ""
+      ],
+      [
         "CNA Insurance",
         "Data Engineering Intern, Technology \ud83d\udec2",
         "Chicago, IL",
@@ -16174,6 +16153,13 @@
         "KnowBe4",
         "Software Engineer Intern",
         "Clearwater, FL",
+        "Nov 01",
+        ""
+      ],
+      [
+        "Cincinnati Children\u2019s Hospital and Medical Center",
+        "Software Engineer Intern",
+        "Remote United States",
         "Nov 01",
         ""
       ],
@@ -16447,6 +16433,13 @@
         "CareSource",
         "AI Intern",
         "Remote United States",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Design and Verification Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Beavercreek, OH",
         "Oct 28",
         ""
       ],
@@ -19146,6 +19139,13 @@
         ""
       ],
       [
+        "Susquehanna Investment Group",
+        "Quantitative Strategy Developer Intern",
+        "Bala Cynwyd, PA",
+        "Jul 07",
+        ""
+      ],
+      [
         "Optiver",
         "Software Engineer Intern",
         "Austin, TX",
@@ -19191,6 +19191,13 @@
         "Voloridge Investment Management",
         "Quantitative Developer Intern",
         "Jupiter, FL",
+        "May 22",
+        ""
+      ],
+      [
+        "Susquehanna",
+        "Trading System Engineering Intern",
+        "Bala Cynwyd, PA",
         "May 22",
         ""
       ],

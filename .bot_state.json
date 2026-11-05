@@ -11960,7 +11960,7 @@
       "term": "Summer 2027",
       "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 1737,
+      "message_id": 6500,
       "chat_id": 8743352944
     },
     "1b08249adf7a": {
@@ -12610,7 +12610,7 @@
       "term": "Summer 2027",
       "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3839,
+      "message_id": 6499,
       "chat_id": 8743352944
     },
     "f77bb452a5ba": {
@@ -30800,7 +30800,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 5334,
+      "message_id": 6498,
       "chat_id": 8743352944
     },
     "3edd4fb841e7": {
@@ -41471,6 +41471,36 @@
       "apply_url": "https://go.vansh.nyc/1jn?s=y",
       "source": "Vansh Repo",
       "message_id": 6494,
+      "chat_id": 8743352944
+    },
+    "374f52b19792": {
+      "company": "DwyerOmega",
+      "role": "Software Engineer Intern",
+      "location": "Westerville, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6495,
+      "chat_id": 8743352944
+    },
+    "6505b6ac066d": {
+      "company": "Shield AI",
+      "role": "Software Engineer Co-op Intern",
+      "location": "4 locationsSeattle, WA Washington, DC Dallas, TX San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6496,
+      "chat_id": 8743352944
+    },
+    "ca6610a802cc": {
+      "company": "Riverside Research",
+      "role": "Software Applications Intern",
+      "location": "Fairborn, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6497,
       "chat_id": 8743352944
     }
   },

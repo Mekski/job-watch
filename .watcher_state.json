@@ -4100,7 +4100,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a2c7509944f9ff9979e683f6bb9696e9e72f819c",
+    "last_sha": "a3f2e1de5fb74cb780d2002b1b6ca6e0cbbcbbea",
     "rows": [
       [
         "Veryable",
@@ -4164,6 +4164,13 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1hQ?s=y"
+      ],
+      [
+        "Shield AI",
+        "Software Engineer Co-op",
+        "**4 locations**Dallas, TX Washington, DC Seattle, WA San Diego, CA",
+        "Nov 05",
+        "https://go.vansh.nyc/1iN?s=y"
       ],
       [
         "RTX",
@@ -14519,13 +14526,6 @@
         "https://go.vansh.nyc/QC?s=y"
       ],
       [
-        "Arconic",
-        "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
-        "Pittsburgh, PA",
-        "Sep 02",
-        "https://go.vansh.nyc/1fb?s=y"
-      ],
-      [
         "AMD",
         "ASIC Verification Engineer Co-op",
         "Ottawa, Canada",
@@ -18722,6 +18722,13 @@
         "Northmarq",
         "Software Engineering Intern \ud83d\udec2",
         "Minneapolis, MN",
+        "Sep 02",
+        ""
+      ],
+      [
+        "Arconic",
+        "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
+        "Pittsburgh, PA",
         "Sep 02",
         ""
       ],

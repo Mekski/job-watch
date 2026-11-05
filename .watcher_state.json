@@ -4100,7 +4100,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "483a16fae8dbbe590f0ca0ff447a83f4ba1cd889",
+    "last_sha": "a2c7509944f9ff9979e683f6bb9696e9e72f819c",
     "rows": [
       [
         "Veryable",
@@ -4325,6 +4325,13 @@
         "Bossier City, LA",
         "Nov 05",
         "https://go.vansh.nyc/1hT?s=y"
+      ],
+      [
+        "Element Fleet Management",
+        "Forward Deployed Engineer (FDE) Intern \ud83d\udec2",
+        "Toronto, Canada",
+        "Nov 05",
+        "https://go.vansh.nyc/1iM?s=y"
       ],
       [
         "DraftKings",
@@ -8969,13 +8976,6 @@
       ],
       [
         "Highmark Health",
-        "Software Engineer Intern",
-        "Remote United States",
-        "Oct 26",
-        "https://go.vansh.nyc/SR?s=y"
-      ],
-      [
-        "Highmark Health",
         "Enterprise Architecture Software Engineer & Architect Intern",
         "Pittsburgh, PA",
         "Oct 26",
@@ -11556,13 +11556,6 @@
         "Johns Creek, GA",
         "Oct 14",
         "https://go.vansh.nyc/Co?s=y"
-      ],
-      [
-        "Leidos",
-        "Performance Enablement AI/ML Intern",
-        "Remote United States",
-        "Oct 14",
-        "https://go.vansh.nyc/CC?s=y"
       ],
       [
         "Lawrence Livermore National Laboratory (LLNL)",
@@ -16738,6 +16731,13 @@
         ""
       ],
       [
+        "Highmark Health",
+        "Software Engineer Intern",
+        "Remote United States",
+        "Oct 26",
+        ""
+      ],
+      [
         "Glean",
         "Software Engineer Intern",
         "Mountain View, CA",
@@ -18015,6 +18015,13 @@
         "Nasdaq",
         "Intelligent Automation Intern",
         "New York, NY",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Leidos",
+        "Performance Enablement AI/ML Intern",
+        "Remote United States",
         "Oct 14",
         ""
       ],

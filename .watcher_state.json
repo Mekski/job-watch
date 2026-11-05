@@ -3897,7 +3897,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "15dfa6757f6cef50c9d002980116d5aa1f55f12e",
+    "last_sha": "f7bd3416ca5096f0345b2d00aead1a446563753e",
     "rows": [
       [
         "Zebra Technologies",
@@ -4808,13 +4808,6 @@
         "Cedar Rapids, IA",
         "Nov 02",
         "https://go.vansh.nyc/1cU?s=y"
-      ],
-      [
-        "RTX",
-        "Systems Security Engineer Intern, Raytheon \ud83c\uddfa\ud83c\uddf8",
-        "Woburn, MA",
-        "Nov 02",
-        "https://go.vansh.nyc/19I?s=y"
       ],
       [
         "RTX",
@@ -7407,13 +7400,6 @@
         "https://go.vansh.nyc/Xw?s=y"
       ],
       [
-        "Sanofi",
-        "Advanced Analytics Intern",
-        "Cambridge, MA Morristown, NJ",
-        "Oct 28",
-        "https://go.vansh.nyc/104?s=y"
-      ],
-      [
         "RosaicLabs",
         "CPU Design Verification Engineer Intern",
         "Austin, TX Santa Clara, CA",
@@ -8147,13 +8133,6 @@
         "Livermore, CA",
         "Oct 27",
         "https://go.vansh.nyc/Y8?s=y"
-      ],
-      [
-        "Florida Atlantic University",
-        "Data Analyst Intern",
-        "Boca Raton, FL",
-        "Oct 27",
-        "https://go.vansh.nyc/Y9?s=y"
       ],
       [
         "Filevine",
@@ -15619,6 +15598,13 @@
       ],
       [
         "RTX",
+        "Systems Security Engineer Intern, Raytheon \ud83c\uddfa\ud83c\uddf8",
+        "Woburn, MA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "East Hartford, CT",
         "Nov 02",
@@ -15919,6 +15905,13 @@
         ""
       ],
       [
+        "Sanofi",
+        "Advanced Analytics Intern",
+        "Cambridge, MA Morristown, NJ",
+        "Oct 28",
+        ""
+      ],
+      [
         "RTX",
         "Software Engineer Intern",
         "Sterling, VA",
@@ -16104,6 +16097,13 @@
         "Kudu Dynamics",
         "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
         "Arlington, VA Washington, DC Camp Springs, MD",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Florida Atlantic University",
+        "Data Analyst Intern",
+        "Boca Raton, FL",
         "Oct 27",
         ""
       ],

@@ -4065,8 +4065,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "3bedee2531bbab72ca724f096298893a4c726f6a",
+    "last_sha": "fb73cc94808045749997f968ccb8f2f977ebdb22",
     "rows": [
+      [
+        "Western Alliance Bancorporation",
+        "Platform Engineering Intern",
+        "Columbus, OH",
+        "Nov 05",
+        "https://go.vansh.nyc/1jh?s=y"
+      ],
       [
         "Veryable",
         "Platform Engineer Intern",
@@ -4360,6 +4367,13 @@
         "Florham Park, NJ",
         "Nov 05",
         "https://go.vansh.nyc/1ir?s=y"
+      ],
+      [
+        "CareSource",
+        "Data Analyst Intern",
+        "Remote United States",
+        "Nov 05",
+        "https://go.vansh.nyc/1jg?s=y"
       ],
       [
         "CareSource",
@@ -5613,13 +5627,6 @@
         "Coppell, TX",
         "Nov 02",
         "https://go.vansh.nyc/1cG?s=y"
-      ],
-      [
-        "Motorola Solutions",
-        "Software Engineer Intern, Cybersecurity Services \ud83c\uddfa\ud83c\uddf8",
-        "**7 locations**Remote United States Chicago, IL Ashburn, VA Plantation, FL Schaumburg, IL Salt Lake City, UT",
-        "Nov 02",
-        "https://go.vansh.nyc/19M?s=y"
       ],
       [
         "Momentive",
@@ -14260,13 +14267,6 @@
         "https://go.vansh.nyc/MA?s=y"
       ],
       [
-        "PanAgora",
-        "Equity Intern",
-        "Boston, MA",
-        "Sep 09",
-        "https://go.vansh.nyc/ME?s=y"
-      ],
-      [
         "Navy Federal",
         "Associate Intern, Security Automation",
         "Vienna, VA",
@@ -16118,6 +16118,13 @@
         "NJM Insurance Group",
         "IT Data Science Intern",
         "Trenton, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Motorola Solutions",
+        "Software Engineer Intern, Cybersecurity Services \ud83c\uddfa\ud83c\uddf8",
+        "**7 locations**Remote United States Chicago, IL Ashburn, VA Plantation, FL Schaumburg, IL Salt Lake City, UT",
         "Nov 02",
         ""
       ],
@@ -18715,6 +18722,13 @@
         "Publicis Groupe",
         "Software Engineer Intern",
         "Chicago, IL",
+        "Sep 09",
+        ""
+      ],
+      [
+        "PanAgora",
+        "Equity Intern",
+        "Boston, MA",
         "Sep 09",
         ""
       ],

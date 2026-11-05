@@ -14000,7 +14000,7 @@
       "term": "Summer 2027",
       "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 2079,
+      "message_id": 6379,
       "chat_id": 8743352944
     },
     "b2c5a2738940": {
@@ -15300,7 +15300,7 @@
       "term": "Summer 2027",
       "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3053,
+      "message_id": 6378,
       "chat_id": 8743352944
     },
     "3eb9fdfbb977": {
@@ -18020,7 +18020,7 @@
       "term": "Summer 2027",
       "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3237,
+      "message_id": 6377,
       "chat_id": 8743352944
     },
     "87e5505dbd42": {
@@ -40511,6 +40511,36 @@
       "apply_url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 6371,
+      "chat_id": 8743352944
+    },
+    "7c7fcdfb71d4": {
+      "company": "\ud83d\udd25 PayPal",
+      "role": "Software Engineer Intern",
+      "location": "5 locationsAustin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ",
+      "term": "Summer 2027",
+      "apply_url": "https://paypal.eightfold.ai/careers/job/274922982814?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6374,
+      "chat_id": 8743352944
+    },
+    "8ab4003c6389": {
+      "company": "\ud83d\udd25 PayPal",
+      "role": "Mobile Engineer Intern",
+      "location": "5 locationsAustin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ",
+      "term": "Summer 2027",
+      "apply_url": "https://paypal.eightfold.ai/careers/job/274922982818?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6375,
+      "chat_id": 8743352944
+    },
+    "328cdf61483c": {
+      "company": "Leidos",
+      "role": "Software Engineering & AI Intern",
+      "location": "Remote in USA Shiloh, IL Odenton, MD",
+      "term": "Summer 2027",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6376,
       "chat_id": 8743352944
     }
   },

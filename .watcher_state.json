@@ -4079,7 +4079,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b0c523f533456c3199d05cfa48c84515aa1b54c5",
+    "last_sha": "3c342e3616dd3fd631e6e0eec2a69e2af0902b00",
     "rows": [
       [
         "Veryable",
@@ -4171,20 +4171,6 @@
         "Tewksbury, MA",
         "Nov 05",
         "https://go.vansh.nyc/1iL?s=y"
-      ],
-      [
-        "RR Donnelley",
-        "IT Software Integration & Automation Intern",
-        "Minneapolis, MN",
-        "Nov 05",
-        "https://go.vansh.nyc/1j3?s=y"
-      ],
-      [
-        "RR Donnelley",
-        "Software Developer Intern",
-        "Warrenville, IL",
-        "Nov 05",
-        "https://go.vansh.nyc/1j4?s=y"
       ],
       [
         "Prospect Equities",
@@ -4286,6 +4272,13 @@
       ],
       [
         "JM Family Enterprises",
+        "Data Engineering Intern",
+        "Deerfield Beach, FL",
+        "Nov 05",
+        "https://go.vansh.nyc/1jd?s=y"
+      ],
+      [
+        "JM Family Enterprises",
         "Analytics Intern",
         "Deerfield Beach, FL",
         "Nov 05",
@@ -4381,6 +4374,13 @@
         "Florham Park, NJ",
         "Nov 05",
         "https://go.vansh.nyc/1ir?s=y"
+      ],
+      [
+        "CareSource",
+        "Cybersecurity Intern",
+        "Remote United States",
+        "Nov 05",
+        "https://go.vansh.nyc/1je?s=y"
       ],
       [
         "BorgWarner",
@@ -7573,13 +7573,6 @@
         "New York, NY",
         "Oct 30",
         "https://go.vansh.nyc/10x?s=y"
-      ],
-      [
-        "Astronics",
-        "Software Engineer Intern",
-        "Kirkland, WA",
-        "Oct 30",
-        "https://go.vansh.nyc/12C?s=y"
       ],
       [
         "Arista Networks",
@@ -16045,6 +16038,20 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "RR Donnelley",
+        "IT Software Integration & Automation Intern",
+        "Minneapolis, MN",
+        "Nov 05",
+        ""
+      ],
+      [
+        "RR Donnelley",
+        "Software Developer Intern",
+        "Warrenville, IL",
+        "Nov 05",
+        ""
+      ],
+      [
         "RTX",
         "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
         "Cedar Rapids, IA",
@@ -16356,6 +16363,13 @@
         "C&S Wholesale Grocers",
         "IS Intern, Data Analytics & Data Science",
         "Edison, NJ",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Astronics",
+        "Software Engineer Intern",
+        "Kirkland, WA",
         "Oct 30",
         ""
       ],

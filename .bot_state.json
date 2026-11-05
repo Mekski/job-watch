@@ -17040,7 +17040,7 @@
       "term": "Summer 2027",
       "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3001,
+      "message_id": 6372,
       "chat_id": 8743352944
     },
     "c081b75e0c2a": {
@@ -17050,7 +17050,7 @@
       "term": "Summer 2027",
       "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3002,
+      "message_id": 6373,
       "chat_id": 8743352944
     },
     "b29a906f0f70": {
@@ -40471,6 +40471,46 @@
       "apply_url": "https://go.vansh.nyc/1hm?s=y",
       "source": "Vansh Repo",
       "message_id": 6367,
+      "chat_id": 8743352944
+    },
+    "994f6bbb1339": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Depot Automation Intern \ud83c\udf93",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8350687&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6368,
+      "chat_id": 8743352944
+    },
+    "ec5f4387993d": {
+      "company": "\ud83d\udd25 Figma",
+      "role": "PhD Intern - Software Engineer - Interaction Design \ud83c\udf93",
+      "location": "SF NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6241542004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6369,
+      "chat_id": 8743352944
+    },
+    "2902326d3dcf": {
+      "company": "Wells Fargo",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6370,
+      "chat_id": 8743352944
+    },
+    "3bdc7bb852ce": {
+      "company": "Baird",
+      "role": "Automation & AI Solutions Intern",
+      "location": "Milwaukee, WI",
+      "term": "Summer 2027",
+      "apply_url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6371,
       "chat_id": 8743352944
     }
   },

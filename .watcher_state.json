@@ -3953,7 +3953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "cd73bce284552c2c7a066614017bcf9d09eb529f",
+    "last_sha": "e8815e5acbf786d31a877a4e0e448556a4d53db5",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -3978,10 +3978,45 @@
       ],
       [
         "The New York Times",
+        "Frontend Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1l5?s=y"
+      ],
+      [
+        "The New York Times",
+        "Android Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1l6?s=y"
+      ],
+      [
+        "The New York Times",
+        "Full-Stack Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1l7?s=y"
+      ],
+      [
+        "The New York Times",
+        "iOS Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1l8?s=y"
+      ],
+      [
+        "The New York Times",
         "Interactive News Engineering Intern",
         "New York, NY",
         "Nov 06",
         "https://go.vansh.nyc/1km?s=y"
+      ],
+      [
+        "T-Mobile",
+        "AI Strategist Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        "https://go.vansh.nyc/1l9?s=y"
       ],
       [
         "T-Mobile",
@@ -4206,13 +4241,6 @@
         "Dallas, TX",
         "Nov 05",
         "https://go.vansh.nyc/1ip?s=y"
-      ],
-      [
-        "V2X",
-        "AI Engineering Intern",
-        "Indianapolis, IN",
-        "Nov 05",
-        "https://go.vansh.nyc/1jH?s=y"
       ],
       [
         "V2X",
@@ -6817,13 +6845,6 @@
         "Rochester, NY",
         "Nov 01",
         "https://go.vansh.nyc/1bs?s=y"
-      ],
-      [
-        "Cincinnati Children\u2019s Hospital and Medical Center",
-        "Data Management Engineer Intern",
-        "Remote United States",
-        "Nov 01",
-        "https://go.vansh.nyc/1bd?s=y"
       ],
       [
         "Cincinnati Children\u2019s Hospital and Medical Center",
@@ -16059,6 +16080,13 @@
         ""
       ],
       [
+        "V2X",
+        "AI Engineering Intern",
+        "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
         "RR Donnelley",
         "IT Software Integration & Automation Intern",
         "Minneapolis, MN",
@@ -16398,6 +16426,13 @@
         "KnowBe4",
         "Software Engineer Intern",
         "Clearwater, FL",
+        "Nov 01",
+        ""
+      ],
+      [
+        "Cincinnati Children\u2019s Hospital and Medical Center",
+        "Data Management Engineer Intern",
+        "Remote United States",
         "Nov 01",
         ""
       ],

@@ -3953,7 +3953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2a0dc7ea260438c6e2eccf4bb779729b4d055621",
+    "last_sha": "1eeef6c3714e3a3842dfc69e41578e9a4fdafc6f",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4523,13 +4523,6 @@
         "https://go.vansh.nyc/1i4?s=y"
       ],
       [
-        "ICD",
-        "AI/ML Engineering Intern",
-        "Jersey City, NJ",
-        "Nov 05",
-        "https://go.vansh.nyc/1kF?s=y"
-      ],
-      [
         "Hearst",
         "Software Engineer Intern",
         "Carmel, IN",
@@ -4542,6 +4535,13 @@
         "Bellevue, WA",
         "Nov 05",
         "https://go.vansh.nyc/1im?s=y"
+      ],
+      [
+        "GM Financial",
+        "Software Development Engineer Intern",
+        "Arlington, TX",
+        "Nov 05",
+        "https://go.vansh.nyc/1kZ?s=y"
       ],
       [
         "Genesys",
@@ -4584,6 +4584,13 @@
         "Toronto, Canada",
         "Nov 05",
         "https://go.vansh.nyc/1iM?s=y"
+      ],
+      [
+        "DwyerOmega",
+        "Cyber Resilience & Product Security Intern",
+        "Michigan City, IN",
+        "Nov 05",
+        "https://go.vansh.nyc/1kY?s=y"
       ],
       [
         "DwyerOmega",
@@ -7827,6 +7834,20 @@
         "https://go.vansh.nyc/Z3?s=y"
       ],
       [
+        "Talos",
+        "Software Engineer Intern, RFQ",
+        "New York, NY",
+        "Oct 29",
+        "https://go.vansh.nyc/1kW?s=y"
+      ],
+      [
+        "Talos",
+        "Software Engineer Intern, Dealer",
+        "New York, NY",
+        "Oct 29",
+        "https://go.vansh.nyc/1kX?s=y"
+      ],
+      [
         "Synopsys",
         "Technical Engineer Intern",
         "Ottawa, Canada",
@@ -7951,13 +7972,6 @@
         "United States",
         "Oct 29",
         "https://go.vansh.nyc/11J?s=y"
-      ],
-      [
-        "Molina Healthcare",
-        "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
-        "United States",
-        "Oct 29",
-        "https://go.vansh.nyc/11K?s=y"
       ],
       [
         "MITRE",
@@ -15800,6 +15814,13 @@
         "https://go.vansh.nyc/QB?s=y"
       ],
       [
+        "Serval",
+        "Software Engineer Intern",
+        "San Francisco, CA",
+        "Jul 13",
+        "https://go.vansh.nyc/1kU?s=y"
+      ],
+      [
         "Jump Trading Group",
         "Campus UI Software Engineer Intern",
         "Chicago, IL",
@@ -16055,6 +16076,13 @@
         "RR Donnelley",
         "Software Developer Intern",
         "Warrenville, IL",
+        "Nov 05",
+        ""
+      ],
+      [
+        "ICD",
+        "AI/ML Engineering Intern",
+        "Jersey City, NJ",
         "Nov 05",
         ""
       ],
@@ -16580,6 +16608,13 @@
         "Morningstar",
         "Tech Intern",
         "Chicago, IL",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Molina Healthcare",
+        "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
+        "United States",
         "Oct 29",
         ""
       ],

@@ -41562,6 +41562,46 @@
       "source": "Vansh Repo",
       "message_id": 6506,
       "chat_id": 8743352944
+    },
+    "bb5a6213238e": {
+      "company": "Lumbermen's",
+      "role": "Software Developer Intern",
+      "location": "Grand Rapids, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6507,
+      "chat_id": 8743352944
+    },
+    "760f7d513948": {
+      "company": "T-Mobile",
+      "role": "Software Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6508,
+      "chat_id": 8743352944
+    },
+    "90a980c73716": {
+      "company": "Shield AI",
+      "role": "Software Engineer Intern Co-op",
+      "location": "Dallas, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6509,
+      "chat_id": 8743352944
+    },
+    "dc164244fd6e": {
+      "company": "\ud83d\udd25 CrowdStrike",
+      "role": "Intelligence Intern",
+      "location": "Arlington County, Arlington, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6510,
+      "chat_id": 8743352944
     }
   },
   "applied": {

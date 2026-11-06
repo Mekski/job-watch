@@ -3953,7 +3953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "1eeef6c3714e3a3842dfc69e41578e9a4fdafc6f",
+    "last_sha": "f5de3a1d30e1a80f968c5a02ccf70c082b8dcc59",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4026,6 +4026,13 @@
         "https://go.vansh.nyc/1kb?s=y"
       ],
       [
+        "RTX",
+        "Digital Technology Intern \ud83c\uddfa\ud83c\uddf8",
+        "Andover, MA",
+        "Nov 06",
+        "https://go.vansh.nyc/1l2?s=y"
+      ],
+      [
         "Rivian",
         "ML AI Motor Controls Algorithm Intern",
         "Champaign, IL",
@@ -4059,6 +4066,13 @@
         "Cincinnati, OH",
         "Nov 06",
         "https://go.vansh.nyc/1kH?s=y"
+      ],
+      [
+        "Kudu Dynamics",
+        "AI/Automation Development Intern, Assessment & Authorization \ud83c\uddfa\ud83c\uddf8",
+        "Remote United States",
+        "Nov 06",
+        "https://go.vansh.nyc/1l3?s=y"
       ],
       [
         "ITT",
@@ -7967,13 +7981,6 @@
         "https://go.vansh.nyc/Zf?s=y"
       ],
       [
-        "Molina Healthcare",
-        "Data Analytics Internship (Remote) \u2013(Undergraduate)",
-        "United States",
-        "Oct 29",
-        "https://go.vansh.nyc/11J?s=y"
-      ],
-      [
         "MITRE",
         "AI Solutions Architect Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
@@ -8434,13 +8441,6 @@
         "Wa, WA",
         "Oct 28",
         "https://go.vansh.nyc/1gX?s=y"
-      ],
-      [
-        "Clean Harbors",
-        "Software & Field Technology Intern",
-        "Deer Park, TX",
-        "Oct 28",
-        "https://go.vansh.nyc/Yj?s=y"
       ],
       [
         "CareSource",
@@ -9337,13 +9337,6 @@
         "Vancouver, Canada",
         "Oct 25",
         "https://go.vansh.nyc/OH?s=y"
-      ],
-      [
-        "Highmark Health",
-        "Provider Delivery Software Engineer Intern",
-        "Remote United States",
-        "Oct 25",
-        "https://go.vansh.nyc/T8?s=y"
       ],
       [
         "Hewlett Packard Enterprise",
@@ -16613,6 +16606,13 @@
       ],
       [
         "Molina Healthcare",
+        "Data Analytics Internship (Remote) \u2013(Undergraduate)",
+        "United States",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Molina Healthcare",
         "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
         "United States",
         "Oct 29",
@@ -16727,6 +16727,13 @@
         "Daimler Truck",
         "Software Release Management Intern",
         "Portland, OR",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Clean Harbors",
+        "Software & Field Technology Intern",
+        "Deer Park, TX",
         "Oct 28",
         ""
       ],
@@ -17175,6 +17182,13 @@
         "Niantic Spatial",
         "Software Engineer Intern, Native SDK & Mobile Platforms",
         "San Francisco, CA",
+        "Oct 25",
+        ""
+      ],
+      [
+        "Highmark Health",
+        "Provider Delivery Software Engineer Intern",
+        "Remote United States",
         "Oct 25",
         ""
       ],

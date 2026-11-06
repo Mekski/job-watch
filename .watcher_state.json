@@ -3946,7 +3946,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "1d794e707ae86b1258994d262dea5ed01020f38a",
+    "last_sha": "f29cdc23cc5dc5a03a004a8c92da6ea804f27957",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -3968,6 +3968,13 @@
         "San Jose, CA",
         "Nov 06",
         "https://go.vansh.nyc/1k2?s=y"
+      ],
+      [
+        "The New York Times",
+        "Backend Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1lg?s=y"
       ],
       [
         "The New York Times",
@@ -4892,13 +4899,6 @@
         "Toronto, Canada",
         "Nov 04",
         "https://go.vansh.nyc/1gq?s=y"
-      ],
-      [
-        "Peraton",
-        "Cyber Research Intern",
-        "**4 locations**West Lafayette, IN Basking Ridge, NJ Silver Spring, MD Bedford, NH",
-        "Nov 04",
-        "https://go.vansh.nyc/1hZ?s=y"
       ],
       [
         "PayPal",
@@ -16132,6 +16132,13 @@
         "Plusgrade",
         "UI/UX Design and Frontend Engineer Intern",
         "Toronto, Canada",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Peraton",
+        "Cyber Research Intern",
+        "**4 locations**West Lafayette, IN Basking Ridge, NJ Silver Spring, MD Bedford, NH",
         "Nov 04",
         ""
       ],

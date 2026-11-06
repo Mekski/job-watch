@@ -16520,7 +16520,7 @@
       "term": "Summer 2027",
       "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3687,
+      "message_id": 6613,
       "chat_id": 8743352944
     },
     "9649de083fc9": {
@@ -42541,6 +42541,66 @@
       "apply_url": "https://go.vansh.nyc/1ly?s=y",
       "source": "Vansh Repo",
       "message_id": 6606,
+      "chat_id": 8743352944
+    },
+    "736574401d34": {
+      "company": "Deeplocal",
+      "role": "Creative Technology Intern",
+      "location": "Pittsburgh, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/deeplocal/jobs/8360330?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6607,
+      "chat_id": 8743352944
+    },
+    "832aefa9b819": {
+      "company": "The New York Times",
+      "role": "Backend Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6608,
+      "chat_id": 8743352944
+    },
+    "4cc1be11df5d": {
+      "company": "The New York Times",
+      "role": "Android Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6609,
+      "chat_id": 8743352944
+    },
+    "4dc0a83f1cd4": {
+      "company": "The New York Times",
+      "role": "Full-Stack Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6610,
+      "chat_id": 8743352944
+    },
+    "f675b7a878d6": {
+      "company": "The New York Times",
+      "role": "Frontend Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6611,
+      "chat_id": 8743352944
+    },
+    "75e04e764bca": {
+      "company": "The New York Times",
+      "role": "iOS Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6612,
       "chat_id": 8743352944
     }
   },

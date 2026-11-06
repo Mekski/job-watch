@@ -3995,7 +3995,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2f465334ddcdbf498719e55c53a3b462a7873724",
+    "last_sha": "9ec752c34415f3383b3f6c4906f754b8d7e717c8",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4563,13 +4563,6 @@
         "Toronto, Canada",
         "Nov 05",
         "https://go.vansh.nyc/1hJ?s=y"
-      ],
-      [
-        "Genesys",
-        "Software Engineering Intern",
-        "Indianapolis, IN",
-        "Nov 05",
-        "https://go.vansh.nyc/1hK?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -5207,13 +5200,6 @@
         "Toronto, Canada",
         "Nov 03",
         "https://go.vansh.nyc/1fV?s=y"
-      ],
-      [
-        "RGA Reinsurance Company",
-        "Data Analyst Intern",
-        "Chesterfield, MO",
-        "Nov 03",
-        "https://go.vansh.nyc/1dL?s=y"
       ],
       [
         "RAVE Aerospace",
@@ -7230,13 +7216,6 @@
         "Warren, NJ",
         "Oct 31",
         "https://go.vansh.nyc/18M?s=y"
-      ],
-      [
-        "DivcoWest",
-        "AI Intern",
-        "San Francisco, CA",
-        "Oct 31",
-        "https://go.vansh.nyc/18L?s=y"
       ],
       [
         "AeroVect",
@@ -16115,6 +16094,13 @@
         ""
       ],
       [
+        "Genesys",
+        "Software Engineering Intern",
+        "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
         "RTX",
         "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
         "Cedar Rapids, IA",
@@ -16153,6 +16139,13 @@
         "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "West Valley City, UT",
+        "Nov 03",
+        ""
+      ],
+      [
+        "RGA Reinsurance Company",
+        "Data Analyst Intern",
+        "Chesterfield, MO",
         "Nov 03",
         ""
       ],
@@ -16426,6 +16419,13 @@
         "HPS Investment Partners",
         "Technology Intern, App Dev",
         "New York, NY",
+        "Oct 31",
+        ""
+      ],
+      [
+        "DivcoWest",
+        "AI Intern",
+        "San Francisco, CA",
         "Oct 31",
         ""
       ],

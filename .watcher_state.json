@@ -4023,7 +4023,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "efd190957765b2cb2461521b43c4199eabb4fe6c",
+    "last_sha": "95bd3e601ab7b6f104906a218ebe430813a8aab3",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4052,6 +4052,20 @@
         "New York, NY",
         "Nov 06",
         "https://go.vansh.nyc/1km?s=y"
+      ],
+      [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        "https://go.vansh.nyc/1kB?s=y"
+      ],
+      [
+        "T-Mobile",
+        "AI Engineering Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        "https://go.vansh.nyc/1kC?s=y"
       ],
       [
         "Shure",
@@ -9141,13 +9155,6 @@
         "Huntsville, AL",
         "Oct 26",
         "https://go.vansh.nyc/UC?s=y"
-      ],
-      [
-        "L3Harris Technologies",
-        "Software Engineer Intern",
-        "Rockwall, TX",
-        "Oct 26",
-        "https://go.vansh.nyc/Tb?s=y"
       ],
       [
         "Hive Financial Systems",
@@ -17035,6 +17042,13 @@
         "Leidos",
         "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
         "Pearl Harbor, HI",
+        "Oct 26",
+        ""
+      ],
+      [
+        "L3Harris Technologies",
+        "Software Engineer Intern",
+        "Rockwall, TX",
         "Oct 26",
         ""
       ],

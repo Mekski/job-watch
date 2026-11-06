@@ -4023,7 +4023,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2ccba11c612835bccd115dbc913a75a6e755657e",
+    "last_sha": "a4e5f5a8d46cf998281a7f9777b81bcb959f832c",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4075,6 +4075,27 @@
         "https://go.vansh.nyc/1kq?s=y"
       ],
       [
+        "Invitation-charter",
+        "Data Science Intern",
+        "Greenwood Village, CO",
+        "Nov 06",
+        "https://go.vansh.nyc/1ku?s=y"
+      ],
+      [
+        "Invitation-charter",
+        "Software Engineer Intern",
+        "Englewood, CO",
+        "Nov 06",
+        "https://go.vansh.nyc/1kv?s=y"
+      ],
+      [
+        "Invitation-charter",
+        "Data Developer Intern",
+        "Greenwood Village, CO",
+        "Nov 06",
+        "https://go.vansh.nyc/1kw?s=y"
+      ],
+      [
         "Intercontinental Exchange, Inc.",
         "Infrastructure Observability Intern",
         "Jacksonville, FL",
@@ -4094,13 +4115,6 @@
         "Jacksonville, FL",
         "Nov 06",
         "https://go.vansh.nyc/1k7?s=y"
-      ],
-      [
-        "Hitachi",
-        "Full Stack Developer Intern",
-        "Dallas, TX",
-        "Nov 06",
-        "https://go.vansh.nyc/1kr?s=y"
       ],
       [
         "Envista Forensics",
@@ -4276,6 +4290,13 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1hQ?s=y"
+      ],
+      [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "Overland Park, KS",
+        "Nov 05",
+        "https://go.vansh.nyc/1kt?s=y"
       ],
       [
         "Sierra Nevada Corporation",
@@ -5179,13 +5200,6 @@
         "Chesterfield, MO",
         "Nov 03",
         "https://go.vansh.nyc/1dL?s=y"
-      ],
-      [
-        "Republic Airways",
-        "Data Analytics Intern \ud83d\udec2",
-        "Carmel, IN",
-        "Nov 03",
-        "https://go.vansh.nyc/1fq?s=y"
       ],
       [
         "RAVE Aerospace",
@@ -7750,13 +7764,6 @@
         "https://go.vansh.nyc/12F?s=y"
       ],
       [
-        "Cadillac Formula 1 Team",
-        "Aerodynamics AI Industrial Placement Intern",
-        "Indianapolis, IN",
-        "Oct 30",
-        "https://go.vansh.nyc/11b?s=y"
-      ],
-      [
         "Braze",
         "Software Engineering Intern",
         "New York, NY",
@@ -8147,13 +8154,6 @@
         "Mississauga, Canada",
         "Oct 28",
         "https://go.vansh.nyc/ZV?s=y"
-      ],
-      [
-        "Sonos",
-        "Software Engineering Intern \ud83d\udec2",
-        "Boston, MA",
-        "Oct 28",
-        "https://go.vansh.nyc/XB?s=y"
       ],
       [
         "Sherwin-Williams",
@@ -14337,13 +14337,6 @@
         "https://go.vansh.nyc/1eG?s=y"
       ],
       [
-        "Avis Budget Group",
-        "Transformation Engineer Intern, Accelerate",
-        "Parsippany-Troy Hills, NJ",
-        "Sep 10",
-        "https://go.vansh.nyc/ML?s=y"
-      ],
-      [
         "The Toro Company",
         "Hardware and Software Engineering Intern",
         "Perry, OK",
@@ -16108,6 +16101,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Hitachi",
+        "Full Stack Developer Intern",
+        "Dallas, TX",
+        "Nov 06",
+        ""
+      ],
+      [
         "RR Donnelley",
         "IT Software Integration & Automation Intern",
         "Minneapolis, MN",
@@ -16160,6 +16160,13 @@
         "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "West Valley City, UT",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Republic Airways",
+        "Data Analytics Intern \ud83d\udec2",
+        "Carmel, IN",
         "Nov 03",
         ""
       ],
@@ -16535,6 +16542,13 @@
         ""
       ],
       [
+        "Cadillac Formula 1 Team",
+        "Aerodynamics AI Industrial Placement Intern",
+        "Indianapolis, IN",
+        "Oct 30",
+        ""
+      ],
+      [
         "C&S Wholesale Grocers",
         "IS Intern, Data Analytics & Data Science",
         "Edison, NJ",
@@ -16636,6 +16650,13 @@
         "T-Mobile",
         "Associate Product Manager Intern",
         "Overland Park, KS",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Sonos",
+        "Software Engineering Intern \ud83d\udec2",
+        "Boston, MA",
         "Oct 28",
         ""
       ],
@@ -19009,6 +19030,13 @@
         "The MJ Companies",
         "Enterprise Data Intern",
         "Carmel, IN",
+        "Sep 10",
+        ""
+      ],
+      [
+        "Avis Budget Group",
+        "Transformation Engineer Intern, Accelerate",
+        "Parsippany-Troy Hills, NJ",
         "Sep 10",
         ""
       ],

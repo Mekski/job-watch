@@ -3953,7 +3953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e8815e5acbf786d31a877a4e0e448556a4d53db5",
+    "last_sha": "1d794e707ae86b1258994d262dea5ed01020f38a",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4059,6 +4059,13 @@
         "Niles, IL",
         "Nov 06",
         "https://go.vansh.nyc/1kb?s=y"
+      ],
+      [
+        "Samsung",
+        "Care AI Data Analytic Intern",
+        "Plano, TX",
+        "Nov 06",
+        "https://go.vansh.nyc/1le?s=y"
       ],
       [
         "RTX",
@@ -4173,11 +4180,25 @@
         "https://go.vansh.nyc/1kf?s=y"
       ],
       [
+        "CrowdStrike",
+        "Professional Services Pathfinder Intern, Red Team",
+        "Arlington, VA",
+        "Nov 06",
+        "https://go.vansh.nyc/1lc?s=y"
+      ],
+      [
         "Cook Group",
         "Applied AI & Full Stack Development Intern",
         "Bloomington, IN",
         "Nov 06",
         "https://go.vansh.nyc/1k3?s=y"
+      ],
+      [
+        "Baird",
+        "IT Data & Analytics Intern",
+        "Milwaukee, WI Madison, WI",
+        "Nov 06",
+        "https://go.vansh.nyc/1lb?s=y"
       ],
       [
         "Alaska Airlines",
@@ -7265,13 +7286,6 @@
         "South San Francisco, CA",
         "Oct 30",
         "https://go.vansh.nyc/13y?s=y"
-      ],
-      [
-        "WebFX",
-        "Web Developer Intern",
-        "Harrisburg, PA",
-        "Oct 30",
-        "https://go.vansh.nyc/13v?s=y"
       ],
       [
         "Wabtec",
@@ -16496,6 +16510,13 @@
         "West Bend Insurance",
         "Data Scientist Intern",
         "West Bend, WI",
+        "Oct 30",
+        ""
+      ],
+      [
+        "WebFX",
+        "Web Developer Intern",
+        "Harrisburg, PA",
         "Oct 30",
         ""
       ],

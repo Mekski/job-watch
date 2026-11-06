@@ -3995,7 +3995,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e81ea16317b0c3c5568ee74d8ae1915712f5b165",
+    "last_sha": "467185f6a7dcdffc990cff853bc9be731f9e463d",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4892,13 +4892,6 @@
         "Gresham, OR",
         "Nov 04",
         "https://go.vansh.nyc/1gQ?s=y"
-      ],
-      [
-        "Lumbermen's",
-        "Software Developer Intern",
-        "Grand Rapids, MI",
-        "Nov 04",
-        "https://go.vansh.nyc/1iS?s=y"
       ],
       [
         "Little Caesars Enterprises",
@@ -8534,34 +8527,6 @@
         "https://go.vansh.nyc/Xy?s=y"
       ],
       [
-        "Visa",
-        "Sophomore Program Software Engineer Intern \ud83d\udec2",
-        "Austin, TX",
-        "Oct 27",
-        "https://go.vansh.nyc/VC?s=y"
-      ],
-      [
-        "Visa",
-        "Sophomore Program Software Engineer Intern \ud83d\udec2",
-        "Bellevue, WA",
-        "Oct 27",
-        "https://go.vansh.nyc/Vx?s=y"
-      ],
-      [
-        "Visa",
-        "Sophomore Program Software Engineer Intern \ud83d\udec2",
-        "Foster City, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Vy?s=y"
-      ],
-      [
-        "Visa",
-        "Software Engineer Intern \ud83d\udec2",
-        "Ashburn, VA",
-        "Oct 27",
-        "https://go.vansh.nyc/Vz?s=y"
-      ],
-      [
         "Toshiba International Corporation",
         "Firmware Engineer Intern",
         "San Jose, CA",
@@ -9022,34 +8987,6 @@
         "Seattle, WA",
         "Oct 26",
         "https://go.vansh.nyc/Tk?s=y"
-      ],
-      [
-        "Visa",
-        "Software Engineer Intern \ud83d\udec2",
-        "Foster City, CA",
-        "Oct 26",
-        "https://go.vansh.nyc/Xe?s=y"
-      ],
-      [
-        "Visa",
-        "Software Engineer Intern \ud83d\udec2",
-        "Austin, TX",
-        "Oct 26",
-        "https://go.vansh.nyc/Xf?s=y"
-      ],
-      [
-        "Visa",
-        "Network and Security Engineering Intern \ud83d\udec2",
-        "Ashburn, VA",
-        "Oct 26",
-        "https://go.vansh.nyc/Xg?s=y"
-      ],
-      [
-        "Visa",
-        "Sophomore Program Software Engineer Intern",
-        "Ashburn, VA",
-        "Oct 26",
-        "https://go.vansh.nyc/VE?s=y"
       ],
       [
         "Uber",
@@ -12860,13 +12797,6 @@
         "https://go.vansh.nyc/g4?s=y"
       ],
       [
-        "Quantum Signal AI",
-        "Software Engineer Intern, Tools and Prototypes",
-        "Saline, MI",
-        "Oct 05",
-        "https://go.vansh.nyc/EP?s=y"
-      ],
-      [
         "Oceaneering",
         "3D Subsea Simulator Software Intern",
         "Austin, TX",
@@ -16178,6 +16108,13 @@
         ""
       ],
       [
+        "Lumbermen's",
+        "Software Developer Intern",
+        "Grand Rapids, MI",
+        "Nov 04",
+        ""
+      ],
+      [
         "Cigna",
         "Cybersecurity Intern, Technology Development Program",
         "Bloomfield, CT St. Louis, MO",
@@ -16809,6 +16746,34 @@
       ],
       [
         "Visa",
+        "Sophomore Program Software Engineer Intern \ud83d\udec2",
+        "Bellevue, WA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Visa",
+        "Sophomore Program Software Engineer Intern \ud83d\udec2",
+        "Foster City, CA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Visa",
+        "Software Engineer Intern \ud83d\udec2",
+        "Ashburn, VA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Visa",
+        "Sophomore Program Software Engineer Intern \ud83d\udec2",
+        "Austin, TX",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Visa",
         "Data Science Intern, Data and AI Team",
         "Foster City, CA",
         "Oct 27",
@@ -16931,6 +16896,34 @@
         "Database Engineer Intern",
         "Seattle, WA East Palo Alto, CA",
         "Oct 27",
+        ""
+      ],
+      [
+        "Visa",
+        "Sophomore Program Software Engineer Intern",
+        "Ashburn, VA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Visa",
+        "Software Engineer Intern \ud83d\udec2",
+        "Foster City, CA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Visa",
+        "Software Engineer Intern \ud83d\udec2",
+        "Austin, TX",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Visa",
+        "Network and Security Engineering Intern \ud83d\udec2",
+        "Ashburn, VA",
+        "Oct 26",
         ""
       ],
       [
@@ -18687,6 +18680,13 @@
         "RTX",
         "FPGA Engineer Intern",
         "McKinney, TX",
+        "Oct 05",
+        ""
+      ],
+      [
+        "Quantum Signal AI",
+        "Software Engineer Intern, Tools and Prototypes",
+        "Saline, MI",
         "Oct 05",
         ""
       ],

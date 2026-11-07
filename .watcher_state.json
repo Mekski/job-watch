@@ -3932,7 +3932,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "1affbb0239db583fab4130f307f1b9b37684f05e",
+    "last_sha": "fb0729be9787eba93c1d5414d86492e5ed49bad8",
     "rows": [
       [
         "Zoox",
@@ -4222,6 +4222,20 @@
         "https://go.vansh.nyc/1k7?s=y"
       ],
       [
+        "IDEMIA",
+        "Service Platform Engineering Intern",
+        "Brentwood, TN",
+        "Nov 06",
+        "https://go.vansh.nyc/1m1?s=y"
+      ],
+      [
+        "Highgate",
+        "Data Services Intern",
+        "Irving, TX",
+        "Nov 06",
+        "https://go.vansh.nyc/1m0?s=y"
+      ],
+      [
         "Envista Forensics",
         "Digital Forensics Intern",
         "Morrisville, NC",
@@ -4269,6 +4283,13 @@
         "Bloomington, IN",
         "Nov 06",
         "https://go.vansh.nyc/1k3?s=y"
+      ],
+      [
+        "Barrios",
+        "Data and Computer Eng/Sci Intern \ud83c\uddfa\ud83c\uddf8",
+        "Houston, TX",
+        "Nov 06",
+        "https://go.vansh.nyc/1lZ?s=y"
       ],
       [
         "Baird",
@@ -11425,13 +11446,6 @@
         "https://go.vansh.nyc/b1?s=y"
       ],
       [
-        "CenturyLink",
-        "Data Intern, Analytics & Decision Science",
-        "Remote in USA",
-        "Oct 16",
-        "https://go.vansh.nyc/b0?s=y"
-      ],
-      [
         "Boston Scientific",
         "AI/Data Science Intern",
         "Maple Grove, MN",
@@ -12627,6 +12641,13 @@
         "Boulder, CO",
         "Oct 07",
         "https://go.vansh.nyc/g9?s=y"
+      ],
+      [
+        "Upstart",
+        "Applied Scientist Intern",
+        "Remote United States",
+        "Oct 07",
+        "https://go.vansh.nyc/1m4?s=y"
       ],
       [
         "Tenstorrent",
@@ -15245,6 +15266,20 @@
         "Chicago, IL",
         "Aug 16",
         "https://go.vansh.nyc/6M?s=y"
+      ],
+      [
+        "Aechelon Technology",
+        "Junior Software Engineer Intern",
+        "Overland Park, KS",
+        "Aug 13",
+        "https://go.vansh.nyc/1m2?s=y"
+      ],
+      [
+        "Aechelon Technology",
+        "Junior Software Engineer Intern, RTK",
+        "Farmer's Branch, TX",
+        "Aug 13",
+        "https://go.vansh.nyc/1m3?s=y"
       ],
       [
         "DV Group",
@@ -18491,6 +18526,13 @@
         "ChargePoint",
         "IT & Network Intern",
         "Campbell, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "CenturyLink",
+        "Data Intern, Analytics & Decision Science",
+        "Remote in USA",
         "Oct 16",
         ""
       ],

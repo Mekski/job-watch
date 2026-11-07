@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6466,
+      "message_id": 6631,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -42691,6 +42691,86 @@
       "apply_url": "https://go.vansh.nyc/1lE?s=y",
       "source": "Vansh Repo",
       "message_id": 6622,
+      "chat_id": 8743352944
+    },
+    "42da12c0eefd": {
+      "company": "Enovation Controls",
+      "role": "Manufacturing Software Engineer Intern",
+      "location": "Tulsa, OK",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6623,
+      "chat_id": 8743352944
+    },
+    "de144004352a": {
+      "company": "T-Mobile",
+      "role": "AI Engineering Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6624,
+      "chat_id": 8743352944
+    },
+    "43941908933b": {
+      "company": "T-Mobile",
+      "role": "AI Engineering Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6625,
+      "chat_id": 8743352944
+    },
+    "dfd0789ef973": {
+      "company": "T-Mobile",
+      "role": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6626,
+      "chat_id": 8743352944
+    },
+    "1f6aa92afebf": {
+      "company": "T-Mobile",
+      "role": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6627,
+      "chat_id": 8743352944
+    },
+    "893f76960a3a": {
+      "company": "\ud83d\udd25 Notion",
+      "role": "Software Engineer Intern - iOS",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6628,
+      "chat_id": 8743352944
+    },
+    "a5a4c6661674": {
+      "company": "\ud83d\udd25 Notion",
+      "role": "Software Engineer Intern - Frontend",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6629,
+      "chat_id": 8743352944
+    },
+    "2e5319605b63": {
+      "company": "L.L.Bean",
+      "role": "Software Developer Intern",
+      "location": "Freeport, ME",
+      "term": "Summer 2027",
+      "apply_url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6630,
       "chat_id": 8743352944
     }
   },

@@ -3813,7 +3813,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "fca7cc6ff4e520bb5ed9595aa78a865e2bd0b655",
+    "last_sha": "aebf090c63986535082581bfc4beb4e03558382a",
     "rows": [
       [
         "Springs Window Fashions",
@@ -3893,6 +3893,13 @@
         "https://go.vansh.nyc/1k9?s=y"
       ],
       [
+        "West Bend Insurance",
+        "Data Solution Engineer Intern",
+        "West Bend, WI",
+        "Nov 06",
+        "https://go.vansh.nyc/1my?s=y"
+      ],
+      [
         "W.R. Berkley",
         "Software Developer Intern, .NET",
         "Urbandale, IA",
@@ -3905,6 +3912,13 @@
         "El Segundo, CA",
         "Nov 06",
         "https://go.vansh.nyc/1lP?s=y"
+      ],
+      [
+        "United Wholesale Mortgage",
+        "Technology Intern Program",
+        "Remote United States",
+        "Nov 06",
+        "https://go.vansh.nyc/1mx?s=y"
       ],
       [
         "Trimble",
@@ -4026,6 +4040,13 @@
         "https://go.vansh.nyc/1kb?s=y"
       ],
       [
+        "SDSU Research Foundation",
+        "Undergraduate Student Intern, Port Contamination Project",
+        "San Diego, CA",
+        "Nov 06",
+        "https://go.vansh.nyc/1mw?s=y"
+      ],
+      [
         "Samsung",
         "Care AI Data Analytic Intern",
         "Plano, TX",
@@ -4040,11 +4061,32 @@
         "https://go.vansh.nyc/1l2?s=y"
       ],
       [
+        "Rockefeller Capital Management",
+        "Analyst Intern, Core Platforms",
+        "Hamilton, NJ",
+        "Nov 06",
+        "https://go.vansh.nyc/1mu?s=y"
+      ],
+      [
+        "Rockefeller Capital Management",
+        "Analyst Intern, Information Security",
+        "New York, NY",
+        "Nov 06",
+        "https://go.vansh.nyc/1mv?s=y"
+      ],
+      [
         "Rivian",
         "ML AI Motor Controls Algorithm Intern",
         "Champaign, IL",
         "Nov 06",
         "https://go.vansh.nyc/1kS?s=y"
+      ],
+      [
+        "Rambus",
+        "Digital Design Intern",
+        "Johns Creek, GA",
+        "Nov 06",
+        "https://go.vansh.nyc/1mt?s=y"
       ],
       [
         "Qualcomm",
@@ -4185,6 +4227,13 @@
         "Irving, TX",
         "Nov 06",
         "https://go.vansh.nyc/1m0?s=y"
+      ],
+      [
+        "Group 1 Automotive",
+        "IT Intern",
+        "Houston, TX",
+        "Nov 06",
+        "https://go.vansh.nyc/1ms?s=y"
       ],
       [
         "Envista Forensics",
@@ -4416,6 +4465,13 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1hQ?s=y"
+      ],
+      [
+        "T-Mobile",
+        "Software Engineer Intern",
+        "Bellevue, WA",
+        "Nov 05",
+        "https://go.vansh.nyc/1mC?s=y"
       ],
       [
         "T-Mobile",
@@ -4664,10 +4720,24 @@
       ],
       [
         "L.L.Bean",
+        "Business Analyst/Data Analyst Intern",
+        "Freeport, ME",
+        "Nov 05",
+        "https://go.vansh.nyc/1mD?s=y"
+      ],
+      [
+        "L.L.Bean",
         "Quality Assurance Analyst Intern",
         "Freeport, ME",
         "Nov 05",
         "https://go.vansh.nyc/1lF?s=y"
+      ],
+      [
+        "KLA",
+        "Software Intern",
+        "Milpitas, CA",
+        "Nov 05",
+        "https://go.vansh.nyc/1mB?s=y"
       ],
       [
         "Kimball Electronics",
@@ -5158,6 +5228,20 @@
         "Deerfield Beach, FL",
         "Nov 04",
         "https://go.vansh.nyc/1iI?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Software Engineering Intern",
+        "Lakewood, OH",
+        "Nov 04",
+        "https://go.vansh.nyc/1mz?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Software Engineering Intern",
+        "Manassas, VA",
+        "Nov 04",
+        "https://go.vansh.nyc/1mA?s=y"
       ],
       [
         "General Dynamics Mission Systems",
@@ -11936,13 +12020,6 @@
         "https://go.vansh.nyc/8N?s=y"
       ],
       [
-        "Pebl",
-        "Software Engineering Intern",
-        "Toronto, Canada",
-        "Oct 13",
-        "https://go.vansh.nyc/Cc?s=y"
-      ],
-      [
         "Medpace",
         "Python Developer Intern",
         "Cincinnati, OH",
@@ -13831,6 +13908,13 @@
         "**4 locations**Austin, TX Milford, MI Mountain View, CA Warren, MI",
         "Sep 20",
         "https://go.vansh.nyc/IT?s=y"
+      ],
+      [
+        "Conifer Health Solutions",
+        "BI Developer Intern",
+        "Dallas, TX",
+        "Sep 20",
+        "https://go.vansh.nyc/1mE?s=y"
       ],
       [
         "CAE",
@@ -18743,6 +18827,13 @@
         "Phillips 66",
         "ERI Analytical Solutions Intern",
         "Bartlesville, OK",
+        "Oct 13",
+        ""
+      ],
+      [
+        "Pebl",
+        "Software Engineering Intern",
+        "Toronto, Canada",
         "Oct 13",
         ""
       ],

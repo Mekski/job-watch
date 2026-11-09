@@ -3561,7 +3561,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d670aacdb5299dde5d8661dc60a3f5519bfa24f9",
+    "last_sha": "0bd3da60cb726242f97fa72866e2f4359aedd81b",
     "rows": [
       [
         "Zoetis",
@@ -3611,6 +3611,20 @@
         "Cambridge, MA",
         "Nov 09",
         "https://go.vansh.nyc/1oI?s=y"
+      ],
+      [
+        "The New York Times",
+        "Data Analyst Intern",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1pm?s=y"
+      ],
+      [
+        "The New York Times",
+        "ML Scientist Intern",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1pn?s=y"
       ],
       [
         "Scout Motors Inc.",
@@ -3730,6 +3744,13 @@
         "Laurel, MD",
         "Nov 09",
         "https://go.vansh.nyc/1oQ?s=y"
+      ],
+      [
+        "Illumio",
+        "Engineering Intern, SRE",
+        "Sunnyvale, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1pl?s=y"
       ],
       [
         "i3",
@@ -5641,13 +5662,6 @@
         "Boston, MA",
         "Nov 03",
         "https://go.vansh.nyc/1dK?s=y"
-      ],
-      [
-        "Arch Capital Group",
-        "Originations Portal IT Intern",
-        "Greensboro, NC",
-        "Nov 03",
-        "https://go.vansh.nyc/1et?s=y"
       ],
       [
         "American Express",
@@ -10800,13 +10814,6 @@
         "San Jose, CA Folsom, CA",
         "Oct 19",
         "https://go.vansh.nyc/d7?s=y"
-      ],
-      [
-        "Micron Technology",
-        "Design Engineer Intern, HBM",
-        "Richardson, TX",
-        "Oct 19",
-        "https://go.vansh.nyc/bq?s=y"
       ],
       [
         "Lyft",
@@ -16760,6 +16767,13 @@
       ],
       [
         "Arch Capital Group",
+        "Originations Portal IT Intern",
+        "Greensboro, NC",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Arch Capital Group",
         "Data and Analytics Intern",
         "Farmington, CT",
         "Nov 03",
@@ -18694,6 +18708,13 @@
         "NetApp",
         "Software Engineer Intern",
         "Wichita, KS",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "Design Engineer Intern, HBM",
+        "Richardson, TX",
         "Oct 19",
         ""
       ],

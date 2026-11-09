@@ -44412,6 +44412,36 @@
       "source": "Vansh Repo",
       "message_id": 6800,
       "chat_id": 8743352944
+    },
+    "6b0ac524a767": {
+      "company": "The New York Times",
+      "role": "Data Analyst Intern",
+      "location": "New York, NY",
+      "term": "Nov 09",
+      "apply_url": "https://go.vansh.nyc/1pm?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6801,
+      "chat_id": 8743352944
+    },
+    "cf855f287c3e": {
+      "company": "The New York Times",
+      "role": "ML Scientist Intern",
+      "location": "New York, NY",
+      "term": "Nov 09",
+      "apply_url": "https://go.vansh.nyc/1pn?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6802,
+      "chat_id": 8743352944
+    },
+    "063856cbaa3e": {
+      "company": "Illumio",
+      "role": "Engineering Intern, SRE",
+      "location": "Sunnyvale, CA",
+      "term": "Nov 09",
+      "apply_url": "https://go.vansh.nyc/1pl?s=y",
+      "source": "Vansh Repo",
+      "message_id": 6803,
+      "chat_id": 8743352944
     }
   },
   "applied": {

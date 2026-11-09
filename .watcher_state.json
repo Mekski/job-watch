@@ -3575,8 +3575,22 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7c681d5a5ebca65a3b8752ddcb5b38dc5786e370",
+    "last_sha": "cc20b78b22ba8ed89c269e672cc91887363963d8",
     "rows": [
+      [
+        "Zoetis",
+        "IT/OT Security Intern",
+        "Kalamazoo, MI",
+        "Nov 09",
+        "https://go.vansh.nyc/1op?s=y"
+      ],
+      [
+        "Paccar",
+        "Data Analyst Intern",
+        "Chillicothe, OH",
+        "Nov 09",
+        "https://go.vansh.nyc/1oo?s=y"
+      ],
       [
         "Cisco",
         "Software Engineer Intern, Full-Stack / Backend I",
@@ -3585,11 +3599,32 @@
         "https://go.vansh.nyc/1ok?s=y"
       ],
       [
+        "CACI",
+        "Cyber Security Intern",
+        "Sterling, VA",
+        "Nov 09",
+        "https://go.vansh.nyc/1oq?s=y"
+      ],
+      [
         "National Interstate Insurance",
         "Data Scientist Intern \ud83d\udec2",
         "Lakeland, FL",
         "Nov 08",
         "https://go.vansh.nyc/1ni?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Full-Stack Software Engineer Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "Nov 08",
+        "https://go.vansh.nyc/1om?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Full-Stack Application Development Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "Nov 08",
+        "https://go.vansh.nyc/1on?s=y"
       ],
       [
         "Springs Window Fashions",
@@ -4656,13 +4691,6 @@
         "https://go.vansh.nyc/1iF?s=y"
       ],
       [
-        "Concord Advice",
-        "Data Scientist Intern",
-        "Florham Park, NJ",
-        "Nov 05",
-        "https://go.vansh.nyc/1ir?s=y"
-      ],
-      [
         "Cintas",
         "IT Engineer Intern, Customer Channels",
         "Mason, OH",
@@ -4955,13 +4983,6 @@
         "Nashville, TN",
         "Nov 04",
         "https://go.vansh.nyc/1gA?s=y"
-      ],
-      [
-        "Kudu Dynamics",
-        "Software Engineering & AI Intern \ud83c\uddfa\ud83c\uddf8",
-        "**4 locations**Remote United States Odenton, MD Shiloh, IL",
-        "Nov 04",
-        "https://go.vansh.nyc/1gL?s=y"
       ],
       [
         "Keysight Technologies",
@@ -16444,6 +16465,13 @@
         ""
       ],
       [
+        "Concord Advice",
+        "Data Scientist Intern",
+        "Florham Park, NJ",
+        "Nov 05",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "Systems Engineer Intern",
         "Germantown, MD",
@@ -16524,6 +16552,13 @@
         "Lumbermen's",
         "Software Developer Intern",
         "Grand Rapids, MI",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Kudu Dynamics",
+        "Software Engineering & AI Intern \ud83c\uddfa\ud83c\uddf8",
+        "**4 locations**Remote United States Odenton, MD Shiloh, IL",
         "Nov 04",
         ""
       ],

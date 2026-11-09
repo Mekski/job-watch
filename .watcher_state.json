@@ -3568,7 +3568,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e9671a2067397461b6aa6c76822b58fc7749b368",
+    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
     "rows": [
       [
         "National Interstate Insurance",
@@ -4887,13 +4887,6 @@
         "https://go.vansh.nyc/1hz?s=y"
       ],
       [
-        "Parsons",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Huntsville, AL",
-        "Nov 04",
-        "https://go.vansh.nyc/1gI?s=y"
-      ],
-      [
         "Paccar",
         "Data Engineer Intern",
         "Denton, TX",
@@ -5209,13 +5202,6 @@
         "https://go.vansh.nyc/1gs?s=y"
       ],
       [
-        "Parsons",
-        "AI/ML Engineer Intern",
-        "Centreville, VA",
-        "Nov 03",
-        "https://go.vansh.nyc/1gF?s=y"
-      ],
-      [
         "Nex",
         "Software Engineer Intern, Sports & Fitness Game Development",
         "San Jose, CA",
@@ -5410,13 +5396,6 @@
         "La Crosse, WI",
         "Nov 03",
         "https://go.vansh.nyc/1f1?s=y"
-      ],
-      [
-        "CareSource",
-        "Data Science Intern",
-        "Remote United States",
-        "Nov 03",
-        "https://go.vansh.nyc/1dQ?s=y"
       ],
       [
         "BlueCross BlueShield of Nebraska",
@@ -8378,13 +8357,6 @@
         "Wa, WA",
         "Oct 28",
         "https://go.vansh.nyc/1gX?s=y"
-      ],
-      [
-        "CareSource",
-        "Full Stack AI Development Intern",
-        "Remote United States",
-        "Oct 28",
-        "https://go.vansh.nyc/106?s=y"
       ],
       [
         "Broadridge",
@@ -16507,6 +16479,13 @@
         ""
       ],
       [
+        "Parsons",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Huntsville, AL",
+        "Nov 04",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Software Test Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Roy, UT",
@@ -16584,6 +16563,13 @@
         ""
       ],
       [
+        "Parsons",
+        "AI/ML Engineer Intern",
+        "Centreville, VA",
+        "Nov 03",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "S/W Embedded Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Sykesville, MD",
@@ -16643,6 +16629,13 @@
         "CFS Energy",
         "Software Engineer Intern",
         "Devens, MA",
+        "Nov 03",
+        ""
+      ],
+      [
+        "CareSource",
+        "Data Science Intern",
+        "Remote United States",
         "Nov 03",
         ""
       ],
@@ -17245,6 +17238,13 @@
         "Centene Corporation",
         "AI Engineer Intern",
         "United States",
+        "Oct 28",
+        ""
+      ],
+      [
+        "CareSource",
+        "Full Stack AI Development Intern",
+        "Remote United States",
         "Oct 28",
         ""
       ],

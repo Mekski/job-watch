@@ -3617,7 +3617,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e06a2f6badc398642ae7a46b90838eacaf03c7b2",
+    "last_sha": "6fc722510989a9afdb48d8add2a5e69eff8d7c1e",
     "rows": [
       [
         "National Interstate Insurance",
@@ -5606,20 +5606,6 @@
         "Montreal, Canada",
         "Nov 02",
         "https://go.vansh.nyc/19b?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineering Intern",
-        "Philadelphia, PA",
-        "Nov 02",
-        "https://go.vansh.nyc/19q?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineering Intern",
-        "New York, NY",
-        "Nov 02",
-        "https://go.vansh.nyc/19r?s=y"
       ],
       [
         "SWBC",
@@ -11635,6 +11621,13 @@
         "https://go.vansh.nyc/9J?s=y"
       ],
       [
+        "Garmin",
+        "Software Engineer Intern",
+        "Brea, CA",
+        "Oct 15",
+        "https://go.vansh.nyc/1nr?s=y"
+      ],
+      [
         "Duolingo",
         "Data Scientist Intern",
         "Pittsburgh, PA New York, NY",
@@ -11724,6 +11717,13 @@
         "Seattle, WA",
         "Oct 14",
         "https://go.vansh.nyc/CA?s=y"
+      ],
+      [
+        "Tenstorrent",
+        "Systems Intern, Multiple Teams",
+        "Toronto, Canada Vancouver, Canada",
+        "Oct 14",
+        "https://go.vansh.nyc/1np?s=y"
       ],
       [
         "Susquehanna International Group",
@@ -11843,6 +11843,13 @@
         "New York, NY",
         "Oct 14",
         "https://go.vansh.nyc/9d?s=y"
+      ],
+      [
+        "Indie",
+        "Applications Software Developer Intern",
+        "Aliso Viejo, CA",
+        "Oct 14",
+        "https://go.vansh.nyc/1nq?s=y"
       ],
       [
         "ICF International",
@@ -12230,6 +12237,13 @@
         "https://go.vansh.nyc/8d?s=y"
       ],
       [
+        "Garmin",
+        "Data Scientist Intern",
+        "Louisville, CO",
+        "Oct 12",
+        "https://go.vansh.nyc/1nn?s=y"
+      ],
+      [
         "Figure AI",
         "Deployment Engineering Intern",
         "San Jose, CA",
@@ -12340,13 +12354,6 @@
         "Schaumburg, IL",
         "Oct 11",
         "https://go.vansh.nyc/GL?s=y"
-      ],
-      [
-        "Johnson & Johnson",
-        "IDAR Intern, C&SP",
-        "Spring House, PA Raritan, NJ Hopewell Township, NJ",
-        "Oct 11",
-        "https://go.vansh.nyc/GF?s=y"
       ],
       [
         "Hex Technologies",
@@ -16507,6 +16514,20 @@
         ""
       ],
       [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "Philadelphia, PA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "New York, NY",
+        "Nov 02",
+        ""
+      ],
+      [
         "SWBC",
         "Application Security Intern",
         "San Antonio, TX",
@@ -19002,6 +19023,13 @@
         "Nissan",
         "AI & Data Analytics Intern",
         "Franklin, TN Irving, TX",
+        "Oct 11",
+        ""
+      ],
+      [
+        "Johnson & Johnson",
+        "IDAR Intern, C&SP",
+        "Spring House, PA Raritan, NJ Hopewell Township, NJ",
         "Oct 11",
         ""
       ],

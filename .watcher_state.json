@@ -3575,7 +3575,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "ae8ba6d895caf38e1af5cbf3b7779744a7358bdb",
+    "last_sha": "e9671a2067397461b6aa6c76822b58fc7749b368",
     "rows": [
       [
         "National Interstate Insurance",
@@ -8840,13 +8840,6 @@
         "Chicago, IL Kansas City, MO New York, NY",
         "Oct 27",
         "https://go.vansh.nyc/W4?s=y"
-      ],
-      [
-        "CACI",
-        "Software Engineering Intern",
-        "Sarasota, FL",
-        "Oct 27",
-        "https://go.vansh.nyc/VM?s=y"
       ],
       [
         "Bracco",
@@ -17490,6 +17483,13 @@
         "Cencora",
         "AI Intern",
         "Conshohocken, PA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "CACI",
+        "Software Engineering Intern",
+        "Sarasota, FL",
         "Oct 27",
         ""
       ],

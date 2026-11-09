@@ -3589,7 +3589,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b2f68b3376b93e5e96c60ea6a8e8d377528c037f",
+    "last_sha": "f572042d39fed6228a593e52313f04ae60f8d6ec",
     "rows": [
       [
         "Zoetis",
@@ -3611,6 +3611,48 @@
         "Chillicothe, OH",
         "Nov 09",
         "https://go.vansh.nyc/1oo?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Software Engineering Intern",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1oA?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Software Engineering Intern",
+        "Universal City, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1oB?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Cybersecurity, Governance & Security Engineering Intern, Media Tech",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1oC?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Data, AI & Machine Learning Intern, Media Tech",
+        "Universal City, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1oD?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Data, AI & Machine Learning Intern, Media Tech",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1oE?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Product & Engineering Intern, Media Tech",
+        "Universal City, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1oF?s=y"
       ],
       [
         "NBCUniversal",
@@ -5650,13 +5692,6 @@
         "https://go.vansh.nyc/19v?s=y"
       ],
       [
-        "Shield AI",
-        "Embedded Firmware Intern",
-        "Dallas, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1bm?s=y"
-      ],
-      [
         "Shield",
         "Software Engineer Intern",
         "San Diego, CA",
@@ -6798,13 +6833,6 @@
         "https://go.vansh.nyc/199?s=y"
       ],
       [
-        "Leidos",
-        "Software Engineer Intern",
-        "Arlington, VA",
-        "Nov 01",
-        "https://go.vansh.nyc/1bc?s=y"
-      ],
-      [
         "KLA",
         "Software Engineer Intern",
         "Austin, TX",
@@ -7477,13 +7505,6 @@
         "https://go.vansh.nyc/13c?s=y"
       ],
       [
-        "Klaviyo",
-        "Software Engineer Intern",
-        "Boston, MA",
-        "Oct 30",
-        "https://go.vansh.nyc/1mK?s=y"
-      ],
-      [
         "KLA",
         "Software Engineering Intern",
         "Milpitas, CA",
@@ -7867,13 +7888,6 @@
         "Ottawa, Canada",
         "Oct 29",
         "https://go.vansh.nyc/10b?s=y"
-      ],
-      [
-        "Sonos",
-        "Software Partner Engineering Intern \ud83d\udec2",
-        "Boston, MA",
-        "Oct 29",
-        "https://go.vansh.nyc/YW?s=y"
       ],
       [
         "Samsung Semiconductor",
@@ -16787,6 +16801,13 @@
         ""
       ],
       [
+        "Shield AI",
+        "Embedded Firmware Intern",
+        "Dallas, TX",
+        "Nov 02",
+        ""
+      ],
+      [
         "RTX",
         "Systems Security Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Fullerton, CA",
@@ -16949,6 +16970,13 @@
       ],
       [
         "Leidos",
+        "Software Engineer Intern",
+        "Arlington, VA",
+        "Nov 01",
+        ""
+      ],
+      [
+        "Leidos",
         "Data Science Intern",
         "Arlington, VA",
         "Nov 01",
@@ -17088,6 +17116,13 @@
         ""
       ],
       [
+        "Klaviyo",
+        "Software Engineer Intern",
+        "Boston, MA",
+        "Oct 30",
+        ""
+      ],
+      [
         "Iridium Communications",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "**4 locations**McLean, VA Tempe, AZ Leesburg, VA Chandler, AZ",
@@ -17168,6 +17203,13 @@
         "Toyota Research Institute",
         "Robotics Intern, Human-Machine Interaction Research",
         "Los Altos, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Sonos",
+        "Software Partner Engineering Intern \ud83d\udec2",
+        "Boston, MA",
         "Oct 29",
         ""
       ],

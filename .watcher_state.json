@@ -3561,8 +3561,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f56f6a0bc8ee3179053e48d4633c316f1bb20171",
+    "last_sha": "2f3132559be7c1b058c9a49a1fcb2ff3368df5b9",
     "rows": [
+      [
+        "Zoetis",
+        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+        "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        "https://go.vansh.nyc/1ph?s=y"
+      ],
       [
         "Zoetis",
         "AI Assistant Development Intern",
@@ -3765,6 +3772,13 @@
         "Pittsburgh, PA",
         "Nov 09",
         "https://go.vansh.nyc/1pb?s=y"
+      ],
+      [
+        "CAI",
+        "Programmer Intern",
+        "United States",
+        "Nov 09",
+        "https://go.vansh.nyc/1pg?s=y"
       ],
       [
         "CACI",
@@ -11621,20 +11635,6 @@
         "https://go.vansh.nyc/1nr?s=y"
       ],
       [
-        "Duolingo",
-        "Data Scientist Intern",
-        "Pittsburgh, PA New York, NY",
-        "Oct 15",
-        "https://go.vansh.nyc/9H?s=y"
-      ],
-      [
-        "Duolingo",
-        "Data Scientist Intern",
-        "New York, NY Pittsburgh, PA",
-        "Oct 15",
-        "https://go.vansh.nyc/9I?s=y"
-      ],
-      [
         "Danaher Corporation",
         "CCM Data Governance Intern",
         "Logan, UT",
@@ -12592,27 +12592,6 @@
         "Sunnyvale, CA",
         "Oct 08",
         "https://go.vansh.nyc/Gm?s=y"
-      ],
-      [
-        "GuidePoint Security",
-        "Cloud Infrastructure Intern",
-        "Remote United States",
-        "Oct 08",
-        "https://go.vansh.nyc/He?s=y"
-      ],
-      [
-        "GuidePoint Security",
-        "Application Security Intern",
-        "Remote United States",
-        "Oct 08",
-        "https://go.vansh.nyc/Hf?s=y"
-      ],
-      [
-        "GuidePoint Security",
-        "AI & Data Science Intern, GPSU",
-        "Remote United States",
-        "Oct 08",
-        "https://go.vansh.nyc/Gd?s=y"
       ],
       [
         "GlobalFoundries",
@@ -19146,6 +19125,20 @@
         ""
       ],
       [
+        "Duolingo",
+        "Data Scientist Intern",
+        "Pittsburgh, PA New York, NY",
+        "Oct 15",
+        ""
+      ],
+      [
+        "Duolingo",
+        "Data Scientist Intern",
+        "New York, NY Pittsburgh, PA",
+        "Oct 15",
+        ""
+      ],
+      [
         "Draper",
         "Operations Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Cambridge, MA",
@@ -19513,6 +19506,27 @@
         "Itron",
         "HR AI Data Science Intern",
         "Austin, TX",
+        "Oct 08",
+        ""
+      ],
+      [
+        "GuidePoint Security",
+        "AI & Data Science Intern, GPSU",
+        "Remote United States",
+        "Oct 08",
+        ""
+      ],
+      [
+        "GuidePoint Security",
+        "Cloud Infrastructure Intern",
+        "Remote United States",
+        "Oct 08",
+        ""
+      ],
+      [
+        "GuidePoint Security",
+        "Application Security Intern",
+        "Remote United States",
         "Oct 08",
         ""
       ],

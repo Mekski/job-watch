@@ -3561,7 +3561,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
+    "last_sha": "6f757a27d6fcc5063c6946113c8acf124e729953",
     "rows": [
       [
         "National Interstate Insurance",
@@ -4808,13 +4808,6 @@
         "Andover, MA",
         "Nov 04",
         "https://go.vansh.nyc/1gP?s=y"
-      ],
-      [
-        "Riverside Research",
-        "Software Applications Intern",
-        "Fairborn, OH",
-        "Nov 04",
-        "https://go.vansh.nyc/1ju?s=y"
       ],
       [
         "Qualcomm",
@@ -7792,6 +7785,13 @@
         "https://go.vansh.nyc/17G?s=y"
       ],
       [
+        "SageSure",
+        "Data Science Product Analyst Intern",
+        "Fairfield, CA",
+        "Oct 29",
+        "https://go.vansh.nyc/1oj?s=y"
+      ],
+      [
         "Revvity",
         "Full-Stack AI Developer Intern",
         "Canada",
@@ -8070,6 +8070,20 @@
         "New York, NY",
         "Oct 28",
         "https://go.vansh.nyc/Xw?s=y"
+      ],
+      [
+        "SageSure",
+        "Software Engineer Intern",
+        "Chicago, IL Jersey City, NJ Mountain View, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/1oh?s=y"
+      ],
+      [
+        "SageSure",
+        "Data Science Intern",
+        "Jersey City, NJ",
+        "Oct 28",
+        "https://go.vansh.nyc/1oi?s=y"
       ],
       [
         "Ryan",
@@ -9871,13 +9885,6 @@
         "https://go.vansh.nyc/eO?s=y"
       ],
       [
-        "GE Vernova",
-        "Product Management Intern",
-        "Markham, Canada",
-        "Oct 22",
-        "https://go.vansh.nyc/he?s=y"
-      ],
-      [
         "Copart",
         "Software Engineer Intern",
         "Dallas, TX",
@@ -11129,13 +11136,6 @@
         "Minneapolis, MN",
         "Oct 18",
         "https://go.vansh.nyc/R4?s=y"
-      ],
-      [
-        "Disney",
-        "Product & Technology Software Engineering Intern",
-        "Glendale, CA San Francisco, CA New York, NY",
-        "Oct 18",
-        "https://go.vansh.nyc/R3?s=y"
       ],
       [
         "Celestica",
@@ -13735,6 +13735,13 @@
         "https://go.vansh.nyc/JG?s=y"
       ],
       [
+        "Red Ventures",
+        "Launch Program Data Science Intern",
+        "Charlotte, NC",
+        "Sep 25",
+        "https://go.vansh.nyc/1og?s=y"
+      ],
+      [
         "onsemi",
         "Validation Engineer Intern",
         "Nampa, ID",
@@ -14314,13 +14321,6 @@
         "**4 locations**Remote United States Sterling, VA Denver, CO",
         "Sep 13",
         "https://go.vansh.nyc/MU?s=y"
-      ],
-      [
-        "Booz Allen",
-        "Applied AI Intern",
-        "Washington, DC",
-        "Sep 13",
-        "https://go.vansh.nyc/MV?s=y"
       ],
       [
         "SESCO",
@@ -16458,6 +16458,13 @@
         ""
       ],
       [
+        "Riverside Research",
+        "Software Applications Intern",
+        "Fairborn, OH",
+        "Nov 04",
+        ""
+      ],
+      [
         "Plusgrade",
         "UI/UX Design and Frontend Engineer Intern",
         "Toronto, Canada",
@@ -17893,6 +17900,13 @@
         ""
       ],
       [
+        "GE Vernova",
+        "Product Management Intern",
+        "Markham, Canada",
+        "Oct 22",
+        ""
+      ],
+      [
         "DocuSign",
         "AI Platform Engineer Intern \ud83d\udec2",
         "San Francisco, CA",
@@ -18652,6 +18666,13 @@
         "General Dynamics Information Technology",
         "Software Developer Intern",
         "Egg Harbor Township, NJ",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Disney",
+        "Product & Technology Software Engineering Intern",
+        "Glendale, CA San Francisco, CA New York, NY",
         "Oct 18",
         ""
       ],
@@ -19626,6 +19647,13 @@
         "Associate Software Engineer Intern",
         "Irvine, CA",
         "Sep 15",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Applied AI Intern",
+        "Washington, DC",
+        "Sep 13",
         ""
       ],
       [

@@ -3568,7 +3568,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f65b754b768c7da9b07cd1b072c328bc076fa056",
+    "last_sha": "9a8b50815bf074cf5964cfb31bfc10e1be5306f3",
     "rows": [
       [
         "Zoetis",
@@ -6217,13 +6217,6 @@
         "https://go.vansh.nyc/1cN?s=y"
       ],
       [
-        "Eurofins",
-        "Business Intelligence Intern",
-        "Lancaster, PA",
-        "Nov 02",
-        "https://go.vansh.nyc/1dC?s=y"
-      ],
-      [
         "Entrust",
         "AI Developer Intern",
         "Shakopee, MN",
@@ -8212,11 +8205,18 @@
         "https://go.vansh.nyc/11Q?s=y"
       ],
       [
-        "Schweitzer Engineering Laboratories",
-        "Software Engineer Intern",
-        "Charlotte, NC",
+        "SeatGeek",
+        "Security Engineer Intern",
+        "New York, NY",
         "Oct 28",
-        "https://go.vansh.nyc/ZH?s=y"
+        "https://go.vansh.nyc/1oZ?s=y"
+      ],
+      [
+        "SeatGeek",
+        "Software Engineer Intern",
+        "New York, NY",
+        "Oct 28",
+        "https://go.vansh.nyc/1p0?s=y"
       ],
       [
         "Schonfeld",
@@ -8819,13 +8819,6 @@
         "San Francisco, CA",
         "Oct 27",
         "https://go.vansh.nyc/WU?s=y"
-      ],
-      [
-        "Marvell",
-        "Data Science Intern",
-        "Boise, ID",
-        "Oct 27",
-        "https://go.vansh.nyc/Yp?s=y"
       ],
       [
         "LinkedIn",
@@ -16934,6 +16927,13 @@
         ""
       ],
       [
+        "Eurofins",
+        "Business Intelligence Intern",
+        "Lancaster, PA",
+        "Nov 02",
+        ""
+      ],
+      [
         "CoStar Group",
         "Data Science Intern",
         "Richmond, VA",
@@ -17347,6 +17347,13 @@
         ""
       ],
       [
+        "Schweitzer Engineering Laboratories",
+        "Software Engineer Intern",
+        "Charlotte, NC",
+        "Oct 28",
+        ""
+      ],
+      [
         "Schonfeld",
         "Enterprise AI Intern",
         "New York, NY",
@@ -17615,6 +17622,13 @@
       [
         "Micron Technology",
         "AI Engineer Intern, Platform",
+        "Boise, ID",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Marvell",
+        "Data Science Intern",
         "Boise, ID",
         "Oct 27",
         ""

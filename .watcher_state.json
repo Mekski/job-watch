@@ -3561,7 +3561,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2f3132559be7c1b058c9a49a1fcb2ff3368df5b9",
+    "last_sha": "ea3fbf3ab80191de871a5410e5aadaa4950c34c5",
     "rows": [
       [
         "Zoetis",
@@ -3702,6 +3702,13 @@
         "New York, NY",
         "Nov 09",
         "https://go.vansh.nyc/1oy?s=y"
+      ],
+      [
+        "National Interstate Insurance",
+        "Telematics / Predictive Analytics Intern \ud83d\udec2",
+        "Cincinnati, OH",
+        "Nov 09",
+        "https://go.vansh.nyc/1pj?s=y"
       ],
       [
         "Nasdaq",
@@ -4241,13 +4248,6 @@
         "Jacksonville, FL",
         "Nov 06",
         "https://go.vansh.nyc/1k7?s=y"
-      ],
-      [
-        "IDEMIA",
-        "Service Platform Engineering Intern",
-        "Brentwood, TN",
-        "Nov 06",
-        "https://go.vansh.nyc/1m1?s=y"
       ],
       [
         "Highgate",
@@ -4801,13 +4801,6 @@
         "Carmel, IN",
         "Nov 05",
         "https://go.vansh.nyc/1iE?s=y"
-      ],
-      [
-        "Golden Analytics",
-        "Software Engineer Intern",
-        "Bellevue, WA",
-        "Nov 05",
-        "https://go.vansh.nyc/1im?s=y"
       ],
       [
         "GM Financial",
@@ -16444,6 +16437,13 @@
         ""
       ],
       [
+        "IDEMIA",
+        "Service Platform Engineering Intern",
+        "Brentwood, TN",
+        "Nov 06",
+        ""
+      ],
+      [
         "Hitachi",
         "Full Stack Developer Intern",
         "Dallas, TX",
@@ -16496,6 +16496,13 @@
         "ICD",
         "AI/ML Engineering Intern",
         "Jersey City, NJ",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Golden Analytics",
+        "Software Engineer Intern",
+        "Bellevue, WA",
         "Nov 05",
         ""
       ],

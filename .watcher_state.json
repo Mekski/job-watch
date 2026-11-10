@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "69ce443fc3411f0043be573ad5e840890440b9f7",
+    "last_sha": "399037ba62a7e80279c3f3897e78526fa38096b4",
     "rows": [
       [
         "Zebra Technologies",
@@ -3737,13 +3737,6 @@
         "Lehi, UT",
         "Nov 10",
         "https://go.vansh.nyc/1r9?s=y"
-      ],
-      [
-        "Mason",
-        "AI Engineer Intern",
-        "New York, NY",
-        "Nov 10",
-        "https://go.vansh.nyc/1rz?s=y"
       ],
       [
         "Jabil",
@@ -4220,6 +4213,13 @@
         "Huntsville, AL",
         "Nov 09",
         "https://go.vansh.nyc/1pd?s=y"
+      ],
+      [
+        "Hunt Oil Company",
+        "Application Developer Intern",
+        "Dallas, TX",
+        "Nov 09",
+        "https://go.vansh.nyc/1s2?s=y"
       ],
       [
         "GlobalFoundries",
@@ -5942,13 +5942,6 @@
         "Indianapolis, IN",
         "Nov 03",
         "https://go.vansh.nyc/1ft?s=y"
-      ],
-      [
-        "Ryder System",
-        "IT Intern",
-        "Coral Gables, FL",
-        "Nov 03",
-        "https://go.vansh.nyc/1hh?s=y"
       ],
       [
         "RTX",
@@ -16962,6 +16955,13 @@
         ""
       ],
       [
+        "Mason",
+        "AI Engineer Intern",
+        "New York, NY",
+        "Nov 10",
+        ""
+      ],
+      [
         "Maincode",
         "AI Research Residency Intern",
         "Remote United States Canada",
@@ -17329,6 +17329,13 @@
         "Simon Property Group",
         "Front End Developer Intern",
         "Indianapolis, IN",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Ryder System",
+        "IT Intern",
+        "Coral Gables, FL",
         "Nov 03",
         ""
       ],

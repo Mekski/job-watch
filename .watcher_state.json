@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c1863436917137bb6a56fd3e23725a1597999ca8",
+    "last_sha": "f0acfa53041d99cf823eb6495771c8e65fe451f2",
     "rows": [
       [
         "Zebra Technologies",
@@ -3620,6 +3620,13 @@
         "https://go.vansh.nyc/1rm?s=y"
       ],
       [
+        "Trimble",
+        "Software Engineering Intern",
+        "Knoxville, TN",
+        "Nov 10",
+        "https://go.vansh.nyc/1rP?s=y"
+      ],
+      [
         "T-Mobile",
         "Site Reliability Engineering Intern",
         "Frisco, TX Atlanta, GA",
@@ -3632,6 +3639,13 @@
         "San Francisco, CA",
         "Nov 10",
         "https://go.vansh.nyc/1rx?s=y"
+      ],
+      [
+        "SRC, Inc",
+        "Machine Learning Engineer Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1rU?s=y"
       ],
       [
         "SigIQ.ai",
@@ -3767,6 +3781,13 @@
         "https://go.vansh.nyc/1qu?s=y"
       ],
       [
+        "Hewlett Packard (HP)",
+        "Performance Engineering Co-op",
+        "Fort Collins, CO",
+        "Nov 10",
+        "https://go.vansh.nyc/1rR?s=y"
+      ],
+      [
         "Headstarter",
         "Software Engineering Intern, Agents & FE",
         "New York, NY",
@@ -3779,6 +3800,13 @@
         "New York, NY",
         "Nov 10",
         "https://go.vansh.nyc/1qN?s=y"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern, Embodied AI",
+        "Sunnyvale, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rQ?s=y"
       ],
       [
         "General Dynamics Mission Systems, Inc.",
@@ -5648,6 +5676,20 @@
         "San Jose, CA",
         "Nov 04",
         "https://go.vansh.nyc/1hz?s=y"
+      ],
+      [
+        "Palantir Technologies",
+        "Software Engineer Intern, Data Connectors",
+        "New York, NY",
+        "Nov 04",
+        "https://go.vansh.nyc/1rS?s=y"
+      ],
+      [
+        "Palantir Technologies",
+        "Software Engineer Intern, Connectivity Platform and Product",
+        "New York, NY",
+        "Nov 04",
+        "https://go.vansh.nyc/1rT?s=y"
       ],
       [
         "Paccar",
@@ -7811,13 +7853,6 @@
         "Santa Monica, CA",
         "Oct 30",
         "https://go.vansh.nyc/13A?s=y"
-      ],
-      [
-        "Western Magnetics",
-        "Software Engineer Intern",
-        "South San Francisco, CA",
-        "Oct 30",
-        "https://go.vansh.nyc/13y?s=y"
       ],
       [
         "Wabtec",
@@ -10702,13 +10737,6 @@
         "Cambridge, MA",
         "Oct 21",
         "https://go.vansh.nyc/e6?s=y"
-      ],
-      [
-        "Microchip Technology",
-        "Engineering Intern, ASIC Verification",
-        "San Jose, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/ed?s=y"
       ],
       [
         "Metalenz",
@@ -17767,6 +17795,13 @@
         ""
       ],
       [
+        "Western Magnetics",
+        "Software Engineer Intern",
+        "South San Francisco, CA",
+        "Oct 30",
+        ""
+      ],
+      [
         "West Bend Insurance",
         "IT Software Engineer Intern",
         "West Bend, WI",
@@ -18988,6 +19023,13 @@
         "Northrop Grumman",
         "Systems Engineering Intern, AI Experience",
         "Dulles, VA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Microchip Technology",
+        "Engineering Intern, ASIC Verification",
+        "San Jose, CA",
         "Oct 21",
         ""
       ],

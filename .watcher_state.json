@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "ecb8a4f9db520ee010209b3bab965aed991d14fa",
+    "last_sha": "ee0b38f4c10d3ee69ccc73efe9b15cbe5f6537b2",
     "rows": [
       [
         "Zebra Technologies",
@@ -3702,6 +3702,13 @@
         "San Francisco, CA",
         "Nov 10",
         "https://go.vansh.nyc/1rt?s=y"
+      ],
+      [
+        "Renesas Electronics",
+        "Applications Engineer Intern",
+        "Morrisville, NC",
+        "Nov 10",
+        "https://go.vansh.nyc/1sk?s=y"
       ],
       [
         "Peripheral",
@@ -3984,6 +3991,13 @@
         "https://go.vansh.nyc/1qh?s=y"
       ],
       [
+        "Walmart",
+        "Data Science & Data Analytics Intern, Last Mile Delivery",
+        "Bentonville, AR",
+        "Nov 09",
+        "https://go.vansh.nyc/1sh?s=y"
+      ],
+      [
         "Viavi Solutions",
         "Digital Hardware Engineering Intern",
         "Lenexa, KS",
@@ -4073,6 +4087,13 @@
         "United States",
         "Nov 09",
         "https://go.vansh.nyc/1oM?s=y"
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Largo, FL",
+        "Nov 09",
+        "https://go.vansh.nyc/1sg?s=y"
       ],
       [
         "Roche",
@@ -4206,6 +4227,20 @@
         "Oakland, CA",
         "Nov 09",
         "https://go.vansh.nyc/1ou?s=y"
+      ],
+      [
+        "McDonald's",
+        "Software Development Engineer Intern",
+        "Chicago, IL",
+        "Nov 09",
+        "https://go.vansh.nyc/1si?s=y"
+      ],
+      [
+        "McDonald's",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Nov 09",
+        "https://go.vansh.nyc/1sj?s=y"
       ],
       [
         "Lockheed Martin",
@@ -6376,13 +6411,6 @@
         "Dallas, TX",
         "Nov 02",
         "https://go.vansh.nyc/1bJ?s=y"
-      ],
-      [
-        "Sherwin-Williams",
-        "R&D Data Visualization Intern",
-        "Brecksville, OH",
-        "Nov 02",
-        "https://go.vansh.nyc/1eh?s=y"
       ],
       [
         "Samsung Semiconductor",
@@ -10354,13 +10382,6 @@
         "https://go.vansh.nyc/1n4?s=y"
       ],
       [
-        "Quadric",
-        "Design Verification Intern",
-        "Burlingame, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/1n5?s=y"
-      ],
-      [
         "Palantir Technologies",
         "Deployment Strategist Intern, Warp Speed",
         "New York, NY",
@@ -13866,6 +13887,13 @@
         "Durham, NC",
         "Oct 01",
         "https://go.vansh.nyc/Er?s=y"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern, AV/AI Platform",
+        "Sunnyvale, CA",
+        "Oct 01",
+        "https://go.vansh.nyc/1sp?s=y"
       ],
       [
         "Election Systems & Software",
@@ -17522,6 +17550,13 @@
         ""
       ],
       [
+        "Sherwin-Williams",
+        "R&D Data Visualization Intern",
+        "Brecksville, OH",
+        "Nov 02",
+        ""
+      ],
+      [
         "RTX",
         "Systems Security Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Fullerton, CA",
@@ -18897,6 +18932,13 @@
         "Renesas Electronics",
         "Memory Server System Testing Intern",
         "San Jose, CA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Quadric",
+        "Design Verification Intern",
+        "Burlingame, CA",
         "Oct 22",
         ""
       ],

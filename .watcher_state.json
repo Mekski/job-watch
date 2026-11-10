@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8406a75c0dad0d0e1f5f3a85865005765baec64e",
+    "last_sha": "52efc246ac482e55897916892c921f83b7140280",
     "rows": [
       [
         "Zebra Technologies",
@@ -3975,6 +3975,13 @@
         "Pleasanton, CA",
         "Nov 10",
         "https://go.vansh.nyc/1qK?s=y"
+      ],
+      [
+        "Echo",
+        "Software Engineering Intern",
+        "Chicago, IL Remote United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1rF?s=y"
       ],
       [
         "Diffuse Bio",
@@ -4626,13 +4633,6 @@
         "Lynchburg, VA",
         "Nov 07",
         "https://go.vansh.nyc/1m6?s=y"
-      ],
-      [
-        "empirical",
-        "Software Engineering Intern",
-        "Dakota Dunes, SD",
-        "Nov 07",
-        "https://go.vansh.nyc/1mg?s=y"
       ],
       [
         "Dayton Freight",
@@ -16542,13 +16542,6 @@
         "https://go.vansh.nyc/4Q?s=y"
       ],
       [
-        "Virtu",
-        "Quantitative Trading Intern",
-        "Austin, TX Chicago, IL New York, NY",
-        "Jul 26",
-        "https://go.vansh.nyc/4R?s=y"
-      ],
-      [
         "Stevens Capital Management",
         "Quantitative Research Analyst Internship",
         "Radnor, PA",
@@ -17071,6 +17064,13 @@
         "Digital Hardware Design Engineer Co-op",
         "Cedar Rapids, IA",
         "Nov 08",
+        ""
+      ],
+      [
+        "empirical",
+        "Software Engineering Intern",
+        "Dakota Dunes, SD",
+        "Nov 07",
         ""
       ],
       [
@@ -21285,6 +21285,13 @@
         "AI Software Engineering PhD Intern",
         "Hillsboro, OR",
         "Jul 27",
+        ""
+      ],
+      [
+        "Virtu",
+        "Quantitative Trading Intern",
+        "Austin, TX Chicago, IL New York, NY",
+        "Jul 26",
         ""
       ],
       [

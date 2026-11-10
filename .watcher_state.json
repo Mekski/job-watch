@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e078a6c5e10ddecbd3e06f6d6c4403f5f80ea9a8",
+    "last_sha": "06221278d14816081fd3eba3f2599557343b2891",
     "rows": [
       [
         "NVIDIA",
@@ -4080,13 +4080,6 @@
         "Montvale, NJ",
         "Nov 08",
         "https://go.vansh.nyc/1ot?s=y"
-      ],
-      [
-        "RTX",
-        "Digital Hardware Design Engineer Co-op",
-        "Cedar Rapids, IA",
-        "Nov 08",
-        "https://go.vansh.nyc/1pH?s=y"
       ],
       [
         "NBCUniversal",
@@ -13161,13 +13154,6 @@
         "https://go.vansh.nyc/FG?s=y"
       ],
       [
-        "Arcfield",
-        "Software Engineer Intern, On-Call",
-        "Middletown, RI",
-        "Oct 06",
-        "https://go.vansh.nyc/FD?s=y"
-      ],
-      [
         "Amazon",
         "Software Development Engineer Intern, Amazon Leo, Embedded Systems \ud83c\uddfa\ud83c\uddf8",
         "Redmond, WA",
@@ -16668,6 +16654,13 @@
         ""
       ],
       [
+        "RTX",
+        "Digital Hardware Design Engineer Co-op",
+        "Cedar Rapids, IA",
+        "Nov 08",
+        ""
+      ],
+      [
         "Invitation-charter",
         "Software Engineer Intern",
         "Englewood, CO",
@@ -19933,6 +19926,13 @@
         "CACI",
         "Cyber Analyst Intern",
         "Ashburn, VA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Arcfield",
+        "Software Engineer Intern, On-Call",
+        "Middletown, RI",
         "Oct 06",
         ""
       ],

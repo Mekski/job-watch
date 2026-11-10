@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "5ee6d2666a63ae39c96fd1f66a99c9fc1f924dab",
+    "last_sha": "6e02542bec487f4096ce7d58fb59c774730fccfc",
     "rows": [
       [
         "Zebra Technologies",
@@ -3823,6 +3823,13 @@
         "https://go.vansh.nyc/1rJ?s=y"
       ],
       [
+        "General Dynamics Information Technology",
+        "AI/ML Business Intelligence Development Intern \ud83c\uddfa\ud83c\uddf8",
+        "Bossier City, LA",
+        "Nov 10",
+        "https://go.vansh.nyc/1s6?s=y"
+      ],
+      [
         "Elas",
         "Data Science Intern",
         "Pleasanton, CA",
@@ -3856,6 +3863,13 @@
         "Milwaukee, WI",
         "Nov 10",
         "https://go.vansh.nyc/1qy?s=y"
+      ],
+      [
+        "ByteDance",
+        "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+        "San Jose, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1s7?s=y"
       ],
       [
         "Booz Allen Hamilton",
@@ -5510,13 +5524,6 @@
         "https://go.vansh.nyc/1jg?s=y"
       ],
       [
-        "CareSource",
-        "Cybersecurity Intern",
-        "Remote United States",
-        "Nov 05",
-        "https://go.vansh.nyc/1je?s=y"
-      ],
-      [
         "BorgWarner",
         "Software Test Intern",
         "Auburn Hills, MI",
@@ -6390,34 +6397,6 @@
         "Rockland, MA",
         "Nov 02",
         "https://go.vansh.nyc/1dX?s=y"
-      ],
-      [
-        "Resideo",
-        "Embedded Firmware Engineer Intern",
-        "Melville, NY",
-        "Nov 02",
-        "https://go.vansh.nyc/1bv?s=y"
-      ],
-      [
-        "Resideo",
-        "Mobile Software Engineer Intern",
-        "Austin, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1bw?s=y"
-      ],
-      [
-        "Resideo",
-        "Firmware Engineer Intern",
-        "Aurora, IL",
-        "Nov 02",
-        "https://go.vansh.nyc/1bx?s=y"
-      ],
-      [
-        "Resideo",
-        "Firmware Engineer Intern",
-        "Golden Valley, MN",
-        "Nov 02",
-        "https://go.vansh.nyc/1bz?s=y"
       ],
       [
         "Qualcomm",
@@ -14988,13 +14967,6 @@
         "https://go.vansh.nyc/MI?s=y"
       ],
       [
-        "Oshkosh",
-        "Autonomy & Active Safety Engineer Intern",
-        "Oshkosh, WI Pittsburgh, PA",
-        "Sep 10",
-        "https://go.vansh.nyc/MK?s=y"
-      ],
-      [
         "National Information Solutions Cooperative",
         "Information Security (Cybersecurity) Intern",
         "Lake St. Louis, MO",
@@ -17172,6 +17144,13 @@
         ""
       ],
       [
+        "CareSource",
+        "Cybersecurity Intern",
+        "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
         "Booz Allen Hamilton",
         "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
@@ -17546,6 +17525,34 @@
         "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "East Hartford, CT",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Resideo",
+        "Embedded Firmware Engineer Intern",
+        "Melville, NY",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Resideo",
+        "Mobile Software Engineer Intern",
+        "Austin, TX",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Resideo",
+        "Firmware Engineer Intern",
+        "Aurora, IL",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Resideo",
+        "Firmware Engineer Intern",
+        "Golden Valley, MN",
         "Nov 02",
         ""
       ],
@@ -20843,6 +20850,13 @@
         "The MJ Companies",
         "Enterprise Data Intern",
         "Carmel, IN",
+        "Sep 10",
+        ""
+      ],
+      [
+        "Oshkosh",
+        "Autonomy & Active Safety Engineer Intern",
+        "Oshkosh, WI Pittsburgh, PA",
         "Sep 10",
         ""
       ],

@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "ff1e5e120b3624847a01858a2898fc7e3eeb2ea5",
+    "last_sha": "85d71b0dcb9f4f4b6ab73ef4007646ea55ef8609",
     "rows": [
       [
         "Matillion",
@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "66e08da631e16f5af1454166a1431714570c1f6e",
+    "last_sha": "fe924099fd41d6c00c3ab0ca8d39d7ca131d11ad",
     "rows": [
       [
         "Zebra Technologies",
@@ -3618,13 +3618,6 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rm?s=y"
-      ],
-      [
-        "TerraByte Green",
-        "AI Engineering Intern",
-        "United States",
-        "Nov 10",
-        "https://go.vansh.nyc/1ry?s=y"
       ],
       [
         "T-Mobile",
@@ -4943,13 +4936,6 @@
         "https://go.vansh.nyc/1jy?s=y"
       ],
       [
-        "Veryable",
-        "Platform Engineer Intern",
-        "Dallas, TX",
-        "Nov 05",
-        "https://go.vansh.nyc/1ip?s=y"
-      ],
-      [
         "V2X",
         "AI Engineer Intern",
         "Indianapolis, IN",
@@ -5480,13 +5466,6 @@
         "Phoenix, AZ",
         "Nov 05",
         "https://go.vansh.nyc/1jZ?s=y"
-      ],
-      [
-        "Arango",
-        "Software Engineer Intern, Cookbooks",
-        "Remote United States",
-        "Nov 05",
-        "https://go.vansh.nyc/1it?s=y"
       ],
       [
         "APEX Analytix",
@@ -16822,6 +16801,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "TerraByte Green",
+        "AI Engineering Intern",
+        "United States",
+        "Nov 10",
+        ""
+      ],
+      [
         "Stealth Startup",
         "Enterprise AI",
         "Software Engineering Intern",
@@ -17081,6 +17067,13 @@
         ""
       ],
       [
+        "Veryable",
+        "Platform Engineer Intern",
+        "Dallas, TX",
+        "Nov 05",
+        ""
+      ],
+      [
         "V2X",
         "AI Engineering Intern",
         "Indianapolis, IN",
@@ -17140,6 +17133,13 @@
         "Booz Allen Hamilton",
         "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Arango",
+        "Software Engineer Intern, Cookbooks",
+        "Remote United States",
         "Nov 05",
         ""
       ],

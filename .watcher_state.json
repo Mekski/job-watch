@@ -3603,8 +3603,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "75dcd9a36ac5b08dcfc11d1db8439c175040c9f5",
+    "last_sha": "e078a6c5e10ddecbd3e06f6d6c4403f5f80ea9a8",
     "rows": [
+      [
+        "NVIDIA",
+        "AI Operations Intern, AI Clouds",
+        "Santa Clara, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1qq?s=y"
+      ],
       [
         "Zoetis",
         "AI Architecture, Enablement & Tools Intern, AI Capabilities",
@@ -7111,13 +7118,6 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/18E?s=y"
-      ],
-      [
-        "TikTok",
-        "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/18F?s=y"
       ],
       [
         "TikTok",
@@ -14561,13 +14561,6 @@
         "https://go.vansh.nyc/It?s=y"
       ],
       [
-        "Farmers Mutual Hail",
-        "QA Automation Engineer Intern",
-        "West Des Moines, IA",
-        "Sep 15",
-        "https://go.vansh.nyc/13V?s=y"
-      ],
-      [
         "Antares",
         "Reactor Software Engineering Intern",
         "Los Angeles, CA",
@@ -17267,6 +17260,13 @@
         "Software Engineering Undergrad Intern \ud83c\uddfa\ud83c\uddf8",
         "El Segundo, CA",
         "Nov 02",
+        ""
+      ],
+      [
+        "TikTok",
+        "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
+        "San Jose, CA",
+        "Nov 01",
         ""
       ],
       [
@@ -20276,6 +20276,13 @@
         "Keysight Technologies",
         "ASIC Design-for-Test Engineer Intern, DFT",
         "Colorado Springs, CO",
+        "Sep 15",
+        ""
+      ],
+      [
+        "Farmers Mutual Hail",
+        "QA Automation Engineer Intern",
+        "West Des Moines, IA",
         "Sep 15",
         ""
       ],

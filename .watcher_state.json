@@ -3603,7 +3603,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b3048d92d6125cffc493ab8ee7211dfcb540e1f7",
+    "last_sha": "7656917908e957badae8e8528c0c3430f787cf52",
     "rows": [
       [
         "Zoetis",
@@ -5410,13 +5410,6 @@
         "Cincinnati, OH",
         "Nov 04",
         "https://go.vansh.nyc/1go?s=y"
-      ],
-      [
-        "Moog",
-        "Software Engineering Intern",
-        "Torrance, CA",
-        "Nov 04",
-        "https://go.vansh.nyc/1gy?s=y"
       ],
       [
         "Molina Healthcare",
@@ -16832,6 +16825,13 @@
         "Northrop Grumman",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Roy, UT",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Moog",
+        "Software Engineering Intern",
+        "Torrance, CA",
         "Nov 04",
         ""
       ],

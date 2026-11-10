@@ -3589,7 +3589,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "6e02542bec487f4096ce7d58fb59c774730fccfc",
+    "last_sha": "cbb1b9202f966bea702f6e8c4dd7641424eedec8",
     "rows": [
       [
         "Zebra Technologies",
@@ -3597,6 +3597,20 @@
         "Lincolnshire, IL",
         "Nov 10",
         "https://go.vansh.nyc/1qC?s=y"
+      ],
+      [
+        "Western Digital",
+        "Software Engineering Intern",
+        "San Jose, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1s8?s=y"
+      ],
+      [
+        "Western Digital",
+        "Hardware Engineering Intern",
+        "San Jose, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1sa?s=y"
       ],
       [
         "Vooma",
@@ -3639,6 +3653,13 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rU?s=y"
+      ],
+      [
+        "Skydio",
+        "Middleware Software Engineer Intern",
+        "San Mateo, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1s9?s=y"
       ],
       [
         "SigIQ.ai",
@@ -4038,6 +4059,13 @@
         "Pleasanton, CA",
         "Nov 09",
         "https://go.vansh.nyc/1qi?s=y"
+      ],
+      [
+        "REGENT",
+        "Embedded Software Engineering Intern",
+        "North Kingstown, RI",
+        "Nov 09",
+        "https://go.vansh.nyc/1sb?s=y"
       ],
       [
         "Qualcomm",
@@ -5508,13 +5536,6 @@
         "Mason, OH",
         "Nov 05",
         "https://go.vansh.nyc/1jw?s=y"
-      ],
-      [
-        "CareSource",
-        "Data Analyst Intern",
-        "Remote United States",
-        "Nov 05",
-        "https://go.vansh.nyc/1jg?s=y"
       ],
       [
         "BorgWarner",
@@ -8966,13 +8987,6 @@
         "Plano, TX",
         "Oct 28",
         "https://go.vansh.nyc/YK?s=y"
-      ],
-      [
-        "Disney",
-        "Enterprise Technology & Data Software Engineering Intern",
-        "Orlando, FL",
-        "Oct 28",
-        "https://go.vansh.nyc/YL?s=y"
       ],
       [
         "Disney",
@@ -15709,20 +15723,6 @@
         "https://go.vansh.nyc/Oq?s=y"
       ],
       [
-        "AMD",
-        "Software Test Engineering Co-op",
-        "Austin, TX",
-        "Aug 24",
-        "https://go.vansh.nyc/OL?s=y"
-      ],
-      [
-        "AMD",
-        "Software Test Engineering Co-op",
-        "San Jose, CA",
-        "Aug 24",
-        "https://go.vansh.nyc/OM?s=y"
-      ],
-      [
         "Vertiv",
         "Product Management Intern, MBA \ud83d\udec2",
         "Delaware, OH",
@@ -17138,6 +17138,13 @@
       ],
       [
         "CareSource",
+        "Data Analyst Intern",
+        "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
+        "CareSource",
         "Cybersecurity Intern",
         "Remote United States",
         "Nov 05",
@@ -18183,6 +18190,13 @@
         "Leidos",
         "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
         "Annapolis Junction, MD",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Disney",
+        "Enterprise Technology & Data Software Engineering Intern",
+        "Orlando, FL",
         "Oct 28",
         ""
       ],
@@ -21026,6 +21040,20 @@
         "Software Developer Intern",
         "San Diego, CA",
         "Aug 26",
+        ""
+      ],
+      [
+        "AMD",
+        "Software Test Engineering Co-op",
+        "Austin, TX",
+        "Aug 24",
+        ""
+      ],
+      [
+        "AMD",
+        "Software Test Engineering Co-op",
+        "San Jose, CA",
+        "Aug 24",
         ""
       ],
       [

@@ -3596,7 +3596,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9d9f83f1c3e6e66f933f7a13ab553ece12f32809",
+    "last_sha": "116ba5cbbfbc8af00fbfbbd34847d27fe62d41e1",
     "rows": [
       [
         "Zoetis",
@@ -3625,6 +3625,13 @@
         "Kalamazoo, MI",
         "Nov 09",
         "https://go.vansh.nyc/1op?s=y"
+      ],
+      [
+        "Waymo",
+        "Software Engineer Intern, Multiverse",
+        "San Francisco, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1qh?s=y"
       ],
       [
         "Viavi Solutions",
@@ -3702,6 +3709,13 @@
         "United States",
         "Nov 09",
         "https://go.vansh.nyc/1oM?s=y"
+      ],
+      [
+        "Roche",
+        "Assay Bioinformatics Intern, CSI",
+        "Pleasanton, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1qi?s=y"
       ],
       [
         "Qualcomm",
@@ -6714,6 +6728,13 @@
         "https://go.vansh.nyc/1c6?s=y"
       ],
       [
+        "Atoms",
+        "Robotics Software Engineer Intern",
+        "Pittsburgh, PA",
+        "Nov 02",
+        "https://go.vansh.nyc/1qg?s=y"
+      ],
+      [
         "ATC",
         "Cyber Security Intern",
         "Pewaukee, WI",
@@ -6789,13 +6810,6 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/17O?s=y"
-      ],
-      [
-        "TikTok",
-        "AI Engineer Intern, TikTok-Client Arch \ud83d\udec2",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/17P?s=y"
       ],
       [
         "TikTok",
@@ -7125,6 +7139,13 @@
         "Chicago, IL",
         "Nov 01",
         "https://go.vansh.nyc/18V?s=y"
+      ],
+      [
+        "Selective Insurance",
+        "IT Information Management Intern",
+        "Charlotte, NC",
+        "Nov 01",
+        "https://go.vansh.nyc/1qe?s=y"
       ],
       [
         "ParetoHealth",
@@ -12608,6 +12629,13 @@
         "https://go.vansh.nyc/7U?s=y"
       ],
       [
+        "Tenstorrent",
+        "Hardware Intern, Architecture, AI HW & SoC",
+        "**4 locations**Austin, TX Boston, MA Fort Collins, CO Santa Clara, CA",
+        "Oct 09",
+        "https://go.vansh.nyc/1qf?s=y"
+      ],
+      [
         "Rivian",
         "Controls, Automation & Embedded Software Intern \ud83d\udec2",
         "Palo Alto, CA",
@@ -15808,13 +15836,6 @@
       ],
       [
         "TikTok",
-        "Software Engineer Intern, Code Graph and Quality Validation \ud83d\udec2",
-        "San Jose, CA",
-        "Aug 04",
-        "https://go.vansh.nyc/6m?s=y"
-      ],
-      [
-        "TikTok",
         "Software Engineer Intern, Privacy and Security",
         "San Jose, CA",
         "Aug 04",
@@ -15861,13 +15882,6 @@
         "San Jose, CA",
         "Aug 04",
         "https://go.vansh.nyc/6e?s=y"
-      ],
-      [
-        "TikTok",
-        "Backend Software Engineer Intern, Social Foundation",
-        "San Jose, CA",
-        "Aug 04",
-        "https://go.vansh.nyc/6d?s=y"
       ],
       [
         "TikTok",
@@ -17246,6 +17260,13 @@
         "Software Engineering Undergrad Intern \ud83c\uddfa\ud83c\uddf8",
         "El Segundo, CA",
         "Nov 02",
+        ""
+      ],
+      [
+        "TikTok",
+        "AI Engineer Intern, TikTok-Client Arch \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
         ""
       ],
       [
@@ -20641,6 +20662,20 @@
         "AI Network Automation Engineer Intern, Global Physical Network Infra",
         "San Jose, CA",
         "Aug 06",
+        ""
+      ],
+      [
+        "TikTok",
+        "Backend Software Engineer Intern, Social Foundation",
+        "San Jose, CA",
+        "Aug 04",
+        ""
+      ],
+      [
+        "TikTok",
+        "Software Engineer Intern, Code Graph and Quality Validation \ud83d\udec2",
+        "San Jose, CA",
+        "Aug 04",
         ""
       ],
       [

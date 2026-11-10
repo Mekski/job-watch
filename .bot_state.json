@@ -41500,7 +41500,7 @@
       "term": "Summer 2027",
       "apply_url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6497,
+      "message_id": 6829,
       "chat_id": 8743352944
     },
     "6d9125ca3493": {
@@ -44591,6 +44591,106 @@
       "apply_url": "https://go.vansh.nyc/1pp?s=y",
       "source": "Vansh Repo",
       "message_id": 6818,
+      "chat_id": 8743352944
+    },
+    "cda0ab6bd80e": {
+      "company": "DreamWorks Animation",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6819,
+      "chat_id": 8743352944
+    },
+    "1a554d04d08e": {
+      "company": "DreamWorks Animation",
+      "role": "Software Engineer Intern",
+      "location": "Universal City, LA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6820,
+      "chat_id": 8743352944
+    },
+    "9fa63779e07d": {
+      "company": "Scout Motors",
+      "role": "Digital Products Intern",
+      "location": "Charlotte, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6821,
+      "chat_id": 8743352944
+    },
+    "2921032b3b71": {
+      "company": "DreamWorks Animation",
+      "role": "Media Tech: Product & Engineering Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6822,
+      "chat_id": 8743352944
+    },
+    "fbcf4df0fb44": {
+      "company": "DreamWorks Animation",
+      "role": "Digital Transformation AR/VR Intern",
+      "location": "Universal City, LA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160647460?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6823,
+      "chat_id": 8743352944
+    },
+    "a20a0e8b1f05": {
+      "company": "UiPath",
+      "role": "Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6824,
+      "chat_id": 8743352944
+    },
+    "261a8968bad0": {
+      "company": "UiPath",
+      "role": "AI Engineer Intern \ud83c\udf93",
+      "location": "Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6825,
+      "chat_id": 8743352944
+    },
+    "dab7f52793bd": {
+      "company": "Radiance Technologies",
+      "role": "Software Engineer Intern",
+      "location": "Beavercreek, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6826,
+      "chat_id": 8743352944
+    },
+    "23e81c0b30f5": {
+      "company": "Radiance Technologies",
+      "role": "Software Engineer Intern",
+      "location": "Beavercreek, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6827,
+      "chat_id": 8743352944
+    },
+    "885b4a575fb2": {
+      "company": "General Dynamics Mission Systems",
+      "role": "Software Engineer Intern",
+      "location": "Manassas, VA",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6828,
       "chat_id": 8743352944
     }
   },

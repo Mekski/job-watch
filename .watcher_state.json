@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "3ee9273a1724f2233d60c8a896fb89d2e2d6dce6",
+    "last_sha": "a0b1db0a3193e8f3b94147bdd45599edc8404030",
     "rows": [
       [
         "Zoetis",
@@ -3737,6 +3737,13 @@
         "Palo Alto, CA",
         "Nov 09",
         "https://go.vansh.nyc/1px?s=y"
+      ],
+      [
+        "Pika",
+        "Applied AI Engineer Intern, Creative Experiences",
+        "Palo Alto, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1pR?s=y"
       ],
       [
         "Persona AI",
@@ -3884,6 +3891,20 @@
         "Scottsdale, AZ",
         "Nov 09",
         "https://go.vansh.nyc/1pc?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Ontology Data Analysis and Validation Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "Nov 09",
+        "https://go.vansh.nyc/1pQ?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Ontology and Semantic Engineering Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "Nov 09",
+        "https://go.vansh.nyc/1pS?s=y"
       ],
       [
         "Epic Games",
@@ -6726,13 +6747,6 @@
         "**5 locations**Fort Worth, TX Lake Forest, CA Johns Creek, GA Houston, TX Goleta, CA",
         "Nov 02",
         "https://go.vansh.nyc/1bZ?s=y"
-      ],
-      [
-        "Aerospace Corporation",
-        "Software Engineering Undergrad Intern \ud83c\uddfa\ud83c\uddf8",
-        "El Segundo, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/19W?s=y"
       ],
       [
         "Valmont",
@@ -17175,6 +17189,13 @@
         "AllianceBernstein",
         "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
         "Nashville, TN",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Aerospace Corporation",
+        "Software Engineering Undergrad Intern \ud83c\uddfa\ud83c\uddf8",
+        "El Segundo, CA",
         "Nov 02",
         ""
       ],

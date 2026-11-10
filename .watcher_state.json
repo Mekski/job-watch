@@ -3631,7 +3631,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9ee081a40e7f80fc2b348b4d110919e96eb8dd5c",
+    "last_sha": "8406a75c0dad0d0e1f5f3a85865005765baec64e",
     "rows": [
       [
         "Zebra Technologies",
@@ -3641,11 +3641,25 @@
         "https://go.vansh.nyc/1qC?s=y"
       ],
       [
+        "Vooma",
+        "Software Engineering Intern",
+        "San Mateo, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rA?s=y"
+      ],
+      [
         "Uplimit",
         "Software Engineer Intern",
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rm?s=y"
+      ],
+      [
+        "TerraByte Green",
+        "AI Engineering Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1ry?s=y"
       ],
       [
         "T-Mobile",
@@ -3655,6 +3669,13 @@
         "https://go.vansh.nyc/1qv?s=y"
       ],
       [
+        "Substrate",
+        "Systems Software Engineer Intern",
+        "San Francisco, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rx?s=y"
+      ],
+      [
         "Stealth Startup",
         "Enterprise AI",
         "Software Engineering Intern",
@@ -3662,11 +3683,46 @@
         ""
       ],
       [
+        "SigIQ.ai",
+        "Machine Learning Intern/Resident",
+        "Berkeley, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rw?s=y"
+      ],
+      [
+        "SemiAnalysis",
+        "Data Engineer Intern",
+        "Chicago, IL",
+        "Nov 10",
+        "https://go.vansh.nyc/1rv?s=y"
+      ],
+      [
+        "Rivet",
+        "Full-Stack Engineering Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1ru?s=y"
+      ],
+      [
+        "RetailReady",
+        "Full Stack Intern",
+        "San Francisco, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rt?s=y"
+      ],
+      [
         "Peripheral",
         "Robotics Engineering Intern, Capture Systems",
         "Toronto, Canada",
         "Nov 10",
         "https://go.vansh.nyc/1rj?s=y"
+      ],
+      [
+        "Palantir Technologies",
+        "Software Engineer Intern, Connectivity Platform and Product",
+        "Denver, CO",
+        "Nov 10",
+        "https://go.vansh.nyc/1rs?s=y"
       ],
       [
         "Operio",
@@ -3816,6 +3872,13 @@
         "https://go.vansh.nyc/1r8?s=y"
       ],
       [
+        "Mason",
+        "AI Engineer Intern",
+        "New York, NY",
+        "Nov 10",
+        "https://go.vansh.nyc/1rz?s=y"
+      ],
+      [
         "Maincode",
         "AI Research Residency Intern",
         "Remote United States Canada",
@@ -3828,6 +3891,13 @@
         "Remote United States Canada",
         "Nov 10",
         "https://go.vansh.nyc/1qT?s=y"
+      ],
+      [
+        "Jabil",
+        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+        "St. Petersburg, FL Tampa, FL",
+        "Nov 10",
+        "https://go.vansh.nyc/1rC?s=y"
       ],
       [
         "Ixana",
@@ -14120,13 +14190,6 @@
         "https://go.vansh.nyc/E3?s=y"
       ],
       [
-        "Micron Technology",
-        "DRAM Architecture Intern",
-        "San Jose, CA Boise, ID",
-        "Sep 30",
-        "https://go.vansh.nyc/Ef?s=y"
-      ],
-      [
         "MetLife",
         "Global Technology Intern",
         "**4 locations**Tampa, FL Hanover, NJ Cary, NC New York, NY",
@@ -20458,6 +20521,13 @@
         "Quantum Signal AI",
         "Embedded and Real-Time Software Intern",
         "Saline, MI",
+        "Sep 30",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "DRAM Architecture Intern",
+        "San Jose, CA Boise, ID",
         "Sep 30",
         ""
       ],

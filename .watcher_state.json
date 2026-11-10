@@ -3631,7 +3631,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "01abb7f98d8a374284e0c7dfdb0b7726321fc21e",
+    "last_sha": "4bc64b6a9311aaf8fb3b34d2536406aecbb183eb",
     "rows": [
       [
         "T-Mobile",
@@ -3639,6 +3639,13 @@
         "Frisco, TX Atlanta, GA",
         "Nov 10",
         "https://go.vansh.nyc/1qv?s=y"
+      ],
+      [
+        "OneAmerica Financial",
+        "Cyber Security Intern",
+        "Indianapolis, IN",
+        "Nov 10",
+        "https://go.vansh.nyc/1qx?s=y"
       ],
       [
         "NVIDIA",
@@ -3653,6 +3660,13 @@
         "Pittsburgh, PA",
         "Nov 10",
         "https://go.vansh.nyc/1qu?s=y"
+      ],
+      [
+        "Clarios",
+        "IT Digital/AI Intern \ud83d\udec2",
+        "Milwaukee, WI",
+        "Nov 10",
+        "https://go.vansh.nyc/1qy?s=y"
       ],
       [
         "Booz Allen Hamilton",
@@ -4542,13 +4556,6 @@
         "Mandan, ND",
         "Nov 06",
         "https://go.vansh.nyc/1q6?s=y"
-      ],
-      [
-        "Marmon Holdings",
-        "AI Technology Solutions Intern",
-        "Chicago, IL",
-        "Nov 06",
-        "https://go.vansh.nyc/1mo?s=y"
       ],
       [
         "L3Harris Technologies",
@@ -6344,20 +6351,6 @@
       ],
       [
         "Micron Technology",
-        "Data Center SSD Firmware Intern",
-        "Longmont, CO",
-        "Nov 02",
-        "https://go.vansh.nyc/1d3?s=y"
-      ],
-      [
-        "Micron Technology",
-        "Firmware Engineer Intern",
-        "Longmont, CO",
-        "Nov 02",
-        "https://go.vansh.nyc/1d4?s=y"
-      ],
-      [
-        "Micron Technology",
         "AI Engineering Intern, SMAI TD",
         "Boise, ID",
         "Nov 02",
@@ -6579,13 +6572,6 @@
         "Tempe, AZ",
         "Nov 02",
         "https://go.vansh.nyc/1cr?s=y"
-      ],
-      [
-        "DriveTime",
-        "Database Engineering Intern",
-        "Tempe, AZ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cs?s=y"
       ],
       [
         "DriveTime",
@@ -16724,6 +16710,13 @@
         ""
       ],
       [
+        "Marmon Holdings",
+        "AI Technology Solutions Intern",
+        "Chicago, IL",
+        "Nov 06",
+        ""
+      ],
+      [
         "Invitation-charter",
         "Software Engineer Intern",
         "Englewood, CO",
@@ -17207,6 +17200,20 @@
         ""
       ],
       [
+        "Micron Technology",
+        "Data Center SSD Firmware Intern",
+        "Longmont, CO",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "Firmware Engineer Intern",
+        "Longmont, CO",
+        "Nov 02",
+        ""
+      ],
+      [
         "KLA",
         "PLM BI & Analytics Intern",
         "Ann Arbor, MI",
@@ -17259,6 +17266,13 @@
         "Eurofins",
         "Business Intelligence Intern",
         "Lancaster, PA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "DriveTime",
+        "Database Engineering Intern",
+        "Tempe, AZ",
         "Nov 02",
         ""
       ],

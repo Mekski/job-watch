@@ -3617,7 +3617,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d7f7927c8b2b8ecf8a311b541c50f132c6a880c8",
+    "last_sha": "25c17c652b89765ba5c66096552b416cd5ddc45c",
     "rows": [
       [
         "Zoetis",
@@ -5209,13 +5209,6 @@
         "https://go.vansh.nyc/1jb?s=y"
       ],
       [
-        "Booz Allen Hamilton",
-        "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
-        "McLean, VA",
-        "Nov 05",
-        "https://go.vansh.nyc/1iU?s=y"
-      ],
-      [
         "ASM",
         "Product Intelligence Engineering Intern, AI/ML",
         "Phoenix, AZ",
@@ -5627,20 +5620,6 @@
         "Tampa, FL",
         "Nov 03",
         "https://go.vansh.nyc/1dB?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineering Intern",
-        "Atlanta, GA",
-        "Nov 03",
-        "https://go.vansh.nyc/1f5?s=y"
-      ],
-      [
-        "T-Mobile",
-        "T-Ads Software Engineering Intern",
-        "Philadelphia, PA",
-        "Nov 03",
-        "https://go.vansh.nyc/1er?s=y"
       ],
       [
         "STARKEY DE M\u00c9XICO S.A. DE C.V.",
@@ -9381,13 +9360,6 @@
         "https://go.vansh.nyc/UD?s=y"
       ],
       [
-        "RTX",
-        "Embedded Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "East Hartford, CT",
-        "Oct 26",
-        "https://go.vansh.nyc/BP?s=y"
-      ],
-      [
         "Qube Research and Technologies",
         "Technology Intern",
         "Chicago, IL New York, NY",
@@ -10723,13 +10695,6 @@
         "Seattle, WA SF Sunnyvale, CA",
         "Oct 20",
         "https://go.vansh.nyc/dg?s=y"
-      ],
-      [
-        "The Aerospace Corporation",
-        "Embedded Software Engineer Intern, Multiple Teams",
-        "El Segundo, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/dM?s=y"
       ],
       [
         "Texas Instruments",
@@ -16766,6 +16731,13 @@
         ""
       ],
       [
+        "Booz Allen Hamilton",
+        "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Nov 05",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "Systems Engineer Intern",
         "Germantown, MD",
@@ -16875,6 +16847,20 @@
         "Senior Systems Design Engineer Intern",
         "Markham, Canada",
         "Nov 04",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "T-Ads Software Engineering Intern",
+        "Philadelphia, PA",
+        "Nov 03",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "Atlanta, GA",
+        "Nov 03",
         ""
       ],
       [
@@ -18013,6 +17999,13 @@
       ],
       [
         "RTX",
+        "Embedded Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "East Hartford, CT",
+        "Oct 26",
+        ""
+      ],
+      [
+        "RTX",
         "Software Engineering Intern",
         "Cedar Rapids, IA",
         "Oct 26",
@@ -18687,6 +18680,13 @@
         "Verizon Communications",
         "Call Routing Optimization Engineering Intern, Verizon Consumer Group",
         "Basking Ridge, NJ",
+        "Oct 20",
+        ""
+      ],
+      [
+        "The Aerospace Corporation",
+        "Embedded Software Engineer Intern, Multiple Teams",
+        "El Segundo, CA",
         "Oct 20",
         ""
       ],

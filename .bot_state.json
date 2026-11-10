@@ -39650,7 +39650,7 @@
       "term": "Summer 2027",
       "apply_url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6280,
+      "message_id": 6972,
       "chat_id": 8743352944
     },
     "efbe5bd1e32b": {
@@ -41500,7 +41500,7 @@
       "term": "Summer 2027",
       "apply_url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6829,
+      "message_id": 6971,
       "chat_id": 8743352944
     },
     "6d9125ca3493": {
@@ -45981,6 +45981,96 @@
       "apply_url": "https://go.vansh.nyc/1sf?s=y",
       "source": "Vansh Repo",
       "message_id": 6961,
+      "chat_id": 8743352944
+    },
+    "0c03e63bed4f": {
+      "company": "McDonald's",
+      "role": "Software Development Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6962,
+      "chat_id": 8743352944
+    },
+    "8024c0135f29": {
+      "company": "Addepar",
+      "role": "AI Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6963,
+      "chat_id": 8743352944
+    },
+    "1a742c5d76ad": {
+      "company": "Addepar",
+      "role": "Software Engineer Intern",
+      "location": "NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6964,
+      "chat_id": 8743352944
+    },
+    "c4afa5298070": {
+      "company": "Addepar",
+      "role": "Software Engineer Intern",
+      "location": "Edinburgh, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6965,
+      "chat_id": 8743352944
+    },
+    "cafae272e6fb": {
+      "company": "Jabil",
+      "role": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
+      "location": "St. Petersburg, FL",
+      "term": "Summer 2027",
+      "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6966,
+      "chat_id": 8743352944
+    },
+    "cab0729b9b37": {
+      "company": "General Motors",
+      "role": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
+      "location": "Sunnyvale, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6967,
+      "chat_id": 8743352944
+    },
+    "ab839a51699a": {
+      "company": "Entegris",
+      "role": "Filtration Portfolio Automation Intern",
+      "location": "Billerica, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6968,
+      "chat_id": 8743352944
+    },
+    "fd2d86ccf290": {
+      "company": "McDonald's",
+      "role": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6969,
+      "chat_id": 8743352944
+    },
+    "6607e93b64b5": {
+      "company": "McDonald's",
+      "role": "Software Development Engineer Intern",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6970,
       "chat_id": 8743352944
     }
   },

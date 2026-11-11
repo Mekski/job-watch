@@ -3610,7 +3610,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a1851d0d7b8b298b9638d5f24e4343792b15ab80",
+    "last_sha": "c8828224f6a3bad363743ad3a67225d81686ffa0",
     "rows": [
       [
         "Synopsys",
@@ -3618,6 +3618,13 @@
         "Nepean, Canada",
         "Nov 11",
         "https://go.vansh.nyc/1uz?s=y"
+      ],
+      [
+        "Rockwell Automation",
+        "Software Developer/Engineering Intern \ud83d\udec2",
+        "Mequon, WI",
+        "Nov 11",
+        "https://go.vansh.nyc/1uD?s=y"
       ],
       [
         "Zebra Technologies",
@@ -6404,13 +6411,6 @@
         "Milwaukee, WI Durham, NC",
         "Nov 03",
         "https://go.vansh.nyc/1eq?s=y"
-      ],
-      [
-        "Dimensional Fund Advisors",
-        "Software Engineer Intern",
-        "Austin, TX",
-        "Nov 03",
-        "https://go.vansh.nyc/1fh?s=y"
       ],
       [
         "Dairyland Power Cooperative",
@@ -14358,13 +14358,6 @@
         "https://go.vansh.nyc/1o4?s=y"
       ],
       [
-        "Enova",
-        "Software Engineer Intern",
-        "Chicago, IL",
-        "Sep 29",
-        "https://go.vansh.nyc/E0?s=y"
-      ],
-      [
         "DotDash Meredith",
         "Cloud Platform Engineering Intern",
         "Edmonton, Canada Remote Canada",
@@ -17886,6 +17879,13 @@
         ""
       ],
       [
+        "Dimensional Fund Advisors",
+        "Software Engineer Intern",
+        "Austin, TX",
+        "Nov 03",
+        ""
+      ],
+      [
         "Cox",
         "Software Engineering Intern \ud83d\udec2",
         "Austin, TX",
@@ -21207,6 +21207,13 @@
         "Itron",
         "Artificial Intelligence Intern",
         "Liberty Lake, WA Raleigh, NC Austin, TX",
+        "Sep 29",
+        ""
+      ],
+      [
+        "Enova",
+        "Software Engineer Intern",
+        "Chicago, IL",
         "Sep 29",
         ""
       ],

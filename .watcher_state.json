@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7f35eddca32d1b004b9a11274984313f6d59b6a7",
+    "last_sha": "eb29af40110151c7b967eaef1be0c1e9d926f822",
     "rows": [
       [
         "Synopsys",
@@ -6406,13 +6406,6 @@
         "https://go.vansh.nyc/1f3?s=y"
       ],
       [
-        "DuCharme, McMillen & Associates",
-        "Cybersecurity Intern",
-        "Fort Wayne, IN",
-        "Nov 03",
-        "https://go.vansh.nyc/1f4?s=y"
-      ],
-      [
         "Direct Supply",
         "AI Engineer Intern",
         "Milwaukee, WI",
@@ -7230,13 +7223,6 @@
         "Carmel, IN Golden, CO",
         "Nov 02",
         "https://go.vansh.nyc/1c0?s=y"
-      ],
-      [
-        "Allegion",
-        "Firmware Engineer Intern, Advanced Development",
-        "Indianapolis, IN",
-        "Nov 02",
-        "https://go.vansh.nyc/1c1?s=y"
       ],
       [
         "Allegion",
@@ -17977,6 +17963,13 @@
         ""
       ],
       [
+        "DuCharme, McMillen & Associates",
+        "Cybersecurity Intern",
+        "Fort Wayne, IN",
+        "Nov 03",
+        ""
+      ],
+      [
         "Cox",
         "Software Engineering Intern \ud83d\udec2",
         "Austin, TX",
@@ -18309,6 +18302,13 @@
         "AllianceBernstein",
         "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
         "Nashville, TN",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Allegion",
+        "Firmware Engineer Intern, Advanced Development",
+        "Indianapolis, IN",
         "Nov 02",
         ""
       ],

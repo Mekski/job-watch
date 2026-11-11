@@ -3638,8 +3638,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "43165ca1aad1dd24efcd2ee481784e5668875722",
+    "last_sha": "f0e8e0e359e995725cd56d0149c885bfd16269b7",
     "rows": [
+      [
+        "The Marzetti Company",
+        "AI Solutions Intern, Human Resources",
+        "Columbus, OH",
+        "Nov 11",
+        "https://go.vansh.nyc/1uM?s=y"
+      ],
       [
         "Synopsys",
         "Engineering Documentation and AI Automation Co-op",
@@ -14841,13 +14848,6 @@
         "https://go.vansh.nyc/J7?s=y"
       ],
       [
-        "Marvell",
-        "Digital IC Design Intern",
-        "**5 locations**Hudson Valley, NY Austin, TX Irvine, CA Santa Clara, CA Boise, ID",
-        "Sep 20",
-        "https://go.vansh.nyc/IW?s=y"
-      ],
-      [
         "General Motors",
         "Embedded and Systems Engineering Intern, Digital Product",
         "**4 locations**Austin, TX Milford, MI Mountain View, CA Warren, MI",
@@ -15749,20 +15749,6 @@
         "Santa Clara, CA Boise, ID Westborough, MA",
         "Sep 03",
         "https://go.vansh.nyc/Mb?s=y"
-      ],
-      [
-        "Marvell",
-        "Design Verification Intern",
-        "**5 locations**Morrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA",
-        "Sep 03",
-        "https://go.vansh.nyc/Me?s=y"
-      ],
-      [
-        "Marvell",
-        "Physical Design Engineer Intern",
-        "**7 locations**Morrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA",
-        "Sep 03",
-        "https://go.vansh.nyc/Mf?s=y"
       ],
       [
         "Amazon",
@@ -21386,6 +21372,13 @@
         ""
       ],
       [
+        "Marvell",
+        "Digital IC Design Intern",
+        "**5 locations**Hudson Valley, NY Austin, TX Irvine, CA Santa Clara, CA Boise, ID",
+        "Sep 20",
+        ""
+      ],
+      [
         "Cisco",
         "Data Analyst I Intern",
         "San Jose, CA Austin, TX Research Triangle Park, NC",
@@ -21551,6 +21544,20 @@
         "Application Development Intern",
         "Cranberry Township, PA",
         "Sep 04",
+        ""
+      ],
+      [
+        "Marvell",
+        "Design Verification Intern",
+        "**5 locations**Morrisville, NC Austin, TX Santa Clara, CA Boise, ID Westborough, MA",
+        "Sep 03",
+        ""
+      ],
+      [
+        "Marvell",
+        "Physical Design Engineer Intern",
+        "**7 locations**Morrisville, NC Austin, TX Rochester, MN Santa Clara, CA Boise, ID Burlington, VT Westborough, MA",
+        "Sep 03",
         ""
       ],
       [

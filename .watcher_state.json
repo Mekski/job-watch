@@ -3575,7 +3575,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "02e13343e40ec4e18883c796dbb24680f88bc5ec",
+    "last_sha": "fa37cd5c2714c5b324da23e04e0e54544de3618b",
     "rows": [
       [
         "The Marzetti Company",
@@ -3639,6 +3639,13 @@
         "San Francisco, CA",
         "Nov 11",
         "https://go.vansh.nyc/1uO?s=y"
+      ],
+      [
+        "AeroVironment",
+        "Software Engineering Intern",
+        "Lawrence, KS",
+        "Nov 11",
+        "https://go.vansh.nyc/1vd?s=y"
       ],
       [
         "Zebra Technologies",
@@ -4101,6 +4108,13 @@
         "San Diego, CA",
         "Nov 10",
         "https://go.vansh.nyc/1sA?s=y"
+      ],
+      [
+        "AIM Defence",
+        "Computer Vision Engineering Intern",
+        "Vancouver, Canada",
+        "Nov 10",
+        "https://go.vansh.nyc/1va?s=y"
       ],
       [
         "Addepar",
@@ -10355,13 +10369,6 @@
       ],
       [
         "Uline",
-        "Systems Administrator Intern",
-        "**5 locations**Pleasant Prairie, WI Milwaukee, WI Waukegan, IL Glenview, IL Kenosha, WI",
-        "Oct 22",
-        "https://go.vansh.nyc/ey?s=y"
-      ],
-      [
-        "Uline",
         "Database Administrator Intern",
         "**5 locations**Pleasant Prairie, WI Milwaukee, WI Waukegan, IL Glenview, IL Kenosha, WI",
         "Oct 22",
@@ -14134,13 +14141,6 @@
         "https://go.vansh.nyc/1ty?s=y"
       ],
       [
-        "Wellmark",
-        "Software Engineer Intern, Metadata Enablement Team",
-        "Des Moines, IA",
-        "Sep 30",
-        "https://go.vansh.nyc/1o8?s=y"
-      ],
-      [
         "The Federal Reserve System",
         "Computer Science and Software Engineering Intern",
         "Chicago, IL",
@@ -14517,13 +14517,6 @@
         "Milwaukee, WI",
         "Sep 24",
         "https://go.vansh.nyc/MW?s=y"
-      ],
-      [
-        "Zurn Elkay Water Solutions",
-        "Embedded Firmware Intern",
-        "Milwaukee, WI",
-        "Sep 24",
-        "https://go.vansh.nyc/JD?s=y"
       ],
       [
         "Rockwell Automation",
@@ -19391,6 +19384,13 @@
         ""
       ],
       [
+        "Uline",
+        "Systems Administrator Intern",
+        "**5 locations**Pleasant Prairie, WI Milwaukee, WI Waukegan, IL Glenview, IL Kenosha, WI",
+        "Oct 22",
+        ""
+      ],
+      [
         "Texas Instruments",
         "Software Engineering Intern \ud83d\udec2",
         "Remote Canada",
@@ -21204,6 +21204,13 @@
         ""
       ],
       [
+        "Wellmark",
+        "Software Engineer Intern, Metadata Enablement Team",
+        "Des Moines, IA",
+        "Sep 30",
+        ""
+      ],
+      [
         "The Federal Reserve System",
         "Data Science Intern",
         "Chicago, IL",
@@ -21320,6 +21327,13 @@
         "Business Technology Solutions Intern - Cloud Engineering",
         "North Chicago, IL",
         "Sep 25",
+        ""
+      ],
+      [
+        "Zurn Elkay Water Solutions",
+        "Embedded Firmware Intern",
+        "Milwaukee, WI",
+        "Sep 24",
         ""
       ],
       [

@@ -3617,7 +3617,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0f480f1a7d40fc4f30e20d6257a58628aa1b33cd",
+    "last_sha": "44c9c633e2abf47f1106d895a51c76843df01fc7",
     "rows": [
       [
         "The Marzetti Company",
@@ -8632,13 +8632,6 @@
         "https://go.vansh.nyc/1oj?s=y"
       ],
       [
-        "Revvity",
-        "Full-Stack AI Developer Intern",
-        "Canada",
-        "Oct 29",
-        "https://go.vansh.nyc/116?s=y"
-      ],
-      [
         "Qualcomm",
         "Soft IP Engineer Co-op",
         "Ottawa, Canada",
@@ -8959,20 +8952,6 @@
         "Austin, TX Santa Clara, CA",
         "Oct 28",
         "https://go.vansh.nyc/Xp?s=y"
-      ],
-      [
-        "Regeneron Pharmaceuticals",
-        "Genomics, Computational Biology & Translational Data Science Intern",
-        "Tarrytown, NY Sleepy Hollow, NY",
-        "Oct 28",
-        "https://go.vansh.nyc/Zj?s=y"
-      ],
-      [
-        "Regeneron Pharmaceuticals",
-        "IT, Digital Enablement & Information Security Intern",
-        "Tarrytown, NY Sleepy Hollow, NY",
-        "Oct 28",
-        "https://go.vansh.nyc/Zk?s=y"
       ],
       [
         "Qualcomm",
@@ -9358,20 +9337,6 @@
         "Dallas, TX Chicago, IL",
         "Oct 27",
         "https://go.vansh.nyc/Y7?s=y"
-      ],
-      [
-        "Regeneron Pharmaceuticals",
-        "Data Analytics Intern, Dashboards & Business Process Automation",
-        "Armonk, NY Warren, NJ Tarrytown, NY",
-        "Oct 27",
-        "https://go.vansh.nyc/Yr?s=y"
-      ],
-      [
-        "Regeneron Pharmaceuticals",
-        "AI/ML & Data Engineering Intern",
-        "**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY",
-        "Oct 27",
-        "https://go.vansh.nyc/Ys?s=y"
       ],
       [
         "PTC",
@@ -18544,6 +18509,13 @@
         ""
       ],
       [
+        "Revvity",
+        "Full-Stack AI Developer Intern",
+        "Canada",
+        "Oct 29",
+        ""
+      ],
+      [
         "Qualcomm",
         "Deep Learning Research Intern, Embodied AI",
         "Markham, Canada",
@@ -18673,6 +18645,20 @@
         "RTX",
         "Software Engineer Intern",
         "Sterling, VA",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Genomics, Computational Biology & Translational Data Science Intern",
+        "Tarrytown, NY Sleepy Hollow, NY",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "IT, Digital Enablement & Information Security Intern",
+        "Tarrytown, NY Sleepy Hollow, NY",
         "Oct 28",
         ""
       ],
@@ -18904,6 +18890,20 @@
         "Rockwell Automation",
         "Cybersecurity Intern \ud83d\udec2",
         "Milwaukee, WI Chelmsford, MA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics Intern, Dashboards & Business Process Automation",
+        "Armonk, NY Warren, NJ Tarrytown, NY",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "AI/ML & Data Engineering Intern",
+        "**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY",
         "Oct 27",
         ""
       ],

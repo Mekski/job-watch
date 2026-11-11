@@ -3617,7 +3617,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c8828224f6a3bad363743ad3a67225d81686ffa0",
+    "last_sha": "a941812716fb66f6242bc0b08dec682042ae1db3",
     "rows": [
       [
         "Synopsys",
@@ -3625,6 +3625,13 @@
         "Nepean, Canada",
         "Nov 11",
         "https://go.vansh.nyc/1uz?s=y"
+      ],
+      [
+        "State of Wisconsin Investment Board",
+        "Data Analytics Engineering Intern",
+        "Madison, WI",
+        "Nov 11",
+        "https://go.vansh.nyc/1uG?s=y"
       ],
       [
         "Rockwell Automation",
@@ -3870,13 +3877,6 @@
         "Lehi, UT",
         "Nov 10",
         "https://go.vansh.nyc/1r9?s=y"
-      ],
-      [
-        "Jabil",
-        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
-        "St. Petersburg, FL Tampa, FL",
-        "Nov 10",
-        "https://go.vansh.nyc/1rC?s=y"
       ],
       [
         "Ixana",
@@ -7197,25 +7197,11 @@
         "https://go.vansh.nyc/1qg?s=y"
       ],
       [
-        "ATC",
-        "Cyber Security Intern",
-        "Pewaukee, WI",
-        "Nov 02",
-        "https://go.vansh.nyc/1bS?s=y"
-      ],
-      [
         "AspenTech",
         "Software Development Intern, Digital Grid Management",
         "Medina, MN",
         "Nov 02",
         "https://go.vansh.nyc/1c7?s=y"
-      ],
-      [
-        "Allegion",
-        "Software Engineering Intern, DevOps",
-        "Carmel, IN Golden, CO",
-        "Nov 02",
-        "https://go.vansh.nyc/1c0?s=y"
       ],
       [
         "Allegion",
@@ -11892,13 +11878,6 @@
         "Minneapolis, MN",
         "Oct 18",
         "https://go.vansh.nyc/R4?s=y"
-      ],
-      [
-        "Celestica",
-        "AI / Data Science Intern",
-        "San Jose, CA",
-        "Oct 18",
-        "https://go.vansh.nyc/QY?s=y"
       ],
       [
         "Celestica",
@@ -17375,6 +17354,13 @@
         ""
       ],
       [
+        "Jabil",
+        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+        "St. Petersburg, FL Tampa, FL",
+        "Nov 10",
+        ""
+      ],
+      [
         "Intelura",
         "Backend Engineering & Security Intern",
         "Remote United States Canada",
@@ -18215,6 +18201,13 @@
         ""
       ],
       [
+        "ATC",
+        "Cyber Security Intern",
+        "Pewaukee, WI",
+        "Nov 02",
+        ""
+      ],
+      [
         "American Express",
         "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
         "Phoenix, AZ",
@@ -18225,6 +18218,13 @@
         "AllianceBernstein",
         "Software Development Intern \ud83c\uddfa\ud83c\uddf8",
         "Nashville, TN",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Allegion",
+        "Software Engineering Intern, DevOps",
+        "Carmel, IN Golden, CO",
         "Nov 02",
         ""
       ],
@@ -20318,6 +20318,13 @@
         "Cognex",
         "Software Engineer Intern",
         "Wauwatosa, WI",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
+        "AI / Data Science Intern",
+        "San Jose, CA",
         "Oct 18",
         ""
       ],

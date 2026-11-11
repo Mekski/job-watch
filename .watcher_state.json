@@ -3631,8 +3631,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e91391bcbcb07063d67ca962b5281c0fc105d500",
+    "last_sha": "e82b8be1d4e48b483ba45b0f34f2f2868606be85",
     "rows": [
+      [
+        "Synopsys",
+        "Engineering Documentation and AI Automation Co-op",
+        "Nepean, Canada",
+        "Nov 11",
+        "https://go.vansh.nyc/1uz?s=y"
+      ],
       [
         "Zebra Technologies",
         "Security Intern",
@@ -4017,6 +4024,13 @@
         "Milwaukee, WI",
         "Nov 10",
         "https://go.vansh.nyc/1qy?s=y"
+      ],
+      [
+        "Cisco",
+        "Software Engineer Intern, Embedded Systems I",
+        "San Jose, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1uy?s=y"
       ],
       [
         "Cisco",
@@ -5375,13 +5389,6 @@
         "Plano, TX",
         "Nov 05",
         "https://go.vansh.nyc/1lG?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Aurora, CO",
-        "Nov 05",
-        "https://go.vansh.nyc/1jj?s=y"
       ],
       [
         "RTX",
@@ -10891,13 +10898,6 @@
         "Bedford, NH",
         "Oct 21",
         "https://go.vansh.nyc/dQ?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineer Intern",
-        "Aurora, CO",
-        "Oct 21",
-        "https://go.vansh.nyc/eq?s=y"
       ],
       [
         "Rockwell Automation",
@@ -17676,6 +17676,13 @@
         ""
       ],
       [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Aurora, CO",
+        "Nov 05",
+        ""
+      ],
+      [
         "RR Donnelley",
         "IT Software Integration & Automation Intern",
         "Minneapolis, MN",
@@ -19681,6 +19688,13 @@
         "Smith+Nephew",
         "Agentic AI Software Engineering Intern",
         "Andover, MA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "RTX",
+        "Software Engineer Intern",
+        "Aurora, CO",
         "Oct 21",
         ""
       ],

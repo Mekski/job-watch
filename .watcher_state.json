@@ -3554,7 +3554,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f935eccbb21e433c858da36af9e2b95f87d2c586",
+    "last_sha": "239e9ab94e70e1122890fa70708f8925805475ff",
     "rows": [
       [
         "The Marzetti Company",
@@ -3613,6 +3613,13 @@
         "https://go.vansh.nyc/1vh?s=y"
       ],
       [
+        "MKS Instruments",
+        "Software Engineer Co-op",
+        "Andover, MA",
+        "Nov 11",
+        "https://go.vansh.nyc/1vn?s=y"
+      ],
+      [
         "Lightmatter",
         "Laser Firmware Intern",
         "Boston, MA",
@@ -3639,6 +3646,13 @@
         "San Francisco, CA",
         "Nov 11",
         "https://go.vansh.nyc/1uO?s=y"
+      ],
+      [
+        "Bloom Energy",
+        "Data Science Intern",
+        "San Jose, CA",
+        "Nov 11",
+        "https://go.vansh.nyc/1vm?s=y"
       ],
       [
         "Bask",
@@ -6397,13 +6411,6 @@
         "Port Orchard, WA",
         "Nov 03",
         "https://go.vansh.nyc/1hX?s=y"
-      ],
-      [
-        "First Citizens BancShares",
-        "Applied AI Intern",
-        "Raleigh, NC",
-        "Nov 03",
-        "https://go.vansh.nyc/1fD?s=y"
       ],
       [
         "EquipmentShare",
@@ -17826,6 +17833,13 @@
         "IDEMIA",
         "Information Technology Intern",
         "Remote United States",
+        "Nov 03",
+        ""
+      ],
+      [
+        "First Citizens BancShares",
+        "Applied AI Intern",
+        "Raleigh, NC",
         "Nov 03",
         ""
       ],

@@ -3610,7 +3610,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "63d64ae5a11ff40870fce53e91dd26f57ed4ae2b",
+    "last_sha": "a1851d0d7b8b298b9638d5f24e4343792b15ab80",
     "rows": [
       [
         "Synopsys",
@@ -3660,6 +3660,13 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rm?s=y"
+      ],
+      [
+        "Unisys",
+        "Software Engineer Intern",
+        "Eagan, MN",
+        "Nov 10",
+        "https://go.vansh.nyc/1uC?s=y"
       ],
       [
         "Trimble",
@@ -10515,13 +10522,6 @@
         "https://go.vansh.nyc/1n4?s=y"
       ],
       [
-        "Palantir Technologies",
-        "Deployment Strategist Intern, Warp Speed",
-        "New York, NY",
-        "Oct 22",
-        "https://go.vansh.nyc/fJ?s=y"
-      ],
-      [
         "Palantir",
         "Forward Deployed Software Engineer Intern, Warp Speed",
         "New York, NY",
@@ -15891,69 +15891,6 @@
         "https://go.vansh.nyc/LV?s=y"
       ],
       [
-        "AMD",
-        "Software Engineering Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/MZ?s=y"
-      ],
-      [
-        "AMD",
-        "Software Test Engineering Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/N0?s=y"
-      ],
-      [
-        "AMD",
-        "Machine Learning/Artificial Intelligence Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LG?s=y"
-      ],
-      [
-        "AMD",
-        "Hardware Design Engineer Co-op",
-        "Vancouver, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LI?s=y"
-      ],
-      [
-        "AMD",
-        "Diagnostics Design Engineer Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LJ?s=y"
-      ],
-      [
-        "AMD",
-        "Firmware Engineer Co-op",
-        "Vancouver, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LL?s=y"
-      ],
-      [
-        "AMD",
-        "Hardware Design Engineer Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LN?s=y"
-      ],
-      [
-        "AMD",
-        "Graphics Software Engineer Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LO?s=y"
-      ],
-      [
-        "AMD",
-        "Firmware Engineer Co-op",
-        "Markham, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/LQ?s=y"
-      ],
-      [
         "Vermeer",
         "Embedded Software Engineer Intern",
         "Pella, IA",
@@ -19503,6 +19440,13 @@
         ""
       ],
       [
+        "Palantir Technologies",
+        "Deployment Strategist Intern, Warp Speed",
+        "New York, NY",
+        "Oct 22",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "San Antonio, TX",
@@ -21627,6 +21571,69 @@
         "Johns Hopkins Applied Physics Laboratory",
         "Cyber Software Engineer Intern, Capabilities Development",
         "Laurel, MD",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Machine Learning/Artificial Intelligence Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Hardware Design Engineer Co-op",
+        "Vancouver, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Diagnostics Design Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Firmware Engineer Co-op",
+        "Vancouver, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Hardware Design Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Graphics Software Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Firmware Engineer Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Software Engineering Co-op",
+        "Markham, Canada",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "Software Test Engineering Co-op",
+        "Markham, Canada",
         "Sep 01",
         ""
       ],

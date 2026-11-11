@@ -3589,7 +3589,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "af7bbdbd26eaa25a72c19e22b2e20060295bd4a9",
+    "last_sha": "dc27468b8b4ea63a3716689c3780c23b22ab4602",
     "rows": [
       [
         "The Marzetti Company",
@@ -3809,6 +3809,13 @@
         "https://go.vansh.nyc/1rj?s=y"
       ],
       [
+        "Penn Engineering",
+        "AI & Data Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1v0?s=y"
+      ],
+      [
         "Palantir Technologies",
         "Software Engineer Intern, Connectivity Platform and Product",
         "Denver, CO",
@@ -3858,6 +3865,13 @@
         "https://go.vansh.nyc/1rd?s=y"
       ],
       [
+        "New York Life Insurance",
+        "IBM i Developer Intern",
+        "Tampa, FL",
+        "Nov 10",
+        "https://go.vansh.nyc/1v1?s=y"
+      ],
+      [
         "National Information Solutions Cooperative",
         "Test Automation Intern",
         "Lake Saint Louis, MO",
@@ -3877,6 +3891,13 @@
         "Lehi, UT",
         "Nov 10",
         "https://go.vansh.nyc/1r9?s=y"
+      ],
+      [
+        "Kiewit",
+        "Machine Learning Intern, Kiewit Data Services",
+        "La Vista, NE",
+        "Nov 10",
+        "https://go.vansh.nyc/1v4?s=y"
       ],
       [
         "Ixana",
@@ -4012,11 +4033,11 @@
         "https://go.vansh.nyc/1uo?s=y"
       ],
       [
-        "Compeer Financial",
-        "Data Analytics Intern \ud83d\udec2",
-        "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
+        "Cyberix",
+        "Cybersecurity Intern",
+        "Aurora, CO",
         "Nov 10",
-        "https://go.vansh.nyc/1sL?s=y"
+        "https://go.vansh.nyc/1uZ?s=y"
       ],
       [
         "Clarios",
@@ -4052,6 +4073,13 @@
         "Washington, DC",
         "Nov 10",
         "https://go.vansh.nyc/1qt?s=y"
+      ],
+      [
+        "BETA Technologies Summer 2027",
+        "Software, Controls & Autonomy Intern",
+        "South Burlington, VT",
+        "Nov 10",
+        "https://go.vansh.nyc/1v3?s=y"
       ],
       [
         "Avary.ai",
@@ -9232,6 +9260,41 @@
         "Houston, TX",
         "Oct 28",
         "https://go.vansh.nyc/103?s=y"
+      ],
+      [
+        "Astera Labs",
+        "Firmware Engineer Intern, SCO2",
+        "San Jose, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/1uT?s=y"
+      ],
+      [
+        "Astera Labs",
+        "Firmware Engineer Intern, Leo",
+        "San Jose, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/1uU?s=y"
+      ],
+      [
+        "Astera Labs",
+        "Firmware Engineer Intern, DevSecOps",
+        "San Jose, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/1uV?s=y"
+      ],
+      [
+        "Astera Labs",
+        "Firmware Engineer Co-op",
+        "Vancouver, Canada",
+        "Oct 28",
+        "https://go.vansh.nyc/1uX?s=y"
+      ],
+      [
+        "Astera Labs",
+        "Cybersecurity Engineer Intern",
+        "San Jose, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/1uY?s=y"
       ],
       [
         "Astera Labs",
@@ -15409,13 +15472,6 @@
       ],
       [
         "Pilot Company",
-        "Program Intern, Cloud Operations",
-        "Knoxville, TN",
-        "Sep 09",
-        "https://go.vansh.nyc/V0?s=y"
-      ],
-      [
-        "Pilot Company",
         "Data Governance Intern",
         "Knoxville, TN",
         "Sep 09",
@@ -17322,6 +17378,13 @@
         "Echo",
         "Software Engineering Intern",
         "Chicago, IL Remote United States",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Compeer Financial",
+        "Data Analytics Intern \ud83d\udec2",
+        "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
         "Nov 10",
         ""
       ],
@@ -21452,6 +21515,13 @@
         "Publicis Groupe",
         "Software Engineer Intern",
         "Chicago, IL",
+        "Sep 09",
+        ""
+      ],
+      [
+        "Pilot Company",
+        "Program Intern, Cloud Operations",
+        "Knoxville, TN",
         "Sep 09",
         ""
       ],

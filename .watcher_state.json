@@ -3645,7 +3645,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e2e773b303272a9222ed00570d6ef25ee446ac5d",
+    "last_sha": "6ee3b03523c4906446771ffa0751a21f8c31bd4d",
     "rows": [
       [
         "Zebra Technologies",
@@ -3667,6 +3667,13 @@
         "San Jose, CA",
         "Nov 10",
         "https://go.vansh.nyc/1sa?s=y"
+      ],
+      [
+        "Welltower",
+        "Cyber Security Intern",
+        "Frisco, TX",
+        "Nov 10",
+        "https://go.vansh.nyc/1uw?s=y"
       ],
       [
         "Vooma",
@@ -3723,6 +3730,20 @@
         "San Mateo, CA",
         "Nov 10",
         "https://go.vansh.nyc/1s9?s=y"
+      ],
+      [
+        "SimVentions",
+        "Cybersecurity Intern",
+        "Fredericksburg, VA",
+        "Nov 10",
+        "https://go.vansh.nyc/1uu?s=y"
+      ],
+      [
+        "SimVentions",
+        "Software Development Intern",
+        "Fredericksburg, VA",
+        "Nov 10",
+        "https://go.vansh.nyc/1uv?s=y"
       ],
       [
         "SigIQ.ai",
@@ -3970,13 +3991,6 @@
         "https://go.vansh.nyc/1qK?s=y"
       ],
       [
-        "Echo",
-        "Software Engineering Intern",
-        "Chicago, IL Remote United States",
-        "Nov 10",
-        "https://go.vansh.nyc/1rF?s=y"
-      ],
-      [
         "DwyerOmega",
         "Applied AI Intern",
         "Remote United States",
@@ -3996,6 +4010,13 @@
         "Toronto, Canada",
         "Nov 10",
         "https://go.vansh.nyc/1qI?s=y"
+      ],
+      [
+        "Daimler Truck",
+        "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+        "Detroit, MI",
+        "Nov 10",
+        "https://go.vansh.nyc/1uo?s=y"
       ],
       [
         "Compeer Financial",
@@ -15598,6 +15619,34 @@
       ],
       [
         "Navy Federal",
+        "Associate Data Engineer Intern",
+        "Vienna, VA",
+        "Sep 08",
+        "https://go.vansh.nyc/1up?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Associate Zero Trust Information Security Analyst Intern",
+        "Vienna, VA",
+        "Sep 08",
+        "https://go.vansh.nyc/1uq?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Associate Product Security Engineer Intern",
+        "Vienna, VA",
+        "Sep 08",
+        "https://go.vansh.nyc/1ur?s=y"
+      ],
+      [
+        "Navy Federal",
+        "Associate Information Security Analyst Intern",
+        "Vienna, VA",
+        "Sep 08",
+        "https://go.vansh.nyc/1us?s=y"
+      ],
+      [
+        "Navy Federal",
         "Associate Intern, Identity & Access Management",
         "Vienna, VA",
         "Sep 08",
@@ -17497,6 +17546,13 @@
         "Flowai",
         "Senior Back-End Engineer Intern",
         "Remote United States Canada",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Echo",
+        "Software Engineering Intern",
+        "Chicago, IL Remote United States",
         "Nov 10",
         ""
       ],

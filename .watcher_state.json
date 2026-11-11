@@ -3617,7 +3617,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "eb29af40110151c7b967eaef1be0c1e9d926f822",
+    "last_sha": "7f5e72ad727df4f7fb52e9f5b0cbeb69973abe3f",
     "rows": [
       [
         "Synopsys",
@@ -4703,13 +4703,6 @@
         "Nashville, TN",
         "Nov 08",
         "https://go.vansh.nyc/1pE?s=y"
-      ],
-      [
-        "7-Eleven",
-        "Data Engineer Intern",
-        "Irving, TX",
-        "Nov 08",
-        "https://go.vansh.nyc/1pp?s=y"
       ],
       [
         "Springs Window Fashions",
@@ -15906,13 +15899,6 @@
       ],
       [
         "AMD",
-        "AGS Libraries Co-op",
-        "Calgary, Canada",
-        "Sep 01",
-        "https://go.vansh.nyc/Q4?s=y"
-      ],
-      [
-        "AMD",
         "Software Engineering Co-op",
         "Markham, Canada",
         "Sep 01",
@@ -17553,6 +17539,13 @@
         "RTX",
         "Digital Hardware Design Engineer Co-op",
         "Cedar Rapids, IA",
+        "Nov 08",
+        ""
+      ],
+      [
+        "7-Eleven",
+        "Data Engineer Intern",
+        "Irving, TX",
         "Nov 08",
         ""
       ],
@@ -21641,6 +21634,13 @@
         "Johns Hopkins Applied Physics Laboratory",
         "Cyber Software Engineer Intern, Capabilities Development",
         "Laurel, MD",
+        "Sep 01",
+        ""
+      ],
+      [
+        "AMD",
+        "AGS Libraries Co-op",
+        "Calgary, Canada",
         "Sep 01",
         ""
       ],

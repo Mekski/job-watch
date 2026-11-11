@@ -3554,7 +3554,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f704592efbab521230fb4d0674e9ddd09ea93707",
+    "last_sha": "273ac943c5f808245cd043ba99d77c10447a2b3c",
     "rows": [
       [
         "The Marzetti Company",
@@ -3634,11 +3634,25 @@
         "https://go.vansh.nyc/1uQ?s=y"
       ],
       [
+        "HUB International",
+        "AI Engineering Intern",
+        "Chicago, IL",
+        "Nov 11",
+        "https://go.vansh.nyc/1vr?s=y"
+      ],
+      [
         "GlobalFoundries",
         "AI Processor Hardware/Software Integration Engineer Intern",
         "Richardson, TX",
         "Nov 11",
         "https://go.vansh.nyc/1uH?s=y"
+      ],
+      [
+        "Farmers Mutual Hail",
+        "AI Intern",
+        "West Des Moines, IA",
+        "Nov 11",
+        "https://go.vansh.nyc/1vq?s=y"
       ],
       [
         "Brex",
@@ -3674,6 +3688,20 @@
         "Lawrence, KS",
         "Nov 11",
         "https://go.vansh.nyc/1vd?s=y"
+      ],
+      [
+        "Zotec Partners",
+        "Software Engineer Intern, RCI",
+        "Carmel, IN",
+        "Nov 10",
+        "https://go.vansh.nyc/1vo?s=y"
+      ],
+      [
+        "Zotec Partners",
+        "Software Engineer Intern",
+        "Carmel, IN",
+        "Nov 10",
+        "https://go.vansh.nyc/1vp?s=y"
       ],
       [
         "Zebra Technologies",
@@ -11306,13 +11334,6 @@
         "https://go.vansh.nyc/bt?s=y"
       ],
       [
-        "SK Hynix Memory Solution",
-        "ASIC Design Intern",
-        "San Jose, CA",
-        "Oct 19",
-        "https://go.vansh.nyc/gp?s=y"
-      ],
-      [
         "Scale AI",
         "Machine Learning Research Intern",
         "New York, NY San Francisco, CA",
@@ -11976,13 +11997,6 @@
         "Washington, DC",
         "Oct 16",
         "https://go.vansh.nyc/1ne?s=y"
-      ],
-      [
-        "Rocket Companies",
-        "Marketing, Accounting, or IT Intern",
-        "Detroit, MI",
-        "Oct 16",
-        "https://go.vansh.nyc/aq?s=y"
       ],
       [
         "Qualcomm",
@@ -15339,13 +15353,6 @@
       ],
       [
         "Wellmark",
-        "Software Engineer Intern - User Experience Team",
-        "Des Moines, IA",
-        "Sep 10",
-        "https://go.vansh.nyc/1tn?s=y"
-      ],
-      [
-        "Wellmark",
         "Cyber Security Intern",
         "Des Moines, IA",
         "Sep 10",
@@ -15434,13 +15441,6 @@
         "Austin, TX",
         "Sep 09",
         "https://go.vansh.nyc/JM?s=y"
-      ],
-      [
-        "Pilot Company",
-        "Data Governance Intern",
-        "Knoxville, TN",
-        "Sep 09",
-        "https://go.vansh.nyc/Mz?s=y"
       ],
       [
         "Navy Federal",
@@ -20119,6 +20119,13 @@
         ""
       ],
       [
+        "SK Hynix Memory Solution",
+        "ASIC Design Intern",
+        "San Jose, CA",
+        "Oct 19",
+        ""
+      ],
+      [
         "Schweitzer Engineering Laboratories",
         "Software Engineer Intern",
         "Pullman, WA",
@@ -20437,6 +20444,13 @@
         "Together AI",
         "Hardware Security Engineer Intern",
         "San Francisco, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Rocket Companies",
+        "Marketing, Accounting, or IT Intern",
+        "Detroit, MI",
         "Oct 16",
         ""
       ],
@@ -21533,6 +21547,13 @@
         ""
       ],
       [
+        "Wellmark",
+        "Software Engineer Intern - User Experience Team",
+        "Des Moines, IA",
+        "Sep 10",
+        ""
+      ],
+      [
         "The Toro Company",
         "Embedded Software Engineer Intern",
         "Bloomington, MN",
@@ -21564,6 +21585,13 @@
         "Publicis Groupe",
         "Software Engineer Intern",
         "Chicago, IL",
+        "Sep 09",
+        ""
+      ],
+      [
+        "Pilot Company",
+        "Data Governance Intern",
+        "Knoxville, TN",
         "Sep 09",
         ""
       ],

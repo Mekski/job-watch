@@ -3680,8 +3680,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "52a904322444c7ad6c84e3717b73d60d309dc529",
+    "last_sha": "b087587cdddd0c3b4a022235c06dd5bc847596e5",
     "rows": [
+      [
+        "Bask",
+        "Frontend Engineering Intern",
+        "United States",
+        "Nov 12",
+        "https://go.vansh.nyc/1wc?s=y"
+      ],
       [
         "Zotec Partners",
         "Database Engineer Intern",
@@ -3905,6 +3912,20 @@
         "San Jose, CA",
         "Nov 11",
         "https://go.vansh.nyc/1vm?s=y"
+      ],
+      [
+        "Bask Health",
+        "Creative Engineering Intern",
+        "Remote United States",
+        "Nov 11",
+        "https://go.vansh.nyc/1w8?s=y"
+      ],
+      [
+        "Bask Health",
+        "Frontend Engineer Intern, Frontend Engineering",
+        "Remote United States",
+        "Nov 11",
+        "https://go.vansh.nyc/1w9?s=y"
       ],
       [
         "Bask Health",
@@ -5272,27 +5293,6 @@
         "https://go.vansh.nyc/1l9?s=y"
       ],
       [
-        "T-Mobile",
-        "Software Engineer Intern, HR Data Products",
-        "Bellevue, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1kD?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineering Intern",
-        "Bellevue, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1kB?s=y"
-      ],
-      [
-        "T-Mobile",
-        "AI Engineering Intern",
-        "Bellevue, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1kC?s=y"
-      ],
-      [
         "Shure",
         "Cloud Software Engineering Intern \ud83d\udec2",
         "Niles, IL",
@@ -5697,13 +5697,6 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1hQ?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineer Intern",
-        "Bellevue, WA",
-        "Nov 05",
-        "https://go.vansh.nyc/1mC?s=y"
       ],
       [
         "T-Mobile",
@@ -10571,6 +10564,13 @@
         "https://go.vansh.nyc/gu?s=y"
       ],
       [
+        "CARIAD",
+        "Engineer 1 Intern, VLA Planning and Control Deployment",
+        "Mountain View, CA",
+        "Oct 23",
+        "https://go.vansh.nyc/1wa?s=y"
+      ],
+      [
         "Auto-Owners Insurance",
         "Business Intelligence Developer Intern \ud83d\udec2",
         "Lansing, MI",
@@ -13089,13 +13089,6 @@
         "Sunnyvale, CA",
         "Oct 12",
         "https://go.vansh.nyc/8e?s=y"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern, AI/Machine Learning",
-        "Mountain View, CA",
-        "Oct 12",
-        "https://go.vansh.nyc/8d?s=y"
       ],
       [
         "Garmin",
@@ -17628,6 +17621,27 @@
       ],
       [
         "T-Mobile",
+        "Software Engineering Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "AI Engineering Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineer Intern, HR Data Products",
+        "Bellevue, WA",
+        "Nov 06",
+        ""
+      ],
+      [
+        "T-Mobile",
         "Data Engineering Intern",
         "Frisco, TX Atlanta, GA",
         "Nov 06",
@@ -17707,6 +17721,13 @@
         "V2X",
         "AI Engineering Intern",
         "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineer Intern",
+        "Bellevue, WA",
         "Nov 05",
         ""
       ],
@@ -21186,6 +21207,13 @@
         "KLA",
         "AI/ML Software Engineer Intern",
         "Ann Arbor, MI",
+        "Oct 12",
+        ""
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern, AI/Machine Learning",
+        "Mountain View, CA",
         "Oct 12",
         ""
       ],

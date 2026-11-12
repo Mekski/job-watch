@@ -3645,7 +3645,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "96834c2bb1209f96e71520664c33d16a3da53ef4",
+    "last_sha": "af044bfd1193a24c53d48469e42e60a8c39e7dd4",
     "rows": [
       [
         "Microsoft",
@@ -3800,13 +3800,6 @@
         "Andover, MA",
         "Nov 11",
         "https://go.vansh.nyc/1vn?s=y"
-      ],
-      [
-        "McDonald's",
-        "Global Tech Infrastructure & Operations Intern",
-        "Chicago, IL",
-        "Nov 11",
-        "https://go.vansh.nyc/1vz?s=y"
       ],
       [
         "Lightmatter",
@@ -4864,13 +4857,6 @@
         "Jacksonville, FL",
         "Nov 09",
         "https://go.vansh.nyc/1tj?s=y"
-      ],
-      [
-        "GlobalFoundries",
-        "Design Verification Engineer Intern",
-        "Plano, TX",
-        "Nov 09",
-        "https://go.vansh.nyc/1qc?s=y"
       ],
       [
         "General Dynamics Mission Systems, Inc.",
@@ -7881,13 +7867,6 @@
         "Rochester, NY",
         "Nov 01",
         "https://go.vansh.nyc/1bs?s=y"
-      ],
-      [
-        "Cincinnati Children\u2019s Hospital and Medical Center",
-        "Software Engineering Developer Intern",
-        "Remote United States",
-        "Nov 01",
-        "https://go.vansh.nyc/1be?s=y"
       ],
       [
         "ByteDance",
@@ -17305,6 +17284,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "McDonald's",
+        "Global Tech Infrastructure & Operations Intern",
+        "Chicago, IL",
+        "Nov 11",
+        ""
+      ],
+      [
         "TerraByte Green",
         "AI Engineering Intern",
         "United States",
@@ -17560,6 +17546,13 @@
         "Kudu Dynamics",
         "Cybersecurity Analyst Intern \ud83c\uddfa\ud83c\uddf8",
         "Odenton, MD",
+        "Nov 09",
+        ""
+      ],
+      [
+        "GlobalFoundries",
+        "Design Verification Engineer Intern",
+        "Plano, TX",
         "Nov 09",
         ""
       ],
@@ -18519,6 +18512,13 @@
         "JM Family Enterprises",
         "Software Engineer Intern",
         "Deerfield Beach, FL",
+        "Nov 01",
+        ""
+      ],
+      [
+        "Cincinnati Children\u2019s Hospital and Medical Center",
+        "Software Engineering Developer Intern",
+        "Remote United States",
         "Nov 01",
         ""
       ],

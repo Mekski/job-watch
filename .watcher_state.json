@@ -3638,7 +3638,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "5651e372f05cc5d9dd1046e926516c0f1c3935f0",
+    "last_sha": "862761bfb27168f05ab43a3650bd870a775767cc",
     "rows": [
       [
         "Microsoft",
@@ -6278,13 +6278,6 @@
         "Cincinnati, OH",
         "Nov 04",
         "https://go.vansh.nyc/1go?s=y"
-      ],
-      [
-        "Molina Healthcare",
-        "Undergraduate Electronic Data Interchange Intern",
-        "Remote United States",
-        "Nov 04",
-        "https://go.vansh.nyc/1jD?s=y"
       ],
       [
         "Microchip Technology",
@@ -14729,13 +14722,6 @@
         "https://go.vansh.nyc/1tu?s=y"
       ],
       [
-        "Shield",
-        "Software Engineer Intern",
-        "San Mateo, CA Dallas, TX",
-        "Sep 23",
-        "https://go.vansh.nyc/1bL?s=y"
-      ],
-      [
         "Semtech",
         "Firmware Intern",
         "Ottawa, Canada",
@@ -17875,6 +17861,13 @@
         "Moog",
         "Software Engineering Intern",
         "Torrance, CA",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Molina Healthcare",
+        "Undergraduate Electronic Data Interchange Intern",
+        "Remote United States",
         "Nov 04",
         ""
       ],
@@ -21663,6 +21656,13 @@
         "Embedded Firmware Intern",
         "Milwaukee, WI",
         "Sep 24",
+        ""
+      ],
+      [
+        "Shield",
+        "Software Engineer Intern",
+        "San Mateo, CA Dallas, TX",
+        "Sep 23",
         ""
       ],
       [

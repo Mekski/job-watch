@@ -3694,8 +3694,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "339b93bafad402b73d3c8894941a33be71e5db76",
+    "last_sha": "010c8172501fe5f46b90821d2abb312b5c3e0b06",
     "rows": [
+      [
+        "PTC",
+        "Site Reliability Engineering Intern, Onshape",
+        "Boston, MA",
+        "Nov 12",
+        "https://go.vansh.nyc/1wK?s=y"
+      ],
       [
         "Microsoft",
         "Data Scientist Intern, CoreAI",
@@ -9829,13 +9836,6 @@
         "https://go.vansh.nyc/YC?s=y"
       ],
       [
-        "Gauss Management Research & Engineering",
-        "Web Application Developer Intern \ud83c\uddfa\ud83c\uddf8",
-        "South Ogden, UT",
-        "Oct 27",
-        "https://go.vansh.nyc/Yl?s=y"
-      ],
-      [
         "FUTO",
         "Software Engineer Intern",
         "Austin, TX",
@@ -12627,13 +12627,6 @@
         "Canada",
         "Oct 14",
         "https://go.vansh.nyc/Cs?s=y"
-      ],
-      [
-        "Monolithic Power Systems",
-        "Applications Engineer Intern",
-        "San Jose, CA",
-        "Oct 14",
-        "https://go.vansh.nyc/9g?s=y"
       ],
       [
         "Macy's",
@@ -19356,6 +19349,13 @@
         ""
       ],
       [
+        "Gauss Management Research & Engineering",
+        "Web Application Developer Intern \ud83c\uddfa\ud83c\uddf8",
+        "South Ogden, UT",
+        "Oct 27",
+        ""
+      ],
+      [
         "Florida Atlantic University",
         "Data Analyst Intern",
         "Boca Raton, FL",
@@ -21067,6 +21067,13 @@
         "Nasdaq",
         "Intelligent Automation Intern",
         "New York, NY",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Monolithic Power Systems",
+        "Applications Engineer Intern",
+        "San Jose, CA",
         "Oct 14",
         ""
       ],

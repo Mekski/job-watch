@@ -3673,7 +3673,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e5fbe4e99beedcb4cae39e6010684ca1287fd1a5",
+    "last_sha": "e4d2aa66409b831532a581e519607ec562272b79",
     "rows": [
       [
         "T-Mobile",
@@ -3744,6 +3744,13 @@
         "Montreal, Canada",
         "Nov 12",
         "https://go.vansh.nyc/1wN?s=y"
+      ],
+      [
+        "American Electric Power",
+        "Cybersecurity Intern",
+        "Columbus, OH",
+        "Nov 12",
+        "https://go.vansh.nyc/1wO?s=y"
       ],
       [
         "Zotec Partners",
@@ -5795,13 +5802,6 @@
         "**4 locations**San Jose, CA Scottsdale, AZ Chicago, IL Austin, TX",
         "Nov 05",
         "https://go.vansh.nyc/1iu?s=y"
-      ],
-      [
-        "Parsons",
-        "Embedded Developer Intern",
-        "Columbia, MD",
-        "Nov 05",
-        "https://go.vansh.nyc/1iA?s=y"
       ],
       [
         "Palantir Technologies",
@@ -17805,6 +17805,13 @@
         "RR Donnelley",
         "Software Developer Intern",
         "Warrenville, IL",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Parsons",
+        "Embedded Developer Intern",
+        "Columbia, MD",
         "Nov 05",
         ""
       ],

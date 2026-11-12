@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d4e96139873268c1e295ac51bde519280955cc19",
+    "last_sha": "0ef278239aa92a776152106f78a56eeeee78faba",
     "rows": [
       [
         "Zotec Partners",
@@ -6175,13 +6175,6 @@
         "https://go.vansh.nyc/1gW?s=y"
       ],
       [
-        "T-Mobile",
-        "Software Engineer Intern",
-        "Atlanta, GA",
-        "Nov 04",
-        "https://go.vansh.nyc/1mJ?s=y"
-      ],
-      [
         "Stoke Space",
         "Software Intern \ud83c\uddfa\ud83c\uddf8",
         "Kent, WA",
@@ -7127,20 +7120,6 @@
         "https://go.vansh.nyc/1fK?s=y"
       ],
       [
-        "JM Family Enterprises",
-        "Offensive Security Intern",
-        "Deerfield Beach, FL",
-        "Nov 02",
-        "https://go.vansh.nyc/19y?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "AI Intern",
-        "Deerfield Beach, FL",
-        "Nov 02",
-        "https://go.vansh.nyc/19j?s=y"
-      ],
-      [
         "Intuitive",
         "AI/ML Engineer Intern",
         "Sunnyvale, CA",
@@ -7881,13 +7860,6 @@
         "Totowa, NJ",
         "Nov 01",
         "https://go.vansh.nyc/19L?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Software Engineer Intern",
-        "Deerfield Beach, FL",
-        "Nov 01",
-        "https://go.vansh.nyc/1bt?s=y"
       ],
       [
         "GlobalFoundries",
@@ -12272,13 +12244,6 @@
         "https://go.vansh.nyc/ai?s=y"
       ],
       [
-        "General Motors",
-        "Research and Development Intern, System Safety \ud83c\uddfa\ud83c\uddf8",
-        "Warren, MI",
-        "Oct 16",
-        "https://go.vansh.nyc/af?s=y"
-      ],
-      [
         "Electronic Arts",
         "Analytics Intern",
         "Vancouver, BC, Canada",
@@ -13075,20 +13040,6 @@
         "Sunnyvale, CA",
         "Oct 12",
         "https://go.vansh.nyc/8e?s=y"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern, Defense Lab Modeling and Simulation \ud83c\uddfa\ud83c\uddf8",
-        "Warren, MI",
-        "Oct 12",
-        "https://go.vansh.nyc/8b?s=y"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern, Machine Learning for Automation",
-        "Warren, MI",
-        "Oct 12",
-        "https://go.vansh.nyc/8c?s=y"
       ],
       [
         "General Motors",
@@ -17802,6 +17753,13 @@
         ""
       ],
       [
+        "T-Mobile",
+        "Software Engineer Intern",
+        "Atlanta, GA",
+        "Nov 04",
+        ""
+      ],
+      [
         "RTX",
         "FPGA Design Intern \ud83c\uddfa\ud83c\uddf8",
         "Cedar Rapids, IA",
@@ -18285,6 +18243,20 @@
         ""
       ],
       [
+        "JM Family Enterprises",
+        "AI Intern",
+        "Deerfield Beach, FL",
+        "Nov 02",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Offensive Security Intern",
+        "Deerfield Beach, FL",
+        "Nov 02",
+        ""
+      ],
+      [
         "IGS Energy",
         "Software Engineer Intern",
         "Remote United States",
@@ -18477,6 +18449,13 @@
         "KnowBe4",
         "Software Engineer Intern",
         "Clearwater, FL",
+        "Nov 01",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Software Engineer Intern",
+        "Deerfield Beach, FL",
         "Nov 01",
         ""
       ],
@@ -20728,6 +20707,13 @@
         ""
       ],
       [
+        "General Motors",
+        "Research and Development Intern, System Safety \ud83c\uddfa\ud83c\uddf8",
+        "Warren, MI",
+        "Oct 16",
+        ""
+      ],
+      [
         "ChargePoint",
         "IT & Network Intern",
         "Campbell, CA",
@@ -21144,6 +21130,20 @@
         "KLA",
         "AI/ML Software Engineer Intern",
         "Ann Arbor, MI",
+        "Oct 12",
+        ""
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern, Defense Lab Modeling and Simulation \ud83c\uddfa\ud83c\uddf8",
+        "Warren, MI",
+        "Oct 12",
+        ""
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern, Machine Learning for Automation",
+        "Warren, MI",
         "Oct 12",
         ""
       ],

@@ -3638,7 +3638,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "862761bfb27168f05ab43a3650bd870a775767cc",
+    "last_sha": "bd97e4ffef0565d6503951be300cf5eed41a8543",
     "rows": [
       [
         "Microsoft",
@@ -3695,6 +3695,13 @@
         "Iowa City, IA",
         "Nov 11",
         "https://go.vansh.nyc/1vU?s=y"
+      ],
+      [
+        "SharkNinja",
+        "Data Science Intern",
+        "Needham, MA",
+        "Nov 11",
+        "https://go.vansh.nyc/1wu?s=y"
       ],
       [
         "ServiceNow",
@@ -3926,6 +3933,13 @@
         "Mobile, AL",
         "Nov 11",
         "https://go.vansh.nyc/1vR?s=y"
+      ],
+      [
+        "Argonne National Laboratory",
+        "Business Information Systems Intern, Enterprise Software Solutions \ud83c\uddfa\ud83c\uddf8",
+        "Lemont, IL",
+        "Nov 11",
+        "https://go.vansh.nyc/1wt?s=y"
       ],
       [
         "Arcesium",
@@ -4479,34 +4493,6 @@
         "Irving, TX",
         "Nov 10",
         "https://go.vansh.nyc/1uR?s=y"
-      ],
-      [
-        "Zoetis",
-        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
-        "Remote United States Kalamazoo, MI",
-        "Nov 09",
-        "https://go.vansh.nyc/1ph?s=y"
-      ],
-      [
-        "Zoetis",
-        "AI Assistant Development Intern",
-        "Parsippany, NJ",
-        "Nov 09",
-        "https://go.vansh.nyc/1oP?s=y"
-      ],
-      [
-        "Zoetis",
-        "Information Security Intern",
-        "Parsippany, NJ",
-        "Nov 09",
-        "https://go.vansh.nyc/1ox?s=y"
-      ],
-      [
-        "Zoetis",
-        "IT/OT Security Intern",
-        "Kalamazoo, MI",
-        "Nov 09",
-        "https://go.vansh.nyc/1op?s=y"
       ],
       [
         "Waymo",
@@ -17498,6 +17484,34 @@
         "Flutter Developer Intern",
         "Remote United States Canada",
         "Nov 10",
+        ""
+      ],
+      [
+        "Zoetis",
+        "IT/OT Security Intern",
+        "Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Zoetis",
+        "Information Security Intern",
+        "Parsippany, NJ",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Zoetis",
+        "AI Assistant Development Intern",
+        "Parsippany, NJ",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Zoetis",
+        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+        "Remote United States Kalamazoo, MI",
+        "Nov 09",
         ""
       ],
       [

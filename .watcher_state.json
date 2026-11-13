@@ -3477,7 +3477,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "96ce6a90da3dacaa6d29d0013d9da4a66755dc80",
+    "last_sha": "ff206a7d9a0cb5ea00440b2a33373bba5d0f21d3",
     "rows": [
       [
         "WTW",
@@ -3527,6 +3527,13 @@
         "Norfolk, VA",
         "Nov 13",
         "https://go.vansh.nyc/1yE?s=y"
+      ],
+      [
+        "IDEMIA North America",
+        "Full Stack Software Engineering Intern",
+        "Eden Prairie, MN",
+        "Nov 13",
+        "https://go.vansh.nyc/1z9?s=y"
       ],
       [
         "Envita Solutions",
@@ -5391,13 +5398,6 @@
         "https://go.vansh.nyc/1pg?s=y"
       ],
       [
-        "CACI",
-        "Cyber Security Intern",
-        "Sterling, VA",
-        "Nov 09",
-        "https://go.vansh.nyc/1oq?s=y"
-      ],
-      [
         "Biodesix",
         "AI Research & Development Intern",
         "Louisville, CO",
@@ -7027,13 +7027,6 @@
         "Milwaukee, WI Durham, NC",
         "Nov 03",
         "https://go.vansh.nyc/1eq?s=y"
-      ],
-      [
-        "BlueCross BlueShield of Nebraska",
-        "Data Intern, Healthcare",
-        "Omaha, NE",
-        "Nov 03",
-        "https://go.vansh.nyc/1fk?s=y"
       ],
       [
         "Baird",
@@ -13931,13 +13924,6 @@
         "https://go.vansh.nyc/Fz?s=y"
       ],
       [
-        "Dow Jones",
-        "Marketing Data Science Intern",
-        "New York, NY",
-        "Oct 06",
-        "https://go.vansh.nyc/1nD?s=y"
-      ],
-      [
         "Courier Health",
         "Software Engineer Intern",
         "New York, NY",
@@ -17844,6 +17830,13 @@
         ""
       ],
       [
+        "CACI",
+        "Cyber Security Intern",
+        "Sterling, VA",
+        "Nov 09",
+        ""
+      ],
+      [
         "Art of Problem Solving",
         "Software Engineer Intern",
         "San Diego, CA",
@@ -18470,6 +18463,13 @@
         "CareSource",
         "Data Science Intern",
         "Remote United States",
+        "Nov 03",
+        ""
+      ],
+      [
+        "BlueCross BlueShield of Nebraska",
+        "Data Intern, Healthcare",
+        "Omaha, NE",
         "Nov 03",
         ""
       ],
@@ -21956,6 +21956,13 @@
         "GE Vernova",
         "AI Data Mining Agent Intern, SCS Commercial",
         "Atlanta, GA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Dow Jones",
+        "Marketing Data Science Intern",
+        "New York, NY",
         "Oct 06",
         ""
       ],

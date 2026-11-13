@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "285f1000d4964d672eed60b77db50aac6c2b155e",
+    "last_sha": "d123948c049ec20e99d841672c82b4aaec61c990",
     "rows": [
       [
         "VITAL LYFE",
@@ -3653,6 +3653,13 @@
         "Mojave, CA",
         "Nov 12",
         "https://go.vansh.nyc/1xv?s=y"
+      ],
+      [
+        "Samsung Semiconductor",
+        "Compiler Engineer Intern",
+        "San Jose, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yw?s=y"
       ],
       [
         "RTX",
@@ -5858,20 +5865,6 @@
         "Irvine, CA",
         "Nov 06",
         "https://go.vansh.nyc/1kq?s=y"
-      ],
-      [
-        "Invitation-charter",
-        "Data Science Intern",
-        "Greenwood Village, CO",
-        "Nov 06",
-        "https://go.vansh.nyc/1ku?s=y"
-      ],
-      [
-        "Invitation-charter",
-        "Data Developer Intern",
-        "Greenwood Village, CO",
-        "Nov 06",
-        "https://go.vansh.nyc/1kw?s=y"
       ],
       [
         "Invesco",
@@ -10422,13 +10415,6 @@
         "Boston, MA",
         "Oct 26",
         "https://go.vansh.nyc/CS?s=y"
-      ],
-      [
-        "Northrop Grumman",
-        "Software Engineer Intern",
-        "Colorado Springs, CO",
-        "Oct 26",
-        "https://go.vansh.nyc/1mX?s=y"
       ],
       [
         "Nissan",
@@ -18132,6 +18118,20 @@
       ],
       [
         "Invitation-charter",
+        "Data Science Intern",
+        "Greenwood Village, CO",
+        "Nov 06",
+        ""
+      ],
+      [
+        "Invitation-charter",
+        "Data Developer Intern",
+        "Greenwood Village, CO",
+        "Nov 06",
+        ""
+      ],
+      [
+        "Invitation-charter",
         "Software Engineer Intern",
         "Englewood, CO",
         "Nov 06",
@@ -19982,6 +19982,13 @@
         "NUVACORE",
         "CPU Software Intern",
         "Markham, Canada",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Northrop Grumman",
+        "Software Engineer Intern",
+        "Colorado Springs, CO",
         "Oct 26",
         ""
       ],

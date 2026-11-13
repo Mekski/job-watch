@@ -3484,7 +3484,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "3e8b830bdce12f8cd6a3053b4986f87326c4d4e5",
+    "last_sha": "b8066132f4c43cc22a028238f93af09e588217dc",
     "rows": [
       [
         "WTW",
@@ -3527,6 +3527,20 @@
         "Mount Holly, NC",
         "Nov 13",
         "https://go.vansh.nyc/1yM?s=y"
+      ],
+      [
+        "Bloomberg Industry Group",
+        "Engineering Intern",
+        "Arlington, VA",
+        "Nov 13",
+        "https://go.vansh.nyc/1yW?s=y"
+      ],
+      [
+        "ASML",
+        "EUV Data Science and Analytics Intern",
+        "Austin, TX",
+        "Nov 13",
+        "https://go.vansh.nyc/1yZ?s=y"
       ],
       [
         "VITAL LYFE",
@@ -3583,6 +3597,13 @@
         "Idaho Falls, ID",
         "Nov 12",
         "https://go.vansh.nyc/1xQ?s=y"
+      ],
+      [
+        "Punch Through Design",
+        "Cloud Software Engineer Intern",
+        "Minneapolis, MN",
+        "Nov 12",
+        "https://go.vansh.nyc/1yY?s=y"
       ],
       [
         "PTC",
@@ -4003,6 +4024,13 @@
         "Boston, MA",
         "Nov 11",
         "https://go.vansh.nyc/1v9?s=y"
+      ],
+      [
+        "PODS",
+        "Operations Data Science Intern",
+        "Clearwater, FL",
+        "Nov 11",
+        "https://go.vansh.nyc/1yX?s=y"
       ],
       [
         "Paccar",
@@ -8926,13 +8954,6 @@
         "https://go.vansh.nyc/12P?s=y"
       ],
       [
-        "Dow Jones",
-        "Software Engineering Intern",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/10X?s=y"
-      ],
-      [
         "Datacor",
         "AI Engineer Intern",
         "Remote United States",
@@ -9596,13 +9617,6 @@
         "Plano, TX",
         "Oct 28",
         "https://go.vansh.nyc/YK?s=y"
-      ],
-      [
-        "Dee Zee",
-        "Software Development Intern",
-        "Des Moines, IA",
-        "Oct 28",
-        "https://go.vansh.nyc/10k?s=y"
       ],
       [
         "Danaher Corporation",
@@ -19132,6 +19146,13 @@
         ""
       ],
       [
+        "Dow Jones",
+        "Software Engineering Intern",
+        "New York, NY",
+        "Oct 30",
+        ""
+      ],
+      [
         "Context",
         "Intern",
         "San Francisco, CA",
@@ -19443,6 +19464,13 @@
         "Disney",
         "Enterprise Technology & Data Software Engineering Intern",
         "Orlando, FL",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Dee Zee",
+        "Software Development Intern",
+        "Des Moines, IA",
         "Oct 28",
         ""
       ],

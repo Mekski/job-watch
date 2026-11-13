@@ -3624,7 +3624,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d123948c049ec20e99d841672c82b4aaec61c990",
+    "last_sha": "2174e3d1590cc22c4a490ef74718f3caf20583c5",
     "rows": [
       [
         "VITAL LYFE",
@@ -5398,13 +5398,6 @@
         "https://go.vansh.nyc/1oR?s=y"
       ],
       [
-        "Cisco",
-        "Software Engineer Intern, Full-Stack / Backend I",
-        "San Jose, CA Austin, TX Research Triangle Park, NC",
-        "Nov 09",
-        "https://go.vansh.nyc/1ok?s=y"
-      ],
-      [
         "Cirrus Logic",
         "Applied AI Engineering Intern",
         "Austin, TX",
@@ -5718,13 +5711,6 @@
         "New York, NY",
         "Nov 06",
         "https://go.vansh.nyc/1km?s=y"
-      ],
-      [
-        "T-Mobile",
-        "AI Strategist Intern",
-        "Bellevue, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1l9?s=y"
       ],
       [
         "Shure",
@@ -18033,6 +18019,13 @@
         ""
       ],
       [
+        "Cisco",
+        "Software Engineer Intern, Full-Stack / Backend I",
+        "San Jose, CA Austin, TX Research Triangle Park, NC",
+        "Nov 09",
+        ""
+      ],
+      [
         "Art of Problem Solving",
         "Software Engineer Intern",
         "San Diego, CA",
@@ -18064,6 +18057,13 @@
         "TikTok",
         "POI Content Product Manager Intern",
         "San Jose, CA",
+        "Nov 06",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "AI Strategist Intern",
+        "Bellevue, WA",
         "Nov 06",
         ""
       ],

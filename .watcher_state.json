@@ -3708,7 +3708,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0f7538c2ca9c31319aef8bb0cd5b22a44549a787",
+    "last_sha": "17ab5e0a0184310ce9d9373c386a01e0c532cc0a",
     "rows": [
       [
         "VITAL LYFE",
@@ -9939,13 +9939,6 @@
         "San Jose, CA",
         "Oct 28",
         "https://go.vansh.nyc/1uU?s=y"
-      ],
-      [
-        "Astera Labs",
-        "Firmware Engineer Intern, DevSecOps",
-        "San Jose, CA",
-        "Oct 28",
-        "https://go.vansh.nyc/1uV?s=y"
       ],
       [
         "Astera Labs",
@@ -19625,6 +19618,13 @@
         "Blackberry",
         "Application Engineering Student Intern",
         "Ottawa, Canada",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Astera Labs",
+        "Firmware Engineer Intern, DevSecOps",
+        "San Jose, CA",
         "Oct 28",
         ""
       ],

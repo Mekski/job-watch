@@ -3400,7 +3400,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f52cfa52d674dbc2c887f658e5be83c3cbcb8afd",
+    "last_sha": "69ddb0ce75b7aba0693873b5494e1bdfdb45a53b",
     "rows": [
       [
         "WTW",
@@ -5083,13 +5083,6 @@
         "https://go.vansh.nyc/1p9?s=y"
       ],
       [
-        "Paccar",
-        "Data Analyst Intern",
-        "Chillicothe, OH",
-        "Nov 09",
-        "https://go.vansh.nyc/1oo?s=y"
-      ],
-      [
         "NBCUniversal",
         "Digital Transformation AR/VR Intern",
         "North Hollywood, CA",
@@ -5333,13 +5326,6 @@
         "Melbourne, FL",
         "Nov 09",
         "https://go.vansh.nyc/1ow?s=y"
-      ],
-      [
-        "Celestica",
-        "IT Business Application Development Intern",
-        "Toronto, Canada",
-        "Nov 09",
-        "https://go.vansh.nyc/1pV?s=y"
       ],
       [
         "Carnegie Mellon University",
@@ -6588,13 +6574,6 @@
         "https://go.vansh.nyc/1rT?s=y"
       ],
       [
-        "Paccar",
-        "Data Engineer Intern",
-        "Denton, TX",
-        "Nov 04",
-        "https://go.vansh.nyc/1gB?s=y"
-      ],
-      [
         "National Interstate Insurance",
         "Business Intelligence Intern, Power BI",
         "Cincinnati, OH",
@@ -7237,20 +7216,6 @@
         "Cary, NC",
         "Nov 02",
         "https://go.vansh.nyc/1dh?s=y"
-      ],
-      [
-        "Paccar",
-        "Software Developer Intern",
-        "Denton, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1dr?s=y"
-      ],
-      [
-        "Paccar",
-        "AI-Driven Vehicle Definition Intern",
-        "Denton, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1bj?s=y"
       ],
       [
         "Oshkosh",
@@ -9815,20 +9780,6 @@
         "https://go.vansh.nyc/W8?s=y"
       ],
       [
-        "Paccar",
-        "Application Developer Intern",
-        "Chillicothe, OH",
-        "Oct 27",
-        "https://go.vansh.nyc/WV?s=y"
-      ],
-      [
-        "Paccar",
-        "Data Engineer Intern",
-        "Chillicothe, OH",
-        "Oct 27",
-        "https://go.vansh.nyc/WP?s=y"
-      ],
-      [
         "Nomad GCS",
         "Software Engineer Intern",
         "Columbia Falls, MT",
@@ -10879,13 +10830,6 @@
         "https://go.vansh.nyc/fD?s=y"
       ],
       [
-        "Paccar",
-        "Aftersales Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 22",
-        "https://go.vansh.nyc/gB?s=y"
-      ],
-      [
         "OpenSesame",
         "AI Product Builder Intern",
         "Remote United States",
@@ -11488,13 +11432,6 @@
         "https://go.vansh.nyc/bJ?s=y"
       ],
       [
-        "Paccar",
-        "Field Service Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 20",
-        "https://go.vansh.nyc/dd?s=y"
-      ],
-      [
         "Micron Technology",
         "SMAI Probe AI Engineer Intern",
         "Boise, ID",
@@ -11682,13 +11619,6 @@
         "SF NYC",
         "Oct 19",
         "https://go.vansh.nyc/cl?s=y"
-      ],
-      [
-        "Paccar",
-        "Warranty Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 19",
-        "https://go.vansh.nyc/cf?s=y"
       ],
       [
         "Nissan",
@@ -12174,34 +12104,6 @@
         "https://go.vansh.nyc/R4?s=y"
       ],
       [
-        "Celestica",
-        "SCM Data Scientist Intern",
-        "Toronto, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/QZ?s=y"
-      ],
-      [
-        "Celestica",
-        "Software Testing Intern",
-        "Austin, TX",
-        "Oct 18",
-        "https://go.vansh.nyc/R0?s=y"
-      ],
-      [
-        "Celestica",
-        "SCM Data Analyst Intern",
-        "Toronto, Canada",
-        "Oct 18",
-        "https://go.vansh.nyc/R1?s=y"
-      ],
-      [
-        "Celestica",
-        "Software & Hardware Engineer Intern",
-        "Austin, TX",
-        "Oct 18",
-        "https://go.vansh.nyc/R2?s=y"
-      ],
-      [
         "Campbell Soup Company",
         "Data Science Intern",
         "Camden, NJ",
@@ -12214,13 +12116,6 @@
         "Seattle, WA",
         "Oct 18",
         "https://go.vansh.nyc/QW?s=y"
-      ],
-      [
-        "Alstom",
-        "ATC Software Intern",
-        "Pittsburgh, PA",
-        "Oct 18",
-        "https://go.vansh.nyc/QV?s=y"
       ],
       [
         "Together AI",
@@ -12270,13 +12165,6 @@
         "Alpharetta, GA",
         "Oct 16",
         "https://go.vansh.nyc/ar?s=y"
-      ],
-      [
-        "Systems Planning and Analysis",
-        "Data Engineering & Analytics Tools Intern",
-        "Washington, DC",
-        "Oct 16",
-        "https://go.vansh.nyc/1ne?s=y"
       ],
       [
         "Qualcomm",
@@ -17704,6 +17592,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Data Analyst Intern",
+        "Chillicothe, OH",
+        "Nov 09",
+        ""
+      ],
+      [
         "National Interstate Insurance",
         "Telematics / Predictive Analytics Intern \ud83d\udec2",
         "Cincinnati, OH",
@@ -17756,6 +17651,13 @@
         "Cisco",
         "Software Engineer Intern, Full-Stack / Backend I",
         "San Jose, CA Austin, TX Research Triangle Park, NC",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Celestica",
+        "IT Business Application Development Intern",
+        "Toronto, Canada",
         "Nov 09",
         ""
       ],
@@ -18120,6 +18022,13 @@
         "Parsons",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Huntsville, AL",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Paccar",
+        "Data Engineer Intern",
+        "Denton, TX",
         "Nov 04",
         ""
       ],
@@ -18568,6 +18477,20 @@
         "Resideo",
         "Data Science Intern",
         "Austin, TX Golden Valley, MN",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Paccar",
+        "AI-Driven Vehicle Definition Intern",
+        "Denton, TX",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Paccar",
+        "Software Developer Intern",
+        "Denton, TX",
         "Nov 02",
         ""
       ],
@@ -19650,6 +19573,20 @@
         ""
       ],
       [
+        "Paccar",
+        "Data Engineer Intern",
+        "Chillicothe, OH",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Paccar",
+        "Application Developer Intern",
+        "Chillicothe, OH",
+        "Oct 27",
+        ""
+      ],
+      [
         "NVIDIA",
         "Software Engineering Intern, AI Agents & Backend Infrastructure",
         "Berlin, DE",
@@ -20245,6 +20182,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Aftersales Data Analyst Intern",
+        "Kirkland, WA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "San Antonio, TX",
@@ -20707,6 +20651,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Field Service Data Analyst Intern",
+        "Kirkland, WA",
+        "Oct 20",
+        ""
+      ],
+      [
         "Northrop Grumman",
         "Software Engineer Intern",
         "Roy, UT",
@@ -20899,6 +20850,13 @@
         "RTX",
         "Software Engineer Intern",
         "Annapolis, MD",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Paccar",
+        "Warranty Data Analyst Intern",
+        "Kirkland, WA",
         "Oct 19",
         ""
       ],
@@ -21177,6 +21135,34 @@
       ],
       [
         "Celestica",
+        "SCM Data Scientist Intern",
+        "Toronto, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
+        "Software Testing Intern",
+        "Austin, TX",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
+        "SCM Data Analyst Intern",
+        "Toronto, Canada",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
+        "Software & Hardware Engineer Intern",
+        "Austin, TX",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
         "AI / Data Science Intern",
         "San Jose, CA",
         "Oct 18",
@@ -21204,6 +21190,13 @@
         ""
       ],
       [
+        "Alstom",
+        "ATC Software Intern",
+        "Pittsburgh, PA",
+        "Oct 18",
+        ""
+      ],
+      [
         "Persona",
         "Product Design Intern",
         "San Francisco, CA",
@@ -21221,6 +21214,13 @@
         "Together AI",
         "Hardware Security Engineer Intern",
         "San Francisco, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Systems Planning and Analysis",
+        "Data Engineering & Analytics Tools Intern",
+        "Washington, DC",
         "Oct 16",
         ""
       ],

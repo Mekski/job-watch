@@ -3519,7 +3519,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2cab934c1dee5fdae62dfb6275fa437c4ed0060a",
+    "last_sha": "49ece92b809ade0e054fca360c17bd9020c83daa",
     "rows": [
       [
         "WTW",
@@ -3660,13 +3660,6 @@
         "Atlanta, GA",
         "Nov 12",
         "https://go.vansh.nyc/1xT?s=y"
-      ],
-      [
-        "Keysight Technologies",
-        "Software Engineer Intern",
-        "Tewksbury, MA",
-        "Nov 12",
-        "https://go.vansh.nyc/1xU?s=y"
       ],
       [
         "Keysight Technologies",
@@ -6418,13 +6411,6 @@
         "Mason, OH",
         "Nov 05",
         "https://go.vansh.nyc/1jw?s=y"
-      ],
-      [
-        "BorgWarner",
-        "Software Test Intern",
-        "Auburn Hills, MI",
-        "Nov 05",
-        "https://go.vansh.nyc/1jb?s=y"
       ],
       [
         "ASM",
@@ -17501,6 +17487,13 @@
         ""
       ],
       [
+        "Keysight Technologies",
+        "Software Engineer Intern",
+        "Tewksbury, MA",
+        "Nov 12",
+        ""
+      ],
+      [
         "Cigna",
         "Software Engineering Intern",
         "**4 locations**St. Louis, MO Austin, TX Morris Plains, NJ Bloomfield, CT",
@@ -18197,6 +18190,13 @@
         "CareSource",
         "Cybersecurity Intern",
         "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
+        "BorgWarner",
+        "Software Test Intern",
+        "Auburn Hills, MI",
         "Nov 05",
         ""
       ],

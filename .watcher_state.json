@@ -3533,8 +3533,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "751fe0c69240619a324c855ad84507a04734bc76",
+    "last_sha": "95fdae92920d9967ce2ec3a0e2bf1c16e614387e",
     "rows": [
+      [
+        "IPConfigure",
+        "Software Development Intern, Video Surveillance Software",
+        "Norfolk, VA",
+        "Nov 13",
+        "https://go.vansh.nyc/1yE?s=y"
+      ],
       [
         "VITAL LYFE",
         "Software Engineering Intern",
@@ -3772,13 +3779,6 @@
         "Overland Park, KS",
         "Nov 12",
         "https://go.vansh.nyc/1xz?s=y"
-      ],
-      [
-        "CareSource",
-        "Software Engineer Intern",
-        "Remote United States",
-        "Nov 12",
-        "https://go.vansh.nyc/1wz?s=y"
       ],
       [
         "Cardinal Health",
@@ -6749,13 +6749,6 @@
         "https://go.vansh.nyc/1gK?s=y"
       ],
       [
-        "CareSource",
-        "Configuration and Automation Intern",
-        "Remote United States",
-        "Nov 04",
-        "https://go.vansh.nyc/1js?s=y"
-      ],
-      [
         "BiblioCommons",
         "Junior Full-Stack Engineer Intern",
         "Canada",
@@ -9078,13 +9071,6 @@
         "Waltham, MA",
         "Oct 30",
         "https://go.vansh.nyc/11g?s=y"
-      ],
-      [
-        "Barclays",
-        "Chief Client Office Intern, Client Data & Engineering Group \ud83d\udec2",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/10x?s=y"
       ],
       [
         "Architect Labs",
@@ -17536,6 +17522,13 @@
         ""
       ],
       [
+        "CareSource",
+        "Software Engineer Intern",
+        "Remote United States",
+        "Nov 12",
+        ""
+      ],
+      [
         "Autodesk",
         "Software Developer Intern",
         "Montreal, Canada",
@@ -18330,6 +18323,13 @@
         "Cigna",
         "Cybersecurity Intern, Technology Development Program",
         "Bloomfield, CT St. Louis, MO",
+        "Nov 04",
+        ""
+      ],
+      [
+        "CareSource",
+        "Configuration and Automation Intern",
+        "Remote United States",
         "Nov 04",
         ""
       ],
@@ -19212,6 +19212,13 @@
         "C&S Wholesale Grocers",
         "IS Intern, Data Analytics & Data Science",
         "Edison, NJ",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Barclays",
+        "Chief Client Office Intern, Client Data & Engineering Group \ud83d\udec2",
+        "New York, NY",
         "Oct 30",
         ""
       ],

@@ -3519,7 +3519,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "bfc3cccde947377fd975a7b6168a617973563284",
+    "last_sha": "2cab934c1dee5fdae62dfb6275fa437c4ed0060a",
     "rows": [
       [
         "WTW",
@@ -3536,11 +3536,32 @@
         "https://go.vansh.nyc/1yF?s=y"
       ],
       [
+        "Trace3",
+        "Security Intern",
+        "Irvine, CA",
+        "Nov 13",
+        "https://go.vansh.nyc/1yN?s=y"
+      ],
+      [
+        "Micron Technology",
+        "Enterprise SSD Architecture Intern",
+        "Boise, ID",
+        "Nov 13",
+        "https://go.vansh.nyc/1yL?s=y"
+      ],
+      [
         "IPConfigure",
         "Software Development Intern, Video Surveillance Software",
         "Norfolk, VA",
         "Nov 13",
         "https://go.vansh.nyc/1yE?s=y"
+      ],
+      [
+        "Daimler Truck",
+        "IT Developer Analyst Intern",
+        "Mount Holly, NC",
+        "Nov 13",
+        "https://go.vansh.nyc/1yM?s=y"
       ],
       [
         "VITAL LYFE",
@@ -5900,13 +5921,6 @@
         "Foster City, CA",
         "Nov 05",
         "https://go.vansh.nyc/1jW?s=y"
-      ],
-      [
-        "Western Alliance Bancorporation",
-        "Platform Engineering Intern",
-        "Dallas, TX",
-        "Nov 05",
-        "https://go.vansh.nyc/1jm?s=y"
       ],
       [
         "Western Alliance Bancorporation",
@@ -11619,13 +11633,6 @@
         "Santa Clara, CA",
         "Oct 20",
         "https://go.vansh.nyc/dq?s=y"
-      ],
-      [
-        "Kinaxis",
-        "Cloud Developer Intern, Platform Engineering",
-        "Ottawa, ON",
-        "Oct 20",
-        "https://go.vansh.nyc/cD?s=y"
       ],
       [
         "K1",
@@ -18075,6 +18082,13 @@
         ""
       ],
       [
+        "Western Alliance Bancorporation",
+        "Platform Engineering Intern",
+        "Dallas, TX",
+        "Nov 05",
+        ""
+      ],
+      [
         "Veryable",
         "Platform Engineer Intern",
         "Dallas, TX",
@@ -20780,6 +20794,13 @@
         "LinkedIn",
         "Software Engineer Intern",
         "Mountain View, CA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Kinaxis",
+        "Cloud Developer Intern, Platform Engineering",
+        "Ottawa, ON",
         "Oct 20",
         ""
       ],

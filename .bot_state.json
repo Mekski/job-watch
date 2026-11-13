@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6631,
+      "message_id": 7287,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -49051,6 +49051,16 @@
       "apply_url": "https://go.vansh.nyc/1yw?s=y",
       "source": "Vansh Repo",
       "message_id": 7285,
+      "chat_id": 8743352944
+    },
+    "e1c0825bcb83": {
+      "company": "Aurora Innovation",
+      "role": "Software Engineer Intern - Vehicle Platforms",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7286,
       "chat_id": 8743352944
     }
   },

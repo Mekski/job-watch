@@ -3652,7 +3652,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "ea43d906bbd9dd6b99cec48f113d982fccdbd32d",
+    "last_sha": "a275917a5d9e9ec1371b1ce29a62ae1ea68388c2",
     "rows": [
       [
         "VITAL LYFE",
@@ -3702,6 +3702,13 @@
         "Boston, MA",
         "Nov 12",
         "https://go.vansh.nyc/1wK?s=y"
+      ],
+      [
+        "Origin Bank",
+        "Cybersecurity Intern",
+        "Ruston, LA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yr?s=y"
       ],
       [
         "Octant Bio",
@@ -3821,6 +3828,13 @@
         "San Diego, CA",
         "Nov 12",
         "https://go.vansh.nyc/1yp?s=y"
+      ],
+      [
+        "CoStar Group",
+        "Vision & Learning Intern",
+        "Sunnyvale, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yq?s=y"
       ],
       [
         "Clyde Companies",
@@ -4976,13 +4990,6 @@
         "San Francisco, CA",
         "Nov 10",
         "https://go.vansh.nyc/1sT?s=y"
-      ],
-      [
-        "Art of Problem Solving",
-        "Data Science Intern",
-        "San Diego, CA",
-        "Nov 10",
-        "https://go.vansh.nyc/1sA?s=y"
       ],
       [
         "AIM Defence",
@@ -17987,6 +17994,13 @@
         "Avary.ai",
         "Data Scientist Intern",
         "Remote United States Canada",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Art of Problem Solving",
+        "Data Science Intern",
+        "San Diego, CA",
         "Nov 10",
         ""
       ],

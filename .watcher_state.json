@@ -3540,8 +3540,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "95fdae92920d9967ce2ec3a0e2bf1c16e614387e",
+    "last_sha": "668a150ba4b75952fe09f244a3ac9f3c73c3fd72",
     "rows": [
+      [
+        "Verisk",
+        "Data Science/AI Intern",
+        "Lehi, UT",
+        "Nov 13",
+        "https://go.vansh.nyc/1yF?s=y"
+      ],
       [
         "IPConfigure",
         "Software Development Intern, Video Surveillance Software",
@@ -4360,13 +4367,6 @@
         "Mobile, AL",
         "Nov 11",
         "https://go.vansh.nyc/1y0?s=y"
-      ],
-      [
-        "Austal USA",
-        "Cybersecurity Intern",
-        "Mobile, AL",
-        "Nov 11",
-        "https://go.vansh.nyc/1vR?s=y"
       ],
       [
         "Atalanta",
@@ -14666,13 +14666,6 @@
         "https://go.vansh.nyc/fX?s=y"
       ],
       [
-        "American Family Insurance Group",
-        "GenAI Intern",
-        "Madison, WI Boston, MA",
-        "Sep 30",
-        "https://go.vansh.nyc/1oc?s=y"
-      ],
-      [
         "SAS",
         "Data Science Research Intern",
         "Bloomington, MN",
@@ -17560,6 +17553,13 @@
         "Brex",
         "Software Engineer Intern",
         "San Francisco, CA",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Austal USA",
+        "Cybersecurity Intern",
+        "Mobile, AL",
         "Nov 11",
         ""
       ],
@@ -22173,6 +22173,13 @@
         "CACI",
         "Software Development/Engineer Intern",
         "Remote United States",
+        "Sep 30",
+        ""
+      ],
+      [
+        "American Family Insurance Group",
+        "GenAI Intern",
+        "Madison, WI Boston, MA",
         "Sep 30",
         ""
       ],

@@ -3631,7 +3631,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "42c3b48f92a94674dd2a1a251f47daa36dec71d8",
+    "last_sha": "9fa451b86d9ecb1a1cf43a408c329872173d86f9",
     "rows": [
       [
         "VITAL LYFE",
@@ -3737,6 +3737,13 @@
         "Pleasant Grove, UT",
         "Nov 12",
         "https://go.vansh.nyc/1xV?s=y"
+      ],
+      [
+        "Jobs at UHS",
+        "Information Security Analyst Intern",
+        "Tredyffrin, PA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yv?s=y"
       ],
       [
         "Intermountain Healthcare",
@@ -3905,6 +3912,13 @@
         "United States",
         "Nov 12",
         "https://go.vansh.nyc/1wc?s=y"
+      ],
+      [
+        "Aurora Innovation",
+        "Software Engineer Intern, Vehicle Platforms",
+        "Mountain View, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yu?s=y"
       ],
       [
         "ASML",
@@ -4481,13 +4495,6 @@
         "https://go.vansh.nyc/1vp?s=y"
       ],
       [
-        "Zebra Technologies",
-        "Security Intern",
-        "Lincolnshire, IL",
-        "Nov 10",
-        "https://go.vansh.nyc/1qC?s=y"
-      ],
-      [
         "Western Digital",
         "Software Engineering Intern",
         "San Jose, CA",
@@ -4535,13 +4542,6 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rm?s=y"
-      ],
-      [
-        "Unisys",
-        "Software Engineer Intern",
-        "Eagan, MN",
-        "Nov 10",
-        "https://go.vansh.nyc/1uC?s=y"
       ],
       [
         "Trimble",
@@ -4626,13 +4626,6 @@
         "East Hartford, CT",
         "Nov 10",
         "https://go.vansh.nyc/1vu?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Richardson, TX",
-        "Nov 10",
-        "https://go.vansh.nyc/1ss?s=y"
       ],
       [
         "Rivet",
@@ -6138,13 +6131,6 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1hQ?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineering Intern",
-        "Overland Park, KS",
-        "Nov 05",
-        "https://go.vansh.nyc/1kt?s=y"
       ],
       [
         "Sierra Nevada Corporation",
@@ -17697,6 +17683,20 @@
         ""
       ],
       [
+        "Zebra Technologies",
+        "Security Intern",
+        "Lincolnshire, IL",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Unisys",
+        "Software Engineer Intern",
+        "Eagan, MN",
+        "Nov 10",
+        ""
+      ],
+      [
         "TerraByte Green",
         "AI Engineering Intern",
         "United States",
@@ -17708,6 +17708,13 @@
         "Enterprise AI",
         "Software Engineering Intern",
         "\ud83d\udd12",
+        ""
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Richardson, TX",
+        "Nov 10",
         ""
       ],
       [
@@ -18183,6 +18190,13 @@
         "V2X",
         "AI Engineering Intern",
         "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineering Intern",
+        "Overland Park, KS",
         "Nov 05",
         ""
       ],

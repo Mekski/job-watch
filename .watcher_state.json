@@ -3631,7 +3631,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0f08c92f9a6c33c4be95157dfdc97a6042fc97dd",
+    "last_sha": "42c3b48f92a94674dd2a1a251f47daa36dec71d8",
     "rows": [
       [
         "VITAL LYFE",
@@ -4635,13 +4635,6 @@
         "https://go.vansh.nyc/1ss?s=y"
       ],
       [
-        "RTX",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "St Petersburg, FL",
-        "Nov 10",
-        "https://go.vansh.nyc/1sc?s=y"
-      ],
-      [
         "Rivet",
         "Full-Stack Engineering Intern",
         "United States",
@@ -4661,13 +4654,6 @@
         "San Francisco, CA",
         "Nov 10",
         "https://go.vansh.nyc/1rt?s=y"
-      ],
-      [
-        "Renesas Electronics",
-        "Applications Engineer Intern",
-        "Morrisville, NC",
-        "Nov 10",
-        "https://go.vansh.nyc/1sk?s=y"
       ],
       [
         "Peripheral",
@@ -5137,13 +5123,6 @@
         "United States",
         "Nov 09",
         "https://go.vansh.nyc/1oM?s=y"
-      ],
-      [
-        "RTX",
-        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Largo, FL",
-        "Nov 09",
-        "https://go.vansh.nyc/1sg?s=y"
       ],
       [
         "Roche",
@@ -7064,13 +7043,6 @@
         "https://go.vansh.nyc/1fd?s=y"
       ],
       [
-        "JM Family Enterprises",
-        "AI & Decision Science Intern",
-        "Deerfield Beach, FL",
-        "Nov 03",
-        "https://go.vansh.nyc/1dZ?s=y"
-      ],
-      [
         "Howmet Aerospace",
         "Cybersecurity Intern",
         "Pittsburgh, PA",
@@ -7608,13 +7580,6 @@
         "Cincinnati, OH",
         "Nov 02",
         "https://go.vansh.nyc/1cB?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "AI Center of Excellence Delivery Team Intern",
-        "Deerfield Beach, FL",
-        "Nov 02",
-        "https://go.vansh.nyc/1fK?s=y"
       ],
       [
         "ISO New England",
@@ -9584,13 +9549,6 @@
         "https://go.vansh.nyc/ZV?s=y"
       ],
       [
-        "Sherwin-Williams",
-        "R&D Data Science Co-op",
-        "Brecksville, OH",
-        "Oct 28",
-        "https://go.vansh.nyc/Yv?s=y"
-      ],
-      [
         "Sephora",
         "AI & Distribution Analytics Intern",
         "United States",
@@ -10858,13 +10816,6 @@
         "https://go.vansh.nyc/gx?s=y"
       ],
       [
-        "Navy Federal",
-        "Data Analytics Intern",
-        "Pensacola, FL Vienna, VA",
-        "Oct 23",
-        "https://go.vansh.nyc/hL?s=y"
-      ],
-      [
         "Multiply Labs",
         "Software Intern",
         "San Francisco, CA",
@@ -11913,13 +11864,6 @@
         "Chicago, IL NYC",
         "Oct 20",
         "https://go.vansh.nyc/df?s=y"
-      ],
-      [
-        "American Electric Power",
-        "Data Scientist Intern",
-        "Columbus, OH",
-        "Oct 20",
-        "https://go.vansh.nyc/cW?s=y"
       ],
       [
         "AeroVironment",
@@ -14195,13 +14139,6 @@
         "Sunnyvale, CA",
         "Oct 06",
         "https://go.vansh.nyc/FM?s=y"
-      ],
-      [
-        "GE Vernova",
-        "AI Data Mining Agent Intern, SCS Commercial",
-        "Atlanta, GA",
-        "Oct 06",
-        "https://go.vansh.nyc/1nE?s=y"
       ],
       [
         "Garmin",
@@ -17774,6 +17711,20 @@
         ""
       ],
       [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "St Petersburg, FL",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Renesas Electronics",
+        "Applications Engineer Intern",
+        "Morrisville, NC",
+        "Nov 10",
+        ""
+      ],
+      [
         "Nura",
         "Software Engineer Intern",
         "Remote United States Canada",
@@ -18036,6 +17987,13 @@
         "Zoetis",
         "AI Architecture, Enablement & Tools Intern, AI Capabilities",
         "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Largo, FL",
         "Nov 09",
         ""
       ],
@@ -18579,6 +18537,13 @@
         ""
       ],
       [
+        "JM Family Enterprises",
+        "AI & Decision Science Intern",
+        "Deerfield Beach, FL",
+        "Nov 03",
+        ""
+      ],
+      [
         "IDEMIA",
         "Information Technology Intern",
         "Remote United States",
@@ -18855,6 +18820,13 @@
         "KLA",
         "Digital Twin Eng Apps Intern",
         "Ann Arbor, MI",
+        "Nov 02",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "AI Center of Excellence Delivery Team Intern",
+        "Deerfield Beach, FL",
         "Nov 02",
         ""
       ],
@@ -19485,6 +19457,13 @@
         "Sonos",
         "Software Engineering Intern \ud83d\udec2",
         "Seattle, WA",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Sherwin-Williams",
+        "R&D Data Science Co-op",
+        "Brecksville, OH",
         "Oct 28",
         ""
       ],
@@ -20192,6 +20171,13 @@
         "Thermo Fisher Scientific",
         "IT & Digital Intern",
         "**4 locations**Pittsburgh, PA Frederick, MD Carlsbad, CA Morrisville, NC",
+        "Oct 23",
+        ""
+      ],
+      [
+        "Navy Federal",
+        "Data Analytics Intern",
+        "Pensacola, FL Vienna, VA",
         "Oct 23",
         ""
       ],
@@ -20969,6 +20955,13 @@
         "American Family Insurance Group",
         "Data Engineer Intern",
         "Madison, WI",
+        "Oct 20",
+        ""
+      ],
+      [
+        "American Electric Power",
+        "Data Scientist Intern",
+        "Columbus, OH",
         "Oct 20",
         ""
       ],
@@ -22005,6 +21998,13 @@
         "ICF International",
         "Data Engineer Intern",
         "Remote United States Reston, VA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "GE Vernova",
+        "AI Data Mining Agent Intern, SCS Commercial",
+        "Atlanta, GA",
         "Oct 06",
         ""
       ],

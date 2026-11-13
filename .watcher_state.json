@@ -3477,7 +3477,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "65f9800747a3d141136dc1ab2c40703d22d54584",
+    "last_sha": "466c1639b37dfc71845377c1590ecfc85d1cc136",
     "rows": [
       [
         "WTW",
@@ -3499,6 +3499,20 @@
         "Irvine, CA",
         "Nov 13",
         "https://go.vansh.nyc/1yN?s=y"
+      ],
+      [
+        "Samsung Semiconductor",
+        "SSD Firmware Development Intern",
+        "San Jose, CA",
+        "Nov 13",
+        "https://go.vansh.nyc/1z0?s=y"
+      ],
+      [
+        "NexusOne",
+        "Data Engineering Intern",
+        "Atlanta, GA",
+        "Nov 13",
+        "https://go.vansh.nyc/1z2?s=y"
       ],
       [
         "Micron Technology",
@@ -3583,6 +3597,13 @@
         "Melbourne, FL",
         "Nov 12",
         "https://go.vansh.nyc/1yk?s=y"
+      ],
+      [
+        "Reliable Robotics Corporation",
+        "Flight Software Engineer Intern",
+        "Mountain View, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1z1?s=y"
       ],
       [
         "Ready to?",
@@ -5837,13 +5858,6 @@
         "Pittsburgh, PA",
         "Nov 06",
         "https://go.vansh.nyc/1th?s=y"
-      ],
-      [
-        "CrowdStrike",
-        "Professional Services Pathfinder Intern, Red Team",
-        "Arlington, VA",
-        "Nov 06",
-        "https://go.vansh.nyc/1lc?s=y"
       ],
       [
         "Corning",
@@ -16297,13 +16311,6 @@
         "https://go.vansh.nyc/Qr?s=y"
       ],
       [
-        "MSA Safety",
-        "Software Engineer Intern, Product Development",
-        "Cranberry Township, PA",
-        "Aug 24",
-        "https://go.vansh.nyc/Or?s=y"
-      ],
-      [
         "Garmin",
         "Software Engineer Intern",
         "Olathe, KS",
@@ -17973,6 +17980,13 @@
         "Hitachi",
         "Full Stack Developer Intern",
         "Dallas, TX",
+        "Nov 06",
+        ""
+      ],
+      [
+        "CrowdStrike",
+        "Professional Services Pathfinder Intern, Red Team",
+        "Arlington, VA",
         "Nov 06",
         ""
       ],
@@ -22769,6 +22783,13 @@
         "Software Developer Intern",
         "San Diego, CA",
         "Aug 26",
+        ""
+      ],
+      [
+        "MSA Safety",
+        "Software Engineer Intern, Product Development",
+        "Cranberry Township, PA",
+        "Aug 24",
         ""
       ],
       [

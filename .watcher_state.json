@@ -3477,7 +3477,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "466c1639b37dfc71845377c1590ecfc85d1cc136",
+    "last_sha": "67e9c04c3b326b564fbe5bdd1fc1d5debc16a861",
     "rows": [
       [
         "WTW",
@@ -3529,11 +3529,32 @@
         "https://go.vansh.nyc/1yE?s=y"
       ],
       [
+        "Envita Solutions",
+        "Software Engineering Intern, Applied AI",
+        "Indianapolis, IN",
+        "Nov 13",
+        "https://go.vansh.nyc/1z7?s=y"
+      ],
+      [
+        "Envita Solutions",
+        "Data Scientist Intern, Applied AI",
+        "Indianapolis, IN",
+        "Nov 13",
+        "https://go.vansh.nyc/1z8?s=y"
+      ],
+      [
         "Daimler Truck",
         "IT Developer Analyst Intern",
         "Mount Holly, NC",
         "Nov 13",
         "https://go.vansh.nyc/1yM?s=y"
+      ],
+      [
+        "CrowdStrike",
+        "Insider Risk Engineering Intern",
+        "Arlington, VA Redmond, WA Sunnyvale, CA",
+        "Nov 13",
+        "https://go.vansh.nyc/1z6?s=y"
       ],
       [
         "Bloomberg Industry Group",
@@ -3653,6 +3674,13 @@
         "Redmond, WA",
         "Nov 12",
         "https://go.vansh.nyc/1wj?s=y"
+      ],
+      [
+        "Micron Technology",
+        "AI Engineer Platform Intern",
+        "Boise, ID",
+        "Nov 12",
+        "https://go.vansh.nyc/1z5?s=y"
       ],
       [
         "Keysight Technologies",
@@ -7989,13 +8017,6 @@
       ],
       [
         "TikTok",
-        "Machine Learning Engineer Intern, Visual Search \ud83d\udec2",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/18j?s=y"
-      ],
-      [
-        "TikTok",
         "Data Science Project Intern, Advertisement",
         "San Jose, CA",
         "Nov 01",
@@ -8042,13 +8063,6 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/18t?s=y"
-      ],
-      [
-        "TikTok",
-        "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
-        "Seattle, WA",
-        "Nov 01",
-        "https://go.vansh.nyc/18u?s=y"
       ],
       [
         "TikTok",
@@ -10114,13 +10128,6 @@
         "San Jose, CA",
         "Oct 27",
         "https://go.vansh.nyc/Wr?s=y"
-      ],
-      [
-        "Applied Materials",
-        "Data Science Intern",
-        "Santa Clara, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Ya?s=y"
       ],
       [
         "Applied Materials",
@@ -16325,13 +16332,6 @@
         "https://go.vansh.nyc/7y?s=y"
       ],
       [
-        "TikTok",
-        "AI Product Manager Intern, Product Social",
-        "San Jose, CA",
-        "Aug 21",
-        "https://go.vansh.nyc/Om?s=y"
-      ],
-      [
         "The Nuclear Company",
         "AI Applied Research Intern \ud83d\udec2",
         "Washington, DC",
@@ -16571,13 +16571,6 @@
       ],
       [
         "TikTok",
-        "Software Engineer Intern, Privacy and Security",
-        "San Jose, CA",
-        "Aug 04",
-        "https://go.vansh.nyc/6l?s=y"
-      ],
-      [
-        "TikTok",
         "Frontend Engineer Intern, TikTok-Open Platform",
         "San Jose, CA",
         "Aug 04",
@@ -16624,13 +16617,6 @@
         "Seattle, WA",
         "Aug 04",
         "https://go.vansh.nyc/6c?s=y"
-      ],
-      [
-        "TikTok",
-        "Software Engineer Intern, Trust and Safety-Engineering \ud83d\udec2",
-        "San Jose, CA",
-        "Aug 04",
-        "https://go.vansh.nyc/6b?s=y"
       ],
       [
         "TikTok",
@@ -18867,6 +18853,20 @@
       ],
       [
         "TikTok",
+        "Machine Learning Engineer Intern, Visual Search \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        ""
+      ],
+      [
+        "TikTok",
+        "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+        "Seattle, WA",
+        "Nov 01",
+        ""
+      ],
+      [
+        "TikTok",
         "Fullstack Software Engineer Intern, Global E-Commerce",
         "Seattle, WA",
         "Nov 01",
@@ -19793,6 +19793,13 @@
         "CACI",
         "Software Engineering Intern",
         "Sarasota, FL",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Applied Materials",
+        "Data Science Intern",
+        "Santa Clara, CA",
         "Oct 27",
         ""
       ],
@@ -22828,6 +22835,13 @@
         ""
       ],
       [
+        "TikTok",
+        "AI Product Manager Intern, Product Social",
+        "San Jose, CA",
+        "Aug 21",
+        ""
+      ],
+      [
         "Replit",
         "Software Engineering Intern",
         "Foster City, CA",
@@ -22993,6 +23007,20 @@
         "AI Network Automation Engineer Intern, Global Physical Network Infra",
         "San Jose, CA",
         "Aug 06",
+        ""
+      ],
+      [
+        "TikTok",
+        "Software Engineer Intern, Trust and Safety-Engineering \ud83d\udec2",
+        "San Jose, CA",
+        "Aug 04",
+        ""
+      ],
+      [
+        "TikTok",
+        "Software Engineer Intern, Privacy and Security",
+        "San Jose, CA",
+        "Aug 04",
         ""
       ],
       [

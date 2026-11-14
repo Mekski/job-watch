@@ -3386,7 +3386,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "6b51b50a2b3d62cfc510c7bb6b13876ce05a7277",
+    "last_sha": "feb0e45c9f9317d72b2289145f304d3784a5d9d5",
     "rows": [
       [
         "Ericsson",
@@ -3415,6 +3415,13 @@
         "Irvine, CA",
         "Nov 13",
         "https://go.vansh.nyc/1yN?s=y"
+      ],
+      [
+        "SAS",
+        "Software Developer Intern, Go/Golang",
+        "Cary, NC",
+        "Nov 13",
+        "https://go.vansh.nyc/1zC?s=y"
       ],
       [
         "Samsung Semiconductor",
@@ -3555,6 +3562,13 @@
         "Arlington, VA Redmond, WA Sunnyvale, CA",
         "Nov 13",
         "https://go.vansh.nyc/1z6?s=y"
+      ],
+      [
+        "Camping World",
+        "AI Security Intern",
+        "Chicago, IL",
+        "Nov 13",
+        "https://go.vansh.nyc/1zF?s=y"
       ],
       [
         "Bloomberg Industry Group",
@@ -3856,6 +3870,20 @@
         "Dublin, OH",
         "Nov 12",
         "https://go.vansh.nyc/1wG?s=y"
+      ],
+      [
+        "Capital Group",
+        "Global Technology Associate Intern",
+        "Irvine, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1zD?s=y"
+      ],
+      [
+        "Camping World",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Nov 12",
+        "https://go.vansh.nyc/1zE?s=y"
       ],
       [
         "CACI",
@@ -4227,13 +4255,6 @@
         "Idaho Falls, ID",
         "Nov 11",
         "https://go.vansh.nyc/1xM?s=y"
-      ],
-      [
-        "ICF",
-        "Data Analytics Intern",
-        "Reston, VA Remote United States",
-        "Nov 11",
-        "https://go.vansh.nyc/1uQ?s=y"
       ],
       [
         "HUB International",
@@ -6245,13 +6266,6 @@
         "https://go.vansh.nyc/1in?s=y"
       ],
       [
-        "Llbean",
-        "Software Developer Intern",
-        "Freeport, ME",
-        "Nov 05",
-        "https://go.vansh.nyc/1lw?s=y"
-      ],
-      [
         "Little Caesars Enterprises",
         "Developer IT Intern",
         "Detroit, MI",
@@ -6264,13 +6278,6 @@
         "Reno, NV",
         "Nov 05",
         "https://go.vansh.nyc/1jR?s=y"
-      ],
-      [
-        "L.L.Bean",
-        "Business Analyst/Data Analyst Intern",
-        "Freeport, ME",
-        "Nov 05",
-        "https://go.vansh.nyc/1mD?s=y"
       ],
       [
         "L.L.Bean",
@@ -7071,13 +7078,6 @@
         "https://go.vansh.nyc/1xF?s=y"
       ],
       [
-        "The Federal Reserve System",
-        "Supervision & Regulation Intern, Cybersecurity \ud83d\udec2",
-        "Atlanta, GA",
-        "Nov 02",
-        "https://go.vansh.nyc/19i?s=y"
-      ],
-      [
         "Tesla",
         "Software Engineering Intern, People Products",
         "Palo Alto, CA",
@@ -7461,41 +7461,6 @@
         "New York, NY",
         "Nov 02",
         "https://go.vansh.nyc/1eu?s=y"
-      ],
-      [
-        "Guardian Life",
-        "Data Engineering Intern, Digital & Technology",
-        "New York, NY Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cV?s=y"
-      ],
-      [
-        "Guardian Life",
-        "AI & Machine Learning Intern, Digital & Technology",
-        "New York, NY Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cW?s=y"
-      ],
-      [
-        "Guardian Life",
-        "Application Development Intern, Digital & Technology",
-        "New York, NY Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cX?s=y"
-      ],
-      [
-        "Guardian Life",
-        "Cloud & DevOps Intern, Digital & Technology",
-        "Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cY?s=y"
-      ],
-      [
-        "Guardian Life",
-        "Cybersecurity Intern, Digital & Technology",
-        "New York, NY Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cZ?s=y"
       ],
       [
         "Graco",
@@ -17305,6 +17270,13 @@
         ""
       ],
       [
+        "ICF",
+        "Data Analytics Intern",
+        "Reston, VA Remote United States",
+        "Nov 11",
+        ""
+      ],
+      [
         "Brex",
         "Software Engineer Intern",
         "San Francisco, CA",
@@ -17956,6 +17928,20 @@
         ""
       ],
       [
+        "Llbean",
+        "Software Developer Intern",
+        "Freeport, ME",
+        "Nov 05",
+        ""
+      ],
+      [
+        "L.L.Bean",
+        "Business Analyst/Data Analyst Intern",
+        "Freeport, ME",
+        "Nov 05",
+        ""
+      ],
+      [
         "Kimball Electronics",
         "Cybersecurity Intern \ud83d\udec2",
         "Remote United States",
@@ -18446,6 +18432,13 @@
         ""
       ],
       [
+        "The Federal Reserve System",
+        "Supervision & Regulation Intern, Cybersecurity \ud83d\udec2",
+        "Atlanta, GA",
+        "Nov 02",
+        ""
+      ],
+      [
         "T-Mobile",
         "Software Engineering Intern",
         "Philadelphia, PA",
@@ -18645,6 +18638,41 @@
         "IGS Energy",
         "Software Engineer Intern",
         "Remote United States",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "Data Engineering Intern, Digital & Technology",
+        "New York, NY Bethlehem, PA Holmdel, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "AI & Machine Learning Intern, Digital & Technology",
+        "New York, NY Bethlehem, PA Holmdel, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "Application Development Intern, Digital & Technology",
+        "New York, NY Bethlehem, PA Holmdel, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "Cloud & DevOps Intern, Digital & Technology",
+        "Bethlehem, PA Holmdel, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "Cybersecurity Intern, Digital & Technology",
+        "New York, NY Bethlehem, PA Holmdel, NJ",
         "Nov 02",
         ""
       ],

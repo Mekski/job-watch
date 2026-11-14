@@ -37220,7 +37220,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7065,
+      "message_id": 7335,
       "chat_id": 8743352944
     },
     "75d852c31aec": {
@@ -38670,7 +38670,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6173,
+      "message_id": 7334,
       "chat_id": 8743352944
     },
     "dcad33aa7e19": {
@@ -49481,6 +49481,16 @@
       "apply_url": "https://go.vansh.nyc/1zz?s=y",
       "source": "Vansh Repo",
       "message_id": 7333,
+      "chat_id": 8743352944
+    },
+    "53e47692d20f": {
+      "company": "Carnegie Mellon University",
+      "role": "Enabling Mission Capability at Scale Intern",
+      "location": "Pittsburgh, PA",
+      "term": "Summer 2027",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7336,
       "chat_id": 8743352944
     }
   },

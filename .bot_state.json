@@ -37550,7 +37550,7 @@
       "term": "Summer 2027",
       "apply_url": "https://triafed.com/jobs/?gh_jid=5470246008&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6057,
+      "message_id": 7327,
       "chat_id": 8743352944
     },
     "5c0e4028fc02": {
@@ -49391,6 +49391,36 @@
       "apply_url": "https://go.vansh.nyc/1zh?s=y",
       "source": "Vansh Repo",
       "message_id": 7323,
+      "chat_id": 8743352944
+    },
+    "53823e21075b": {
+      "company": "NextEra Energy",
+      "role": "Software Engineering Intern - Technical",
+      "location": "St Paul, MN",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7324,
+      "chat_id": 8743352944
+    },
+    "5ce95fbeaaf1": {
+      "company": "TC Energy",
+      "role": "Intelligent Operations Technology Intern",
+      "location": "Spokane, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7325,
+      "chat_id": 8743352944
+    },
+    "f4db951ed516": {
+      "company": "Capital Group",
+      "role": "Global Technology Summer Associate Intern",
+      "location": "Irvine, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7326,
       "chat_id": 8743352944
     }
   },

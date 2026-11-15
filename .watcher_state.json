@@ -3267,7 +3267,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7dd4f9cc0bbfdeff41d6531e7efd2ea780f4d9f9",
+    "last_sha": "9be6df263bc6366a6e8462a50f6d85457bdcfc2f",
     "rows": [
       [
         "Ericsson",
@@ -3275,6 +3275,13 @@
         "Plano, TX",
         "Nov 14",
         "https://go.vansh.nyc/1zB?s=y"
+      ],
+      [
+        "Eight Sleep",
+        "Firmware Intern",
+        "**4 locations**San Francisco, CA New York, NY Washington, DC Austin, TX",
+        "Nov 14",
+        "https://go.vansh.nyc/1zP?s=y"
       ],
       [
         "WTW",
@@ -6098,13 +6105,6 @@
         "https://go.vansh.nyc/1lX?s=y"
       ],
       [
-        "MITRE",
-        "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
-        "McLean, VA",
-        "Nov 05",
-        "https://go.vansh.nyc/1lR?s=y"
-      ],
-      [
         "METECS",
         "Software Intern",
         "Houston, TX",
@@ -6187,20 +6187,6 @@
         "Milpitas, CA",
         "Nov 05",
         "https://go.vansh.nyc/1mB?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Data Engineering Intern",
-        "Deerfield Beach, FL",
-        "Nov 05",
-        "https://go.vansh.nyc/1jd?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Analytics Intern",
-        "Deerfield Beach, FL",
-        "Nov 05",
-        "https://go.vansh.nyc/1iw?s=y"
       ],
       [
         "Intercontinental Exchange",
@@ -6586,20 +6572,6 @@
         "Urbandale, IA",
         "Nov 04",
         "https://go.vansh.nyc/1hv?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Software Engineer Intern",
-        "Deerfield Beach, FL",
-        "Nov 04",
-        "https://go.vansh.nyc/1iH?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Software Analyst Intern",
-        "Deerfield Beach, FL",
-        "Nov 04",
-        "https://go.vansh.nyc/1iI?s=y"
       ],
       [
         "General Dynamics Mission Systems",
@@ -17837,6 +17809,13 @@
         ""
       ],
       [
+        "MITRE",
+        "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Nov 05",
+        ""
+      ],
+      [
         "Llbean",
         "Software Developer Intern",
         "Freeport, ME",
@@ -17854,6 +17833,20 @@
         "Kimball Electronics",
         "Cybersecurity Intern \ud83d\udec2",
         "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Analytics Intern",
+        "Deerfield Beach, FL",
+        "Nov 05",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Data Engineering Intern",
+        "Deerfield Beach, FL",
         "Nov 05",
         ""
       ],
@@ -18036,6 +18029,20 @@
         "Kudu Dynamics",
         "Software Engineering & AI Intern \ud83c\uddfa\ud83c\uddf8",
         "**4 locations**Remote United States Odenton, MD Shiloh, IL",
+        "Nov 04",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Software Engineer Intern",
+        "Deerfield Beach, FL",
+        "Nov 04",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Software Analyst Intern",
+        "Deerfield Beach, FL",
         "Nov 04",
         ""
       ],

@@ -3274,7 +3274,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9be6df263bc6366a6e8462a50f6d85457bdcfc2f",
+    "last_sha": "df0db4a3d921e94b414ce15ba43b87320b0c98f9",
     "rows": [
       [
         "Ericsson",
@@ -3282,13 +3282,6 @@
         "Plano, TX",
         "Nov 14",
         "https://go.vansh.nyc/1zB?s=y"
-      ],
-      [
-        "Eight Sleep",
-        "Firmware Intern",
-        "**4 locations**San Francisco, CA New York, NY Washington, DC Austin, TX",
-        "Nov 14",
-        "https://go.vansh.nyc/1zP?s=y"
       ],
       [
         "WTW",
@@ -3814,6 +3807,13 @@
         "Denver, CO",
         "Nov 12",
         "https://go.vansh.nyc/1xA?s=y"
+      ],
+      [
+        "Blizzard Entertainment",
+        "Animation & Cinematic Tools Engineering Intern",
+        "Irvine, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1zQ?s=y"
       ],
       [
         "Bask Health",
@@ -6411,13 +6411,6 @@
         "Dallas, TX",
         "Nov 04",
         "https://go.vansh.nyc/1jn?s=y"
-      ],
-      [
-        "TC Energy",
-        "Enterprise Security Intern, Detection & Response",
-        "Calgary, Canada",
-        "Nov 04",
-        "https://go.vansh.nyc/1gW?s=y"
       ],
       [
         "Stoke Space",
@@ -17081,6 +17074,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Eight Sleep",
+        "Firmware Intern",
+        "**4 locations**San Francisco, CA New York, NY Washington, DC Austin, TX",
+        "Nov 14",
+        ""
+      ],
+      [
         "KION Group",
         "A.I. Engineering Intern",
         "Grand Rapids, MI",
@@ -17931,6 +17931,13 @@
         "Zebra Technologies",
         "Software Engineer Intern, AI Features & Product Convergence",
         "Kennesaw, GA",
+        "Nov 04",
+        ""
+      ],
+      [
+        "TC Energy",
+        "Enterprise Security Intern, Detection & Response",
+        "Calgary, Canada",
         "Nov 04",
         ""
       ],

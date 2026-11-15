@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "7c0f5b84ae70b70e07850928289efadba4b4425c",
+    "last_sha": "62e38bf150af4f950a81c71252935c2a4e8fa5ab",
     "rows": [
       [
         "SAS",
@@ -904,13 +904,6 @@
         "Redmond, WA",
         "Summer 2027",
         "https://careers.nintendo.com/?gh_jid=4472147009&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nutanix",
-        "Software Engineer Intern",
-        "Cambridge, UK",
-        "Summer 2027",
-        "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "SOTI",
@@ -3043,6 +3036,13 @@
       [
         "Tyler Technologies",
         "Software Development Intern - Summer 2027",
+        "Yarmouth, ME Orono, ME Falmouth, ME",
+        "Summer 2027",
+        "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Tyler Technologies",
+        "Software Development Intern - Summer 2027",
         "Plano, TX",
         "Summer 2027",
         "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
@@ -3228,34 +3228,6 @@
         "Raleigh, NC",
         "Summer 2027",
         "https://job-boards.greenhouse.io/relaypro/jobs/8180836?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Enterprise Holdings",
-        "Software Engineer Intern - Summer 2027",
-        "St. Louis, MO",
-        "Summer 2027",
-        "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Bedrock Robotics",
-        "Software Engineer Intern - Fleet Platform",
-        "NYC",
-        "Summer 2027",
-        "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Gecko Robotics",
-        "Full Stack Software Engineer Intern",
-        "NYC",
-        "Summer 2027",
-        "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Talos",
-        "Software Engineer Intern - Trading",
-        "London, UK",
-        "Summer 2027",
-        "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true&utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

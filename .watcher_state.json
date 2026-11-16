@@ -3155,7 +3155,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "e2a55dece07810ac0d056262f76a78b905c565f3",
+    "last_sha": "f3f464245694e64c7c8f19f73afdc392429bd1cc",
     "rows": [
       [
         "Octaura",
@@ -13266,13 +13266,6 @@
         "https://go.vansh.nyc/1nt?s=y"
       ],
       [
-        "Garmin",
-        "FPGA Engineer Intern",
-        "Olathe, KS",
-        "Oct 07",
-        "https://go.vansh.nyc/FV?s=y"
-      ],
-      [
         "DocuSign",
         "Software Engineer Intern",
         "Seattle, WA",
@@ -21851,6 +21844,13 @@
         "HCSC",
         "Security Data Classification Intern",
         "Richardson, TX",
+        "Oct 07",
+        ""
+      ],
+      [
+        "Garmin",
+        "FPGA Engineer Intern",
+        "Olathe, KS",
         "Oct 07",
         ""
       ],

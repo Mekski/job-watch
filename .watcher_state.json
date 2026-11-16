@@ -3141,7 +3141,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "d49edc13b5a4e5cb9292a996b7631bcae8f496bd",
+    "last_sha": "5f2430ad7f00c571ca4d3ce650d393bdf9d59f80",
     "rows": [
       [
         "Octaura",
@@ -3149,6 +3149,13 @@
         "New York, NY",
         "Nov 16",
         "https://go.vansh.nyc/1A6?s=y"
+      ],
+      [
+        "Boston Scientific",
+        "AI Acceleration Intern \ud83d\udec2",
+        "Marlborough, MA",
+        "Nov 16",
+        "https://go.vansh.nyc/1Aa?s=y"
       ],
       [
         "Boston Scientific",
@@ -8553,13 +8560,6 @@
         "San Mateo, CA",
         "Oct 30",
         "https://go.vansh.nyc/11I?s=y"
-      ],
-      [
-        "Farmers Mutual Hail",
-        "Software Developer Intern",
-        "West Des Moines, IA",
-        "Oct 30",
-        "https://go.vansh.nyc/12R?s=y"
       ],
       [
         "Economy Polymers & Chemicals",
@@ -18897,6 +18897,13 @@
         "FedEx",
         "Data Science Intern",
         "Memphis, TN",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Farmers Mutual Hail",
+        "Software Developer Intern",
+        "West Des Moines, IA",
         "Oct 30",
         ""
       ],

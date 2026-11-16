@@ -1,6 +1,6 @@
 {
   "SimplifyJobs/Summer2027-Internships:README.md": {
-    "last_sha": "3a853b2cc50a5a8b23abdbf7908c20a9dffbef84",
+    "last_sha": "e0de5e24e5faed4fde76b3ed70400f0b5393e131",
     "rows": [
       [
         "SAS",
@@ -1697,6 +1697,13 @@
         "https://job-boards.greenhouse.io/graphcore/jobs/8894868002?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Steel",
+        "Software Engineer Intern",
+        "Toronto, ON, Canada",
+        "Summer 2027",
+        "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Graphcore",
         "Software Engineer Intern - AI Compute Libraries & Performance",
         "Bristol, UK",
@@ -3050,13 +3057,6 @@
       [
         "Tyler Technologies",
         "Software Development Intern - Summer 2027",
-        "Yarmouth, ME Orono, ME Falmouth, ME",
-        "Summer 2027",
-        "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Tyler Technologies",
-        "Software Development Intern - Summer 2027",
         "Plano, TX",
         "Summer 2027",
         "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
@@ -3221,13 +3221,6 @@
         "Ewing Township, NJ",
         "Summer 2027",
         "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Waymo",
-        "Quantitative Software Engineer Intern \ud83c\udf93",
-        "SF Mountain View, CA",
-        "Summer 2027",
-        "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify"
       ]
     ]
   },

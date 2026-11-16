@@ -3050,7 +3050,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "f27fcc8ad33a73b65d0aa0994cb33e20dcb02961",
+    "last_sha": "35b74392f2148cb2cae56b7455827bcd89be7571",
     "rows": [
       [
         "Toyota Research Institute",
@@ -3130,11 +3130,25 @@
         "https://go.vansh.nyc/1An?s=y"
       ],
       [
+        "Impulse Space",
+        "Digital Design Engineering Intern, FPGA/ASIC",
+        "Redondo Beach, CA",
+        "Nov 16",
+        "https://go.vansh.nyc/1Ay?s=y"
+      ],
+      [
         "i3",
         "Embedded Systems Reverse Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Washington, DC",
         "Nov 16",
         "https://go.vansh.nyc/1Af?s=y"
+      ],
+      [
+        "Carnegie Mellon University",
+        "AI Engineer Intern, Mission Innovation Lab \ud83d\udec2",
+        "Pittsburgh, PA",
+        "Nov 16",
+        "https://go.vansh.nyc/1Az?s=y"
       ],
       [
         "Boston Scientific",
@@ -12503,13 +12517,6 @@
         "https://go.vansh.nyc/Cl?s=y"
       ],
       [
-        "Allegion",
-        "Software Operations Engineer Intern",
-        "Carmel, IN",
-        "Oct 13",
-        "https://go.vansh.nyc/8p?s=y"
-      ],
-      [
         "ADT",
         "Data, Analytics & AI Intern \ud83d\udec2",
         "Boca Raton, FL",
@@ -21620,6 +21627,13 @@
         "CIBC",
         "Analyst Intern, Equity Solutions Group",
         "New York, NY",
+        "Oct 13",
+        ""
+      ],
+      [
+        "Allegion",
+        "Software Operations Engineer Intern",
+        "Carmel, IN",
         "Oct 13",
         ""
       ],

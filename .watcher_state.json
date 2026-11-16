@@ -3190,8 +3190,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c0043f541c8753faa746095479ef0097907e4096",
+    "last_sha": "c65390e1b2827dbd684bc90477c2aed4f6fcb0f8",
     "rows": [
+      [
+        "RTX",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "El Segundo, CA",
+        "Nov 15",
+        "https://go.vansh.nyc/1A3?s=y"
+      ],
       [
         "Rodriguez Services",
         "Software Engineer Intern",
@@ -5613,13 +5620,6 @@
         "Markham, Canada",
         "Nov 06",
         "https://go.vansh.nyc/1kR?s=y"
-      ],
-      [
-        "PETRONAS Canada",
-        "Student Intern, Infrastructure Automation and Innovation",
-        "Calgary, Canada",
-        "Nov 06",
-        "https://go.vansh.nyc/1lK?s=y"
       ],
       [
         "Parspec",
@@ -10111,20 +10111,6 @@
       [
         "Royal Bank of Canada",
         "Data Engineer Intern",
-        "Calgary, Canada",
-        "Oct 25",
-        "https://go.vansh.nyc/Qa?s=y"
-      ],
-      [
-        "Royal Bank of Canada",
-        "Developer Intern",
-        "Calgary, Canada",
-        "Oct 25",
-        "https://go.vansh.nyc/Qe?s=y"
-      ],
-      [
-        "Royal Bank of Canada",
-        "Data Engineer Intern",
         "Vancouver, Canada",
         "Oct 25",
         "https://go.vansh.nyc/OF?s=y"
@@ -12018,13 +12004,6 @@
         "Brossard, QC, Canada",
         "Oct 16",
         "https://go.vansh.nyc/b1?s=y"
-      ],
-      [
-        "CenturyLink",
-        "AI & Automation Builders Intern",
-        "Remote United States",
-        "Oct 16",
-        "https://go.vansh.nyc/1sD?s=y"
       ],
       [
         "Boston Scientific",
@@ -17543,6 +17522,13 @@
         ""
       ],
       [
+        "PETRONAS Canada",
+        "Student Intern, Infrastructure Automation and Innovation",
+        "Calgary, Canada",
+        "Nov 06",
+        ""
+      ],
+      [
         "Marmon Holdings",
         "AI Technology Solutions Intern",
         "Chicago, IL",
@@ -19896,6 +19882,20 @@
       ],
       [
         "Royal Bank of Canada",
+        "Data Engineer Intern",
+        "Calgary, Canada",
+        "Oct 25",
+        ""
+      ],
+      [
+        "Royal Bank of Canada",
+        "Developer Intern",
+        "Calgary, Canada",
+        "Oct 25",
+        ""
+      ],
+      [
+        "Royal Bank of Canada",
         "Developer Intern",
         "Toronto, Canada",
         "Oct 25",
@@ -21270,6 +21270,13 @@
         "ChargePoint",
         "IT & Network Intern",
         "Campbell, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "CenturyLink",
+        "AI & Automation Builders Intern",
+        "Remote United States",
         "Oct 16",
         ""
       ],

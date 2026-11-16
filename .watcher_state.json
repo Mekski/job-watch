@@ -3127,7 +3127,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c1bf598e9aeedc2eb473b6f363b5e9df1cde3d09",
+    "last_sha": "06c643d61c53ca81d6df0b1027261f5f80ba0b8c",
     "rows": [
       [
         "Shopify",
@@ -3156,6 +3156,13 @@
         "New York, NY",
         "Nov 16",
         "https://go.vansh.nyc/1A6?s=y"
+      ],
+      [
+        "i3",
+        "Embedded Systems Reverse Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Washington, DC",
+        "Nov 16",
+        "https://go.vansh.nyc/1Af?s=y"
       ],
       [
         "Boston Scientific",
@@ -4304,13 +4311,6 @@
         "Washington, DC",
         "Nov 11",
         "https://go.vansh.nyc/1ye?s=y"
-      ],
-      [
-        "Atalanta",
-        "Forward Deployed Engineer Intern",
-        "Washington, DC",
-        "Nov 11",
-        "https://go.vansh.nyc/1yf?s=y"
       ],
       [
         "Argonne National Laboratory",
@@ -13470,13 +13470,6 @@
       ],
       [
         "Cadence Solutions",
-        "Product Management Intern",
-        "Remote United States",
-        "Oct 05",
-        "https://go.vansh.nyc/PW?s=y"
-      ],
-      [
-        "Cadence Solutions",
         "Software Engineer Intern",
         "Remote United States",
         "Oct 05",
@@ -15205,13 +15198,6 @@
         "https://go.vansh.nyc/1tm?s=y"
       ],
       [
-        "Datadog",
-        "Software Engineer Intern",
-        "Boston, MA New York, NY",
-        "Sep 08",
-        "https://go.vansh.nyc/Mm?s=y"
-      ],
-      [
         "Coinbase",
         "Analytics Engineer Intern",
         "San Francisco, CA",
@@ -16888,6 +16874,13 @@
         "Austal USA",
         "Cybersecurity Intern",
         "Mobile, AL",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Atalanta",
+        "Forward Deployed Engineer Intern",
+        "Washington, DC",
         "Nov 11",
         ""
       ],
@@ -21988,6 +21981,13 @@
         ""
       ],
       [
+        "Cadence Solutions",
+        "Product Management Intern",
+        "Remote United States",
+        "Oct 05",
+        ""
+      ],
+      [
         "Alston & Bird Law Firm",
         "Developer Intern",
         "Atlanta, GA",
@@ -22509,6 +22509,13 @@
         "Gallup",
         "DevOps Engineer Intern",
         "Omaha, NE",
+        "Sep 08",
+        ""
+      ],
+      [
+        "Datadog",
+        "Software Engineer Intern",
+        "Boston, MA New York, NY",
         "Sep 08",
         ""
       ],

@@ -3134,8 +3134,29 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "5f2430ad7f00c571ca4d3ce650d393bdf9d59f80",
+    "last_sha": "8354b70e1918bd7dae7e6ce53f6f5b43c24a3ad9",
     "rows": [
+      [
+        "Shopify",
+        "Software Engineer Intern",
+        "Montreal, Canada Toronto, Canada Ottawa, Canada",
+        "Nov 16",
+        "https://go.vansh.nyc/1Ac?s=y"
+      ],
+      [
+        "Shopify",
+        "Data Intern",
+        "**4 locations**Montreal, Canada Toronto, Canada New York, NY Ottawa, Canada",
+        "Nov 16",
+        "https://go.vansh.nyc/1Ad?s=y"
+      ],
+      [
+        "Shopify",
+        "Applied Machine Learning Engineer Intern",
+        "Montreal, Canada Toronto, Canada Ottawa, Canada",
+        "Nov 16",
+        "https://go.vansh.nyc/1Ae?s=y"
+      ],
       [
         "Octaura",
         "Data Engineer Intern",
@@ -3366,13 +3387,6 @@
         "Chicago, IL West Lafayette, IN",
         "Nov 13",
         "https://go.vansh.nyc/1zk?s=y"
-      ],
-      [
-        "FieldPulse",
-        "AI Intern",
-        "Dallas, TX",
-        "Nov 13",
-        "https://go.vansh.nyc/1zj?s=y"
       ],
       [
         "Envita Solutions",
@@ -5930,13 +5944,6 @@
         "https://go.vansh.nyc/1j0?s=y"
       ],
       [
-        "Overland AI",
-        "Software Engineering Intern",
-        "Seattle, WA",
-        "Nov 05",
-        "https://go.vansh.nyc/1io?s=y"
-      ],
-      [
         "Nordson",
         "Software Intern",
         "Minneapolis, MN",
@@ -6040,13 +6047,6 @@
         "Lafayette, IN",
         "Nov 05",
         "https://go.vansh.nyc/1tg?s=y"
-      ],
-      [
-        "Lyte AI",
-        "Software Engineering Intern",
-        "Sunnyvale, CA",
-        "Nov 05",
-        "https://go.vansh.nyc/1in?s=y"
       ],
       [
         "Little Caesars Enterprises",
@@ -6215,34 +6215,6 @@
         "Phoenix, AZ",
         "Nov 05",
         "https://go.vansh.nyc/1jZ?s=y"
-      ],
-      [
-        "APEX Analytix",
-        "Data Science Intern",
-        "Greensboro, NC",
-        "Nov 05",
-        "https://go.vansh.nyc/1ii?s=y"
-      ],
-      [
-        "APEX Analytix",
-        "Automation Developer Intern",
-        "Greensboro, NC",
-        "Nov 05",
-        "https://go.vansh.nyc/1ij?s=y"
-      ],
-      [
-        "APEX Analytix",
-        "Data Engineering Intern",
-        "Greensboro, NC",
-        "Nov 05",
-        "https://go.vansh.nyc/1ik?s=y"
-      ],
-      [
-        "APEX Analytix",
-        "Data Analyst Intern",
-        "Greensboro, NC",
-        "Nov 05",
-        "https://go.vansh.nyc/1il?s=y"
       ],
       [
         "American Family Insurance Group",
@@ -16822,6 +16794,13 @@
         ""
       ],
       [
+        "FieldPulse",
+        "AI Intern",
+        "Dallas, TX",
+        "Nov 13",
+        ""
+      ],
+      [
         "KION Group",
         "A.I. Engineering Intern",
         "Grand Rapids, MI",
@@ -17620,9 +17599,23 @@
         ""
       ],
       [
+        "Overland AI",
+        "Software Engineering Intern",
+        "Seattle, WA",
+        "Nov 05",
+        ""
+      ],
+      [
         "MITRE",
         "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Lyte AI",
+        "Software Engineering Intern",
+        "Sunnyvale, CA",
         "Nov 05",
         ""
       ],
@@ -17721,6 +17714,34 @@
         "Arango",
         "Software Engineer Intern, Cookbooks",
         "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "Nov 05",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Automation Developer Intern",
+        "Greensboro, NC",
+        "Nov 05",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Data Engineering Intern",
+        "Greensboro, NC",
+        "Nov 05",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Data Analyst Intern",
+        "Greensboro, NC",
         "Nov 05",
         ""
       ],

@@ -3141,7 +3141,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0ec3088f604ceeed55b0023a6336e74939813931",
+    "last_sha": "d49edc13b5a4e5cb9292a996b7631bcae8f496bd",
     "rows": [
       [
         "Octaura",
@@ -3149,6 +3149,13 @@
         "New York, NY",
         "Nov 16",
         "https://go.vansh.nyc/1A6?s=y"
+      ],
+      [
+        "Boston Scientific",
+        "AI Engineering Intern, Generative and Agentic AI \ud83d\udec2",
+        "Marlborough, MA",
+        "Nov 16",
+        "https://go.vansh.nyc/1A8?s=y"
       ],
       [
         "RTX",
@@ -3170,6 +3177,13 @@
         "Brookfield, WI",
         "Nov 15",
         "https://go.vansh.nyc/1A2?s=y"
+      ],
+      [
+        "Addepar",
+        "Technical Product Management Intern, ADX",
+        "New York, NY",
+        "Nov 15",
+        "https://go.vansh.nyc/1A9?s=y"
       ],
       [
         "NetApp",
@@ -4797,13 +4811,6 @@
       ],
       [
         "Addepar",
-        "Product Intern",
-        "New York, NY",
-        "Nov 10",
-        "https://go.vansh.nyc/1s3?s=y"
-      ],
-      [
-        "Addepar",
         "Software Engineering Intern",
         "New York, NY",
         "Nov 10",
@@ -4885,20 +4892,6 @@
         "Cambridge, MA",
         "Nov 09",
         "https://go.vansh.nyc/1oI?s=y"
-      ],
-      [
-        "The New York Times",
-        "Data Analyst Intern",
-        "New York, NY",
-        "Nov 09",
-        "https://go.vansh.nyc/1pm?s=y"
-      ],
-      [
-        "The New York Times",
-        "ML Scientist Intern",
-        "New York, NY",
-        "Nov 09",
-        "https://go.vansh.nyc/1pn?s=y"
       ],
       [
         "T-Mobile",
@@ -5469,31 +5462,10 @@
       ],
       [
         "The New York Times",
-        "Backend Engineering Intern",
-        "New York, NY",
-        "Nov 06",
-        "https://go.vansh.nyc/1lg?s=y"
-      ],
-      [
-        "The New York Times",
-        "Frontend Engineering Intern",
-        "New York, NY",
-        "Nov 06",
-        "https://go.vansh.nyc/1l5?s=y"
-      ],
-      [
-        "The New York Times",
         "Android Engineering Intern",
         "New York, NY",
         "Nov 06",
         "https://go.vansh.nyc/1l6?s=y"
-      ],
-      [
-        "The New York Times",
-        "Full-Stack Engineering Intern",
-        "New York, NY",
-        "Nov 06",
-        "https://go.vansh.nyc/1l7?s=y"
       ],
       [
         "The New York Times",
@@ -17256,6 +17228,13 @@
         ""
       ],
       [
+        "Addepar",
+        "Product Intern",
+        "New York, NY",
+        "Nov 10",
+        ""
+      ],
+      [
         "Zoetis",
         "IT/OT Security Intern",
         "Kalamazoo, MI",
@@ -17280,6 +17259,20 @@
         "Zoetis",
         "AI Architecture, Enablement & Tools Intern, AI Capabilities",
         "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
+        "The New York Times",
+        "Data Analyst Intern",
+        "New York, NY",
+        "Nov 09",
+        ""
+      ],
+      [
+        "The New York Times",
+        "ML Scientist Intern",
+        "New York, NY",
         "Nov 09",
         ""
       ],
@@ -17406,6 +17399,27 @@
         "TikTok",
         "POI Content Product Manager Intern",
         "San Jose, CA",
+        "Nov 06",
+        ""
+      ],
+      [
+        "The New York Times",
+        "Frontend Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        ""
+      ],
+      [
+        "The New York Times",
+        "Full-Stack Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        ""
+      ],
+      [
+        "The New York Times",
+        "Backend Engineering Intern",
+        "New York, NY",
         "Nov 06",
         ""
       ],

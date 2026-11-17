@@ -3022,8 +3022,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "a03670a10a7fe4f7fe823585791445adeaf69c1d",
+    "last_sha": "09a35ca6121b20188312e1044c9f98a58bb0afdd",
     "rows": [
+      [
+        "Soros Fund Management",
+        "Quantitative Strategist Intern",
+        "New York, NY",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bj?s=y"
+      ],
       [
         "Sedaro",
         "DevOps Intern",
@@ -5396,13 +5403,6 @@
         "Melbourne, FL",
         "Nov 09",
         "https://go.vansh.nyc/1ow?s=y"
-      ],
-      [
-        "Carnegie Mellon University",
-        "Advanced Computing Lab Intern \ud83d\udec2",
-        "Pittsburgh, PA",
-        "Nov 09",
-        "https://go.vansh.nyc/1pb?s=y"
       ],
       [
         "CAI",
@@ -11229,13 +11229,6 @@
         "https://go.vansh.nyc/gr?s=y"
       ],
       [
-        "Humble Robotics",
-        "Embedded Software Engineer Intern",
-        "San Francisco, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/cV?s=y"
-      ],
-      [
         "GlobalFoundries",
         "AI Software Intern",
         "Santa Clara, CA Richardson, TX",
@@ -11829,13 +11822,6 @@
         "Seattle, WA",
         "Oct 18",
         "https://go.vansh.nyc/QW?s=y"
-      ],
-      [
-        "Together AI",
-        "Research Intern, Frontier Speculative Decoding",
-        "San Francisco, CA",
-        "Oct 17",
-        "https://go.vansh.nyc/aA?s=y"
       ],
       [
         "Physical Reasoning",
@@ -14848,13 +14834,6 @@
         "https://go.vansh.nyc/1sU?s=y"
       ],
       [
-        "Elire",
-        "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
-        "Remote United States Minneapolis, MN",
-        "Sep 15",
-        "https://go.vansh.nyc/1sV?s=y"
-      ],
-      [
         "Antares",
         "Reactor Software Engineering Intern",
         "Los Angeles, CA",
@@ -16500,13 +16479,6 @@
         "https://go.vansh.nyc/4y?s=y"
       ],
       [
-        "Akuna Capital",
-        "Platform Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Chicago, IL",
-        "Jul 24",
-        "https://go.vansh.nyc/3A?s=y"
-      ],
-      [
         "Quantiq",
         "Software Developer Intern",
         "Austin, TX",
@@ -17364,6 +17336,13 @@
         "Celestica",
         "IT Business Application Development Intern",
         "Toronto, Canada",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Carnegie Mellon University",
+        "Advanced Computing Lab Intern \ud83d\udec2",
+        "Pittsburgh, PA",
         "Nov 09",
         ""
       ],
@@ -20763,6 +20742,13 @@
         ""
       ],
       [
+        "Humble Robotics",
+        "Embedded Software Engineer Intern",
+        "San Francisco, CA",
+        "Oct 20",
+        ""
+      ],
+      [
         "Hewlett Packard Enterprise",
         "Software Development Intern, AI-Assisted Development",
         "Saint-Laurent, Montreal, QC, Canada",
@@ -21271,6 +21257,13 @@
         "ATC Software Intern",
         "Pittsburgh, PA",
         "Oct 18",
+        ""
+      ],
+      [
+        "Together AI",
+        "Research Intern, Frontier Speculative Decoding",
+        "San Francisco, CA",
+        "Oct 17",
         ""
       ],
       [
@@ -22562,6 +22555,13 @@
         ""
       ],
       [
+        "Elire",
+        "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+        "Remote United States Minneapolis, MN",
+        "Sep 15",
+        ""
+      ],
+      [
         "CoStar Group",
         "Associate Software Engineer Intern",
         "Irvine, CA",
@@ -23454,6 +23454,13 @@
         "Copart",
         "Software Engineering Intern",
         "Dallas, TX",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Akuna Capital",
+        "Platform Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Chicago, IL",
         "Jul 24",
         ""
       ],

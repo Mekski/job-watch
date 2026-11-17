@@ -3008,8 +3008,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "bf66ea30da6740fb912225d073c259dc97699172",
+    "last_sha": "76159a50df2fd6f5785a71586615ef135a6044fc",
     "rows": [
+      [
+        "Warp Sciences",
+        "Member of Technical Staff Intern, Robotics Learning",
+        "South San Francisco, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Br?s=y"
+      ],
       [
         "Toyota Research Institute",
         "Robotics Intern, Agentic Robotics",
@@ -3039,11 +3046,25 @@
         "https://go.vansh.nyc/1Bb?s=y"
       ],
       [
+        "Qualcomm",
+        "AI/Machine Learning Intern",
+        "Markham, Canada",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bt?s=y"
+      ],
+      [
         "Prometheus Group",
         "Web Development Intern",
         "Raleigh, NC",
         "Nov 17",
         "https://go.vansh.nyc/1Bh?s=y"
+      ],
+      [
+        "Garmin",
+        "Software Engineer Intern, Real Time Aviation Data",
+        "Chanhassen, MN",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bs?s=y"
       ],
       [
         "Birdseye Security Solutions",
@@ -6516,13 +6537,6 @@
         "Reno, NV",
         "Nov 04",
         "https://go.vansh.nyc/1iV?s=y"
-      ],
-      [
-        "L3Harris Technologies",
-        "Software Engineer Intern",
-        "Nashville, TN",
-        "Nov 04",
-        "https://go.vansh.nyc/1gA?s=y"
       ],
       [
         "Keysight Technologies",
@@ -17903,6 +17917,13 @@
         "Lumbermen's",
         "Software Developer Intern",
         "Grand Rapids, MI",
+        "Nov 04",
+        ""
+      ],
+      [
+        "L3Harris Technologies",
+        "Software Engineer Intern",
+        "Nashville, TN",
         "Nov 04",
         ""
       ],

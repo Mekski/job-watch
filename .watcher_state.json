@@ -2980,7 +2980,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "82d7322c83b5bb623dbe5bc708af2361dbbaac2e",
+    "last_sha": "0a4a3c7e3ea22c2622358deaf8808989e5e48d8e",
     "rows": [
       [
         "Warp Sciences",
@@ -2988,6 +2988,13 @@
         "South San Francisco, CA",
         "Nov 17",
         "https://go.vansh.nyc/1Br?s=y"
+      ],
+      [
+        "Unum",
+        "IT Intern",
+        "Chattanooga, TN Portland, ME Columbia, SC",
+        "Nov 17",
+        "https://go.vansh.nyc/1BE?s=y"
       ],
       [
         "Toyota Research Institute",
@@ -3032,6 +3039,13 @@
         "https://go.vansh.nyc/1Bh?s=y"
       ],
       [
+        "Pathlabs",
+        "Software and AI Engineering Intern",
+        "Missoula, MT",
+        "Nov 17",
+        "https://go.vansh.nyc/1BC?s=y"
+      ],
+      [
         "Lumentum",
         "SW Developer Support Intern, Program Management Office",
         "San Jose, CA",
@@ -3044,6 +3058,20 @@
         "Chanhassen, MN",
         "Nov 17",
         "https://go.vansh.nyc/1Bs?s=y"
+      ],
+      [
+        "Draper",
+        "Software Engineering & DevOps Intern",
+        "Cambridge, MA",
+        "Nov 17",
+        "https://go.vansh.nyc/1BD?s=y"
+      ],
+      [
+        "CrowdStrike",
+        "AI Research Launch Intern",
+        "Sunnyvale, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1BB?s=y"
       ],
       [
         "Birdseye Security Solutions",
@@ -10243,13 +10271,6 @@
       ],
       [
         "KLA",
-        "Software Engineering Intern",
-        "Milpitas, CA",
-        "Oct 23",
-        "https://go.vansh.nyc/h2?s=y"
-      ],
-      [
-        "KLA",
         "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
         "Milpitas, CA",
         "Oct 23",
@@ -10954,13 +10975,6 @@
         "Itasca, IL",
         "Oct 21",
         "https://go.vansh.nyc/dt?s=y"
-      ],
-      [
-        "CVS Health",
-        "Medicaid Data Analytics Intern",
-        "Hartford, CT",
-        "Oct 21",
-        "https://go.vansh.nyc/fh?s=y"
       ],
       [
         "CVS Health",
@@ -13292,13 +13306,6 @@
         "Los Angeles, CA San Francisco, CA",
         "Oct 06",
         "https://go.vansh.nyc/1eT?s=y"
-      ],
-      [
-        "Revel",
-        "Full Stack Software Engineer Intern",
-        "Los Angeles, CA San Francisco, CA",
-        "Oct 06",
-        "https://go.vansh.nyc/1eU?s=y"
       ],
       [
         "Revel",
@@ -20063,6 +20070,13 @@
         ""
       ],
       [
+        "KLA",
+        "Software Engineering Intern",
+        "Milpitas, CA",
+        "Oct 23",
+        ""
+      ],
+      [
         "Hewlett Packard Enterprise",
         "Cybersecurity Engineering Intern",
         "Spring, TX",
@@ -20479,6 +20493,13 @@
         "Duke Energy Corporation",
         "Nuclear Cybersecurity Intern",
         "Hartsville, SC",
+        "Oct 21",
+        ""
+      ],
+      [
+        "CVS Health",
+        "Medicaid Data Analytics Intern",
+        "Hartford, CT",
         "Oct 21",
         ""
       ],
@@ -22033,6 +22054,13 @@
         "RTX",
         "Software Engineer Co-op",
         "Cedar Rapids, IA",
+        "Oct 06",
+        ""
+      ],
+      [
+        "Revel",
+        "Full Stack Software Engineer Intern",
+        "Los Angeles, CA San Francisco, CA",
         "Oct 06",
         ""
       ],

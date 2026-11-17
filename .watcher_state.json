@@ -3008,7 +3008,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8d411a23ba12278bccf42f42087d7f66e6f6aebb",
+    "last_sha": "18c14c29aa5ba5c13362654dc321459697850c4b",
     "rows": [
       [
         "Toyota Research Institute",
@@ -3443,13 +3443,6 @@
         "Irvine, CA",
         "Nov 13",
         "https://go.vansh.nyc/1yN?s=y"
-      ],
-      [
-        "Soros Fund Management",
-        "Trading Intern, Middle and Back Office Dev",
-        "New York, NY",
-        "Nov 13",
-        "https://go.vansh.nyc/1AR?s=y"
       ],
       [
         "SAS",
@@ -6362,13 +6355,6 @@
         "Rochester, NY Chicago, IL",
         "Nov 05",
         "https://go.vansh.nyc/1iF?s=y"
-      ],
-      [
-        "Cintas",
-        "IT Engineer Intern, Customer Channels",
-        "Mason, OH",
-        "Nov 05",
-        "https://go.vansh.nyc/1jw?s=y"
       ],
       [
         "ASM",
@@ -9428,13 +9414,6 @@
         "Toronto, Canada",
         "Oct 28",
         "https://go.vansh.nyc/Z0?s=y"
-      ],
-      [
-        "Axiom Space",
-        "Enterprise Data Analyst Intern, Power BI & Data Quality",
-        "Houston, TX",
-        "Oct 28",
-        "https://go.vansh.nyc/103?s=y"
       ],
       [
         "Astera Labs",
@@ -16745,6 +16724,13 @@
         ""
       ],
       [
+        "Soros Fund Management",
+        "Trading Intern, Middle and Back Office Dev",
+        "New York, NY",
+        "Nov 13",
+        ""
+      ],
+      [
         "FieldPulse",
         "AI Intern",
         "Dallas, TX",
@@ -17672,6 +17658,13 @@
         "Concord Advice",
         "Data Scientist Intern",
         "Florham Park, NJ",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Cintas",
+        "IT Engineer Intern, Customer Channels",
+        "Mason, OH",
         "Nov 05",
         ""
       ],
@@ -19324,6 +19317,13 @@
         "Blackberry",
         "Application Engineering Student Intern",
         "Ottawa, Canada",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Axiom Space",
+        "Enterprise Data Analyst Intern, Power BI & Data Quality",
+        "Houston, TX",
         "Oct 28",
         ""
       ],

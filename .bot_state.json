@@ -47390,7 +47390,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7114,
+      "message_id": 7468,
       "chat_id": 8743352944
     },
     "547ffaaff2aa": {
@@ -47410,7 +47410,7 @@
       "term": "Summer 2027",
       "apply_url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7116,
+      "message_id": 7469,
       "chat_id": 8743352944
     },
     "4b45bffdbde8": {
@@ -50061,6 +50061,56 @@
       "apply_url": "https://go.vansh.nyc/1Az?s=y",
       "source": "Vansh Repo",
       "message_id": 7462,
+      "chat_id": 8743352944
+    },
+    "36cadc00c51a": {
+      "company": "Bound",
+      "role": "Engineering Intern",
+      "location": "Ames, IA",
+      "term": "Summer 2027",
+      "apply_url": "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7463,
+      "chat_id": 8743352944
+    },
+    "538d0d772eb3": {
+      "company": "\ud83d\udd25 ServiceNow",
+      "role": "Associate Forward Deployed Solution Engineer Intern",
+      "location": "Santa Clara, CA NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7464,
+      "chat_id": 8743352944
+    },
+    "acbe89ba2497": {
+      "company": "\ud83d\udd25 ServiceNow",
+      "role": "Forward Deployed Solution Engineer Intern \ud83c\udf93",
+      "location": "Santa Clara, CA NYC",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7465,
+      "chat_id": 8743352944
+    },
+    "b1544fa96280": {
+      "company": "Reliable Robotics",
+      "role": "Displays Software Engineer Intern",
+      "location": "Mountain View, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7466,
+      "chat_id": 8743352944
+    },
+    "7292c76a285c": {
+      "company": "JMP Statistical Discovery",
+      "role": "JMP Core User Interface Team R&D Intern - Master's/PhD \ud83c\udf93",
+      "location": "Cary, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7467,
       "chat_id": 8743352944
     }
   },

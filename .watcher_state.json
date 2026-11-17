@@ -3008,7 +3008,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "70cad26efe321cbb697d1f7a772230607971b0cc",
+    "last_sha": "81e87a23f309fb48bd4237bf81450c331b3236ab",
     "rows": [
       [
         "Toyota Research Institute",
@@ -3058,6 +3058,13 @@
         "Dallas, TX",
         "Nov 17",
         "https://go.vansh.nyc/1B8?s=y"
+      ],
+      [
+        "Anduril",
+        "Machine Learning Engineer Intern",
+        "Santa Ana, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bo?s=y"
       ],
       [
         "Zurich Insurance",
@@ -8574,13 +8581,6 @@
         "Jacksonville, FL",
         "Oct 30",
         "https://go.vansh.nyc/133?s=y"
-      ],
-      [
-        "Intercontinental Exchange",
-        "Agentic AI Data Science Intern",
-        "Jacksonville, FL",
-        "Oct 30",
-        "https://go.vansh.nyc/134?s=y"
       ],
       [
         "Intercontinental Exchange",
@@ -15373,13 +15373,6 @@
         "https://go.vansh.nyc/1eB?s=y"
       ],
       [
-        "Valon",
-        "Software Engineer Intern",
-        "New York, NY San Francisco, CA",
-        "Sep 01",
-        "https://go.vansh.nyc/1ey?s=y"
-      ],
-      [
         "Textron",
         "Autonomy Engineer Intern, Air Systems",
         "Hunt Valley, MD Cockeysville, MD",
@@ -18904,6 +18897,13 @@
         "Iridium Communications",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "**4 locations**McLean, VA Tempe, AZ Leesburg, VA Chandler, AZ",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Intercontinental Exchange",
+        "Agentic AI Data Science Intern",
+        "Jacksonville, FL",
         "Oct 30",
         ""
       ],
@@ -22846,6 +22846,13 @@
         "ASIC Verification Engineer Co-op",
         "Ottawa, Canada",
         "Sep 02",
+        ""
+      ],
+      [
+        "Valon",
+        "Software Engineer Intern",
+        "New York, NY San Francisco, CA",
+        "Sep 01",
         ""
       ],
       [

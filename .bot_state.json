@@ -40190,7 +40190,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7501,
+      "message_id": 7519,
       "chat_id": 8743352944
     },
     "eb2a70df8d9f": {
@@ -50561,6 +50561,16 @@
       "apply_url": "https://go.vansh.nyc/1Bz?s=y",
       "source": "Vansh Repo",
       "message_id": 7517,
+      "chat_id": 8743352944
+    },
+    "f54ea6cdcc93": {
+      "company": "Raptor Maps",
+      "role": "Software Engineer Intern",
+      "location": "Somerville, MA",
+      "term": "Summer 2027",
+      "apply_url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7518,
       "chat_id": 8743352944
     }
   },

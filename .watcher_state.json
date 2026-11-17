@@ -3029,7 +3029,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "3f6c234fda7e22460a45857544f5785e085bed97",
+    "last_sha": "458f010d454077a214141c29f08f71b7fc6690c1",
     "rows": [
       [
         "Sedaro",
@@ -3051,6 +3051,13 @@
         "Arlington, VA",
         "Nov 17",
         "https://go.vansh.nyc/1Bb?s=y"
+      ],
+      [
+        "Prometheus Group",
+        "Web Development Intern",
+        "Raleigh, NC",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bh?s=y"
       ],
       [
         "Birdseye Security Solutions",
@@ -3317,13 +3324,6 @@
         "Wilmington, MA",
         "Nov 16",
         "https://go.vansh.nyc/1AV?s=y"
-      ],
-      [
-        "Amazon",
-        "Software Development Engineer Intern, Artificial General Intelligence",
-        "Sunnyvale, CA",
-        "Nov 16",
-        "https://go.vansh.nyc/1Bf?s=y"
       ],
       [
         "RTX",
@@ -4381,13 +4381,6 @@
         "Boston, MA",
         "Nov 11",
         "https://go.vansh.nyc/1xI?s=y"
-      ],
-      [
-        "CarGurus",
-        "Site Reliability Engineer Intern",
-        "Boston, MA",
-        "Nov 11",
-        "https://go.vansh.nyc/1xJ?s=y"
       ],
       [
         "CarGurus",
@@ -6119,13 +6112,6 @@
         "https://go.vansh.nyc/1j0?s=y"
       ],
       [
-        "Nordson",
-        "Software Intern",
-        "Minneapolis, MN",
-        "Nov 05",
-        "https://go.vansh.nyc/1jk?s=y"
-      ],
-      [
         "Nebo",
         "Web Development Intern",
         "Atlanta, GA",
@@ -6446,13 +6432,6 @@
         "Ottawa, Canada",
         "Nov 04",
         "https://go.vansh.nyc/1Bd?s=y"
-      ],
-      [
-        "Plusgrade",
-        "Data Science Intern",
-        "Toronto, Canada",
-        "Nov 04",
-        "https://go.vansh.nyc/1gR?s=y"
       ],
       [
         "Plusgrade",
@@ -16815,6 +16794,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Amazon",
+        "Software Development Engineer Intern, Artificial General Intelligence",
+        "Sunnyvale, CA",
+        "Nov 16",
+        ""
+      ],
+      [
         "Eight Sleep",
         "Firmware Intern",
         "**4 locations**San Francisco, CA New York, NY Washington, DC Austin, TX",
@@ -16916,6 +16902,13 @@
         "ICF",
         "Data Analytics Intern",
         "Reston, VA Remote United States",
+        "Nov 11",
+        ""
+      ],
+      [
+        "CarGurus",
+        "Site Reliability Engineer Intern",
+        "Boston, MA",
         "Nov 11",
         ""
       ],
@@ -17655,6 +17648,13 @@
         ""
       ],
       [
+        "Nordson",
+        "Software Intern",
+        "Minneapolis, MN",
+        "Nov 05",
+        ""
+      ],
+      [
         "MITRE",
         "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
         "McLean, VA",
@@ -17875,6 +17875,13 @@
         "Riverside Research",
         "Software Applications Intern",
         "Fairborn, OH",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Plusgrade",
+        "Data Science Intern",
+        "Toronto, Canada",
         "Nov 04",
         ""
       ],

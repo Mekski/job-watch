@@ -3092,8 +3092,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "35b74392f2148cb2cae56b7455827bcd89be7571",
+    "last_sha": "c78687921fbf0e03576c8bba4a6fd80875e8854c",
     "rows": [
+      [
+        "Zurich Insurance",
+        "Data Analytics & AI Intern",
+        "Toronto, Canada",
+        "Nov 16",
+        "https://go.vansh.nyc/1AD?s=y"
+      ],
       [
         "Toyota Research Institute",
         "Robotics Intern, World Models, Multimodal Sensing",
@@ -3121,6 +3128,13 @@
         "Montreal, Canada Toronto, Canada Ottawa, Canada",
         "Nov 16",
         "https://go.vansh.nyc/1Ae?s=y"
+      ],
+      [
+        "ServiceNow",
+        "Associate Forward Deployed Solution Engineer Intern",
+        "Santa Clara, CA New York, NY",
+        "Nov 16",
+        "https://go.vansh.nyc/1AC?s=y"
       ],
       [
         "Schonfeld",
@@ -3158,6 +3172,13 @@
         "https://go.vansh.nyc/1Ai?s=y"
       ],
       [
+        "National Interstate Insurance",
+        "Predictive Analytics Intern \ud83d\udec2",
+        "Cincinnati, OH",
+        "Nov 16",
+        "https://go.vansh.nyc/1AE?s=y"
+      ],
+      [
         "Minitab",
         "Software Engineering Intern",
         "State College, PA",
@@ -3170,6 +3191,13 @@
         "Lawrenceville, GA",
         "Nov 16",
         "https://go.vansh.nyc/1An?s=y"
+      ],
+      [
+        "Integration Innovation (i3)",
+        "Embedded Systems Reverse Engineer Intern",
+        "Washington, DC",
+        "Nov 16",
+        "https://go.vansh.nyc/1AB?s=y"
       ],
       [
         "Impulse Space",
@@ -3207,6 +3235,13 @@
         "https://go.vansh.nyc/1A8?s=y"
       ],
       [
+        "Bloomberg Industry Group",
+        "Data Analyst Intern",
+        "Arlington, VA",
+        "Nov 16",
+        "https://go.vansh.nyc/1AF?s=y"
+      ],
+      [
         "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "El Segundo, CA",
@@ -3219,6 +3254,13 @@
         "San Francisco, CA",
         "Nov 15",
         "https://go.vansh.nyc/1zS?s=y"
+      ],
+      [
+        "Reliable Robotics Corporation",
+        "Displays Software Engineer Intern",
+        "Mountain View, CA",
+        "Nov 15",
+        "https://go.vansh.nyc/1AA?s=y"
       ],
       [
         "Milliman",
@@ -11194,13 +11236,6 @@
         "https://go.vansh.nyc/cM?s=y"
       ],
       [
-        "Zipline",
-        "System Test Automation Intern",
-        "South San Francisco, CA",
-        "Oct 19",
-        "https://go.vansh.nyc/Sv?s=y"
-      ],
-      [
         "The Toro Company",
         "Cloud Software Development Intern \ud83d\udec2",
         "Frederick, CO",
@@ -13481,13 +13516,6 @@
         "Montreal, Canada",
         "Oct 05",
         "https://go.vansh.nyc/F1?s=y"
-      ],
-      [
-        "Cadence Solutions",
-        "Software Engineer Intern",
-        "Remote United States",
-        "Oct 05",
-        "https://go.vansh.nyc/Fv?s=y"
       ],
       [
         "Bobyard",
@@ -20784,6 +20812,13 @@
         ""
       ],
       [
+        "Zipline",
+        "System Test Automation Intern",
+        "South San Francisco, CA",
+        "Oct 19",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "Software Engineer Intern",
         "Holtsville, NY",
@@ -22026,6 +22061,13 @@
         "NVIDIA",
         "PCIe Design Verification Intern",
         "Austin, TX",
+        "Oct 05",
+        ""
+      ],
+      [
+        "Cadence Solutions",
+        "Software Engineer Intern",
+        "Remote United States",
         "Oct 05",
         ""
       ],

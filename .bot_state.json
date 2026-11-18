@@ -23870,7 +23870,7 @@
       "term": "Summer 2027",
       "apply_url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 4137,
+      "message_id": 7573,
       "chat_id": 8743352944
     },
     "1c2133bbd3fc": {
@@ -50981,6 +50981,16 @@
       "apply_url": "https://go.vansh.nyc/1Cv?s=y",
       "source": "Vansh Repo",
       "message_id": 7571,
+      "chat_id": 8743352944
+    },
+    "8ce4e934cb5b": {
+      "company": "Qualcomm",
+      "role": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+      "location": "Markham, ON, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446722198182?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7572,
       "chat_id": 8743352944
     }
   },

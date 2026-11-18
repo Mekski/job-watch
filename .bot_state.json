@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7489,
+      "message_id": 7528,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -21860,7 +21860,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3685,
+      "message_id": 7526,
       "chat_id": 8743352944
     },
     "ac86c93a62ba": {
@@ -50611,6 +50611,36 @@
       "apply_url": "https://go.vansh.nyc/1BB?s=y",
       "source": "Vansh Repo",
       "message_id": 7523,
+      "chat_id": 8743352944
+    },
+    "0871e9ba01f2": {
+      "company": "Constellation Energy",
+      "role": "IT Software Developer Intern",
+      "location": "San Diego, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7524,
+      "chat_id": 8743352944
+    },
+    "4a2278af2606": {
+      "company": "Bissell",
+      "role": "AI & Automation Intern",
+      "location": "Grand Rapids, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7525,
+      "chat_id": 8743352944
+    },
+    "dbc9b8aa6189": {
+      "company": "GM financial",
+      "role": "Software Development Engineer Intern",
+      "location": "Arlington, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7527,
       "chat_id": 8743352944
     }
   },

@@ -2924,7 +2924,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "409aa1e1e88494d0bc1d6cf83d29bfcb50019de0",
+    "last_sha": "82a627b60049cb674b994c10f4e7cc8e81e8770b",
     "rows": [
       [
         "Warp Sciences",
@@ -5718,20 +5718,6 @@
         "San Jose, CA",
         "Nov 06",
         "https://go.vansh.nyc/1lW?s=y"
-      ],
-      [
-        "The New York Times",
-        "Android Engineering Intern",
-        "New York, NY",
-        "Nov 06",
-        "https://go.vansh.nyc/1l6?s=y"
-      ],
-      [
-        "The New York Times",
-        "iOS Engineering Intern",
-        "New York, NY",
-        "Nov 06",
-        "https://go.vansh.nyc/1l8?s=y"
       ],
       [
         "The New York Times",
@@ -12496,13 +12482,6 @@
         "https://go.vansh.nyc/8N?s=y"
       ],
       [
-        "Medpace",
-        "Python Developer Intern",
-        "Cincinnati, OH",
-        "Oct 13",
-        "https://go.vansh.nyc/Ca?s=y"
-      ],
-      [
         "Mary Free Bed Rehabilitation Hospital",
         "IT Intern",
         "Grand Rapids, MI",
@@ -17397,6 +17376,20 @@
       ],
       [
         "The New York Times",
+        "Android Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        ""
+      ],
+      [
+        "The New York Times",
+        "iOS Engineering Intern",
+        "New York, NY",
+        "Nov 06",
+        ""
+      ],
+      [
+        "The New York Times",
         "Frontend Engineering Intern",
         "New York, NY",
         "Nov 06",
@@ -21767,6 +21760,13 @@
         "Northrop Grumman",
         "Engineer Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
         "Oklahoma City, OK",
+        "Oct 13",
+        ""
+      ],
+      [
+        "Medpace",
+        "Python Developer Intern",
+        "Cincinnati, OH",
         "Oct 13",
         ""
       ],

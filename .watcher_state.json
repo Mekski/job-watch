@@ -2938,8 +2938,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b914d435649fef0544a0894e4ef8ddeb510805d7",
+    "last_sha": "3e69f85758862ef677123847a9ef637f880ea0a3",
     "rows": [
+      [
+        "Scotiabank",
+        "Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets",
+        "Toronto, Canada",
+        "Nov 18",
+        "https://go.vansh.nyc/1Ch?s=y"
+      ],
       [
         "Warp Sciences",
         "Member of Technical Staff Intern, Robotics Learning",
@@ -5571,13 +5578,6 @@
         "Lakeland, FL",
         "Nov 08",
         "https://go.vansh.nyc/1ni?s=y"
-      ],
-      [
-        "Kensington",
-        "BI/Data Analyst Intern",
-        "Toronto, Canada",
-        "Nov 08",
-        "https://go.vansh.nyc/1or?s=y"
       ],
       [
         "General Dynamics Mission Systems",
@@ -17343,6 +17343,13 @@
         "RTX",
         "Digital Hardware Design Engineer Co-op",
         "Cedar Rapids, IA",
+        "Nov 08",
+        ""
+      ],
+      [
+        "Kensington",
+        "BI/Data Analyst Intern",
+        "Toronto, Canada",
         "Nov 08",
         ""
       ],

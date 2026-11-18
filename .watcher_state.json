@@ -2924,7 +2924,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "046c9ea1b732f1f1e0bf6d7754183aa51ff17db5",
+    "last_sha": "b1ec1d40375a70f760e9519f0ce44195d3ecd30a",
     "rows": [
       [
         "Viavi Solutions",
@@ -2939,6 +2939,13 @@
         "Toronto, Canada",
         "Nov 18",
         "https://go.vansh.nyc/1Ch?s=y"
+      ],
+      [
+        "Samsung Semiconductor",
+        "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+        "San Jose, CA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Cm?s=y"
       ],
       [
         "Bristol Myers Squibb",
@@ -14498,13 +14505,6 @@
         "https://go.vansh.nyc/IT?s=y"
       ],
       [
-        "Conifer Health Solutions",
-        "BI Developer Intern",
-        "Dallas, TX",
-        "Sep 20",
-        "https://go.vansh.nyc/1mE?s=y"
-      ],
-      [
         "CAE",
         "Software Developer Intern, Content Creation Tools",
         "Montreal, Canada",
@@ -22607,6 +22607,13 @@
         "Marvell",
         "Digital IC Design Intern",
         "**5 locations**Hudson Valley, NY Austin, TX Irvine, CA Santa Clara, CA Boise, ID",
+        "Sep 20",
+        ""
+      ],
+      [
+        "Conifer Health Solutions",
+        "BI Developer Intern",
+        "Dallas, TX",
         "Sep 20",
         ""
       ],

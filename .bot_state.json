@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7528,
+      "message_id": 7545,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -40190,7 +40190,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7519,
+      "message_id": 7544,
       "chat_id": 8743352944
     },
     "eb2a70df8d9f": {
@@ -50781,6 +50781,16 @@
       "apply_url": "https://go.vansh.nyc/1C6?s=y",
       "source": "Vansh Repo",
       "message_id": 7542,
+      "chat_id": 8743352944
+    },
+    "847f13fe20be": {
+      "company": "\ud83d\udd25 Airbnb",
+      "role": "Software Engineer Intern",
+      "location": "SF",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7543,
       "chat_id": 8743352944
     }
   },

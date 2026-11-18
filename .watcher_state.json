@@ -2889,8 +2889,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "697aeb516e602f90a2a8b8de619643d14956e7cc",
+    "last_sha": "d6a696b97a93aa5f7366c663838f28ef6f21838d",
     "rows": [
+      [
+        "Vibrantz Technologies",
+        "Applied AI & Automation Intern",
+        "Houston, TX",
+        "Nov 18",
+        "https://go.vansh.nyc/1Ct?s=y"
+      ],
       [
         "Viavi Solutions",
         "Robotics Intern",
@@ -11362,13 +11369,6 @@
         "https://go.vansh.nyc/RT?s=y"
       ],
       [
-        "Lumentum",
-        "Optical Algorithms and Analytics Engineering Co-op",
-        "Ottawa, ON",
-        "Oct 19",
-        "https://go.vansh.nyc/dy?s=y"
-      ],
-      [
         "LLNL",
         "Predictive Science Academic Alliance Program IV Student Intern",
         "Livermore, CA",
@@ -14139,13 +14139,6 @@
         "Warren, MI",
         "Sep 27",
         "https://go.vansh.nyc/Q1?s=y"
-      ],
-      [
-        "General Dynamics Mission Systems, Inc.",
-        "EE/Computer Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Manassas, VA",
-        "Sep 27",
-        "https://go.vansh.nyc/PZ?s=y"
       ],
       [
         "AVARINT",
@@ -20973,6 +20966,13 @@
         ""
       ],
       [
+        "Lumentum",
+        "Optical Algorithms and Analytics Engineering Co-op",
+        "Ottawa, ON",
+        "Oct 19",
+        ""
+      ],
+      [
         "L3Harris Technologies",
         "Software Engineering Intern",
         "Salt Lake City, UT",
@@ -22446,6 +22446,13 @@
         "H&R Block",
         "Software Engineering Intern, Embark",
         "Kansas City, MO",
+        "Sep 27",
+        ""
+      ],
+      [
+        "General Dynamics Mission Systems, Inc.",
+        "EE/Computer Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Manassas, VA",
         "Sep 27",
         ""
       ],

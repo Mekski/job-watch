@@ -2931,8 +2931,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "7955fd95592ce352c408c1a2de5867472c821a9a",
+    "last_sha": "b9f2964e0d7e6639abaf90c32f7d0b36efcb335a",
     "rows": [
+      [
+        "Viavi Solutions",
+        "Robotics Intern",
+        "Bothell, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Ci?s=y"
+      ],
       [
         "Scotiabank",
         "Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets",
@@ -11115,13 +11122,6 @@
         "Seattle, WA SF Sunnyvale, CA",
         "Oct 20",
         "https://go.vansh.nyc/dg?s=y"
-      ],
-      [
-        "Texas Instruments",
-        "Software Engineer Intern, Compiler",
-        "Sugar Land, TX",
-        "Oct 20",
-        "https://go.vansh.nyc/cv?s=y"
       ],
       [
         "SOTI",
@@ -20640,6 +20640,13 @@
         "The Aerospace Corporation",
         "Embedded Software Engineer Intern, Multiple Teams",
         "El Segundo, CA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Texas Instruments",
+        "Software Engineer Intern, Compiler",
+        "Sugar Land, TX",
         "Oct 20",
         ""
       ],

@@ -2952,7 +2952,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c3e2d35088a94fb04082124337ee58d4db7d0f2a",
+    "last_sha": "c04410dae28ab1f64eb7da228ea4589469f565b3",
     "rows": [
       [
         "Warp Sciences",
@@ -3100,6 +3100,13 @@
         "Sunnyvale, CA",
         "Nov 17",
         "https://go.vansh.nyc/1BB?s=y"
+      ],
+      [
+        "CACI",
+        "Cybersecurity Intern",
+        "Remote United States Stafford, VA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Cd?s=y"
       ],
       [
         "Bissell",
@@ -4731,13 +4738,6 @@
         "San Francisco, CA",
         "Nov 10",
         "https://go.vansh.nyc/1rx?s=y"
-      ],
-      [
-        "SRC, Inc",
-        "Machine Learning Engineer Intern",
-        "United States",
-        "Nov 10",
-        "https://go.vansh.nyc/1rU?s=y"
       ],
       [
         "Skydio",
@@ -12328,13 +12328,6 @@
         "https://go.vansh.nyc/9f?s=y"
       ],
       [
-        "Kensington",
-        "Analytics Intern",
-        "Toronto, ON",
-        "Oct 14",
-        "https://go.vansh.nyc/9e?s=y"
-      ],
-      [
         "JPMorganChase",
         "AI Research Associate Intern",
         "New York, NY",
@@ -16931,6 +16924,13 @@
         "Enterprise AI",
         "Software Engineering Intern",
         "\ud83d\udd12",
+        ""
+      ],
+      [
+        "SRC, Inc",
+        "Machine Learning Engineer Intern",
+        "United States",
+        "Nov 10",
         ""
       ],
       [
@@ -21669,6 +21669,13 @@
         "Leidos",
         "Performance Enablement AI/ML Intern",
         "Remote United States",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Kensington",
+        "Analytics Intern",
+        "Toronto, ON",
         "Oct 14",
         ""
       ],

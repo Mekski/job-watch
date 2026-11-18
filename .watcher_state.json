@@ -2917,7 +2917,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "de8d089475bdf886691223001fb3a8d62b3d8ce0",
+    "last_sha": "3612b49ba770abe21ae02f2a1240a9b4c160535d",
     "rows": [
       [
         "Viavi Solutions",
@@ -3079,6 +3079,13 @@
         "Redmond, WA",
         "Nov 17",
         "https://go.vansh.nyc/1BR?s=y"
+      ],
+      [
+        "Marvell",
+        "MS AI Infrastructure Engineer Intern",
+        "Santa Clara, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Cp?s=y"
       ],
       [
         "Lumentum",
@@ -4740,13 +4747,6 @@
         "https://go.vansh.nyc/1sI?s=y"
       ],
       [
-        "T-Mobile",
-        "Site Reliability Engineering Intern",
-        "Frisco, TX Atlanta, GA",
-        "Nov 10",
-        "https://go.vansh.nyc/1qv?s=y"
-      ],
-      [
         "Substrate",
         "Systems Software Engineer Intern",
         "San Francisco, CA",
@@ -4829,13 +4829,6 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1v0?s=y"
-      ],
-      [
-        "Panera Bread",
-        "Data Science & AI Analytics Intern",
-        "Newton, MA",
-        "Nov 10",
-        "https://go.vansh.nyc/1vS?s=y"
       ],
       [
         "Palantir Technologies",
@@ -5027,13 +5020,6 @@
         "https://go.vansh.nyc/1qI?s=y"
       ],
       [
-        "Daimler Truck",
-        "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
-        "Detroit, MI",
-        "Nov 10",
-        "https://go.vansh.nyc/1uo?s=y"
-      ],
-      [
         "Cyberix",
         "Cybersecurity Intern",
         "Aurora, CO",
@@ -5207,13 +5193,6 @@
         "Cambridge, MA",
         "Nov 09",
         "https://go.vansh.nyc/1oI?s=y"
-      ],
-      [
-        "T-Mobile",
-        "Software Engineer Intern, T-Ads",
-        "Philadelphia, PA",
-        "Nov 09",
-        "https://go.vansh.nyc/1qz?s=y"
       ],
       [
         "T-Mobile",
@@ -16857,6 +16836,13 @@
         ""
       ],
       [
+        "T-Mobile",
+        "Site Reliability Engineering Intern",
+        "Frisco, TX Atlanta, GA",
+        "Nov 10",
+        ""
+      ],
+      [
         "Stealth Startup",
         "Enterprise AI",
         "Software Engineering Intern",
@@ -16895,6 +16881,13 @@
         "Renesas Electronics",
         "Applications Engineer Intern",
         "Morrisville, NC",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Panera Bread",
+        "Data Science & AI Analytics Intern",
+        "Newton, MA",
         "Nov 10",
         ""
       ],
@@ -17109,6 +17102,13 @@
         ""
       ],
       [
+        "Daimler Truck",
+        "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+        "Detroit, MI",
+        "Nov 10",
+        ""
+      ],
+      [
         "Compeer Financial",
         "Data Analytics Intern \ud83d\udec2",
         "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
@@ -17196,6 +17196,13 @@
         "The New York Times",
         "ML Scientist Intern",
         "New York, NY",
+        "Nov 09",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "Software Engineer Intern, T-Ads",
+        "Philadelphia, PA",
         "Nov 09",
         ""
       ],

@@ -2882,7 +2882,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "149ebe1e73ccd3643e93f7a26b3076635fa8e6ed",
+    "last_sha": "318a301577c8e47b5732acccbadfad999145a77e",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -2941,11 +2941,25 @@
         "https://go.vansh.nyc/1Cn?s=y"
       ],
       [
+        "Qualcomm",
+        "GPU Compiler Development Intern, HW",
+        "Markham, Canada",
+        "Nov 18",
+        "https://go.vansh.nyc/1Cy?s=y"
+      ],
+      [
         "Microsoft",
         "Research Intern, Computer Vision and Deep Learning",
         "Redmond, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Cv?s=y"
+      ],
+      [
+        "Camping World",
+        "Junior AI Engineering Intern",
+        "Chicago, IL",
+        "Nov 18",
+        "https://go.vansh.nyc/1CA?s=y"
       ],
       [
         "Bristol Myers Squibb",
@@ -3583,13 +3597,6 @@
         "Irvine, CA",
         "Nov 13",
         "https://go.vansh.nyc/1yN?s=y"
-      ],
-      [
-        "SAS",
-        "Software Developer Intern, Go/Golang",
-        "Cary, NC",
-        "Nov 13",
-        "https://go.vansh.nyc/1zC?s=y"
       ],
       [
         "Samsung Semiconductor",
@@ -9130,13 +9137,6 @@
       ],
       [
         "SeatGeek",
-        "Data Analyst - Internship",
-        "New York, NY",
-        "Oct 28",
-        "https://go.vansh.nyc/1tO?s=y"
-      ],
-      [
-        "SeatGeek",
         "Software Engineer Intern",
         "New York, NY",
         "Oct 28",
@@ -10347,6 +10347,13 @@
         "https://go.vansh.nyc/Qj?s=y"
       ],
       [
+        "Epic Games",
+        "Tools Programmer Intern, Graphics",
+        "Cary, NC",
+        "Oct 23",
+        "https://go.vansh.nyc/1Cz?s=y"
+      ],
+      [
         "Delta Dental Of Missouri",
         "Data Science Intern",
         "Fenton, MO",
@@ -10709,20 +10716,6 @@
         "Tampa, FL",
         "Oct 22",
         "https://go.vansh.nyc/hs?s=y"
-      ],
-      [
-        "Citi",
-        "Technology Analyst Intern, Application Development",
-        "Jacksonville, FL",
-        "Oct 22",
-        "https://go.vansh.nyc/ht?s=y"
-      ],
-      [
-        "Citi",
-        "Technology Analyst Intern, Application Development",
-        "Mississauga, Canada",
-        "Oct 22",
-        "https://go.vansh.nyc/hu?s=y"
       ],
       [
         "Citi",
@@ -16668,6 +16661,13 @@
         ""
       ],
       [
+        "SAS",
+        "Software Developer Intern, Go/Golang",
+        "Cary, NC",
+        "Nov 13",
+        ""
+      ],
+      [
         "FieldPulse",
         "AI Intern",
         "Dallas, TX",
@@ -19196,6 +19196,13 @@
       ],
       [
         "SeatGeek",
+        "Data Analyst - Internship",
+        "New York, NY",
+        "Oct 28",
+        ""
+      ],
+      [
+        "SeatGeek",
         "Security Engineer Intern",
         "New York, NY",
         "Oct 28",
@@ -20318,6 +20325,20 @@
         "Copart",
         "QA Engineer Intern",
         "Dallas, TX",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Citi",
+        "Technology Analyst Intern, Application Development",
+        "Jacksonville, FL",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Citi",
+        "Technology Analyst Intern, Application Development",
+        "Mississauga, Canada",
         "Oct 22",
         ""
       ],

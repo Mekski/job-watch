@@ -2896,7 +2896,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "83c79fd27fa894a37c9e4603cbd71c656583798c",
+    "last_sha": "e35692dbea14386bc85ba8ddba0f0373e4db6e48",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -2967,6 +2967,20 @@
         "Redmond, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Cv?s=y"
+      ],
+      [
+        "HERE Technologies",
+        "Data Science Intern",
+        "Chicago, IL",
+        "Nov 18",
+        "https://go.vansh.nyc/1CB?s=y"
+      ],
+      [
+        "HERE Technologies",
+        "Software Engineer Intern",
+        "Chicago, IL",
+        "Nov 18",
+        "https://go.vansh.nyc/1CC?s=y"
       ],
       [
         "Camping World",
@@ -9703,13 +9717,6 @@
         "https://go.vansh.nyc/WU?s=y"
       ],
       [
-        "LinkedIn",
-        "Software Engineer Intern, First Play",
-        "Mountain View, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Y5?s=y"
-      ],
-      [
         "Leidos",
         "Data Engineer Intern \ud83c\uddfa\ud83c\uddf8",
         "Fort Belvoir, VA",
@@ -14419,13 +14426,6 @@
         "Idaho Falls, ID",
         "Sep 21",
         "https://go.vansh.nyc/1jY?s=y"
-      ],
-      [
-        "GuideStone",
-        "Software Developer Intern, Software Development",
-        "Dallas, TX",
-        "Sep 21",
-        "https://go.vansh.nyc/J6?s=y"
       ],
       [
         "Epic Games",
@@ -19615,6 +19615,13 @@
         ""
       ],
       [
+        "LinkedIn",
+        "Software Engineer Intern, First Play",
+        "Mountain View, CA",
+        "Oct 27",
+        ""
+      ],
+      [
         "Kudu Dynamics",
         "Cybersecurity Intern \ud83c\uddfa\ud83c\uddf8",
         "Arlington, VA Washington, DC Camp Springs, MD",
@@ -22628,6 +22635,13 @@
         "Qorvo",
         "Digital Systems Engineer Intern",
         "Greensboro, NC",
+        "Sep 21",
+        ""
+      ],
+      [
+        "GuideStone",
+        "Software Developer Intern, Software Development",
+        "Dallas, TX",
         "Sep 21",
         ""
       ],

@@ -2896,7 +2896,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "518f70b0514c8a1afd7194b3f684e34acc31f420",
+    "last_sha": "811e378779e4080027f8cfe2518fc2be4dca8fbb",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -9430,13 +9430,6 @@
         "https://go.vansh.nyc/ZF?s=y"
       ],
       [
-        "CrowdStrike",
-        "Overwatch Intern, Research",
-        "Arlington, VA Austin, TX",
-        "Oct 28",
-        "https://go.vansh.nyc/XD?s=y"
-      ],
-      [
         "Costco",
         "CDS Intern, OT/IoT Security Engineering",
         "Wa, WA",
@@ -9696,13 +9689,6 @@
         "https://go.vansh.nyc/XX?s=y"
       ],
       [
-        "Micron Technology",
-        "Product Yield Software Engineer Intern",
-        "Boise, ID",
-        "Oct 27",
-        "https://go.vansh.nyc/VP?s=y"
-      ],
-      [
         "Mercor",
         "Research Engineer Intern, Benchmarking",
         "San Francisco, CA",
@@ -9715,13 +9701,6 @@
         "San Francisco, CA",
         "Oct 27",
         "https://go.vansh.nyc/WU?s=y"
-      ],
-      [
-        "Leidos",
-        "Data Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Fort Belvoir, VA",
-        "Oct 27",
-        "https://go.vansh.nyc/Y4?s=y"
       ],
       [
         "Keysight Technologies",
@@ -19328,6 +19307,13 @@
         ""
       ],
       [
+        "CrowdStrike",
+        "Overwatch Intern, Research",
+        "Arlington, VA Austin, TX",
+        "Oct 28",
+        ""
+      ],
+      [
         "Clean Harbors",
         "Software & Field Technology Intern",
         "Deer Park, TX",
@@ -19595,6 +19581,13 @@
       ],
       [
         "Micron Technology",
+        "Product Yield Software Engineer Intern",
+        "Boise, ID",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Micron Technology",
         "HBM Data Scientist Intern",
         "Richardson, TX",
         "Oct 27",
@@ -19618,6 +19611,13 @@
         "LinkedIn",
         "Software Engineer Intern, First Play",
         "Mountain View, CA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Leidos",
+        "Data Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Fort Belvoir, VA",
         "Oct 27",
         ""
       ],

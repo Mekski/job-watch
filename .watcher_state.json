@@ -2812,7 +2812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8f67b4a993e98d17b2ca990afbdc239b4a61e4b9",
+    "last_sha": "989728611085b43679a7674d5b312dd56b2f0a6e",
     "rows": [
       [
         "Scout Space",
@@ -15450,13 +15450,6 @@
         "https://go.vansh.nyc/Ov?s=y"
       ],
       [
-        "AQR Capital Management",
-        "Arbitrage Research Analyst Intern, Arbitrage",
-        "Greenwich, CT",
-        "Aug 25",
-        "https://go.vansh.nyc/Qr?s=y"
-      ],
-      [
         "Garmin",
         "Software Engineer Intern",
         "Olathe, KS",
@@ -16120,13 +16113,6 @@
         "New York, NY",
         "Jul 24",
         "https://go.vansh.nyc/45?s=y"
-      ],
-      [
-        "Jane Street",
-        "Hardware Engineer (FPGA/ASIC) Intern",
-        "New York, NY",
-        "Jul 24",
-        "https://go.vansh.nyc/44?s=y"
       ],
       [
         "Jane Street",
@@ -23136,6 +23122,13 @@
         ""
       ],
       [
+        "AQR Capital Management",
+        "Arbitrage Research Analyst Intern, Arbitrage",
+        "Greenwich, CT",
+        "Aug 25",
+        ""
+      ],
+      [
         "MSA Safety",
         "Software Engineer Intern, Product Development",
         "Cranberry Township, PA",
@@ -23580,6 +23573,13 @@
         "Schweitzer Engineering Laboratories",
         "Software Engineer Intern",
         "Boise, ID",
+        "Jul 24",
+        ""
+      ],
+      [
+        "Jane Street",
+        "Hardware Engineer (FPGA/ASIC) Intern",
+        "New York, NY",
         "Jul 24",
         ""
       ],

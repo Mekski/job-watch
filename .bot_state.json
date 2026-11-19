@@ -18240,7 +18240,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 3274,
+      "message_id": 7580,
       "chat_id": 8743352944
     },
     "849b40b805a0": {
@@ -51021,6 +51021,36 @@
       "apply_url": "https://go.vansh.nyc/1Cz?s=y",
       "source": "Vansh Repo",
       "message_id": 7576,
+      "chat_id": 8743352944
+    },
+    "10a1255d9007": {
+      "company": "Goldman Sachs",
+      "role": "Summer Analyst Intern - Multiple Teams",
+      "location": "Albany, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://higher.gs.com/roles/189373?type=students&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7577,
+      "chat_id": 8743352944
+    },
+    "15b8a18f4107": {
+      "company": "\ud83d\udd25 Roblox",
+      "role": "Software Engineer Intern - Engine",
+      "location": "Vancouver, BC, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7578,
+      "chat_id": 8743352944
+    },
+    "70d574f5de35": {
+      "company": "Anduril",
+      "role": "Business Systems Engineer Intern",
+      "location": "Costa Mesa, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7579,
       "chat_id": 8743352944
     }
   },

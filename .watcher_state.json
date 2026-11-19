@@ -2798,7 +2798,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "03e8f87d2a9d339e236beb2ff45ecdf9e58d18ed",
+    "last_sha": "3a60c18d4a6f1aff8bcc729c8038d58ad1310c3b",
     "rows": [
       [
         "Scout Space",
@@ -2815,11 +2815,25 @@
         "https://go.vansh.nyc/1CN?s=y"
       ],
       [
+        "DocuSign",
+        "Product Data Science Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1D2?s=y"
+      ],
+      [
         "Amperity",
         "Software Development Engineer Intern",
         "Seattle, WA",
         "Nov 19",
         "https://go.vansh.nyc/1CY?s=y"
+      ],
+      [
+        "Allied Consultants",
+        "AI/ML Engineer Intern",
+        "Austin, TX",
+        "Nov 19",
+        "https://go.vansh.nyc/1D1?s=y"
       ],
       [
         "Workstream",
@@ -12615,13 +12629,6 @@
         "https://go.vansh.nyc/86?s=y"
       ],
       [
-        "Bosch",
-        "ERP/IT Intern",
-        "Lincolnshire, IL",
-        "Oct 12",
-        "https://go.vansh.nyc/87?s=y"
-      ],
-      [
         "Realty Income",
         "Technology Intern",
         "San Diego, CA",
@@ -21900,6 +21907,13 @@
         "CapTech Consulting",
         "Consulting Software Engineer Intern",
         "Richmond, VA",
+        "Oct 12",
+        ""
+      ],
+      [
+        "Bosch",
+        "ERP/IT Intern",
+        "Lincolnshire, IL",
         "Oct 12",
         ""
       ],

@@ -2889,7 +2889,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "811e378779e4080027f8cfe2518fc2be4dca8fbb",
+    "last_sha": "f98ff333876438d47f303d2bd63beafd4364b546",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -8833,13 +8833,6 @@
         "New York, NY",
         "Oct 30",
         "https://go.vansh.nyc/12z?s=y"
-      ],
-      [
-        "Altera",
-        "FPGA Development Tools Intern",
-        "Toronto, Canada",
-        "Oct 30",
-        "https://go.vansh.nyc/10V?s=y"
       ],
       [
         "ADT",
@@ -19009,6 +19002,13 @@
         "Arista Networks",
         "Software Engineer Intern, C/C++",
         "Remote United States",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Altera",
+        "FPGA Development Tools Intern",
+        "Toronto, Canada",
         "Oct 30",
         ""
       ],

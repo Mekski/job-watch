@@ -2861,7 +2861,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c303f2494760177cc29ce89473326c3bfd614fb4",
+    "last_sha": "deca193b41630d0dca7819eb2f34c291b673ab9f",
     "rows": [
       [
         "Workstream",
@@ -13812,13 +13812,6 @@
         "https://go.vansh.nyc/Vj?s=y"
       ],
       [
-        "Procter & Gamble (P&G)",
-        "IT Security Intern",
-        "Cincinnati, OH",
-        "Sep 30",
-        "https://go.vansh.nyc/OT?s=y"
-      ],
-      [
         "Oceaneering",
         "IT/OT Cybersecurity Intern",
         "Houston, TX",
@@ -14671,13 +14664,6 @@
         "Los Angeles, CA",
         "Sep 15",
         "https://go.vansh.nyc/17A?s=y"
-      ],
-      [
-        "Analog Devices",
-        "Information Technology Intern",
-        "Wilmington, MA Camas, WA",
-        "Sep 15",
-        "https://go.vansh.nyc/Q2?s=y"
       ],
       [
         "AfterQuery",
@@ -22401,6 +22387,13 @@
         ""
       ],
       [
+        "Procter & Gamble (P&G)",
+        "IT Security Intern",
+        "Cincinnati, OH",
+        "Sep 30",
+        ""
+      ],
+      [
         "Micron Technology",
         "DRAM Architecture Intern",
         "San Jose, CA Boise, ID",
@@ -22740,6 +22733,13 @@
         "Antares",
         "Reactor Software Engineering Intern",
         "Los Angeles, CA",
+        "Sep 15",
+        ""
+      ],
+      [
+        "Analog Devices",
+        "Information Technology Intern",
+        "Wilmington, MA Camas, WA",
         "Sep 15",
         ""
       ],

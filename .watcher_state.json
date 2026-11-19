@@ -2889,7 +2889,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0b06147e4e964b0fd4b711add880fbe475b2f928",
+    "last_sha": "16769a63c02bebeb6d04122b7ebc11ffa4e1db55",
     "rows": [
       [
         "Workstream",
@@ -3555,13 +3555,6 @@
         "Boise, ID",
         "Nov 15",
         "https://go.vansh.nyc/1Ap?s=y"
-      ],
-      [
-        "Idaho National Laboratory",
-        "Cybersecurity Operations Intern",
-        "Idaho Falls, ID",
-        "Nov 15",
-        "https://go.vansh.nyc/1Am?s=y"
       ],
       [
         "Carnival Corporation",
@@ -4486,13 +4479,6 @@
         "United States",
         "Nov 11",
         "https://go.vansh.nyc/1x6?s=y"
-      ],
-      [
-        "Idaho National Laboratory",
-        "Cybersecurity Vulnerability Assessment Intern",
-        "Idaho Falls, ID",
-        "Nov 11",
-        "https://go.vansh.nyc/1xM?s=y"
       ],
       [
         "HUB International",
@@ -16640,6 +16626,13 @@
         ""
       ],
       [
+        "Idaho National Laboratory",
+        "Cybersecurity Operations Intern",
+        "Idaho Falls, ID",
+        "Nov 15",
+        ""
+      ],
+      [
         "Eight Sleep",
         "Firmware Intern",
         "**4 locations**San Francisco, CA New York, NY Washington, DC Austin, TX",
@@ -16748,6 +16741,13 @@
         "McDonald's",
         "Global Tech Infrastructure & Operations Intern",
         "Chicago, IL",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Idaho National Laboratory",
+        "Cybersecurity Vulnerability Assessment Intern",
+        "Idaho Falls, ID",
         "Nov 11",
         ""
       ],

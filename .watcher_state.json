@@ -2791,7 +2791,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "c7e166d499a1a9631b9457c1e4cc2da43f10cea3",
+    "last_sha": "9bf4d4a6a051732e5cf826b33dadafd7ee0e9c9c",
     "rows": [
       [
         "Scout Space",
@@ -2899,6 +2899,13 @@
         "https://go.vansh.nyc/1Dn?s=y"
       ],
       [
+        "HeartFlow",
+        "Platform Engineering Intern",
+        "San Francisco, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Ds?s=y"
+      ],
+      [
         "Garmin",
         "Software Engineering Intern",
         "Manhattan, KS",
@@ -2946,6 +2953,27 @@
         "Bothell, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Ci?s=y"
+      ],
+      [
+        "Snowflake",
+        "Software Engineer Intern, Database Engineering",
+        "Menlo Park, CA Bellevue, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Dp?s=y"
+      ],
+      [
+        "Snowflake",
+        "Software Engineer Intern, Core Infrastructure & Security",
+        "Menlo Park, CA Bellevue, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Dq?s=y"
+      ],
+      [
+        "Snowflake",
+        "Software Engineer Intern, AI/ML",
+        "Menlo Park, CA Bellevue, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Dr?s=y"
       ],
       [
         "Scout Space",
@@ -4472,13 +4500,6 @@
         "Boston, MA",
         "Nov 11",
         "https://go.vansh.nyc/1vf?s=y"
-      ],
-      [
-        "Kudu Dynamics",
-        "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
-        "Tucson, AZ",
-        "Nov 11",
-        "https://go.vansh.nyc/1xK?s=y"
       ],
       [
         "Koniag Cyber Solutions",
@@ -9899,13 +9920,6 @@
         "https://go.vansh.nyc/SO?s=y"
       ],
       [
-        "Trinity Life Sciences",
-        "Data Science Intern",
-        "Waltham, MA New York, NY",
-        "Oct 26",
-        "https://go.vansh.nyc/1wF?s=y"
-      ],
-      [
         "Toyota Research Institute",
         "Robotics Intern, Trustworthy Learning under Uncertainty",
         "Los Altos, CA",
@@ -14855,13 +14869,6 @@
         "https://go.vansh.nyc/MS?s=y"
       ],
       [
-        "Compeer Financial",
-        "Infrastructure Engineering Intern \ud83d\udec2",
-        "Lakeville, MN",
-        "Sep 11",
-        "https://go.vansh.nyc/Nd?s=y"
-      ],
-      [
         "Baidu USA",
         "Forward Deployed Engineer Intern",
         "Mountain View, CA",
@@ -16727,6 +16734,13 @@
         "McDonald's",
         "Global Tech Infrastructure & Operations Intern",
         "Chicago, IL",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Kudu Dynamics",
+        "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
+        "Tucson, AZ",
         "Nov 11",
         ""
       ],
@@ -19751,6 +19765,13 @@
         "Visa",
         "Network and Security Engineering Intern \ud83d\udec2",
         "Denver, CO",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Trinity Life Sciences",
+        "Data Science Intern",
+        "Waltham, MA New York, NY",
         "Oct 26",
         ""
       ],
@@ -22853,6 +22874,13 @@
         "AI Security Engineer Intern",
         "San Francisco, CA",
         "Sep 12",
+        ""
+      ],
+      [
+        "Compeer Financial",
+        "Infrastructure Engineering Intern \ud83d\udec2",
+        "Lakeville, MN",
+        "Sep 11",
         ""
       ],
       [

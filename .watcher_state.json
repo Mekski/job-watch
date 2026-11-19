@@ -2805,7 +2805,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "019aaebce3f6f044436b3816a98843c3f144ecaa",
+    "last_sha": "cf26ccea1b8249c80b8adb9bc76b8fa42c93b052",
     "rows": [
       [
         "Scout Space",
@@ -2820,6 +2820,13 @@
         "Manhattan, KS",
         "Nov 19",
         "https://go.vansh.nyc/1CN?s=y"
+      ],
+      [
+        "Amperity",
+        "Software Development Engineer Intern",
+        "Seattle, WA",
+        "Nov 19",
+        "https://go.vansh.nyc/1CY?s=y"
       ],
       [
         "Workstream",
@@ -2899,6 +2906,13 @@
         "https://go.vansh.nyc/1Cn?s=y"
       ],
       [
+        "Ralliant",
+        "Software Engineering Intern",
+        "Beaverton, OR",
+        "Nov 18",
+        "https://go.vansh.nyc/1CW?s=y"
+      ],
+      [
         "Qualcomm",
         "GPU Compiler Development Intern, HW",
         "Markham, Canada",
@@ -2946,6 +2960,13 @@
         "Chicago, IL",
         "Nov 18",
         "https://go.vansh.nyc/1CC?s=y"
+      ],
+      [
+        "Carnival Corporation",
+        "BI Report Developer Intern, Crew Operations",
+        "Seattle, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1CV?s=y"
       ],
       [
         "Camping World",
@@ -10464,13 +10485,6 @@
         "Burlingame, CA",
         "Oct 22",
         "https://go.vansh.nyc/1n3?s=y"
-      ],
-      [
-        "Quadric",
-        "Deep Learning Compiler Intern",
-        "Burlingame, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/1n4?s=y"
       ],
       [
         "Palantir",
@@ -20143,6 +20157,13 @@
         "Renesas Electronics",
         "Memory Server System Testing Intern",
         "San Jose, CA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Quadric",
+        "Deep Learning Compiler Intern",
+        "Burlingame, CA",
         "Oct 22",
         ""
       ],

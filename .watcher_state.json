@@ -2812,7 +2812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "989728611085b43679a7674d5b312dd56b2f0a6e",
+    "last_sha": "019aaebce3f6f044436b3816a98843c3f144ecaa",
     "rows": [
       [
         "Scout Space",
@@ -2855,6 +2855,13 @@
         "Greensboro, NC",
         "Nov 18",
         "https://go.vansh.nyc/1Co?s=y"
+      ],
+      [
+        "Scout Space",
+        "Embedded Firmware Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Reston, VA Remote United States",
+        "Nov 18",
+        "https://go.vansh.nyc/1CU?s=y"
       ],
       [
         "Scotiabank",
@@ -7223,20 +7230,6 @@
         "Holyoke, MA",
         "Nov 02",
         "https://go.vansh.nyc/1xG?s=y"
-      ],
-      [
-        "Intuitive",
-        "AI/ML Engineer Intern",
-        "Sunnyvale, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/19B?s=y"
-      ],
-      [
-        "Intuitive",
-        "Data Science Intern",
-        "Sunnyvale, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/19w?s=y"
       ],
       [
         "Inmar Intelligence",
@@ -14967,13 +14960,6 @@
         "https://go.vansh.nyc/QE?s=y"
       ],
       [
-        "Motorola",
-        "FPGA Design Engineering Intern",
-        "Schaumburg, IL",
-        "Sep 08",
-        "https://go.vansh.nyc/Mq?s=y"
-      ],
-      [
         "M3USA",
         "AI Engineering Intern",
         "Remote United States",
@@ -18372,6 +18358,20 @@
         "JM Family Enterprises",
         "Offensive Security Intern",
         "Deerfield Beach, FL",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Intuitive",
+        "Data Science Intern",
+        "Sunnyvale, CA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Intuitive",
+        "AI/ML Engineer Intern",
+        "Sunnyvale, CA",
         "Nov 02",
         ""
       ],
@@ -22839,6 +22839,13 @@
         "Software Engineering Intern",
         "Sherman Oaks, CA Portland, OR Santa Monica, CA",
         "Sep 09",
+        ""
+      ],
+      [
+        "Motorola",
+        "FPGA Design Engineering Intern",
+        "Schaumburg, IL",
+        "Sep 08",
         ""
       ],
       [

@@ -2791,7 +2791,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "83efc27935de6f464ee199951d6a1b8fb0c80121",
+    "last_sha": "e9c8bbca46824a3d1182a8266fc816807a5b659e",
     "rows": [
       [
         "Scout Space",
@@ -2806,6 +2806,97 @@
         "Minneapolis, MN",
         "Nov 19",
         "https://go.vansh.nyc/1D8?s=y"
+      ],
+      [
+        "Lutron",
+        "Embedded Firmware Engineering Intern",
+        "Boston, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Db?s=y"
+      ],
+      [
+        "Lutron",
+        "Embedded Firmware Engineering Intern",
+        "Austin, TX",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dc?s=y"
+      ],
+      [
+        "Lutron",
+        "Embedded Firmware Engineering Intern",
+        "Boynton Beach, FL",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dd?s=y"
+      ],
+      [
+        "Lutron",
+        "Embedded Software Engineering Intern",
+        "Cincinnati, OH",
+        "Nov 19",
+        "https://go.vansh.nyc/1De?s=y"
+      ],
+      [
+        "Lutron",
+        "Software Engineering Intern",
+        "Coopersburg, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Df?s=y"
+      ],
+      [
+        "Lutron",
+        "Software Engineering Intern",
+        "Philadelphia, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dg?s=y"
+      ],
+      [
+        "Lutron",
+        "Software Engineering Intern",
+        "Boston, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dh?s=y"
+      ],
+      [
+        "Lutron",
+        "Software Engineering Intern",
+        "Austin, TX",
+        "Nov 19",
+        "https://go.vansh.nyc/1Di?s=y"
+      ],
+      [
+        "Lutron",
+        "Software Engineering Intern",
+        "Cincinnati, OH",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dj?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Engineering Intern",
+        "Philadelphia, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dk?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Science and Machine Learning Intern",
+        "Philadelphia, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dl?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Engineering Intern",
+        "Coopersburg, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dm?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Science and Machine Learning Intern",
+        "Boston, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dn?s=y"
       ],
       [
         "Garmin",
@@ -2855,13 +2946,6 @@
         "Bothell, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Ci?s=y"
-      ],
-      [
-        "Syngenta Group",
-        "Data Science Intern",
-        "Greensboro, NC",
-        "Nov 18",
-        "https://go.vansh.nyc/1Co?s=y"
       ],
       [
         "Scout Space",
@@ -3065,13 +3149,6 @@
         "Arlington, VA",
         "Nov 17",
         "https://go.vansh.nyc/1Bb?s=y"
-      ],
-      [
-        "S&P Global",
-        "Machine Learning Engineer Intern",
-        "Cambridge, MA New York, NY",
-        "Nov 17",
-        "https://go.vansh.nyc/1C7?s=y"
       ],
       [
         "Qualcomm",
@@ -16479,9 +16556,23 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Syngenta Group",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "Nov 18",
+        ""
+      ],
+      [
         "Soros Fund Management",
         "Quantitative Strategist Intern",
         "New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
+        "S&P Global",
+        "Machine Learning Engineer Intern",
+        "Cambridge, MA New York, NY",
         "Nov 17",
         ""
       ],

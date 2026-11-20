@@ -2791,7 +2791,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "163c61e0e42f524d79e280d1c8eec50feca55a79",
+    "last_sha": "010a20d257082b41f9ac6ef4bbf25d75f50d619a",
     "rows": [
       [
         "Wurl",
@@ -4283,13 +4283,6 @@
         "Norfolk, VA",
         "Nov 13",
         "https://go.vansh.nyc/1yE?s=y"
-      ],
-      [
-        "IDEMIA North America",
-        "Full Stack Software Engineering Intern",
-        "Eden Prairie, MN",
-        "Nov 13",
-        "https://go.vansh.nyc/1z9?s=y"
       ],
       [
         "Horizon3.ai",
@@ -11145,13 +11138,6 @@
         "https://go.vansh.nyc/dm?s=y"
       ],
       [
-        "SDSU Research Foundation",
-        "Computer Science Intern",
-        "San Diego, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/1mZ?s=y"
-      ],
-      [
         "Safran",
         "Software Engineering Intern",
         "Bedford, NH",
@@ -11486,13 +11472,6 @@
         "Sunnyvale, CA",
         "Oct 20",
         "https://go.vansh.nyc/cQ?s=y"
-      ],
-      [
-        "IDEMIA North America",
-        "Cloud Software Engineering Intern",
-        "Reston, VA",
-        "Oct 20",
-        "https://go.vansh.nyc/gr?s=y"
       ],
       [
         "GlobalFoundries",
@@ -16878,6 +16857,13 @@
         ""
       ],
       [
+        "IDEMIA North America",
+        "Full Stack Software Engineering Intern",
+        "Eden Prairie, MN",
+        "Nov 13",
+        ""
+      ],
+      [
         "FieldPulse",
         "AI Intern",
         "Dallas, TX",
@@ -20938,6 +20924,13 @@
         ""
       ],
       [
+        "SDSU Research Foundation",
+        "Computer Science Intern",
+        "San Diego, CA",
+        "Oct 21",
+        ""
+      ],
+      [
         "RTX",
         "Software Engineer Intern",
         "Aurora, CO",
@@ -21305,6 +21298,13 @@
         "Illumio",
         "Engineering Intern, Product Security",
         "Sunnyvale, CA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "IDEMIA North America",
+        "Cloud Software Engineering Intern",
+        "Reston, VA",
         "Oct 20",
         ""
       ],

@@ -2805,7 +2805,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "010a20d257082b41f9ac6ef4bbf25d75f50d619a",
+    "last_sha": "41702bbc3f26a156ce11b653586c457754e78eb4",
     "rows": [
       [
         "Wurl",
@@ -2834,6 +2834,13 @@
         "Austin, TX",
         "Nov 20",
         "https://go.vansh.nyc/1Ez?s=y"
+      ],
+      [
+        "Southwest Power Pool",
+        "Operations Developer Intern",
+        "Little Rock, AR",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fh?s=y"
       ],
       [
         "Smule",
@@ -2878,6 +2885,20 @@
         "https://go.vansh.nyc/1ET?s=y"
       ],
       [
+        "Ralliant",
+        "Software Design Engineer Intern",
+        "Beaverton, OR",
+        "Nov 20",
+        "https://go.vansh.nyc/1Ff?s=y"
+      ],
+      [
+        "Meridian Credit Union",
+        "Data and Artificial Intelligence Student Intern",
+        "Etobicoke, Canada St. Catharines, Canada",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fg?s=y"
+      ],
+      [
         "Marias Technology",
         "Software Tester Intern",
         "Covington, OH",
@@ -2890,6 +2911,20 @@
         "Newark, CA",
         "Nov 20",
         "https://go.vansh.nyc/1EM?s=y"
+      ],
+      [
+        "John Deere",
+        "Data Analytics Student Intern",
+        "Des Moines, IA Waterloo, IA Moline, IL",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fb?s=y"
+      ],
+      [
+        "Jewelers Mutual Group",
+        "Data Science Intern",
+        "Neenah, WI",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fe?s=y"
       ],
       [
         "Illinois Tool Works",
@@ -2920,11 +2955,32 @@
         "https://go.vansh.nyc/1EA?s=y"
       ],
       [
+        "GCI",
+        "Software Developer Intern",
+        "United States",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fi?s=y"
+      ],
+      [
+        "Garmin",
+        "Software Engineer Intern, Web/Mobile",
+        "Yarmouth, ME",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fa?s=y"
+      ],
+      [
         "DraftKings",
         "Data Engineer Intern",
         "Boston, MA",
         "Nov 20",
         "https://go.vansh.nyc/1Ex?s=y"
+      ],
+      [
+        "Daikin Comfort",
+        "Data Analyst Intern",
+        "Waller, TX",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fc?s=y"
       ],
       [
         "CAS",
@@ -3051,6 +3107,13 @@
         "Redmond, WA Mountain View, CA",
         "Nov 19",
         "https://go.vansh.nyc/1Dx?s=y"
+      ],
+      [
+        "Microchip Technology",
+        "ASIC Verification Engineer Intern",
+        "San Jose, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1F9?s=y"
       ],
       [
         "Marias Technology",
@@ -3688,6 +3751,13 @@
         "Plantation, FL Schaumburg, IL",
         "Nov 17",
         "https://go.vansh.nyc/1Cl?s=y"
+      ],
+      [
+        "Mom's Meals",
+        "Software Quality Assurance (QA) Intern",
+        "Ankeny, IA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Fk?s=y"
       ],
       [
         "Microsoft",
@@ -10263,20 +10333,6 @@
         "https://go.vansh.nyc/SJ?s=y"
       ],
       [
-        "Skydio",
-        "Autonomy Engineer Intern, Simulation & Robotics",
-        "San Mateo, CA",
-        "Oct 26",
-        "https://go.vansh.nyc/Si?s=y"
-      ],
-      [
-        "Skydio",
-        "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
-        "San Mateo, CA",
-        "Oct 26",
-        "https://go.vansh.nyc/Sj?s=y"
-      ],
-      [
         "PTC",
         "Software Engineer Intern",
         "Boston, MA",
@@ -13567,6 +13623,13 @@
         "https://go.vansh.nyc/g4?s=y"
       ],
       [
+        "RosaicLabs",
+        "CPU Architecture & Performance Engineer Intern",
+        "Santa Clara, CA Austin, TX",
+        "Oct 05",
+        "https://go.vansh.nyc/1Fj?s=y"
+      ],
+      [
         "Oceaneering",
         "3D Subsea Simulator Software Intern",
         "Austin, TX",
@@ -14573,13 +14636,6 @@
         "Columbus, OH",
         "Sep 21",
         "https://go.vansh.nyc/1t4?s=y"
-      ],
-      [
-        "Stryker",
-        "Data Analytics Intern",
-        "Fort Wayne, IN",
-        "Sep 21",
-        "https://go.vansh.nyc/J8?s=y"
       ],
       [
         "Propio",
@@ -20196,6 +20252,20 @@
         ""
       ],
       [
+        "Skydio",
+        "Autonomy Engineer Intern, Simulation & Robotics",
+        "San Mateo, CA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Skydio",
+        "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
+        "San Mateo, CA",
+        "Oct 26",
+        ""
+      ],
+      [
         "Sherwin-Williams",
         "R&D Product Systems Intern",
         "Cleveland, OH",
@@ -23202,6 +23272,13 @@
         "The Aerospace Corporation",
         "Software Tools and Assurance Intern, Information Systems and Cyber Division",
         "El Segundo, CA",
+        "Sep 21",
+        ""
+      ],
+      [
+        "Stryker",
+        "Data Analytics Intern",
+        "Fort Wayne, IN",
         "Sep 21",
         ""
       ],

@@ -40190,7 +40190,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7588,
+      "message_id": 7638,
       "chat_id": 8743352944
     },
     "eb2a70df8d9f": {
@@ -50640,7 +50640,7 @@
       "term": "Summer 2027",
       "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7527,
+      "message_id": 7639,
       "chat_id": 8743352944
     },
     "8c257bf25f76": {
@@ -51491,6 +51491,86 @@
       "apply_url": "https://go.vansh.nyc/1Dz?s=y",
       "source": "Vansh Repo",
       "message_id": 7629,
+      "chat_id": 8743352944
+    },
+    "057deb8c1c26": {
+      "company": "Blue Cross Blue Shield of Michigan",
+      "role": "Object Oriented Programming Intern",
+      "location": "Detroit, MI",
+      "term": "Summer 2027",
+      "apply_url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7630,
+      "chat_id": 8743352944
+    },
+    "9e1fcaaf94c3": {
+      "company": "Vertiv",
+      "role": "AI Intern",
+      "location": "Westerville, OH Fort Lauderdale, FL Huntsville, AL",
+      "term": "Summer 2027",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7631,
+      "chat_id": 8743352944
+    },
+    "9ba55206cbdf": {
+      "company": "Vertiv",
+      "role": "AI Intern",
+      "location": "Westerville, OH Fort Lauderdale, FL Huntsville, AL",
+      "term": "Summer 2027",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7632,
+      "chat_id": 8743352944
+    },
+    "e2022670d9b2": {
+      "company": "Deliveroo",
+      "role": "Software Engineer Intern",
+      "location": "London, UK",
+      "term": "Summer 2027",
+      "apply_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7633,
+      "chat_id": 8743352944
+    },
+    "5bb24db31547": {
+      "company": "Amperity",
+      "role": "Software Development Engineer Intern",
+      "location": "Seattle, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://amperity.com/careers?gh_jid=8393990#openpositions&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7634,
+      "chat_id": 8743352944
+    },
+    "63e1ec00a281": {
+      "company": "\ud83d\udd25 Snowflake",
+      "role": "Software Engineer Intern - AI / ML",
+      "location": "Menlo Park, CA Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7635,
+      "chat_id": 8743352944
+    },
+    "6b6ebb241fb7": {
+      "company": "\ud83d\udd25 Snowflake",
+      "role": "Software Engineer Intern - Core - Infrastructure & Security",
+      "location": "Menlo Park, CA Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7636,
+      "chat_id": 8743352944
+    },
+    "9f4391ed6939": {
+      "company": "\ud83d\udd25 Snowflake",
+      "role": "Software Engineer Intern - Database Engineering",
+      "location": "Menlo Park, CA Bellevue, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7637,
       "chat_id": 8743352944
     }
   },

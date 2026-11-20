@@ -2840,7 +2840,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "fee9619b2502b95cdb0754ad976b3bd0f4217cc6",
+    "last_sha": "41f62a25f616d8fbb506c16b51f17bcaabdf1dde",
     "rows": [
       [
         "Wurl",
@@ -2855,6 +2855,13 @@
         "United States",
         "Nov 20",
         "https://go.vansh.nyc/1Ew?s=y"
+      ],
+      [
+        "Symbotic",
+        "Software Engineer Intern, Front-End",
+        "Austin, TX",
+        "Nov 20",
+        "https://go.vansh.nyc/1Ez?s=y"
       ],
       [
         "Smule",
@@ -2890,6 +2897,13 @@
         "Covington, OH",
         "Nov 20",
         "https://go.vansh.nyc/1Ei?s=y"
+      ],
+      [
+        "GlobalFoundries",
+        "AI/ML Analytics Intern, Digital Manufacturing",
+        "New York, NY Malta, NY",
+        "Nov 20",
+        "https://go.vansh.nyc/1EA?s=y"
       ],
       [
         "DraftKings",
@@ -3473,6 +3487,13 @@
         "https://go.vansh.nyc/1CT?s=y"
       ],
       [
+        "KLA",
+        "Software Applications Engineering Intern",
+        "Milpitas, CA",
+        "Nov 18",
+        "https://go.vansh.nyc/1EB?s=y"
+      ],
+      [
         "Idaho National Laboratory",
         "PSION Development Intern",
         "Idaho Falls, ID",
@@ -3555,20 +3576,6 @@
         "Boston, MA",
         "Nov 17",
         "https://go.vansh.nyc/1C1?s=y"
-      ],
-      [
-        "Starwood Capital Group",
-        "Data Intern",
-        "New York, NY",
-        "Nov 17",
-        "https://go.vansh.nyc/1BK?s=y"
-      ],
-      [
-        "Starwood Capital Group",
-        "Agentic Engineering Intern",
-        "New York, NY",
-        "Nov 17",
-        "https://go.vansh.nyc/1BL?s=y"
       ],
       [
         "Sedaro",
@@ -4908,13 +4915,6 @@
         "https://go.vansh.nyc/1x8?s=y"
       ],
       [
-        "Lightmatter",
-        "Laser Firmware Intern",
-        "Boston, MA",
-        "Nov 11",
-        "https://go.vansh.nyc/1vf?s=y"
-      ],
-      [
         "Koniag Cyber Solutions",
         "AI Operations Intern",
         "Minneapolis, MN",
@@ -5004,13 +5004,6 @@
         "Olathe, KS",
         "Nov 11",
         "https://go.vansh.nyc/1xf?s=y"
-      ],
-      [
-        "Farmers Mutual Hail",
-        "AI Intern",
-        "West Des Moines, IA",
-        "Nov 11",
-        "https://go.vansh.nyc/1vq?s=y"
       ],
       [
         "Encore Global",
@@ -14744,13 +14737,6 @@
       ],
       [
         "Epic Games",
-        "Data Science Intern",
-        "Cary, NC",
-        "Sep 21",
-        "https://go.vansh.nyc/1t5?s=y"
-      ],
-      [
-        "Epic Games",
         "Engine Programmer Intern",
         "Cary, NC",
         "Sep 21",
@@ -16920,6 +16906,20 @@
         ""
       ],
       [
+        "Starwood Capital Group",
+        "Data Intern",
+        "New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
+        "Starwood Capital Group",
+        "Agentic Engineering Intern",
+        "New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
         "Soros Fund Management",
         "Quantitative Strategist Intern",
         "New York, NY",
@@ -17088,6 +17088,13 @@
         ""
       ],
       [
+        "Lightmatter",
+        "Laser Firmware Intern",
+        "Boston, MA",
+        "Nov 11",
+        ""
+      ],
+      [
         "Kudu Dynamics",
         "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
         "Tucson, AZ",
@@ -17105,6 +17112,13 @@
         "ICF",
         "Data Analytics Intern",
         "Reston, VA Remote United States",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Farmers Mutual Hail",
+        "AI Intern",
+        "West Des Moines, IA",
         "Nov 11",
         ""
       ],
@@ -23132,6 +23146,13 @@
         "GuideStone",
         "Software Developer Intern, Software Development",
         "Dallas, TX",
+        "Sep 21",
+        ""
+      ],
+      [
+        "Epic Games",
+        "Data Science Intern",
+        "Cary, NC",
         "Sep 21",
         ""
       ],

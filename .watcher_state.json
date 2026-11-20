@@ -2819,7 +2819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "df3ad1bad20e71f98a329266e760342900f29468",
+    "last_sha": "af152a53e121db1df7e8987aee875c5095c326e1",
     "rows": [
       [
         "Wurl",
@@ -2976,6 +2976,13 @@
         "https://go.vansh.nyc/1DV?s=y"
       ],
       [
+        "Sierra Space",
+        "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "**5 locations**Centennial, CO Louisville, CO Durham, NC Madison, WI Broomfield, CO",
+        "Nov 19",
+        "https://go.vansh.nyc/1EY?s=y"
+      ],
+      [
         "Sezzle",
         "A.I. Engineering Intern",
         "Remote United States",
@@ -3009,6 +3016,13 @@
         "Beaverton, OR",
         "Nov 19",
         "https://go.vansh.nyc/1Du?s=y"
+      ],
+      [
+        "PTC",
+        "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+        "Boston, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1EX?s=y"
       ],
       [
         "Pivotal Software",
@@ -6866,20 +6880,6 @@
         "Carmel, IN",
         "Nov 05",
         "https://go.vansh.nyc/1iE?s=y"
-      ],
-      [
-        "GM Financial",
-        "Software Development Engineer Intern",
-        "Arlington, TX",
-        "Nov 05",
-        "https://go.vansh.nyc/1kZ?s=y"
-      ],
-      [
-        "Genesys",
-        "Web Software Developer Intern, WFM",
-        "Toronto, Canada",
-        "Nov 05",
-        "https://go.vansh.nyc/1hJ?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -18001,6 +18001,20 @@
         "Golden Analytics",
         "Software Engineer Intern",
         "Bellevue, WA",
+        "Nov 05",
+        ""
+      ],
+      [
+        "GM Financial",
+        "Software Development Engineer Intern",
+        "Arlington, TX",
+        "Nov 05",
+        ""
+      ],
+      [
+        "Genesys",
+        "Web Software Developer Intern, WFM",
+        "Toronto, Canada",
         "Nov 05",
         ""
       ],

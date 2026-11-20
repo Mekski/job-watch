@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7670,
+      "message_id": 7700,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -52141,6 +52141,16 @@
       "apply_url": "https://go.vansh.nyc/1EB?s=y",
       "source": "Vansh Repo",
       "message_id": 7698,
+      "chat_id": 8743352944
+    },
+    "7c1f2f736464": {
+      "company": "Symbotic",
+      "role": "Software Engineer Intern - Front-End",
+      "location": "Austin, TX",
+      "term": "Summer 2027",
+      "apply_url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7699,
       "chat_id": 8743352944
     }
   },

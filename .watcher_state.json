@@ -2819,7 +2819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9f1406e07caa67ef7d55b215d59dda86c9656ed9",
+    "last_sha": "40ebb311af70c25ae89b971e047bdcfa493e0d41",
     "rows": [
       [
         "Vertiv",
@@ -3086,6 +3086,13 @@
         "San Francisco, CA",
         "Nov 19",
         "https://go.vansh.nyc/1D2?s=y"
+      ],
+      [
+        "Constellation Brands",
+        "Data Science Intern",
+        "Rochester, NY",
+        "Nov 19",
+        "https://go.vansh.nyc/1DX?s=y"
       ],
       [
         "Compassion International",
@@ -6999,13 +7006,6 @@
         "Indianapolis, IN",
         "Nov 03",
         "https://go.vansh.nyc/1fr?s=y"
-      ],
-      [
-        "Simon Property Group",
-        "Data Engineering Intern",
-        "Indianapolis, IN",
-        "Nov 03",
-        "https://go.vansh.nyc/1ft?s=y"
       ],
       [
         "RAVE Aerospace",
@@ -18155,6 +18155,13 @@
         "T-Mobile",
         "Software Engineering Intern",
         "Atlanta, GA",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Simon Property Group",
+        "Data Engineering Intern",
+        "Indianapolis, IN",
         "Nov 03",
         ""
       ],

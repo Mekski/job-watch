@@ -2847,7 +2847,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "2dbe9bf723435d623b012bb7d5aa16df3b01fc08",
+    "last_sha": "3a503a3a1902fc26e16a2c25216ac1309d2c395f",
     "rows": [
       [
         "Wurl",
@@ -2911,6 +2911,13 @@
         "Covington, OH",
         "Nov 20",
         "https://go.vansh.nyc/1Ei?s=y"
+      ],
+      [
+        "Lucid Motors",
+        "AI/ML Intern, Vehicle Infotainment",
+        "Newark, CA",
+        "Nov 20",
+        "https://go.vansh.nyc/1EM?s=y"
       ],
       [
         "Illinois Tool Works",
@@ -9053,20 +9060,6 @@
       ],
       [
         "Intercontinental Exchange",
-        "Data Science Intern",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/12Z?s=y"
-      ],
-      [
-        "Intercontinental Exchange",
-        "Software Engineering Intern",
-        "New York, NY",
-        "Oct 30",
-        "https://go.vansh.nyc/130?s=y"
-      ],
-      [
-        "Intercontinental Exchange",
         "Software Engineering Intern, Java",
         "Jacksonville, FL",
         "Oct 30",
@@ -10709,13 +10702,6 @@
         "Waterloo, IA Cary, NC",
         "Oct 23",
         "https://go.vansh.nyc/1mU?s=y"
-      ],
-      [
-        "Intercontinental Exchange",
-        "Software Engineer Intern",
-        "New York, NY",
-        "Oct 23",
-        "https://go.vansh.nyc/1n6?s=y"
       ],
       [
         "Intercontinental Exchange",
@@ -19350,6 +19336,20 @@
       ],
       [
         "Intercontinental Exchange",
+        "Data Science Intern",
+        "New York, NY",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Intercontinental Exchange",
+        "Software Engineering Intern",
+        "New York, NY",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Intercontinental Exchange",
         "Agentic AI Data Science Intern",
         "Jacksonville, FL",
         "Oct 30",
@@ -20563,6 +20563,13 @@
         "KLA",
         "Software Engineering Intern",
         "Milpitas, CA",
+        "Oct 23",
+        ""
+      ],
+      [
+        "Intercontinental Exchange",
+        "Software Engineer Intern",
+        "New York, NY",
         "Oct 23",
         ""
       ],

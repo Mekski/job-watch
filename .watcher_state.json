@@ -2819,7 +2819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0d8cb5b102cde38eb62be2b4e04458371fcc791a",
+    "last_sha": "c43fbca3972bedae1118187fe79c070860475f8c",
     "rows": [
       [
         "Wurl",
@@ -3261,13 +3261,6 @@
         "Manhattan, KS",
         "Nov 19",
         "https://go.vansh.nyc/1CN?s=y"
-      ],
-      [
-        "Formlabs",
-        "API & Automation Intern",
-        "Somerville, MA",
-        "Nov 19",
-        "https://go.vansh.nyc/1DS?s=y"
       ],
       [
         "Ford Motor Company",
@@ -6161,13 +6154,6 @@
         "https://go.vansh.nyc/1mf?s=y"
       ],
       [
-        "Riverside Research",
-        "Formal Methods Research Intern \ud83c\uddfa\ud83c\uddf8",
-        "Lexington, MA",
-        "Nov 07",
-        "https://go.vansh.nyc/1mh?s=y"
-      ],
-      [
         "Framatome",
         "AI and Software Innovation Intern",
         "Lynchburg, VA",
@@ -8171,13 +8157,6 @@
       ],
       [
         "TikTok",
-        "Machine Learning Engineer Intern, App Ads and Gaming",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/17X?s=y"
-      ],
-      [
-        "TikTok",
         "Machine Learning Engineer Intern, Commerce Ads",
         "San Jose, CA",
         "Nov 01",
@@ -8336,13 +8315,6 @@
         "Seattle, WA",
         "Nov 01",
         "https://go.vansh.nyc/18r?s=y"
-      ],
-      [
-        "TikTok",
-        "AI Software Engineer Project Intern, Transaction Platform",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/18t?s=y"
       ],
       [
         "TikTok",
@@ -16899,6 +16871,13 @@
         "https://go.vansh.nyc/Qu?s=y"
       ],
       [
+        "Formlabs",
+        "API & Automation Intern",
+        "Somerville, MA",
+        "Nov 19",
+        ""
+      ],
+      [
         "Syngenta Group",
         "Data Science Intern",
         "Greensboro, NC",
@@ -17680,6 +17659,13 @@
         "Data Engineer Intern",
         "Irving, TX",
         "Nov 08",
+        ""
+      ],
+      [
+        "Riverside Research",
+        "Formal Methods Research Intern \ud83c\uddfa\ud83c\uddf8",
+        "Lexington, MA",
+        "Nov 07",
         ""
       ],
       [
@@ -19045,6 +19031,20 @@
         "Software Engineering Undergrad Intern \ud83c\uddfa\ud83c\uddf8",
         "El Segundo, CA",
         "Nov 02",
+        ""
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, App Ads and Gaming",
+        "San Jose, CA",
+        "Nov 01",
+        ""
+      ],
+      [
+        "TikTok",
+        "AI Software Engineer Project Intern, Transaction Platform",
+        "San Jose, CA",
+        "Nov 01",
         ""
       ],
       [

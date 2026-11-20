@@ -2854,7 +2854,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "6c54a4beab5a4f849c968e44c2cc8e60f7b88de4",
+    "last_sha": "8e1212408862ff43b6515e59992c3a801acb831c",
     "rows": [
       [
         "Wurl",
@@ -2925,6 +2925,13 @@
         "Waynesboro, MS",
         "Nov 19",
         "https://go.vansh.nyc/1DV?s=y"
+      ],
+      [
+        "Sezzle",
+        "A.I. Engineering Intern",
+        "Remote United States",
+        "Nov 19",
+        "https://go.vansh.nyc/1Es?s=y"
       ],
       [
         "Scout Space",
@@ -7685,20 +7692,6 @@
         "Phoenix, AZ",
         "Nov 02",
         "https://go.vansh.nyc/1dx?s=y"
-      ],
-      [
-        "Johnson & Johnson",
-        "Software Engineering Co-op",
-        "Cincinnati, OH",
-        "Nov 02",
-        "https://go.vansh.nyc/1cA?s=y"
-      ],
-      [
-        "Johnson & Johnson",
-        "Data Science Co-op",
-        "Cincinnati, OH",
-        "Nov 02",
-        "https://go.vansh.nyc/1cB?s=y"
       ],
       [
         "ISO New England",
@@ -18806,6 +18799,20 @@
         "KLA",
         "Digital Twin Eng Apps Intern",
         "Ann Arbor, MI",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Johnson & Johnson",
+        "Software Engineering Co-op",
+        "Cincinnati, OH",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Johnson & Johnson",
+        "Data Science Co-op",
+        "Cincinnati, OH",
         "Nov 02",
         ""
       ],

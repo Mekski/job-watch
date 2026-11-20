@@ -2812,7 +2812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "0a8c5b993df8d1fa6d44f1a09b72b93f545de099",
+    "last_sha": "9bd538e502423b4509db41b9f2159cd018edbab3",
     "rows": [
       [
         "Wurl",
@@ -2869,6 +2869,13 @@
         "Milwaukee, WI",
         "Nov 20",
         "https://go.vansh.nyc/1Ey?s=y"
+      ],
+      [
+        "Rivian",
+        "Software Engineering Intern, AI Platform, Autonomy",
+        "Palo Alto, CA",
+        "Nov 20",
+        "https://go.vansh.nyc/1F3?s=y"
       ],
       [
         "Renesas Electronics",
@@ -3303,6 +3310,13 @@
         "United States",
         "Nov 19",
         "https://go.vansh.nyc/1DA?s=y"
+      ],
+      [
+        "Cisco",
+        "Data Science Analyst II Intern",
+        "San Jose, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1F1?s=y"
       ],
       [
         "Cisco",
@@ -5746,13 +5760,6 @@
         "Charlotte, NC",
         "Nov 09",
         "https://go.vansh.nyc/1oW?s=y"
-      ],
-      [
-        "Ryan",
-        "Application Development Intern",
-        "United States",
-        "Nov 09",
-        "https://go.vansh.nyc/1oM?s=y"
       ],
       [
         "REGENT",
@@ -10954,13 +10961,6 @@
         "Montreal, Canada",
         "Oct 22",
         "https://go.vansh.nyc/hY?s=y"
-      ],
-      [
-        "KLA",
-        "Software Engineer Intern, C++, Linux",
-        "Milpitas, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/ho?s=y"
       ],
       [
         "Insperity",
@@ -17487,6 +17487,13 @@
         ""
       ],
       [
+        "Ryan",
+        "Application Development Intern",
+        "United States",
+        "Nov 09",
+        ""
+      ],
+      [
         "RTX",
         "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
         "Largo, FL",
@@ -20794,6 +20801,13 @@
         "L3Harris Technologies",
         "Software Engineer Intern",
         "Tulsa, OK",
+        "Oct 22",
+        ""
+      ],
+      [
+        "KLA",
+        "Software Engineer Intern, C++, Linux",
+        "Milpitas, CA",
         "Oct 22",
         ""
       ],

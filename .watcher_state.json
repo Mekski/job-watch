@@ -2819,7 +2819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "dd8d7dde45aa11aa170845ac7bfd14541a2d7380",
+    "last_sha": "3b6f25a3058552ddc1a7ea99526e0135dab5a19f",
     "rows": [
       [
         "Wurl",
@@ -3319,13 +3319,6 @@
         "https://go.vansh.nyc/1Eb?s=y"
       ],
       [
-        "Centene Corporation",
-        "Undergraduate Analytics Engineering Intern",
-        "Remote United States",
-        "Nov 19",
-        "https://go.vansh.nyc/1DY?s=y"
-      ],
-      [
         "CAS",
         "Business Data Analytics Intern, AI/ML Focus",
         "Columbus, OH",
@@ -3702,13 +3695,6 @@
         "Redmond, WA",
         "Nov 17",
         "https://go.vansh.nyc/1BR?s=y"
-      ],
-      [
-        "Marvell",
-        "MS AI Infrastructure Engineer Intern",
-        "Santa Clara, CA",
-        "Nov 17",
-        "https://go.vansh.nyc/1Cp?s=y"
       ],
       [
         "Lumentum",
@@ -6581,13 +6567,6 @@
         "https://go.vansh.nyc/1jx?s=y"
       ],
       [
-        "Trilogy Innovations",
-        "Technical Intern \ud83c\uddfa\ud83c\uddf8",
-        "Remote United States",
-        "Nov 05",
-        "https://go.vansh.nyc/1is?s=y"
-      ],
-      [
         "Trajectory",
         "Member of Technical Staff Intern, Research",
         "San Francisco, CA",
@@ -6880,13 +6859,6 @@
         "Carmel, IN",
         "Nov 05",
         "https://go.vansh.nyc/1iE?s=y"
-      ],
-      [
-        "General Dynamics Information Technology",
-        "Cybersecurity Associate Intern \ud83c\uddfa\ud83c\uddf8",
-        "Bossier City, LA",
-        "Nov 05",
-        "https://go.vansh.nyc/1hR?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -10788,20 +10760,6 @@
         "https://go.vansh.nyc/Qi?s=y"
       ],
       [
-        "Aerospace Corporation",
-        "Defensive Cyber Operations Intern \ud83c\uddfa\ud83c\uddf8",
-        "El Segundo, CA",
-        "Oct 23",
-        "https://go.vansh.nyc/h5?s=y"
-      ],
-      [
-        "Westinghouse Electric Company",
-        "Software Engineering Intern",
-        "Warrendale, PA",
-        "Oct 22",
-        "https://go.vansh.nyc/fz?s=y"
-      ],
-      [
         "Western & Southern Financial Group",
         "Enterprise Architecture Information Technology Intern",
         "Cincinnati, OH",
@@ -12697,13 +12655,6 @@
         "Houston, TX",
         "Oct 14",
         "https://go.vansh.nyc/CF?s=y"
-      ],
-      [
-        "Auto-Owners Insurance",
-        "Software Engineer Intern",
-        "Bedford, NH",
-        "Oct 14",
-        "https://go.vansh.nyc/gh?s=y"
       ],
       [
         "Astreya",
@@ -16878,6 +16829,13 @@
         ""
       ],
       [
+        "Centene Corporation",
+        "Undergraduate Analytics Engineering Intern",
+        "Remote United States",
+        "Nov 19",
+        ""
+      ],
+      [
         "Syngenta Group",
         "Data Science Intern",
         "Greensboro, NC",
@@ -16909,6 +16867,13 @@
         "S&P Global",
         "Machine Learning Engineer Intern",
         "Cambridge, MA New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
+        "Marvell",
+        "MS AI Infrastructure Engineer Intern",
+        "Santa Clara, CA",
         "Nov 17",
         ""
       ],
@@ -17872,6 +17837,13 @@
         ""
       ],
       [
+        "Trilogy Innovations",
+        "Technical Intern \ud83c\uddfa\ud83c\uddf8",
+        "Remote United States",
+        "Nov 05",
+        ""
+      ],
+      [
         "T-Mobile",
         "Software Engineering Intern",
         "Overland Park, KS",
@@ -18022,6 +17994,13 @@
         "Genesys",
         "Software Engineering Intern",
         "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
+        "General Dynamics Information Technology",
+        "Cybersecurity Associate Intern \ud83c\uddfa\ud83c\uddf8",
+        "Bossier City, LA",
         "Nov 05",
         ""
       ],
@@ -20644,6 +20623,20 @@
         ""
       ],
       [
+        "Aerospace Corporation",
+        "Defensive Cyber Operations Intern \ud83c\uddfa\ud83c\uddf8",
+        "El Segundo, CA",
+        "Oct 23",
+        ""
+      ],
+      [
+        "Westinghouse Electric Company",
+        "Software Engineering Intern",
+        "Warrendale, PA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Walmart",
         "Automation, Product Manager, Corporate Intern",
         "Lancaster, TX",
@@ -22236,6 +22229,13 @@
         "CACI",
         "Software Engineering Intern",
         "Florham Park, NJ",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Auto-Owners Insurance",
+        "Software Engineer Intern",
+        "Bedford, NH",
         "Oct 14",
         ""
       ],

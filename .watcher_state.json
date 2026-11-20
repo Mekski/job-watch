@@ -2819,7 +2819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "707cbefbd464e25ea1c27385a300ff194dcb3e82",
+    "last_sha": "9f1406e07caa67ef7d55b215d59dda86c9656ed9",
     "rows": [
       [
         "Vertiv",
@@ -2827,6 +2827,13 @@
         "Westerville, OH Fort Lauderdale, FL Huntsville, AL",
         "Nov 19",
         "https://go.vansh.nyc/1DF?s=y"
+      ],
+      [
+        "Southern Mississippi Trading",
+        "AI and Business Analytics Intern",
+        "Waynesboro, MS",
+        "Nov 19",
+        "https://go.vansh.nyc/1DV?s=y"
       ],
       [
         "Scout Space",
@@ -2963,6 +2970,27 @@
       ],
       [
         "Lucid Motors",
+        "Product Security Engineering Intern",
+        "Newark, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1DW?s=y"
+      ],
+      [
+        "Lucid Motors",
+        "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+        "Newark, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1DT?s=y"
+      ],
+      [
+        "Lucid Motors",
+        "Infotainment Software Intern",
+        "Newark, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1DU?s=y"
+      ],
+      [
+        "Lucid Motors",
         "AI & Data Intern, Applied AI/Machine Learning",
         "Newark, CA",
         "Nov 19",
@@ -3030,6 +3058,13 @@
         "Manhattan, KS",
         "Nov 19",
         "https://go.vansh.nyc/1CN?s=y"
+      ],
+      [
+        "Formlabs",
+        "API & Automation Intern",
+        "Somerville, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1DS?s=y"
       ],
       [
         "Ford Motor Company",
@@ -7043,13 +7078,6 @@
         "https://go.vansh.nyc/1h7?s=y"
       ],
       [
-        "Highmark Health",
-        "Vulnerability Management Analyst Undergraduate Intern",
-        "Remote United States",
-        "Nov 03",
-        "https://go.vansh.nyc/1e9?s=y"
-      ],
-      [
         "Hewlett Packard Enterprise",
         "Hardware Engineering Intern",
         "Westford, MA",
@@ -9253,13 +9281,6 @@
         "Rosemont, IL",
         "Oct 29",
         "https://go.vansh.nyc/117?s=y"
-      ],
-      [
-        "L3Harris Technologies",
-        "FPGA Software Tool Developer Co-op",
-        "Waterdown, Canada",
-        "Oct 29",
-        "https://go.vansh.nyc/10n?s=y"
       ],
       [
         "Interco",
@@ -18257,6 +18278,13 @@
         ""
       ],
       [
+        "Highmark Health",
+        "Vulnerability Management Analyst Undergraduate Intern",
+        "Remote United States",
+        "Nov 03",
+        ""
+      ],
+      [
         "GreatAmerica Financial Services",
         "Platform Engineering Intern",
         "Cedar Rapids, IA",
@@ -19282,6 +19310,13 @@
         "Molina Healthcare",
         "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
         "United States",
+        "Oct 29",
+        ""
+      ],
+      [
+        "L3Harris Technologies",
+        "FPGA Software Tool Developer Co-op",
+        "Waterdown, Canada",
         "Oct 29",
         ""
       ],

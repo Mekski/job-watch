@@ -2812,7 +2812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "797269e48c90f3d425f59aac9b00e44b891c8d26",
+    "last_sha": "56ec420abe9dd0726c874edc347dfc8179761bc6",
     "rows": [
       [
         "Vertiv",
@@ -2960,6 +2960,13 @@
         "Boston, MA",
         "Nov 19",
         "https://go.vansh.nyc/1Dn?s=y"
+      ],
+      [
+        "Lucid Motors",
+        "Infotainment SW Validation Automation Intern",
+        "Newark, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1E2?s=y"
       ],
       [
         "Lucid Motors",
@@ -5494,13 +5501,6 @@
         "Philadelphia, PA",
         "Nov 09",
         "https://go.vansh.nyc/1qA?s=y"
-      ],
-      [
-        "Steel Dynamics",
-        "Information Security Intern",
-        "Fort Wayne, IN",
-        "Nov 09",
-        "https://go.vansh.nyc/1pP?s=y"
       ],
       [
         "Scout Motors Inc.",
@@ -17343,6 +17343,13 @@
         "T-Mobile",
         "Software Engineer Intern, T-Ads",
         "Philadelphia, PA",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Steel Dynamics",
+        "Information Security Intern",
+        "Fort Wayne, IN",
         "Nov 09",
         ""
       ],

@@ -14850,7 +14850,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7621,
+      "message_id": 7670,
       "chat_id": 8743352944
     },
     "063225ae4f49": {
@@ -40190,7 +40190,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 7638,
+      "message_id": 7669,
       "chat_id": 8743352944
     },
     "eb2a70df8d9f": {
@@ -51791,6 +51791,76 @@
       "apply_url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 7661,
+      "chat_id": 8743352944
+    },
+    "cd89f32dbf55": {
+      "company": "CAS",
+      "role": "Technology Intern - Databases",
+      "location": "Columbus, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7662,
+      "chat_id": 8743352944
+    },
+    "94c08459b147": {
+      "company": "CAS",
+      "role": "Cheminformatics Scientist Intern",
+      "location": "Columbus, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7663,
+      "chat_id": 8743352944
+    },
+    "d7bcf12fc72a": {
+      "company": "CAS",
+      "role": "Technology Intern - Application Technology",
+      "location": "Columbus, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7664,
+      "chat_id": 8743352944
+    },
+    "bba2da12d6ec": {
+      "company": "CAS",
+      "role": "Technology Intern - Software Engineering",
+      "location": "Columbus, OH",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7665,
+      "chat_id": 8743352944
+    },
+    "d6d546897e6b": {
+      "company": "iA",
+      "role": "Software Development Engineer Intern",
+      "location": "Binghamton, NY",
+      "term": "Summer 2027",
+      "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7666,
+      "chat_id": 8743352944
+    },
+    "a7237862c210": {
+      "company": "Honeywell Aerospace",
+      "role": "Software Engineer Intern",
+      "location": "United States",
+      "term": "Summer 2027",
+      "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7667,
+      "chat_id": 8743352944
+    },
+    "c05bd1299390": {
+      "company": "Honeywell Aerospace",
+      "role": "Software Engineer Intern",
+      "location": "United States",
+      "term": "Summer 2027",
+      "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7668,
       "chat_id": 8743352944
     }
   },

@@ -2812,7 +2812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "9bd538e502423b4509db41b9f2159cd018edbab3",
+    "last_sha": "ed41e251af0c40e2d6bcbd38bb10d6d6c8c76737",
     "rows": [
       [
         "Wurl",
@@ -4936,20 +4936,6 @@
         "https://go.vansh.nyc/1x5?s=y"
       ],
       [
-        "Motorola Solutions",
-        "Embedded SW Engineering Intern \ud83c\uddfa\ud83c\uddf8",
-        "Schaumburg, IL",
-        "Nov 11",
-        "https://go.vansh.nyc/1vC?s=y"
-      ],
-      [
-        "Motorola",
-        "Software Engineering Intern",
-        "Schaumburg, IL",
-        "Nov 11",
-        "https://go.vansh.nyc/1vh?s=y"
-      ],
-      [
         "Medpace",
         "Clinical Informatics Co-op",
         "Cincinnati, OH",
@@ -5053,6 +5039,20 @@
         "Olathe, KS",
         "Nov 11",
         "https://go.vansh.nyc/1xf?s=y"
+      ],
+      [
+        "EP Wealth Advisors",
+        "Data AI Engineering Intern",
+        "Torrance, CA Austin, TX",
+        "Nov 11",
+        "https://go.vansh.nyc/1F4?s=y"
+      ],
+      [
+        "EP Wealth Advisors",
+        "Cybersecurity Intern",
+        "Torrance, CA",
+        "Nov 11",
+        "https://go.vansh.nyc/1F5?s=y"
       ],
       [
         "Encore Global",
@@ -6460,13 +6460,6 @@
         "Tulsa, OK",
         "Nov 06",
         "https://go.vansh.nyc/1lO?s=y"
-      ],
-      [
-        "DocuSign",
-        "Software Engineering Intern, Self-Service Directory Diagnostics \ud83d\udec2",
-        "Seattle, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1kf?s=y"
       ],
       [
         "Deeplocal",
@@ -13952,13 +13945,6 @@
         "https://go.vansh.nyc/Ev?s=y"
       ],
       [
-        "DocuSign",
-        "Software Engineer Intern, Self-Service Directory Diagnostics",
-        "Seattle, WA",
-        "Oct 03",
-        "https://go.vansh.nyc/Ex?s=y"
-      ],
-      [
         "xAI",
         "Software Engineer Co-op",
         "Palo Alto, CA",
@@ -17011,6 +16997,20 @@
         ""
       ],
       [
+        "Motorola Solutions",
+        "Embedded SW Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Schaumburg, IL",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Motorola",
+        "Software Engineering Intern",
+        "Schaumburg, IL",
+        "Nov 11",
+        ""
+      ],
+      [
         "MKS Instruments",
         "Software Engineer Co-op",
         "Andover, MA",
@@ -17784,6 +17784,13 @@
         "Hitachi",
         "Full Stack Developer Intern",
         "Dallas, TX",
+        "Nov 06",
+        ""
+      ],
+      [
+        "DocuSign",
+        "Software Engineering Intern, Self-Service Directory Diagnostics \ud83d\udec2",
+        "Seattle, WA",
         "Nov 06",
         ""
       ],
@@ -22873,6 +22880,13 @@
         "Hewlett Packard Enterprise",
         "VLSI Design Verification Intern",
         "Chippewa Falls, WI",
+        "Oct 03",
+        ""
+      ],
+      [
+        "DocuSign",
+        "Software Engineer Intern, Self-Service Directory Diagnostics",
+        "Seattle, WA",
         "Oct 03",
         ""
       ],

@@ -44980,7 +44980,7 @@
       "term": "Summer 2027",
       "apply_url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6858,
+      "message_id": 7741,
       "chat_id": 8743352944
     },
     "4e7e349bcb0d": {
@@ -52481,6 +52481,66 @@
       "apply_url": "https://go.vansh.nyc/1Fj?s=y",
       "source": "Vansh Repo",
       "message_id": 7734,
+      "chat_id": 8743352944
+    },
+    "ad5fa0ca93df": {
+      "company": "Pason Systems",
+      "role": "Software Developer Intern - Datahub",
+      "location": "Calgary, AB, Canada",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7735,
+      "chat_id": 8743352944
+    },
+    "b51576d111c9": {
+      "company": "EP Wealth Advisors",
+      "role": "Data AI Engineer Intern",
+      "location": "Austin, TX Torrance, CA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7736,
+      "chat_id": 8743352944
+    },
+    "a10b394ee729": {
+      "company": "Werner Electric Supply",
+      "role": "AI Intern",
+      "location": "Appleton, WI",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7737,
+      "chat_id": 8743352944
+    },
+    "81400a8be3f2": {
+      "company": "Mesirow",
+      "role": "Software Developer Intern - IT",
+      "location": "Chicago, IL",
+      "term": "Summer 2027",
+      "apply_url": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7738,
+      "chat_id": 8743352944
+    },
+    "db58b2732d32": {
+      "company": "\ud83d\udd25 ServiceNow",
+      "role": "Security Software Engineer Intern \ud83c\udf93",
+      "location": "Kirkland, WA",
+      "term": "Summer 2027",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7739,
+      "chat_id": 8743352944
+    },
+    "c24481074be0": {
+      "company": "SAS",
+      "role": "Quantum Research & Development Intern \ud83c\udf93",
+      "location": "Cary, NC",
+      "term": "Summer 2027",
+      "apply_url": "https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 7740,
       "chat_id": 8743352944
     }
   },

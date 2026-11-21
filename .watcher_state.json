@@ -2826,7 +2826,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "b5527f2972f4e21c2efd8d61b1cf1f5a7837acff",
+    "last_sha": "a23dc8c926337e1a96df513a10f11b8431d772c5",
     "rows": [
       [
         "Wurl",
@@ -3268,6 +3268,13 @@
         "Palo Alto, CA",
         "Nov 19",
         "https://go.vansh.nyc/1DE?s=y"
+      ],
+      [
+        "Piper Sandler",
+        "Equities Trading Technology Intern",
+        "Greenwich, CT",
+        "Nov 19",
+        "https://go.vansh.nyc/1G3?s=y"
       ],
       [
         "Piper Sandler",
@@ -14204,13 +14211,6 @@
         "https://go.vansh.nyc/1nN?s=y"
       ],
       [
-        "Aurora Innovation",
-        "Embedded Software Engineer Intern, Lidar",
-        "Bozeman, MT",
-        "Oct 01",
-        "https://go.vansh.nyc/1zg?s=y"
-      ],
-      [
         "Amazon",
         "Software Engineer Intern",
         "**4 locations**Seattle, WA Jessup, MD Arlington, VA Denver, CO",
@@ -23230,6 +23230,13 @@
         "Election Systems & Software",
         "Information Systems Software Developer Intern",
         "Omaha, NE",
+        "Oct 01",
+        ""
+      ],
+      [
+        "Aurora Innovation",
+        "Embedded Software Engineer Intern, Lidar",
+        "Bozeman, MT",
         "Oct 01",
         ""
       ],

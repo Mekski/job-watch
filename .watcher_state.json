@@ -2847,7 +2847,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships:README.md": {
-    "last_sha": "8906c84e7d72c32cc0c400f773bdb524d57ce516",
+    "last_sha": "b5527f2972f4e21c2efd8d61b1cf1f5a7837acff",
     "rows": [
       [
         "Wurl",
@@ -3688,6 +3688,13 @@
         "Bothell, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Ci?s=y"
+      ],
+      [
+        "Trimble",
+        "QA Engineer Intern",
+        "Portsmouth, NH",
+        "Nov 18",
+        "https://go.vansh.nyc/1G2?s=y"
       ],
       [
         "Snowflake",
@@ -5027,13 +5034,6 @@
         "https://go.vansh.nyc/1y3?s=y"
       ],
       [
-        "US Internships Public Careers Site",
-        "Undergraduate Frontend Software Engineering Intern",
-        "Los Angeles, CA San Mateo, CA",
-        "Nov 11",
-        "https://go.vansh.nyc/1xb?s=y"
-      ],
-      [
         "The Marzetti Company",
         "IT Analytics Intern",
         "United States",
@@ -5531,20 +5531,6 @@
         "https://go.vansh.nyc/1rA?s=y"
       ],
       [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Engineering Intern",
-        "San Diego, CA",
-        "Nov 10",
-        "https://go.vansh.nyc/1x1?s=y"
-      ],
-      [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Engineering Intern",
-        "Aliso Viejo, CA",
-        "Nov 10",
-        "https://go.vansh.nyc/1x2?s=y"
-      ],
-      [
         "Uplimit",
         "Software Engineer Intern",
         "United States",
@@ -5977,13 +5963,6 @@
         "Lenexa, KS",
         "Nov 09",
         "https://go.vansh.nyc/1oU?s=y"
-      ],
-      [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Engineering Intern, Compilers",
-        "San Mateo, CA",
-        "Nov 09",
-        "https://go.vansh.nyc/1xH?s=y"
       ],
       [
         "UiPath",
@@ -7666,34 +7645,6 @@
         "https://go.vansh.nyc/1bl?s=y"
       ],
       [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Engineering Intern",
-        "San Mateo, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/1xC?s=y"
-      ],
-      [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Development Engineer in Test Intern",
-        "San Mateo, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/1xD?s=y"
-      ],
-      [
-        "US Internships Public Careers Site",
-        "Undergraduate Software Development Engineer in Test Intern, AI/ML",
-        "San Mateo, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/1xE?s=y"
-      ],
-      [
-        "US Internships Public Careers Site",
-        "Undergraduate Backend Software Engineering Intern",
-        "San Mateo, CA",
-        "Nov 02",
-        "https://go.vansh.nyc/1xF?s=y"
-      ],
-      [
         "Tesla",
         "Software Engineering Intern, People Products",
         "Palo Alto, CA",
@@ -9001,20 +8952,6 @@
         "San Francisco, CA",
         "Oct 31",
         "https://go.vansh.nyc/18R?s=y"
-      ],
-      [
-        "Insomniac Games",
-        "Undergraduate Gameplay Programming Intern",
-        "Burbank, CA Remote United States",
-        "Oct 31",
-        "https://go.vansh.nyc/18P?s=y"
-      ],
-      [
-        "Insomniac Games",
-        "Undergraduate Tech Art Intern",
-        "Burbank, CA",
-        "Oct 31",
-        "https://go.vansh.nyc/18Q?s=y"
       ],
       [
         "IAT Insurance Group",
@@ -17221,6 +17158,13 @@
         ""
       ],
       [
+        "US Internships Public Careers Site",
+        "Undergraduate Frontend Software Engineering Intern",
+        "Los Angeles, CA San Mateo, CA",
+        "Nov 11",
+        ""
+      ],
+      [
         "RTX",
         "Electrical Engineering Intern, Firmware \ud83c\uddfa\ud83c\uddf8",
         "Ft Wayne, IN",
@@ -17329,6 +17273,20 @@
         "Zebra Technologies",
         "Security Intern",
         "Lincolnshire, IL",
+        "Nov 10",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Engineering Intern",
+        "San Diego, CA",
+        "Nov 10",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Engineering Intern",
+        "Aliso Viejo, CA",
         "Nov 10",
         ""
       ],
@@ -17693,6 +17651,13 @@
         "Zoetis",
         "AI Architecture, Enablement & Tools Intern, AI Capabilities",
         "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Engineering Intern, Compilers",
+        "San Mateo, CA",
         "Nov 09",
         ""
       ],
@@ -18866,6 +18831,34 @@
         ""
       ],
       [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Engineering Intern",
+        "San Mateo, CA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Development Engineer in Test Intern",
+        "San Mateo, CA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Development Engineer in Test Intern, AI/ML",
+        "San Mateo, CA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Backend Software Engineering Intern",
+        "San Mateo, CA",
+        "Nov 02",
+        ""
+      ],
+      [
         "The Federal Reserve System",
         "Supervision & Regulation Intern, Cybersecurity \ud83d\udec2",
         "Atlanta, GA",
@@ -19416,6 +19409,20 @@
         "VR Development Intern",
         "Renton, WA",
         "Nov 01",
+        ""
+      ],
+      [
+        "Insomniac Games",
+        "Undergraduate Gameplay Programming Intern",
+        "Burbank, CA Remote United States",
+        "Oct 31",
+        ""
+      ],
+      [
+        "Insomniac Games",
+        "Undergraduate Tech Art Intern",
+        "Burbank, CA",
+        "Oct 31",
         ""
       ],
       [
